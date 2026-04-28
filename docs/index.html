@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oncology Research Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b0f14;
+    --surface: #131920;
+    --surface2: #1a2330;
+    --border: rgba(255,255,255,0.07);
+    --border2: rgba(255,255,255,0.12);
+    --text: #e8edf2;
+    --muted: #8a9ab0;
+    --accent: #3fd4a0;
+    --accent2: #5b9ef0;
+    --accent3: #f0856b;
+    --accent4: #c97ae8;
+    --pill-bg: rgba(63,212,160,0.1);
+    --pill-text: #3fd4a0;
+    --serif: 'DM Serif Display', Georgia, serif;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    background: rgba(11,15,20,0.92);
+    backdrop-filter: blur(12px);
+    z-index: 100;
+  }
+  .header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    gap: 1rem;
+  }
+  .logo {
+    font-family: var(--serif);
+    font-size: 1.35rem;
+    color: var(--text);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+  }
+  .logo-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: pulse 2.5s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+  }
+  .header-meta {
+    font-size: 12px;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.4;
+    flex-shrink: 0;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3.5rem 2rem 2rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 2rem;
+    align-items: end;
+  }
+  .hero h1 {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    line-height: 1.15;
+    font-weight: 400;
+    color: var(--text);
+  }
+  .hero h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+  .hero p {
+    margin-top: 0.75rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+    max-width: 480px;
+    font-weight: 300;
+  }
+
+  /* ── FILTERS ── */
+  .filters-bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2rem 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  .filter-search {
+    flex: 1;
+    min-width: 200px;
+    max-width: 300px;
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    color: var(--text);
+    padding: 7px 12px;
+    font-family: var(--sans);
+    font-size: 13px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .filter-search:focus { border-color: var(--accent); }
+  .filter-search::placeholder { color: var(--muted); }
+  .filter-btn {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 20px;
+    color: var(--muted);
+    padding: 5px 14px;
+    font-size: 12px;
+    font-family: var(--sans);
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--pill-bg);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* ── MAIN GRID ── */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+  }
+
+  /* Featured card */
+  .featured-card {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+  .featured-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .featured-card:hover::before { opacity: 1; }
+  .featured-card:hover {
+    border-color: rgba(63,212,160,0.3);
+    transform: translateY(-2px);
+  }
+  .featured-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+  }
+  .featured-label::before {
+    content: '';
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .featured-title {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    line-height: 1.25;
+    color: var(--text);
+    margin-bottom: 0.75rem;
+    font-weight: 400;
+  }
+  .featured-headline {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 300;
+    margin-bottom: 1.25rem;
+    line-height: 1.5;
+  }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 1.25rem;
+  }
+  .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 500;
+    background: rgba(255,255,255,0.06);
+    color: var(--muted);
+    border: 1px solid var(--border);
+  }
+  .pill.journal { background: rgba(91,158,240,0.12); color: var(--accent2); border-color: rgba(91,158,240,0.2); }
+  .pill.cancer  { background: rgba(240,133,107,0.12); color: var(--accent3); border-color: rgba(240,133,107,0.2); }
+  .pill.ml      { background: rgba(201,122,232,0.12); color: var(--accent4); border-color: rgba(201,122,232,0.2); }
+  .pill.type    { background: rgba(63,212,160,0.08);  color: var(--accent);  border-color: rgba(63,212,160,0.15); }
+  .impact-stars {
+    display: flex; gap: 2px; margin-left: auto;
+  }
+  .star { width: 10px; height: 10px; border-radius: 50%; }
+  .star.on  { background: var(--accent); }
+  .star.off { background: var(--border2); }
+
+  /* Findings preview */
+  .findings-preview {
+    display: flex; flex-direction: column; gap: 0.4rem;
+  }
+  .finding-item {
+    display: flex; align-items: baseline; gap: 0.6rem;
+    font-size: 0.875rem; color: var(--muted);
+  }
+  .finding-item::before {
+    content: '→';
+    color: var(--accent);
+    font-size: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  /* Grid of smaller cards */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+  }
+  .paper-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.15s;
+  }
+  .paper-card:hover {
+    border-color: var(--border2);
+    transform: translateY(-2px);
+  }
+  .paper-card .card-title {
+    font-family: var(--serif);
+    font-size: 1rem;
+    line-height: 1.3;
+    color: var(--text);
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .paper-card .card-headline {
+    font-size: 0.82rem;
+    color: var(--muted);
+    font-weight: 300;
+    line-height: 1.45;
+    margin-bottom: 0.75rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-date {
+    font-size: 11px;
+    color: var(--muted);
+    opacity: 0.7;
+  }
+
+  /* Section heading */
+  .section-heading {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: var(--muted);
+    margin: 2rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .section-count {
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--muted);
+    opacity: 0.6;
+  }
+
+  /* ── MODAL ── */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 200;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2rem 1rem;
+    overflow-y: auto;
+    backdrop-filter: blur(4px);
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 20px;
+    padding: 2.5rem;
+    max-width: 720px;
+    width: 100%;
+    position: relative;
+    animation: slideUp 0.25s ease;
+    margin: auto;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .modal-close {
+    position: absolute;
+    top: 1.25rem; right: 1.25rem;
+    background: var(--surface2);
+    border: 1px solid var(--border2);
+    color: var(--muted);
+    border-radius: 50%;
+    width: 32px; height: 32px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex; align-items: center; justify-content: center;
+    transition: background 0.2s;
+  }
+  .modal-close:hover { background: var(--border2); }
+  .modal-journal-badge { margin-bottom: 1rem; }
+  .modal-title {
+    font-family: var(--serif);
+    font-size: 1.6rem;
+    line-height: 1.2;
+    color: var(--text);
+    margin-bottom: 0.75rem;
+    font-weight: 400;
+  }
+  .modal-headline {
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--accent);
+    margin-bottom: 1.25rem;
+    font-style: italic;
+    line-height: 1.5;
+  }
+  .modal-authors {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+  }
+  .modal-section {
+    margin-bottom: 1.5rem;
+  }
+  .modal-section-label {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    opacity: 0.7;
+    margin-bottom: 0.5rem;
+  }
+  .modal-section-body {
+    font-size: 0.9rem;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+  .findings-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .findings-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    font-size: 0.875rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+  .findings-list li::before {
+    content: '→';
+    color: var(--accent);
+    font-size: 0.8rem;
+    flex-shrink: 0;
+  }
+  .modal-divider {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 1.5rem 0;
+  }
+  .modal-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  .tags-row { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .read-paper-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--accent);
+    color: #000;
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 13px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .read-paper-btn:hover { opacity: 0.85; }
+  .ml-badge {
+    background: rgba(201,122,232,0.1);
+    border: 1px solid rgba(201,122,232,0.25);
+    border-radius: 10px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    gap: 0.6rem;
+    align-items: flex-start;
+  }
+  .ml-badge-icon {
+    font-size: 14px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .ml-badge-text {
+    font-size: 0.85rem;
+    color: var(--accent4);
+    line-height: 1.5;
+  }
+
+  /* ── EMPTY STATE ── */
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--muted);
+  }
+  .empty-state h3 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+  }
+  .empty-state p { font-size: 0.875rem; font-weight: 300; }
+
+  /* ── LOADING ── */
+  .loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+    gap: 1rem;
+    color: var(--muted);
+    font-size: 0.875rem;
+  }
+  .spinner {
+    width: 32px; height: 32px;
+    border: 2px solid var(--border2);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── SCROLLBAR ── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+  @media (max-width: 600px) {
+    .hero { grid-template-columns: 1fr; padding: 2rem 1.25rem 1.5rem; }
+    main, .filters-bar { padding-left: 1.25rem; padding-right: 1.25rem; }
+    .modal { padding: 1.75rem 1.25rem; }
+    .card-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <div class="logo-dot"></div>
+      Oncology Digest
+    </a>
+    <div class="header-meta" id="header-meta">Loading…</div>
+  </div>
+</header>
+
+<div class="hero">
+  <div>
+    <h1>Daily research<br>from <em>Nature</em> & Cell</h1>
+    <p>One curated paper each day on oncology and AI × cancer research. Automatically summarized and updated every morning.</p>
+  </div>
+</div>
+
+<div class="filters-bar" id="filters-bar">
+  <input type="text" class="filter-search" id="search-input" placeholder="Search papers, cancer types, methods…">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="ml">AI / ML</button>
+  <button class="filter-btn" data-filter="clinical trial">Clinical Trials</button>
+  <button class="filter-btn" data-filter="computational">Computational</button>
+  <button class="filter-btn" data-filter="single-cell">Single-Cell</button>
+  <button class="filter-btn" data-filter="imaging">Imaging</button>
+</div>
+
+<main id="main-content">
+  <div class="loading">
+    <div class="spinner"></div>
+    <span>Loading papers…</span>
+  </div>
+</main>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" id="modal-content"></div>
+</div>
+
+<script>
+const BASE = './papers/';
+let allPapers = [];
+let paperDetails = {};
+let activeFilter = 'all';
+let searchQuery = '';
+
+// ── Load index ──────────────────────────────────────────
+async function loadIndex() {
+  try {
+    const res = await fetch(BASE + 'index.json?' + Date.now());
+    if (!res.ok) throw new Error('not found');
+    const data = await res.json();
+    allPapers = data.papers || [];
+    const lastUpd = data.last_updated ? new Date(data.last_updated) : null;
+    document.getElementById('header-meta').innerHTML =
+      `${allPapers.length} papers archived<br>` +
+      (lastUpd ? `Updated ${lastUpd.toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric'})}` : '');
+    renderList();
+  } catch (e) {
+    document.getElementById('main-content').innerHTML = `
+      <div class="empty-state">
+        <h3>No papers yet</h3>
+        <p>Run the GitHub Actions workflow to fetch the first paper, or check back tomorrow.</p>
+      </div>`;
+    document.getElementById('header-meta').textContent = 'No data yet';
+  }
+}
+
+// ── Filtering ────────────────────────────────────────────
+function filterPapers() {
+  return allPapers.filter(p => {
+    const matchesFilter =
+      activeFilter === 'all' ||
+      (activeFilter === 'ml' && p.ml_angle) ||
+      p.study_type === activeFilter;
+    const q = searchQuery.toLowerCase();
+    const matchesSearch = !q ||
+      (p.title||'').toLowerCase().includes(q) ||
+      (p.headline||'').toLowerCase().includes(q) ||
+      (p.cancer_types||[]).some(c => c.toLowerCase().includes(q)) ||
+      (p.tags||[]).some(t => t.toLowerCase().includes(q));
+    return matchesFilter && matchesSearch;
+  });
+}
+
+// ── Render ────────────────────────────────────────────────
+function renderList() {
+  const filtered = filterPapers();
+  const el = document.getElementById('main-content');
+  if (!filtered.length) {
+    el.innerHTML = `<div class="empty-state"><h3>No results</h3><p>Try adjusting your search or filters.</p></div>`;
+    return;
+  }
+  const [first, ...rest] = filtered;
+  let html = `<div id="featured-wrapper">${featuredCardHTML(first)}</div>`;
+  if (rest.length) {
+    html += `<div class="section-heading">Earlier papers <span class="section-count">${rest.length}</span></div>`;
+    html += `<div class="card-grid">${rest.map(p => paperCardHTML(p)).join('')}</div>`;
+  }
+  el.innerHTML = html;
+  el.querySelectorAll('[data-paper-id]').forEach(el => {
+    el.addEventListener('click', () => openModal(el.dataset.paperId));
+  });
+}
+
+function stars(score) {
+  return Array.from({length:5},(_,i)=>`<div class="star ${i<score?'on':'off'}"></div>`).join('');
+}
+
+function dateFmt(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+}
+
+function featuredCardHTML(p) {
+  return `
+  <div class="featured-card" data-paper-id="${p.id}">
+    <div class="featured-label">Today's paper</div>
+    <div class="featured-title">${p.title}</div>
+    <div class="featured-headline">${p.headline||''}</div>
+    <div class="card-meta">
+      <span class="pill journal">${p.journal||''}</span>
+      ${(p.cancer_types||[]).slice(0,2).map(c=>`<span class="pill cancer">${c}</span>`).join('')}
+      ${p.ml_angle ? '<span class="pill ml">ML / AI</span>' : ''}
+      ${p.study_type ? `<span class="pill type">${p.study_type}</span>` : ''}
+      <div class="impact-stars">${stars(p.impact_score||3)}</div>
+    </div>
+  </div>`;
+}
+
+function paperCardHTML(p) {
+  return `
+  <div class="paper-card" data-paper-id="${p.id}">
+    <div class="card-title">${p.title}</div>
+    <div class="card-headline">${p.headline||''}</div>
+    <div class="card-meta" style="margin-bottom:0">
+      <span class="pill journal">${p.journal||''}</span>
+      ${p.ml_angle ? '<span class="pill ml">ML</span>' : ''}
+      <div class="impact-stars" style="margin-left:auto">${stars(p.impact_score||3)}</div>
+    </div>
+    <div class="card-date" style="margin-top:0.5rem">${dateFmt(p.pub_date||p.fetched_date)}</div>
+  </div>`;
+}
+
+// ── Modal ──────────────────────────────────────────────
+async function openModal(id) {
+  let p = paperDetails[id];
+  if (!p) {
+    try {
+      const res = await fetch(`${BASE}${id}.json`);
+      p = await res.json();
+      paperDetails[id] = p;
+    } catch {
+      p = allPapers.find(x => x.id === id);
+    }
+  }
+  const overlay = document.getElementById('modal-overlay');
+  const content = document.getElementById('modal-content');
+  content.innerHTML = modalHTML(p);
+  overlay.classList.add('open');
+  content.querySelector('.modal-close').addEventListener('click', closeModal);
+}
+
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+}
+
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+function modalHTML(p) {
+  const findings = (p.key_findings||[]).map(f=>`<li>${f}</li>`).join('');
+  const tags = (p.tags||[]).map(t=>`<span class="pill">${t}</span>`).join('');
+  return `
+    <button class="modal-close">✕</button>
+    <div class="modal-journal-badge">
+      <span class="pill journal">${p.journal||''}</span>
+      ${p.study_type ? `<span class="pill type" style="margin-left:6px">${p.study_type}</span>` : ''}
+      ${p.pub_date ? `<span class="card-date" style="margin-left:8px">${dateFmt(p.pub_date)}</span>` : ''}
+    </div>
+    <div class="modal-title">${p.title}</div>
+    <div class="modal-headline">${p.headline||''}</div>
+    ${p.authors?.length ? `<div class="modal-authors">${p.authors.join(', ')}${p.authors.length>=6 ? ' et al.' : ''}</div>` : ''}
+    ${p.ml_angle ? `<div class="ml-badge"><div class="ml-badge-icon">⬡</div><div class="ml-badge-text"><strong>ML angle:</strong> ${p.ml_angle}</div></div>` : ''}
+    <div class="modal-section">
+      <div class="modal-section-label">Why it matters</div>
+      <div class="modal-section-body">${p.why_it_matters||''}</div>
+    </div>
+    <div class="modal-section">
+      <div class="modal-section-label">Key findings</div>
+      <ul class="findings-list">${findings}</ul>
+    </div>
+    <div class="modal-section">
+      <div class="modal-section-label">Methods</div>
+      <div class="modal-section-body">${p.methods_snapshot||''}</div>
+    </div>
+    <div class="modal-section">
+      <div class="modal-section-label">Limitations</div>
+      <div class="modal-section-body">${p.limitations||''}</div>
+    </div>
+    <hr class="modal-divider">
+    <div class="modal-footer">
+      <div class="tags-row">${tags}</div>
+      <a class="read-paper-btn" href="${p.url}" target="_blank" rel="noopener">
+        Read full paper ↗
+      </a>
+    </div>`;
+}
+
+// ── Filters & Search ────────────────────────────────────
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    renderList();
+  });
+});
+
+let searchTimeout;
+document.getElementById('search-input').addEventListener('input', e => {
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    searchQuery = e.target.value;
+    renderList();
+  }, 200);
+});
+
+loadIndex();
+</script>
+</body>
+</html>

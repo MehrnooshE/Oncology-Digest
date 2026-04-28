@@ -1,0 +1,19 @@
+{
+  "last_updated": "2025-04-26T07:02:11+00:00",
+  "papers": [
+    {
+      "id": "20250425_multimodal_ai_predicts_immunotherapy_response",
+      "title": "Multimodal AI integrating pathology, genomics, and clinical data predicts immunotherapy response in non-small cell lung cancer",
+      "url": "https://www.nature.com/articles/example",
+      "journal": "Nature Medicine",
+      "pub_date": "2025-04-25T00:00:00+00:00",
+      "fetched_date": "2025-04-26T07:02:11+00:00",
+      "headline": "A multimodal AI model predicts immunotherapy response in lung cancer with 82% accuracy, outperforming PD-L1 expression alone.",
+      "cancer_types": ["non-small cell lung cancer", "NSCLC"],
+      "tags": ["immunotherapy", "checkpoint inhibitor", "deep learning", "digital pathology", "lung cancer", "biomarker", "multimodal AI"],
+      "study_type": "computational",
+      "impact_score": 5,
+      "ml_angle": "Transformer-based multimodal fusion model integrating digital pathology (ViT encoder), transcriptomics, and clinical tabular data via cross-attention."
+    }
+  ]
+}

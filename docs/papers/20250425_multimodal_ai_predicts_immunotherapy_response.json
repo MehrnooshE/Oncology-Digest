@@ -1,0 +1,27 @@
+{
+  "id": "20250425_multimodal_ai_predicts_immunotherapy_response",
+  "title": "Multimodal AI integrating pathology, genomics, and clinical data predicts immunotherapy response in non-small cell lung cancer",
+  "url": "https://www.nature.com/articles/example",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": ["Zhang, L.", "Patel, R.", "Hernández, M.", "Kim, S.", "Okafor, N.", "Chen, W."],
+  "pub_date": "2025-04-25T00:00:00+00:00",
+  "fetched_date": "2025-04-26T07:02:11+00:00",
+  "abstract": "Predicting response to immune checkpoint inhibitors (ICI) in non-small cell lung cancer (NSCLC) remains a major clinical challenge. Here we present OncoPlex, a multimodal deep learning model that integrates whole-slide pathology images, bulk RNA sequencing, somatic mutation profiles, and clinical variables to predict progression-free survival under anti-PD-1/PD-L1 therapy...",
+  "headline": "A multimodal AI model predicts immunotherapy response in lung cancer with 82% accuracy, outperforming PD-L1 expression alone.",
+  "why_it_matters": "Immune checkpoint inhibitors benefit only 20–30% of NSCLC patients yet carry substantial toxicity risk, making patient selection critical. This model could allow oncologists to personalize ICI therapy decisions using data already collected during routine workup, avoiding both under-treatment and unnecessary toxicity.",
+  "key_findings": [
+    "OncoPlex achieved an AUC of 0.82 for predicting 12-month PFS, vs. 0.61 for PD-L1 TPS alone",
+    "Pathology image features (tumor-infiltrating lymphocyte density, spatial architecture) contributed 38% of predictive weight",
+    "The model was validated in three independent cohorts totaling 1,847 patients across 11 institutions",
+    "Patients predicted as 'responders' had median PFS of 14.2 months vs. 3.8 months in predicted non-responders",
+    "Explainability analysis identified a novel spatial TIL pattern predictive of durable response, previously undescribed"
+  ],
+  "methods_snapshot": "Retrospective multi-cohort study using 2,340 NSCLC patients treated with first-line anti-PD-1/L1 therapy. OncoPlex is a transformer-based fusion architecture trained end-to-end on four data modalities with contrastive cross-modal alignment.",
+  "cancer_types": ["non-small cell lung cancer", "NSCLC"],
+  "ml_angle": "Transformer-based multimodal fusion model integrating digital pathology (ViT encoder), transcriptomics, and clinical tabular data via cross-attention.",
+  "limitations": "Retrospective design with potential selection bias; prospective validation and regulatory approval would be needed before clinical deployment. Performance in patients with rare mutations was limited by small subgroup sample sizes.",
+  "tags": ["immunotherapy", "checkpoint inhibitor", "deep learning", "digital pathology", "lung cancer", "biomarker", "multimodal AI"],
+  "study_type": "computational",
+  "impact_score": 5
+}
