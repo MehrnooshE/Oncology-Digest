@@ -129,8 +129,8 @@ def already_processed(url, index_data):
 
 
 # ─── SUMMARIZATION ────────────────────────────────────────────────────────────
-SUMMARY_PROMPT = """You are an expert oncology scientist and science communicator. 
-You will analyze a research paper and produce a structured one-page summary in JSON format.
+SUMMARY_PROMPT = SUMMARY_PROMPT = """You are a science communicator explaining cutting-edge cancer research 
+to a smart but non-specialist audience — someone curious about science but new to biology.
 
 Paper Title: {title}
 Journal: {journal}
@@ -139,27 +139,34 @@ Abstract: {abstract}
 
 Return ONLY valid JSON (no markdown, no backticks) with this exact schema:
 {{
-  "headline": "One compelling sentence (≤20 words) capturing the core finding",
-  "why_it_matters": "2-3 sentences on clinical or scientific significance",
+  "headline": "One plain-English sentence (≤20 words) capturing the core finding — no jargon",
+  "why_it_matters": "2-3 sentences on why this matters for patients or medicine. Use simple language.",
   "key_findings": [
-    "Finding 1 (specific, quantitative where possible)",
+    "Finding 1 — explain any technical terms in plain words in parentheses",
     "Finding 2",
     "Finding 3",
     "Finding 4 (optional)",
     "Finding 5 (optional)"
   ],
-  "methods_snapshot": "2 sentences on study design, data, or model architecture",
+  "methods_snapshot": "2 sentences on how the study was done. Explain any technical methods simply.",
+  "glossary": [
+    {{"term": "technical term", "definition": "plain English definition in 1 sentence"}},
+    {{"term": "another term", "definition": "plain English definition"}}
+  ],
   "cancer_types": ["list", "of", "cancer", "types", "studied"],
-  "ml_angle": "If ML/AI was used: 1 sentence on the approach. Otherwise null.",
-  "limitations": "1-2 sentences on key caveats",
+  "ml_angle": "If AI/ML was used: 1 plain-English sentence on what the AI did. Otherwise null.",
+  "limitations": "1-2 sentences on caveats, in simple language",
   "tags": ["relevant", "keyword", "tags", "max8"],
   "study_type": "one of: clinical trial | preclinical | computational | review | multi-omics | single-cell | imaging | other",
   "impact_score": 1-5
 }}
 
-Be concise, precise, and use plain language accessible to a clinical researcher.
-impact_score: 5=landmark finding, 4=significant advance, 3=solid contribution, 2=incremental, 1=limited scope."""
-
+Rules:
+- Write as if explaining to a curious friend with no science background
+- Always define acronyms the first time you use them
+- Avoid Latin or Greek terms without explanation
+- Use analogies where helpful
+- impact_score: 5=landmark finding, 4=significant advance, 3=solid contribution, 2=incremental, 1=limited scope"""
 
 def generate_summary(paper, client):
     """Call Claude API to generate structured summary."""
