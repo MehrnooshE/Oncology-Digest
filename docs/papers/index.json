@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-04-29T18:39:58.625002+00:00",
+  "last_updated": "2026-04-29T18:47:19.631967+00:00",
   "papers": [
+    {
+      "id": "20260429_an_agentic_framework_for_autonomous_scie",
+      "title": "An agentic framework for autonomous scientific discovery in cancer pathology",
+      "url": "https://www.nature.com/articles/s41591-026-04357-y",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:47:19.631670+00:00",
+      "headline": "AI system autonomously discovers cancer biology insights by thinking like a scientist.",
+      "cancer_types": [
+        "Multiple cancer types across 18 cohorts (specific types not detailed in abstract)"
+      ],
+      "tags": [
+        "AI-driven discovery",
+        "cancer pathology",
+        "autonomous research",
+        "large language models",
+        "drug development",
+        "precision medicine",
+        "computational biology",
+        "machine learning"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "SPARK uses machine learning and natural language processing to act as an autonomous research agent that can read cancer data, generate biological theories, and test them without human intervention at each step."
+    },
     {
       "id": "20260429_predicting_referral_need_for_febrile_chi",
       "title": "Predicting referral need for febrile children in low-resource community settings in South and Southeast Asia",

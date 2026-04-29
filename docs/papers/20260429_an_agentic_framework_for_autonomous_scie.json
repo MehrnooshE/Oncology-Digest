@@ -1,0 +1,66 @@
+{
+  "id": "20260429_an_agentic_framework_for_autonomous_scie",
+  "title": "An agentic framework for autonomous scientific discovery in cancer pathology",
+  "url": "https://www.nature.com/articles/s41591-026-04357-y",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Florian Trost",
+    "Bide Zhang",
+    "Ines Aring",
+    "Marcus Bauer",
+    "Lennert Glamann",
+    "Michael Wessolly"
+  ],
+  "pub_date": "2026-04-29T00:00:00+00:00",
+  "fetched_date": "2026-04-29T18:47:19.631670+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41591-026-04357-y\">doi:10.1038/s41591-026-04357-y</a></p>Evaluated across 18 multicancer cohorts, the agentic artificial intelligence workflow SPARK uses language as a universal interface to autonomously generate biological ideas.",
+  "headline": "AI system autonomously discovers cancer biology insights by thinking like a scientist.",
+  "why_it_matters": "Cancer research typically requires teams of human experts spending months or years analyzing data to form new hypotheses. This AI system can do that work much faster and more systematically, potentially speeding up the discovery of new cancer treatments. The faster we can identify what drives different cancers, the sooner we can develop better therapies.",
+  "key_findings": [
+    "SPARK is an AI system that uses natural language (English) as its main tool \u2014 researchers can talk to it like a colleague, and it understands and responds conversationally",
+    "The system can autonomously (without human direction each step) generate and test new biological ideas about how cancers develop and behave",
+    "It was tested across 18 different cancer cohorts (large patient study groups) spanning multiple cancer types, showing it works broadly",
+    "The AI acts as an 'agent' \u2014 meaning it can plan a sequence of tasks, execute them, and learn from results without needing a human to tell it what to do next"
+  ],
+  "methods_snapshot": "Researchers built SPARK to integrate cancer biology knowledge with machine learning (computer systems that learn from data) and large language models (AI trained on vast text to understand and generate human language). They then tested how well the system could generate valid new biological hypotheses across 18 different cancer patient datasets.",
+  "glossary": [
+    {
+      "term": "Agentic AI",
+      "definition": "An artificial intelligence system that can set its own goals, plan steps to achieve them, and work independently \u2014 like having an autonomous research assistant."
+    },
+    {
+      "term": "Cohort",
+      "definition": "A group of patients studied together, usually sharing similar characteristics like the same cancer type."
+    },
+    {
+      "term": "Autonomous discovery",
+      "definition": "The ability of an AI system to identify new scientific insights on its own without constant human guidance."
+    },
+    {
+      "term": "Biological hypothesis",
+      "definition": "An educated guess about how living systems work that can be tested through experiments."
+    },
+    {
+      "term": "Language model",
+      "definition": "An AI trained on huge amounts of human text that can understand and generate language naturally."
+    }
+  ],
+  "cancer_types": [
+    "Multiple cancer types across 18 cohorts (specific types not detailed in abstract)"
+  ],
+  "ml_angle": "SPARK uses machine learning and natural language processing to act as an autonomous research agent that can read cancer data, generate biological theories, and test them without human intervention at each step.",
+  "limitations": "The abstract doesn't specify which specific cancers were studied or validate whether SPARK's ideas are actually correct in the laboratory. Real-world impact depends on how well these AI-generated hypotheses translate into actual medical breakthroughs.",
+  "tags": [
+    "AI-driven discovery",
+    "cancer pathology",
+    "autonomous research",
+    "large language models",
+    "drug development",
+    "precision medicine",
+    "computational biology",
+    "machine learning"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
