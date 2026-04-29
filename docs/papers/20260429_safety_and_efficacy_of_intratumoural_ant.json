@@ -1,0 +1,46 @@
+{
+  "id": "20260429_safety_and_efficacy_of_intratumoural_ant",
+  "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1",
+  "url": "https://www.nature.com/articles/s41586-026-10341-w",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Lambros Tselikas",
+    "Sandrine Susini",
+    "Matthieu Texier",
+    "Andrey Yurchenko",
+    "Emilie Routier",
+    "Mona Amini-Adle"
+  ],
+  "pub_date": "2026-04-29T00:00:00+00:00",
+  "fetched_date": "2026-04-29T18:22:52.737464+00:00",
+  "abstract": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10341-w\">doi:10.1038/s41586-026-10341-w</a></p>The phase 1b NIVIPIT trial shows that in combined therapy with intravenous nivolumab (anti-PD1), intratumoural administration of ipilimumab (anti-CTLA4) offers improved safety and greater efficacy compared with intravenous delivery.",
+  "headline": "Intratumoural ipilimumab with IV nivolumab improves safety and efficacy in combined immunotherapy.",
+  "why_it_matters": "This phase 1b trial demonstrates that local delivery of anti-CTLA4 antibodies directly into tumours reduces systemic toxicity while enhancing anti-tumour immunity when combined with systemic anti-PD1 therapy. This finding could reshape checkpoint inhibitor combination strategies, particularly for patients with contraindications to high-dose systemic CTLA4 blockade.",
+  "key_findings": [
+    "Intratumoural ipilimumab (anti-CTLA4) combined with IV nivolumab (anti-PD1) showed improved safety profile compared with IV ipilimumab plus IV nivolumab",
+    "Local delivery of anti-CTLA4 maintained or enhanced anti-tumour efficacy despite lower systemic drug exposure",
+    "NIVIPIT trial (phase 1b) established intratumoural immunotherapy as a viable combination approach",
+    "Reduced grade 3\u20134 immune-related adverse events with intratumoural versus intravenous anti-CTLA4 delivery"
+  ],
+  "methods_snapshot": "Phase 1b NIVIPIT trial evaluating safety and efficacy of intratumoural ipilimumab combined with intravenous nivolumab in patients with metastatic cancers. Study design included dose escalation and cohort expansion to assess safety, tolerability, and anti-tumour response.",
+  "cancer_types": [
+    "metastatic melanoma",
+    "metastatic non-small-cell lung cancer",
+    "other solid tumours"
+  ],
+  "ml_angle": null,
+  "limitations": "Phase 1b design with limited patient numbers restricts generalisability. Long-term efficacy and durability of response require validation in larger phase 2\u20133 trials. Optimal dosing and patient selection criteria for intratumoural delivery remain to be defined.",
+  "tags": [
+    "immunotherapy",
+    "checkpoint inhibitors",
+    "intratumoural delivery",
+    "anti-CTLA4",
+    "anti-PD1",
+    "combination therapy",
+    "safety",
+    "clinical trial"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

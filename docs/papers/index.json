@@ -1,6 +1,33 @@
 {
-  "last_updated": "2025-04-26T07:02:11+00:00",
+  "last_updated": "2026-04-29T18:22:52.737736+00:00",
   "papers": [
+    {
+      "id": "20260429_safety_and_efficacy_of_intratumoural_ant",
+      "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1",
+      "url": "https://www.nature.com/articles/s41586-026-10341-w",
+      "journal": "Nature",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:22:52.737464+00:00",
+      "headline": "Intratumoural ipilimumab with IV nivolumab improves safety and efficacy in combined immunotherapy.",
+      "cancer_types": [
+        "metastatic melanoma",
+        "metastatic non-small-cell lung cancer",
+        "other solid tumours"
+      ],
+      "tags": [
+        "immunotherapy",
+        "checkpoint inhibitors",
+        "intratumoural delivery",
+        "anti-CTLA4",
+        "anti-PD1",
+        "combination therapy",
+        "safety",
+        "clinical trial"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20250425_multimodal_ai_predicts_immunotherapy_response",
       "title": "Multimodal AI integrating pathology, genomics, and clinical data predicts immunotherapy response in non-small cell lung cancer",
@@ -9,8 +36,19 @@
       "pub_date": "2025-04-25T00:00:00+00:00",
       "fetched_date": "2025-04-26T07:02:11+00:00",
       "headline": "A multimodal AI model predicts immunotherapy response in lung cancer with 82% accuracy, outperforming PD-L1 expression alone.",
-      "cancer_types": ["non-small cell lung cancer", "NSCLC"],
-      "tags": ["immunotherapy", "checkpoint inhibitor", "deep learning", "digital pathology", "lung cancer", "biomarker", "multimodal AI"],
+      "cancer_types": [
+        "non-small cell lung cancer",
+        "NSCLC"
+      ],
+      "tags": [
+        "immunotherapy",
+        "checkpoint inhibitor",
+        "deep learning",
+        "digital pathology",
+        "lung cancer",
+        "biomarker",
+        "multimodal AI"
+      ],
       "study_type": "computational",
       "impact_score": 5,
       "ml_angle": "Transformer-based multimodal fusion model integrating digital pathology (ViT encoder), transcriptomics, and clinical tabular data via cross-attention."
