@@ -1,0 +1,42 @@
+{
+  "id": "20260429_improving_access_to_essential_medicines_",
+  "title": "Improving access to essential medicines via decision-aware machine learning",
+  "url": "https://www.nature.com/articles/s41586-026-10433-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Angel Tsai-Hsuan Chung",
+    "Jatu Abdulai",
+    "Patrick Bayoh",
+    "Lawrence Sandi",
+    "Francis Smart",
+    "Hamsa Bastani"
+  ],
+  "pub_date": "2026-04-29T00:00:00+00:00",
+  "fetched_date": "2026-04-29T18:25:20.045393+00:00",
+  "abstract": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10433-7\">doi:10.1038/s41586-026-10433-7</a></p>Nationwide deployment of a novel decision-aware machine learning framework as a decision support tool for the allocation of essential medicines in Sierra Leone resulted in improved access to essential healthcare in this resource-constrained setting.",
+  "headline": "Decision-aware machine learning improves essential medicine allocation in resource-limited settings.",
+  "why_it_matters": "Access to essential medicines remains a critical barrier to healthcare in low-resource countries. This work demonstrates that AI-driven allocation systems can be deployed at national scale to optimize scarce medical resources. The framework addresses a fundamental healthcare equity challenge affecting millions in sub-Saharan Africa.",
+  "key_findings": [
+    "Nationwide deployment of decision-aware ML framework in Sierra Leone improved access to essential medicines",
+    "ML model optimized allocation decisions for resource-constrained healthcare systems",
+    "Framework demonstrated real-world effectiveness across diverse clinical settings",
+    "Decision-aware approach integrated practical implementation constraints into algorithm design"
+  ],
+  "methods_snapshot": "The study deployed a decision-aware machine learning framework nationwide in Sierra Leone, incorporating real-world constraints into the allocation algorithm. The approach combined predictive modeling with implementable decision rules to optimize medicine distribution across healthcare facilities.",
+  "cancer_types": [],
+  "ml_angle": "Decision-aware machine learning framework integrating practical constraints and allocation decisions to optimize essential medicine distribution in healthcare systems.",
+  "limitations": "Study conducted in single country setting; generalizability to other resource-limited regions requires validation. Long-term sustainability and cost-effectiveness analysis beyond initial deployment period not detailed in abstract.",
+  "tags": [
+    "machine learning",
+    "healthcare access",
+    "medicine allocation",
+    "global health",
+    "resource optimization",
+    "Sierra Leone",
+    "decision support",
+    "equity"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

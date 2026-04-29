@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-29T18:22:52.737736+00:00",
+  "last_updated": "2026-04-29T18:25:20.045663+00:00",
   "papers": [
+    {
+      "id": "20260429_improving_access_to_essential_medicines_",
+      "title": "Improving access to essential medicines via decision-aware machine learning",
+      "url": "https://www.nature.com/articles/s41586-026-10433-7",
+      "journal": "Nature",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:25:20.045393+00:00",
+      "headline": "Decision-aware machine learning improves essential medicine allocation in resource-limited settings.",
+      "cancer_types": [],
+      "tags": [
+        "machine learning",
+        "healthcare access",
+        "medicine allocation",
+        "global health",
+        "resource optimization",
+        "Sierra Leone",
+        "decision support",
+        "equity"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Decision-aware machine learning framework integrating practical constraints and allocation decisions to optimize essential medicine distribution in healthcare systems."
+    },
     {
       "id": "20260429_safety_and_efficacy_of_intratumoural_ant",
       "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1",
