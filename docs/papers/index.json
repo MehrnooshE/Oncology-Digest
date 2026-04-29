@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-29T18:35:51.740465+00:00",
+  "last_updated": "2026-04-29T18:39:58.625002+00:00",
   "papers": [
+    {
+      "id": "20260429_predicting_referral_need_for_febrile_chi",
+      "title": "Predicting referral need for febrile children in low-resource community settings in South and Southeast Asia",
+      "url": "https://www.nature.com/articles/s41591-026-04338-1",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:39:58.624669+00:00",
+      "headline": "Simple tests help doctors quickly spot which sick children need urgent hospital care in poor regions.",
+      "cancer_types": [],
+      "tags": [
+        "pediatric",
+        "fever",
+        "referral",
+        "low-resource settings",
+        "predictive model",
+        "diagnostic",
+        "Asia",
+        "public health"
+      ],
+      "study_type": "other",
+      "impact_score": 4,
+      "ml_angle": "The study used prediction models (likely machine learning algorithms) to combine multiple clinical inputs and test results to more accurately predict which children needed referral than doctors using standard guidelines alone."
+    },
     {
       "id": "20260429_evolutionary_characterization_of_lung_ca",
       "title": "Evolutionary characterization of lung cancer metastasis",

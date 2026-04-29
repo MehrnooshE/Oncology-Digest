@@ -1,0 +1,68 @@
+{
+  "id": "20260429_predicting_referral_need_for_febrile_chi",
+  "title": "Predicting referral need for febrile children in low-resource community settings in South and Southeast Asia",
+  "url": "https://www.nature.com/articles/s41591-026-04338-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Arjun Chandna",
+    "Constantinos Koshiaris",
+    "Raman Mahajan",
+    "Riris Adono Ahmad",
+    "Dinh Thi Van Anh",
+    "Khalid Shams Choudhury"
+  ],
+  "pub_date": "2026-04-29T00:00:00+00:00",
+  "fetched_date": "2026-04-29T18:39:58.624669+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41591-026-04338-1\">doi:10.1038/s41591-026-04338-1</a></p>A multicountry cohort study found that prediction models combining clinical parameters with either pulse oximetry or the host biomarker sTREM1 more accurately identified febrile children needing referral than standard WHO criteria.",
+  "headline": "Simple tests help doctors quickly spot which sick children need urgent hospital care in poor regions.",
+  "why_it_matters": "In low-income countries in Asia, doctors often lack access to advanced testing and must decide fast whether a feverish child needs urgent referral to a hospital. This study shows a better way to make that decision, potentially saving lives by getting the sickest children help faster and avoiding unnecessary hospital trips for those who don't need one.",
+  "key_findings": [
+    "A combination of bedside observations plus either a pulse oximeter (a device that measures oxygen in the blood) or a blood test for sTREM1 (a protein that signals serious infection) predicted which febrile children needed referral better than current WHO guidelines.",
+    "Standard WHO criteria alone missed some children who actually needed referral, meaning the new approach could catch more at-risk cases.",
+    "The study included children across multiple countries in South and Southeast Asia, making the findings relevant across the region.",
+    "Simple, low-cost tools were more accurate than current decision rules, suggesting feasibility even in settings with limited resources."
+  ],
+  "methods_snapshot": "Researchers followed a large group of febrile children at community health clinics across several Asian countries and tracked which ones actually needed hospital referral. They tested whether simple prediction models combining basic clinical checks with inexpensive tests (pulse oximetry or a blood biomarker) could better identify those at highest risk than existing international guidelines.",
+  "glossary": [
+    {
+      "term": "Febrile",
+      "definition": "Having a fever, or elevated body temperature."
+    },
+    {
+      "term": "sTREM1",
+      "definition": "A protein marker in the blood that increases when the body is fighting a serious infection."
+    },
+    {
+      "term": "Pulse oximetry",
+      "definition": "A simple, non-invasive test that clips onto a finger to measure how much oxygen is in the blood."
+    },
+    {
+      "term": "Biomarker",
+      "definition": "A measurable substance in the body (like a protein in blood) that signals disease or health status."
+    },
+    {
+      "term": "WHO criteria",
+      "definition": "Guidelines from the World Health Organization that doctors use to decide whether a patient needs hospital care."
+    },
+    {
+      "term": "Cohort study",
+      "definition": "A study that follows a group of people over time to track what happens to them and identify patterns."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The study used prediction models (likely machine learning algorithms) to combine multiple clinical inputs and test results to more accurately predict which children needed referral than doctors using standard guidelines alone.",
+  "limitations": "The study was done in specific Asian regions and settings, so results may not apply equally to other parts of the world with different disease patterns or healthcare systems. Also, the practical implementation of these models in real clinics\u2014especially training staff to use them correctly\u2014still needs to be tested.",
+  "tags": [
+    "pediatric",
+    "fever",
+    "referral",
+    "low-resource settings",
+    "predictive model",
+    "diagnostic",
+    "Asia",
+    "public health"
+  ],
+  "study_type": "other",
+  "impact_score": 4
+}
