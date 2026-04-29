@@ -481,6 +481,30 @@
     color: var(--accent4);
     line-height: 1.5;
   }
+  .glossary-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  .glossary-item {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 0.75rem;
+    padding: 0.6rem 0.75rem;
+    background: var(--surface2);
+    border-radius: 6px;
+    font-size: 0.85rem;
+    align-items: baseline;
+  }
+  .glossary-term {
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 0.82rem;
+  }
+  .glossary-def {
+    color: var(--muted);
+    line-height: 1.5;
+  }
 
   /* ── EMPTY STATE ── */
   .empty-state {
@@ -708,6 +732,11 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 function modalHTML(p) {
   const findings = (p.key_findings||[]).map(f=>`<li>${f}</li>`).join('');
   const tags = (p.tags||[]).map(t=>`<span class="pill">${t}</span>`).join('');
+  const glossary = (p.glossary||[]).map(g=>`
+    <div class="glossary-item">
+      <span class="glossary-term">${g.term}</span>
+      <span class="glossary-def">${g.definition}</span>
+    </div>`).join('');
   return `
     <button class="modal-close">✕</button>
     <div class="modal-journal-badge">
@@ -718,7 +747,7 @@ function modalHTML(p) {
     <div class="modal-title">${p.title}</div>
     <div class="modal-headline">${p.headline||''}</div>
     ${p.authors?.length ? `<div class="modal-authors">${p.authors.join(', ')}${p.authors.length>=6 ? ' et al.' : ''}</div>` : ''}
-    ${p.ml_angle ? `<div class="ml-badge"><div class="ml-badge-icon">⬡</div><div class="ml-badge-text"><strong>ML angle:</strong> ${p.ml_angle}</div></div>` : ''}
+    ${p.ml_angle ? `<div class="ml-badge"><div class="ml-badge-icon">⬡</div><div class="ml-badge-text"><strong>AI / ML:</strong> ${p.ml_angle}</div></div>` : ''}
     <div class="modal-section">
       <div class="modal-section-label">Why it matters</div>
       <div class="modal-section-body">${p.why_it_matters||''}</div>
@@ -728,13 +757,18 @@ function modalHTML(p) {
       <ul class="findings-list">${findings}</ul>
     </div>
     <div class="modal-section">
-      <div class="modal-section-label">Methods</div>
+      <div class="modal-section-label">How the study was done</div>
       <div class="modal-section-body">${p.methods_snapshot||''}</div>
     </div>
     <div class="modal-section">
-      <div class="modal-section-label">Limitations</div>
+      <div class="modal-section-label">Caveats</div>
       <div class="modal-section-body">${p.limitations||''}</div>
     </div>
+    ${glossary ? `
+    <div class="modal-section">
+      <div class="modal-section-label">🔬 Key terms explained</div>
+      <div class="glossary-list">${glossary}</div>
+    </div>` : ''}
     <hr class="modal-divider">
     <div class="modal-footer">
       <div class="tags-row">${tags}</div>
