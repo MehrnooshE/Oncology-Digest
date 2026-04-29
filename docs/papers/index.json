@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-04-29T18:33:49.734996+00:00",
+  "last_updated": "2026-04-29T18:35:51.740465+00:00",
   "papers": [
+    {
+      "id": "20260429_evolutionary_characterization_of_lung_ca",
+      "title": "Evolutionary characterization of lung cancer metastasis",
+      "url": "https://www.nature.com/articles/s41586-026-10428-4",
+      "journal": "Nature",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:35:51.740190+00:00",
+      "headline": "Scientists map how lung cancer spreads by sequencing tumors and their distant colonies.",
+      "cancer_types": [
+        "non-small cell lung cancer"
+      ],
+      "tags": [
+        "lung cancer",
+        "metastasis",
+        "cancer evolution",
+        "genetic sequencing",
+        "tumor heterogeneity",
+        "precision oncology",
+        "DNA analysis",
+        "cancer biology"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260429_spatial_atlas_of_diabetic_kidney_disease",
       "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",

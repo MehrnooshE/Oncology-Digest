@@ -1,0 +1,70 @@
+{
+  "id": "20260429_evolutionary_characterization_of_lung_ca",
+  "title": "Evolutionary characterization of lung cancer metastasis",
+  "url": "https://www.nature.com/articles/s41586-026-10428-4",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Sonya Hessey",
+    "Abigail Bunkum",
+    "Ariana Huebner",
+    "Kerstin Haase",
+    "Kristiana Grigoriadis",
+    "Cristina Naceur-Lombardelli"
+  ],
+  "pub_date": "2026-04-29T00:00:00+00:00",
+  "fetched_date": "2026-04-29T18:35:51.740190+00:00",
+  "abstract": "<p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10428-4\">doi:10.1038/s41586-026-10428-4</a></p>DNA-sequencing data from primary tumours and paired metastases from participants in the TRACERx lung study and PEACE autopsy programme are used to analyse the metastatic diversity of advanced non-small cell lung cancer and the seeding patterns that underpin it.",
+  "headline": "Scientists map how lung cancer spreads by sequencing tumors and their distant colonies.",
+  "why_it_matters": "Understanding exactly how cancer travels from the lung to other organs could help doctors predict where it will spread next and catch it earlier. This research reveals the genetic roadmap of metastasis (the process where cancer escapes to distant sites), which may eventually lead to better treatments that stop cancer before it spreads.",
+  "key_findings": [
+    "Lung cancers spread in multiple ways\u2014sometimes from a single 'parent' tumor cell, sometimes from many different cells, creating diverse genetic populations at distant sites (metastases are tumors that grew from cancer cells that traveled elsewhere)",
+    "The genetic changes that allow a cancer cell to survive the journey to a distant organ are often different from the changes that made it cancerous in the first place",
+    "By comparing the DNA (genetic blueprint) of primary lung tumors with their distant colonies, researchers can trace which distant tumors came from which parts of the original tumor\u2014like following a family tree",
+    "Some cancers seeded metastases very early, even before the primary tumor was large enough to notice, explaining why some patients have advanced disease at diagnosis"
+  ],
+  "methods_snapshot": "Researchers used DNA sequencing (reading the genetic code) on tumor samples from lung cancer patients\u2014both from their original lung tumors and from cancer that had spread to other organs. They compared the genetic differences between paired tumors to work out the 'family tree' of how the cancer evolved and where each distant colony originated.",
+  "glossary": [
+    {
+      "term": "metastasis",
+      "definition": "When cancer cells break away from the original tumor, travel through the body, and establish new tumors in distant organs."
+    },
+    {
+      "term": "DNA sequencing",
+      "definition": "A laboratory technique that reads the genetic code (the instruction manual for cells) to identify mutations (spelling errors) in genes."
+    },
+    {
+      "term": "non-small cell lung cancer",
+      "definition": "The most common type of lung cancer, named for the size of the cancer cells under a microscope."
+    },
+    {
+      "term": "primary tumor",
+      "definition": "The original cancer that starts in one location; any cancers elsewhere are considered metastases from it."
+    },
+    {
+      "term": "seeding",
+      "definition": "The process by which cancer cells travel from the original tumor and establish new tumors in distant organs."
+    },
+    {
+      "term": "mutation",
+      "definition": "A change or error in the genetic code (DNA) that can cause cells to behave abnormally."
+    }
+  ],
+  "cancer_types": [
+    "non-small cell lung cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study analyzed existing tumor samples from patients already diagnosed with advanced cancer, so it may not fully capture how metastasis works in earlier-stage disease. The findings are based on snapshot samples taken at one moment in time, so they don't show all the genetic changes that occur as cancer evolves over months or years.",
+  "tags": [
+    "lung cancer",
+    "metastasis",
+    "cancer evolution",
+    "genetic sequencing",
+    "tumor heterogeneity",
+    "precision oncology",
+    "DNA analysis",
+    "cancer biology"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
