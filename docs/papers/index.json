@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-29T18:25:20.045663+00:00",
+  "last_updated": "2026-04-29T18:33:49.734996+00:00",
   "papers": [
+    {
+      "id": "20260429_spatial_atlas_of_diabetic_kidney_disease",
+      "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",
+      "url": "https://www.nature.com/articles/s41586-026-10363-4",
+      "journal": "Nature",
+      "pub_date": "2026-04-29T00:00:00+00:00",
+      "fetched_date": "2026-04-29T18:33:49.734685+00:00",
+      "headline": "Scientists find immune cells that mark patients whose diabetic kidney damage worsens quickly.",
+      "cancer_types": [],
+      "tags": [
+        "diabetic kidney disease",
+        "B cells",
+        "immune cells",
+        "spatial transcriptomics",
+        "biomarker",
+        "disease progression",
+        "personalized medicine",
+        "kidney damage"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260429_improving_access_to_essential_medicines_",
       "title": "Improving access to essential medicines via decision-aware machine learning",
