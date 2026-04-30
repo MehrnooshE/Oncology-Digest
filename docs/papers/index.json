@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-04-29T18:47:19.631967+00:00",
+  "last_updated": "2026-04-30T09:20:45.806174+00:00",
   "papers": [
+    {
+      "id": "20260430_the_snrk1_rap2_4h_pip2_module_contribute",
+      "title": "The SnRK1\u2013RAP2.4h\u2013PIP2 module contributes to the trade-off between growth and hypoxia tolerance in plants",
+      "url": "https://www.nature.com/articles/s41467-026-72469-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-04-30T00:00:00+00:00",
+      "fetched_date": "2026-04-30T09:20:45.805903+00:00",
+      "headline": "Plants use a molecular switch to decide between growing fast or surviving floods.",
+      "cancer_types": [],
+      "tags": [
+        "plant biology",
+        "stress response",
+        "climate adaptation",
+        "flooding",
+        "crop improvement",
+        "molecular signaling",
+        "agriculture",
+        "survival mechanisms"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260429_an_agentic_framework_for_autonomous_scie",
       "title": "An agentic framework for autonomous scientific discovery in cancer pathology",
