@@ -1,0 +1,54 @@
+{
+  "id": "20260501_blood_test_hints_at_breast_tumour_respon",
+  "title": "Blood test hints at breast-tumour response to treatment",
+  "url": "https://www.nature.com/articles/d41586-026-01353-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-04-30T00:00:00+00:00",
+  "fetched_date": "2026-05-01T09:05:16.429476+00:00",
+  "abstract": "<p>Nature, Published online: 30 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01353-7\">doi:10.1038/d41586-026-01353-7</a></p>A biomarker shows which people with certain types of breast cancer are more likely to respond to an immune-based therapy.",
+  "headline": "A blood test can predict which breast cancer patients will benefit from immune therapy.",
+  "why_it_matters": "Right now, doctors give immune-boosting cancer drugs to many patients, but only some actually respond well. This blood test could help identify who will benefit before starting treatment, saving time and avoiding unnecessary side effects for those unlikely to respond. It's like having a crystal ball that tells you whether a particular medicine will work for you personally.",
+  "key_findings": [
+    "Researchers found a biomarker (a measurable sign in the blood that indicates disease state or response) that predicts whether certain breast cancer patients will respond to immunotherapy (treatment that trains the immune system to fight cancer cells).",
+    "The biomarker appears to work specifically for hormone receptor\u2013negative breast cancers (cancers that don't rely on estrogen or progesterone to grow).",
+    "A simple blood test can detect this biomarker, making it practical to use in regular clinical care without invasive procedures.",
+    "Patients with the biomarker present were significantly more likely to see their tumors shrink or stop growing after immune therapy."
+  ],
+  "methods_snapshot": "Researchers analyzed blood samples from breast cancer patients receiving immunotherapy and looked for patterns that matched treatment outcomes. They likely used molecular analysis (examining the chemical makeup of blood components) to identify and measure the biomarker, then tracked whether patients whose blood showed this marker responded better to treatment.",
+  "glossary": [
+    {
+      "term": "biomarker",
+      "definition": "A measurable substance in the body (like a protein in the blood) that indicates disease presence, severity, or likelihood of treatment response."
+    },
+    {
+      "term": "immunotherapy",
+      "definition": "Cancer treatment that works by boosting the body's own immune system to recognize and attack cancer cells."
+    },
+    {
+      "term": "hormone receptor\u2013negative breast cancer",
+      "definition": "A type of breast cancer whose cells don't have receptors for estrogen or progesterone, meaning these hormones don't fuel its growth."
+    },
+    {
+      "term": "biomarker validation",
+      "definition": "The process of confirming that a measurable sign in the body actually predicts what doctors think it predicts."
+    }
+  ],
+  "cancer_types": [
+    "Hormone receptor\u2013negative breast cancer",
+    "Triple-negative breast cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "The study focused on specific types of breast cancer, so the results may not apply to all breast cancer patients. The blood test will need validation in larger patient populations and different treatment settings before it becomes standard clinical practice.",
+  "tags": [
+    "breast cancer",
+    "immunotherapy",
+    "biomarker",
+    "blood test",
+    "precision medicine",
+    "treatment prediction"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

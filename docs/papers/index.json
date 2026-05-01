@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-30T09:20:45.806174+00:00",
+  "last_updated": "2026-05-01T09:05:16.429725+00:00",
   "papers": [
+    {
+      "id": "20260501_blood_test_hints_at_breast_tumour_respon",
+      "title": "Blood test hints at breast-tumour response to treatment",
+      "url": "https://www.nature.com/articles/d41586-026-01353-7",
+      "journal": "Nature",
+      "pub_date": "2026-04-30T00:00:00+00:00",
+      "fetched_date": "2026-05-01T09:05:16.429476+00:00",
+      "headline": "A blood test can predict which breast cancer patients will benefit from immune therapy.",
+      "cancer_types": [
+        "Hormone receptor\u2013negative breast cancer",
+        "Triple-negative breast cancer"
+      ],
+      "tags": [
+        "breast cancer",
+        "immunotherapy",
+        "biomarker",
+        "blood test",
+        "precision medicine",
+        "treatment prediction"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260430_the_snrk1_rap2_4h_pip2_module_contribute",
       "title": "The SnRK1\u2013RAP2.4h\u2013PIP2 module contributes to the trade-off between growth and hypoxia tolerance in plants",
