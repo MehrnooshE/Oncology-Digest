@@ -1,0 +1,78 @@
+{
+  "id": "20260502_activating_p53_sup_y220c__sup__with_a_mu",
+  "title": "Activating p53<sup>Y220C</sup> with a mutant-specific small molecule",
+  "url": "https://www.nature.com/articles/s41467-026-72165-6",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Xijun Zhu",
+    "Woong Sub Byun",
+    "Dominika Ewa Pie\u0144kowska",
+    "Kha The Nguyen",
+    "Mengxiong Wang",
+    "Sabin A. Nettles"
+  ],
+  "pub_date": "2026-05-02T00:00:00+00:00",
+  "fetched_date": "2026-05-02T08:24:04.042257+00:00",
+  "abstract": "<p>Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72165-6\">doi:10.1038/s41467-026-72165-6</a></p>The tumor suppressor protein p53 is commonly mutated in cancer and has been challenging for therapeutic reactivation. Here, the authors developed a small molecule chemical inducer of proximity to selectively activate p53 transcription and induce cellular senescence and apoptosis in p53Y220C cells.",
+  "headline": "Scientists created a drug that reawakens a broken tumor-fighting protein in certain cancers.",
+  "why_it_matters": "About half of all cancers have broken p53, a protein that normally stops tumor growth. This discovery offers a new way to fix that broken protein and restart the body's own cancer-fighting defenses. If it works in patients, it could open doors for treating many hard-to-treat cancers.",
+  "key_findings": [
+    "Researchers designed a tiny drug molecule that targets a specific broken version of p53 (a mutant form called Y220C) found in some cancers.",
+    "The drug works like a molecular glue \u2014 it brings two proteins together so they can cooperate and turn back on the cancer-fighting genes (a process called transcriptional activation).",
+    "When the drug activated this broken p53, cancer cells either stopped dividing (a state called senescence) or died (apoptosis) \u2014 two ways the body normally defeats cancer.",
+    "The drug was selective, meaning it only targeted the specific broken p53 and didn't affect healthy cells as much, potentially reducing side effects."
+  ],
+  "methods_snapshot": "Scientists used chemistry and cell biology to design a drug that precisely fits the mutated p53 protein, then tested it in laboratory cancer cells to see if it could restart the cancer-fighting program. They measured whether the drug successfully activated p53's tumor-suppressing genes and whether cancer cells died or stopped growing.",
+  "glossary": [
+    {
+      "term": "p53",
+      "definition": "A protein that acts as a 'guardian of the genome' \u2014 it normally stops cells from becoming cancerous by fixing DNA damage or triggering cell death."
+    },
+    {
+      "term": "Tumor suppressor",
+      "definition": "A protein that prevents cells from turning into cancer by controlling growth and triggering cell death when needed."
+    },
+    {
+      "term": "Mutation",
+      "definition": "A change in the DNA code that can cause a protein to break or function incorrectly."
+    },
+    {
+      "term": "Apoptosis",
+      "definition": "Programmed cell death \u2014 a natural process where damaged cells deliberately destroy themselves."
+    },
+    {
+      "term": "Senescence",
+      "definition": "A state where cells stop dividing and growing but don't immediately die, preventing them from becoming cancerous."
+    },
+    {
+      "term": "Small molecule",
+      "definition": "A drug made of a tiny chemical compound that can enter cells and interact with proteins inside them."
+    },
+    {
+      "term": "Chemical inducer of proximity",
+      "definition": "A drug designed to act like molecular glue, binding two separate proteins together so they can work as a team."
+    },
+    {
+      "term": "Transcriptional activation",
+      "definition": "Turning on genes so they produce the proteins they code for, similar to pressing 'play' on a recording."
+    }
+  ],
+  "cancer_types": [
+    "Cancers with p53 Y220C mutations (specific subset of solid tumors)"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was done in laboratory cells, not yet in patients, so it's unclear whether the drug will work safely and effectively in living humans. The drug targets only one specific type of p53 mutation (Y220C), so it won't help patients whose cancers have different p53 mutations or no p53 mutations.",
+  "tags": [
+    "p53",
+    "tumor suppressor",
+    "drug development",
+    "cancer therapy",
+    "protein reactivation",
+    "precision medicine",
+    "apoptosis",
+    "senescence"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

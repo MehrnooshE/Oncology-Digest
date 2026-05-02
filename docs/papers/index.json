@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-01T09:05:16.429725+00:00",
+  "last_updated": "2026-05-02T08:24:04.042559+00:00",
   "papers": [
+    {
+      "id": "20260502_activating_p53_sup_y220c__sup__with_a_mu",
+      "title": "Activating p53<sup>Y220C</sup> with a mutant-specific small molecule",
+      "url": "https://www.nature.com/articles/s41467-026-72165-6",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-02T00:00:00+00:00",
+      "fetched_date": "2026-05-02T08:24:04.042257+00:00",
+      "headline": "Scientists created a drug that reawakens a broken tumor-fighting protein in certain cancers.",
+      "cancer_types": [
+        "Cancers with p53 Y220C mutations (specific subset of solid tumors)"
+      ],
+      "tags": [
+        "p53",
+        "tumor suppressor",
+        "drug development",
+        "cancer therapy",
+        "protein reactivation",
+        "precision medicine",
+        "apoptosis",
+        "senescence"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260501_blood_test_hints_at_breast_tumour_respon",
       "title": "Blood test hints at breast-tumour response to treatment",
