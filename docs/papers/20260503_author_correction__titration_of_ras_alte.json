@@ -1,0 +1,68 @@
+{
+  "id": "20260503_author_correction__titration_of_ras_alte",
+  "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+  "url": "https://www.nature.com/articles/s41586-026-10601-9",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Adelyne S. L. Chan",
+    "Haoran Zhu",
+    "Masako Narita",
+    "Liam D. Cassidy",
+    "Andrew R. J. Young",
+    "Camino Bermejo-Rodriguez"
+  ],
+  "pub_date": "2026-05-01T00:00:00+00:00",
+  "fetched_date": "2026-05-03T08:51:15.475068+00:00",
+  "abstract": "<p>Nature, Published online: 01 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10601-9\">doi:10.1038/s41586-026-10601-9</a></p>Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+  "headline": "Controlling RAS protein levels changes how cells age and affects cancer development.",
+  "why_it_matters": "RAS is one of the most frequently mutated genes in human cancers. This research reveals that the amount of RAS protein present \u2014 not just whether it's mutated \u2014 critically influences whether cells enter senescence (a protective 'aging' state that blocks cancer). Understanding this could lead to new strategies to trigger senescence and stop tumors from forming.",
+  "key_findings": [
+    "RAS protein dosage (the amount of RAS present) acts like a dial that controls cellular senescence \u2014 a state where cells stop dividing and can't become cancerous.",
+    "At certain intermediate levels of RAS, cells enter senescence more readily, which is protective against tumor initiation (the first step of cancer formation).",
+    "Too little or too much RAS disrupts this senescent state, potentially allowing cells to escape growth controls and begin forming tumors.",
+    "The relationship between RAS levels and senescence is non-linear \u2014 meaning simply having less mutant RAS doesn't automatically improve the outcome; the balance matters."
+  ],
+  "methods_snapshot": "Researchers used cell culture models and genetically engineered systems to precisely control RAS protein amounts and measure how cells responded by entering or exiting senescence. They tracked changes in gene expression (which genes were active) and monitored tumor formation in laboratory settings.",
+  "glossary": [
+    {
+      "term": "RAS",
+      "definition": "A protein that acts like a switch controlling cell growth; mutated RAS is found in about 30% of human cancers."
+    },
+    {
+      "term": "Senescence",
+      "definition": "A permanent halt in cell division where the cell survives but cannot replicate or become cancerous \u2014 like a cellular safety brake."
+    },
+    {
+      "term": "Tumor initiation",
+      "definition": "The earliest stage of cancer when normal cells first begin transforming into cancer cells."
+    },
+    {
+      "term": "Dosage",
+      "definition": "The amount or concentration of a protein present in cells."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process by which instructions stored in DNA are activated to produce proteins that do work in cells."
+    }
+  ],
+  "cancer_types": [
+    "pancreatic cancer",
+    "lung cancer",
+    "colorectal cancer",
+    "melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a correction to the original paper, so the scope is refined but limited to clarifying specific findings. The work relies on laboratory cell models, which don't perfectly replicate the complexity of tumors growing in living organisms, so clinical translation will require further validation.",
+  "tags": [
+    "RAS mutation",
+    "cellular senescence",
+    "cancer prevention",
+    "oncogene",
+    "tumor suppression",
+    "dosage effect",
+    "cell cycle"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

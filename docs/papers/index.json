@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-05-02T08:24:04.042559+00:00",
+  "last_updated": "2026-05-03T08:51:15.475394+00:00",
   "papers": [
+    {
+      "id": "20260503_author_correction__titration_of_ras_alte",
+      "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+      "url": "https://www.nature.com/articles/s41586-026-10601-9",
+      "journal": "Nature",
+      "pub_date": "2026-05-01T00:00:00+00:00",
+      "fetched_date": "2026-05-03T08:51:15.475068+00:00",
+      "headline": "Controlling RAS protein levels changes how cells age and affects cancer development.",
+      "cancer_types": [
+        "pancreatic cancer",
+        "lung cancer",
+        "colorectal cancer",
+        "melanoma"
+      ],
+      "tags": [
+        "RAS mutation",
+        "cellular senescence",
+        "cancer prevention",
+        "oncogene",
+        "tumor suppression",
+        "dosage effect",
+        "cell cycle"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260502_activating_p53_sup_y220c__sup__with_a_mu",
       "title": "Activating p53<sup>Y220C</sup> with a mutant-specific small molecule",
