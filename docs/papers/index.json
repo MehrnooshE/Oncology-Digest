@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-05-03T08:51:15.475394+00:00",
+  "last_updated": "2026-05-04T09:26:45.522618+00:00",
   "papers": [
+    {
+      "id": "20260504_mechanically_driven_expandable_patch_pro",
+      "title": "Mechanically-driven expandable patch promotes tracheal defect reconstruction via synergistic microcurrent and mechanical force cascades",
+      "url": "https://www.nature.com/articles/s41467-026-72593-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-04T00:00:00+00:00",
+      "fetched_date": "2026-05-04T09:26:45.522367+00:00",
+      "headline": "Smart patch uses tiny electrical pulses and stretching to repair damaged windpipes.",
+      "cancer_types": [],
+      "tags": [
+        "regenerative medicine",
+        "tissue engineering",
+        "electrical stimulation",
+        "wound healing",
+        "biomaterials",
+        "tracheal repair",
+        "angiogenesis",
+        "expandable devices"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260503_author_correction__titration_of_ras_alte",
       "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",

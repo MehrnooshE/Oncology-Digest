@@ -1,0 +1,69 @@
+{
+  "id": "20260504_mechanically_driven_expandable_patch_pro",
+  "title": "Mechanically-driven expandable patch promotes tracheal defect reconstruction via synergistic microcurrent and mechanical force cascades",
+  "url": "https://www.nature.com/articles/s41467-026-72593-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Zhenyu Zhao",
+    "Jing Liao",
+    "Long Wang",
+    "Jijun Sun",
+    "Yujie Xie",
+    "Yu Chen"
+  ],
+  "pub_date": "2026-05-04T00:00:00+00:00",
+  "fetched_date": "2026-05-04T09:26:45.522367+00:00",
+  "abstract": "<p>Nature Communications, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72593-4\">doi:10.1038/s41467-026-72593-4</a></p>Poor vascularization and weak regenerative signaling limit tracheal repair. Here, the authors develop a mechanically-driven expandable patch to angiogenesis tracheal repair through electromechanical stimulation.",
+  "headline": "Smart patch uses tiny electrical pulses and stretching to repair damaged windpipes.",
+  "why_it_matters": "Windpipe injuries are hard to repair because damaged tissue doesn't heal well on its own. This new patch could help patients with burns, accidents, or surgical complications avoid serious breathing problems. It's a step toward regenerative medicine \u2014 healing organs without transplants.",
+  "key_findings": [
+    "The patch is expandable, meaning it grows gradually as it heals the wound, mimicking how the body naturally stretches tissue during recovery.",
+    "The patch generates tiny electrical currents (microcurrent) that stimulate cells to grow blood vessels \u2014 the capillaries that deliver oxygen and nutrients to repair tissue.",
+    "Mechanical stretching from the expanding patch works together with electrical stimulation in a synergistic cascade \u2014 two forces working as a team, each amplifying the other's effect.",
+    "The combination of electrical + mechanical stimulation triggered significantly more new blood vessel formation than either method alone.",
+    "The approach was tested in animal models and showed successful tracheal (windpipe) defect reconstruction."
+  ],
+  "methods_snapshot": "Researchers created a smart polymer patch embedded with electrodes that expands over time while delivering controlled microcurrent stimulation. They tested this in animal models with tracheal defects, measuring new blood vessel growth and tissue repair over several weeks.",
+  "glossary": [
+    {
+      "term": "Trachea",
+      "definition": "The windpipe \u2014 the tube that carries air from your nose and mouth to your lungs."
+    },
+    {
+      "term": "Angiogenesis",
+      "definition": "The biological process of forming new blood vessels to supply nutrients and oxygen to tissues."
+    },
+    {
+      "term": "Microcurrent",
+      "definition": "Very small electrical currents, measured in millionths of an ampere, that are gentle enough to stimulate living cells."
+    },
+    {
+      "term": "Vascularization",
+      "definition": "The development of a network of blood vessels in tissue."
+    },
+    {
+      "term": "Regenerative signaling",
+      "definition": "Chemical messages cells send to each other telling the body to heal and grow new tissue."
+    },
+    {
+      "term": "Synergistic",
+      "definition": "When two things work together and produce a bigger effect than the sum of their individual effects."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This research was conducted in animal models; human trials are needed to confirm safety and effectiveness. The patch must remain in place long enough to fully promote healing, and questions remain about how long-lasting the effects are in living patients.",
+  "tags": [
+    "regenerative medicine",
+    "tissue engineering",
+    "electrical stimulation",
+    "wound healing",
+    "biomaterials",
+    "tracheal repair",
+    "angiogenesis",
+    "expandable devices"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
