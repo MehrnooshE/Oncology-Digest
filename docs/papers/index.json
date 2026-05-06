@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-05T09:11:32.936978+00:00",
+  "last_updated": "2026-05-06T09:29:51.591086+00:00",
   "papers": [
+    {
+      "id": "20260506_deep_learning_enabled_size_estimation_of",
+      "title": "Deep learning-enabled size estimation of comets indicates a more dynamic early solar system",
+      "url": "https://www.nature.com/articles/s41467-026-72646-8",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-06T00:00:00+00:00",
+      "fetched_date": "2026-05-06T09:29:51.590835+00:00",
+      "headline": "AI reveals our early solar system had far more comets than we thought.",
+      "cancer_types": [],
+      "tags": [
+        "comets",
+        "solar-system-formation",
+        "oort-cloud",
+        "deep-learning",
+        "astronomy",
+        "planetary-science"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The researchers trained an artificial intelligence system to analyze comet brightness patterns and predict their actual sizes\u2014a task too complex for traditional math alone."
+    },
     {
       "id": "20260505_automated_deep_learning_by_recurrent_hyp",
       "title": "Automated deep learning by recurrent hyperparameter optimization",
