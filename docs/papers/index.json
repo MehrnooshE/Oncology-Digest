@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-06T09:29:51.591086+00:00",
+  "last_updated": "2026-05-07T09:39:46.859707+00:00",
   "papers": [
+    {
+      "id": "20260507_rna_triggered_cell_killing_with_crispr_c",
+      "title": "RNA-triggered cell killing with CRISPR\u2013Cas12a2",
+      "url": "https://www.nature.com/articles/s41586-026-10466-y",
+      "journal": "Nature",
+      "pub_date": "2026-05-06T00:00:00+00:00",
+      "fetched_date": "2026-05-07T09:39:46.859443+00:00",
+      "headline": "Scientists create a precision tool to kill cells by detecting specific genes they express.",
+      "cancer_types": [
+        "Not specified \u2014 demonstrated in cells carrying cancer-causing mutations in laboratory models"
+      ],
+      "tags": [
+        "CRISPR",
+        "gene-therapy",
+        "precision-medicine",
+        "cancer-treatment",
+        "RNA-detection",
+        "cell-killing",
+        "molecular-scissors",
+        "immunotherapy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260506_deep_learning_enabled_size_estimation_of",
       "title": "Deep learning-enabled size estimation of comets indicates a more dynamic early solar system",

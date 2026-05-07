@@ -1,0 +1,70 @@
+{
+  "id": "20260507_rna_triggered_cell_killing_with_crispr_c",
+  "title": "RNA-triggered cell killing with CRISPR\u2013Cas12a2",
+  "url": "https://www.nature.com/articles/s41586-026-10466-y",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Paul Scholz",
+    "Jared Thompson",
+    "Kadin T. Crosby",
+    "Torsten Fauth",
+    "Nathan M. Krah",
+    "Grant Schlauderaff"
+  ],
+  "pub_date": "2026-05-06T00:00:00+00:00",
+  "fetched_date": "2026-05-07T09:39:46.859443+00:00",
+  "abstract": "<p>Nature, Published online: 06 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10466-y\">doi:10.1038/s41586-026-10466-y</a></p>Cas12a2 enables RNA-triggered, sequence-specific killing of eukaryotic cells via widespread DNA shredding, allowing selective elimination of cells on the basis of gene expression, including virus-infected or mutation-bearing cells.",
+  "headline": "Scientists create a precision tool to kill cells by detecting specific genes they express.",
+  "why_it_matters": "This technique could help doctors selectively destroy cancer cells, virus-infected cells, or cells carrying dangerous mutations while leaving healthy cells untouched. It's like having a search-and-destroy robot that only targets cells with specific genetic signatures. If it works in patients, it could offer a new treatment option alongside chemotherapy and immunotherapy.",
+  "key_findings": [
+    "Cas12a2 (a molecular scissors protein) can be programmed to recognize specific RNA messages (the cell's temporary genetic instructions) and trigger widespread DNA damage that kills only those matching cells.",
+    "The system kills cells based on what genes they're actively using (their expression profile), not just their DNA blueprint \u2014 meaning it can distinguish between healthy and diseased cells even if they look genetically similar.",
+    "The researchers demonstrated selective killing of virus-infected cells and cells carrying cancer-causing mutations in laboratory experiments.",
+    "This approach causes the cell's DNA to shred extensively, which makes it difficult for cancer cells to repair the damage or develop resistance."
+  ],
+  "methods_snapshot": "The researchers engineered Cas12a2 to activate inside cells when it detects target RNA sequences, triggering a cascade that cuts up the cell's DNA. They tested this in cultured cells (cells grown in dishes) to show it could selectively kill virus-infected and mutant cells.",
+  "glossary": [
+    {
+      "term": "CRISPR\u2013Cas12a2",
+      "definition": "A biological editing tool derived from bacteria that acts as a programmable molecular scissors, able to find and cut specific genetic sequences."
+    },
+    {
+      "term": "RNA-triggered",
+      "definition": "Activated by detecting specific messenger molecules (RNA) that cells produce, rather than by detecting DNA directly."
+    },
+    {
+      "term": "Sequence-specific",
+      "definition": "Able to recognize and act only on cells with a particular genetic code or pattern."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process of a cell actually using its genes to produce proteins and other molecules \u2014 essentially, which genes are 'turned on'."
+    },
+    {
+      "term": "DNA shredding",
+      "definition": "Cutting the cell's DNA into many fragments, which kills the cell because it can no longer function."
+    },
+    {
+      "term": "Eukaryotic cells",
+      "definition": "Complex cells with a nucleus, like human cells (as opposed to simpler bacterial cells)."
+    }
+  ],
+  "cancer_types": [
+    "Not specified \u2014 demonstrated in cells carrying cancer-causing mutations in laboratory models"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a laboratory proof-of-concept study in cultured cells, not yet tested in animals or patients. Key questions remain about how to safely deliver this tool into the body, how the immune system will react, and whether the approach will work against the complexity of real tumors in living organisms.",
+  "tags": [
+    "CRISPR",
+    "gene-therapy",
+    "precision-medicine",
+    "cancer-treatment",
+    "RNA-detection",
+    "cell-killing",
+    "molecular-scissors",
+    "immunotherapy"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
