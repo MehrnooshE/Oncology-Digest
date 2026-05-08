@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-07T09:39:46.859707+00:00",
+  "last_updated": "2026-05-08T08:24:28.081856+00:00",
   "papers": [
+    {
+      "id": "20260508_cd84_is_a_specific_target_for_acute_myel",
+      "title": "CD84 is a specific target for acute myeloid leukemia CAR-T cell therapy",
+      "url": "https://www.nature.com/articles/s41467-026-72361-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-08T00:00:00+00:00",
+      "fetched_date": "2026-05-08T08:24:28.081579+00:00",
+      "headline": "Scientists found a new target on leukemia cells that allows immune cells to attack them more effectively.",
+      "cancer_types": [
+        "acute myeloid leukemia"
+      ],
+      "tags": [
+        "CAR-T therapy",
+        "acute myeloid leukemia",
+        "immunotherapy",
+        "CD84",
+        "cancer treatment",
+        "cell therapy",
+        "blood cancer",
+        "precision medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260507_rna_triggered_cell_killing_with_crispr_c",
       "title": "RNA-triggered cell killing with CRISPR\u2013Cas12a2",

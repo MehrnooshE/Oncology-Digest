@@ -1,0 +1,66 @@
+{
+  "id": "20260508_cd84_is_a_specific_target_for_acute_myel",
+  "title": "CD84 is a specific target for acute myeloid leukemia CAR-T cell therapy",
+  "url": "https://www.nature.com/articles/s41467-026-72361-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Martina Pigazzi",
+    "Silvia Merlini",
+    "Ambra Da Ros",
+    "Olivia Marini",
+    "Giovanni Faggin",
+    "Nicol\u00f2 Fortuna"
+  ],
+  "pub_date": "2026-05-08T00:00:00+00:00",
+  "fetched_date": "2026-05-08T08:24:28.081579+00:00",
+  "abstract": "<p>Nature Communications, Published online: 08 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72361-4\">doi:10.1038/s41467-026-72361-4</a></p>Chimeric antigen receptor (CAR)-T cell therapy has been shown successful in a range of malignancies but due to an absence of notable antigenic targets has limited its application to acute myeloid leukaemia (AML). Here the authors identify CD84 as a potential target for AML and show that the application of CD84 CAR-T in models of AML results in reduced tumour burden and enhanced survival.",
+  "headline": "Scientists found a new target on leukemia cells that allows immune cells to attack them more effectively.",
+  "why_it_matters": "Acute myeloid leukemia (AML) is a deadly blood cancer that has been hard to treat with a promising new therapy called CAR-T cells. This discovery opens the door to using CAR-T therapy for AML patients who currently have limited options. If this works in human trials, it could give thousands of AML patients a new chance at survival.",
+  "key_findings": [
+    "CD84 is a protein found on AML cells that can be recognized as a target by CAR-T cells (immune cells that have been reprogrammed to hunt down cancer)",
+    "When researchers created CAR-T cells designed to recognize CD84, these cells successfully killed AML cancer cells in laboratory and animal models",
+    "Mice treated with CD84-targeting CAR-T cells showed reduced tumor growth and lived longer than untreated mice",
+    "CD84 appears to be specific to blood cancer cells, meaning the therapy might avoid harming healthy cells"
+  ],
+  "methods_snapshot": "The team identified CD84 as a target by analyzing which proteins are present on AML cells. They then created CAR-T cells (by taking immune cells and genetically modifying them to display a 'recognition receptor' for CD84) and tested how well these cells killed cancer in laboratory dishes and in mice.",
+  "glossary": [
+    {
+      "term": "CAR-T cell therapy",
+      "definition": "A treatment where a patient's immune cells are removed, engineered in a lab to recognize and attack cancer, then returned to the patient's body"
+    },
+    {
+      "term": "Acute myeloid leukemia (AML)",
+      "definition": "A fast-growing blood cancer that starts in cells that normally develop into white blood cells"
+    },
+    {
+      "term": "CD84",
+      "definition": "A protein found on the surface of AML cells that can act as a marker for immune cells to identify and attack"
+    },
+    {
+      "term": "Antigen",
+      "definition": "A molecule on a cell's surface that the immune system can recognize as a target"
+    },
+    {
+      "term": "Chimeric antigen receptor (CAR)",
+      "definition": "An engineered receptor placed on immune cells that allows them to recognize and attack specific cancer cells"
+    }
+  ],
+  "cancer_types": [
+    "acute myeloid leukemia"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was done in laboratory dishes and mice, not yet in human patients, so we don't know if the same success will translate to people. The long-term safety and whether healthy blood cells might also be affected remain to be tested in clinical trials.",
+  "tags": [
+    "CAR-T therapy",
+    "acute myeloid leukemia",
+    "immunotherapy",
+    "CD84",
+    "cancer treatment",
+    "cell therapy",
+    "blood cancer",
+    "precision medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
