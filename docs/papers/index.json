@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-08T08:24:28.081856+00:00",
+  "last_updated": "2026-05-09T08:45:25.162965+00:00",
   "papers": [
+    {
+      "id": "20260509_anti_pd_1_plus_nab_paclitaxel_and_bevaci",
+      "title": "Anti-PD-1 plus nab-paclitaxel and bevacizumab for second-line treatment of cancer of unknown primary (Fudan CUP-002): a phase II trial",
+      "url": "https://www.nature.com/articles/s41467-026-72745-6",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-09T00:00:00+00:00",
+      "fetched_date": "2026-05-09T08:45:25.162697+00:00",
+      "headline": "New drug combination shows promise for hard-to-treat cancers with unknown origins.",
+      "cancer_types": [
+        "cancer of unknown primary"
+      ],
+      "tags": [
+        "immunotherapy",
+        "cancer-of-unknown-primary",
+        "combination-therapy",
+        "second-line-treatment",
+        "phase-II-trial",
+        "anti-PD-1",
+        "bevacizumab",
+        "chemotherapy"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260508_cd84_is_a_specific_target_for_acute_myel",
       "title": "CD84 is a specific target for acute myeloid leukemia CAR-T cell therapy",

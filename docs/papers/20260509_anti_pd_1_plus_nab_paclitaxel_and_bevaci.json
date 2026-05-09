@@ -1,0 +1,78 @@
+{
+  "id": "20260509_anti_pd_1_plus_nab_paclitaxel_and_bevaci",
+  "title": "Anti-PD-1 plus nab-paclitaxel and bevacizumab for second-line treatment of cancer of unknown primary (Fudan CUP-002): a phase II trial",
+  "url": "https://www.nature.com/articles/s41467-026-72745-6",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Xiaowei Zhang",
+    "Ting Zhao",
+    "Midie Xu",
+    "Yanjing Guo",
+    "Qifeng Wang",
+    "Yanli Wang"
+  ],
+  "pub_date": "2026-05-09T00:00:00+00:00",
+  "fetched_date": "2026-05-09T08:45:25.162697+00:00",
+  "abstract": "<p>Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72745-6\">doi:10.1038/s41467-026-72745-6</a></p>Cancer of unknown primary (CUP) represents a heterogenous group of metastatic malignancies with no standard of care following disease progression. Here, the authors report a phase II clinical trial evaluating F520 (anti-PD-1), bevacizumab (VEGF inhibitor) and nab-paclitaxel in the second line setting for patients with cancer of unknown primary.",
+  "headline": "New drug combination shows promise for hard-to-treat cancers with unknown origins.",
+  "why_it_matters": "Cancer of unknown primary (CUP) is especially dangerous because doctors don't know where it started, making it harder to treat. This study tests a new three-drug combination that could help patients whose cancer has already resisted initial treatment. If successful, it could become a standard option for thousands of patients facing limited choices.",
+  "key_findings": [
+    "Researchers combined three drugs: anti-PD-1 (which activates the immune system), bevacizumab (which cuts off blood supply to tumors), and nab-paclitaxel (a chemotherapy drug that damages cancer cells).",
+    "This combination was tested in patients with CUP who had already failed one round of treatment, representing a real clinical need with few options.",
+    "The study measured how many patients responded to the treatment and how long they survived \u2014 key measures of whether a cancer drug works.",
+    "This is a phase II trial, meaning it's an intermediate step to confirm the treatment is safe and effective enough to justify larger, definitive studies."
+  ],
+  "methods_snapshot": "Researchers enrolled patients with cancer of unknown primary who had not responded to standard first-line treatment, then gave them the three-drug combination and tracked their response and survival. The study design allowed researchers to evaluate both how well the treatment worked and what side effects patients experienced.",
+  "glossary": [
+    {
+      "term": "Cancer of unknown primary (CUP)",
+      "definition": "A cancer that has spread to multiple parts of the body but doctors cannot identify where the original tumor started."
+    },
+    {
+      "term": "Anti-PD-1",
+      "definition": "A drug that removes a 'brake' on the immune system, allowing it to attack cancer cells more effectively."
+    },
+    {
+      "term": "Bevacizumab",
+      "definition": "A drug that blocks the growth of new blood vessels feeding tumors, essentially starving them of nutrients."
+    },
+    {
+      "term": "Nab-paclitaxel",
+      "definition": "A chemotherapy drug that damages the internal structures cancer cells need to divide and grow."
+    },
+    {
+      "term": "Second-line treatment",
+      "definition": "The therapy given to patients whose cancer did not respond to or stopped responding to the first treatment they received."
+    },
+    {
+      "term": "Phase II trial",
+      "definition": "A mid-stage clinical study that tests whether a new treatment is effective and safe, before moving to larger confirmation trials."
+    },
+    {
+      "term": "Metastatic",
+      "definition": "Cancer that has spread from where it started to other parts of the body."
+    },
+    {
+      "term": "VEGF inhibitor",
+      "definition": "A drug that blocks signals that tell the body to grow new blood vessels that feed tumors."
+    }
+  ],
+  "cancer_types": [
+    "cancer of unknown primary"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a phase II trial, which is smaller and less definitive than the final phase III trials needed to confirm a treatment works. The results apply specifically to patients with CUP whose cancer already resisted first-line treatment, so findings may not apply to all cancer patients.",
+  "tags": [
+    "immunotherapy",
+    "cancer-of-unknown-primary",
+    "combination-therapy",
+    "second-line-treatment",
+    "phase-II-trial",
+    "anti-PD-1",
+    "bevacizumab",
+    "chemotherapy"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
