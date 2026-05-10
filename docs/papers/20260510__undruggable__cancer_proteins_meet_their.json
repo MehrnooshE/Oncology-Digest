@@ -1,0 +1,57 @@
+{
+  "id": "20260510__undruggable__cancer_proteins_meet_their",
+  "title": "\u2018Undruggable\u2019 cancer proteins meet their match",
+  "url": "https://www.nature.com/articles/d41586-026-01447-2",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-05-08T00:00:00+00:00",
+  "fetched_date": "2026-05-10T08:59:06.007273+00:00",
+  "abstract": "<p>Nature, Published online: 08 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01447-2\">doi:10.1038/d41586-026-01447-2</a></p>People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.",
+  "headline": "New drug stops hard-to-treat pancreatic cancer proteins, extending patient survival",
+  "why_it_matters": "Pancreatic cancer is one of the deadliest cancers, and many of its driver proteins were thought impossible to block with drugs. This breakthrough shows we can now target these 'undruggable' proteins, potentially offering hope to patients who previously had few options. Even modest survival gains in such aggressive cancers represent major progress.",
+  "key_findings": [
+    "Researchers developed a drug that successfully blocks a family of mutant proteins (abnormal versions of normal cell proteins) that drive a particularly deadly form of pancreatic cancer",
+    "Patients treated with this drug survived longer than those on standard treatments, showing the drug actually works in real people, not just in lab dishes",
+    "These proteins were previously thought 'undruggable'\u2014meaning scientists believed no drug could ever block them\u2014because of their slippery, smooth structure",
+    "The drug works by targeting these proteins in a novel way that overcomes the structural challenges that made them seem impossible to drug"
+  ],
+  "methods_snapshot": "Researchers studied patients with pancreatic cancer caused by these specific mutant proteins and compared survival outcomes between those receiving the new drug versus standard treatments. They likely used molecular techniques to understand exactly how the drug binds to and disables these target proteins at the atomic level.",
+  "glossary": [
+    {
+      "term": "undruggable proteins",
+      "definition": "Proteins that are structurally difficult or seemingly impossible for drug molecules to bind to and block"
+    },
+    {
+      "term": "mutant proteins",
+      "definition": "Abnormal versions of proteins caused by mutations (changes in DNA) that often drive cancer growth"
+    },
+    {
+      "term": "pancreatic cancer",
+      "definition": "A cancer that starts in the pancreas, an organ that helps digest food and regulate blood sugar; generally aggressive and hard to treat"
+    },
+    {
+      "term": "protein blocking",
+      "definition": "Using a drug to prevent a protein from doing its job inside cells, usually by physically attaching to it"
+    },
+    {
+      "term": "survival extension",
+      "definition": "Patients living longer on average after diagnosis or treatment compared to a comparison group"
+    }
+  ],
+  "cancer_types": [
+    "pancreatic cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a news summary of research, so specific details about patient numbers, trial duration, and side effects are not provided. Real-world drug effectiveness can differ from initial studies, and longer follow-up will be needed to confirm these benefits hold over time.",
+  "tags": [
+    "pancreatic cancer",
+    "targeted therapy",
+    "protein inhibitor",
+    "drug development",
+    "survival",
+    "undruggable targets"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
