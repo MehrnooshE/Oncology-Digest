@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-10T08:59:06.007565+00:00",
+  "last_updated": "2026-05-11T10:41:03.685482+00:00",
   "papers": [
+    {
+      "id": "20260511_a_new_treatment_for_preterm_pre_eclampsi",
+      "title": "A new treatment for preterm pre-eclampsia could benefit mother and child",
+      "url": "https://www.nature.com/articles/s41591-026-04400-y",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-05-11T00:00:00+00:00",
+      "fetched_date": "2026-05-11T10:41:03.685269+00:00",
+      "headline": "Removing a harmful placental protein safely improves outcomes in dangerous pregnancy complications.",
+      "cancer_types": [],
+      "tags": [
+        "pre-eclampsia",
+        "pregnancy",
+        "targeted-therapy",
+        "clinical-trial",
+        "maternal-health",
+        "sFlt-1"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260510__undruggable__cancer_proteins_meet_their",
       "title": "\u2018Undruggable\u2019 cancer proteins meet their match",

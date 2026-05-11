@@ -1,0 +1,58 @@
+{
+  "id": "20260511_a_new_treatment_for_preterm_pre_eclampsi",
+  "title": "A new treatment for preterm pre-eclampsia could benefit mother and child",
+  "url": "https://www.nature.com/articles/s41591-026-04400-y",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Meryam Sugulle",
+    "Anne Cathrine Staff"
+  ],
+  "pub_date": "2026-05-11T00:00:00+00:00",
+  "fetched_date": "2026-05-11T10:41:03.685269+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41591-026-04400-y\">doi:10.1038/s41591-026-04400-y</a></p>A first-in-human trial involving selective removal of the placental protein sFlt-1 in preterm pre-eclampsia provides critical safety data, and could mark the beginning of a new era of targeted therapy for this potentially lethal pregnancy complication.",
+  "headline": "Removing a harmful placental protein safely improves outcomes in dangerous pregnancy complications.",
+  "why_it_matters": "Pre-eclampsia is a life-threatening condition that affects pregnant people and can harm or kill both mother and baby. This is the first human test of a targeted treatment that removes a specific harmful protein, offering hope for safer pregnancies when the condition develops early. If it works, doctors could have a new tool to save lives during high-risk pregnancies.",
+  "key_findings": [
+    "Selective removal of sFlt-1 (a protein made by the placenta that damages blood vessels) was safe in human patients with early-onset pre-eclampsia",
+    "The treatment targeted the root cause of the disease rather than just treating symptoms like high blood pressure",
+    "This first-in-human trial provided critical safety data needed before larger studies can proceed",
+    "The approach could extend pregnancy duration and reduce harm to both mother and developing baby in cases where pre-eclampsia appears early"
+  ],
+  "methods_snapshot": "Researchers conducted a first-in-human clinical trial where they selectively removed sFlt-1 protein from the blood of pregnant patients with severe early pre-eclampsia. The team monitored safety and outcomes to see if this targeted approach was tolerable and showed signs of benefit.",
+  "glossary": [
+    {
+      "term": "pre-eclampsia",
+      "definition": "A dangerous pregnancy condition where the mother develops high blood pressure and organ damage, threatening both her life and the baby's"
+    },
+    {
+      "term": "sFlt-1",
+      "definition": "A protein made by the placenta that, in excess, damages blood vessels and causes pre-eclampsia symptoms"
+    },
+    {
+      "term": "preterm",
+      "definition": "Happening before the normal 40-week pregnancy is complete, increasing health risks for the newborn"
+    },
+    {
+      "term": "placenta",
+      "definition": "The organ that connects a developing baby to the mother and supplies oxygen and nutrients"
+    },
+    {
+      "term": "targeted therapy",
+      "definition": "Treatment designed to attack a specific harmful molecule or cause rather than using broad-acting drugs"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This was a small first-in-human safety trial, so results are preliminary and larger studies are needed to confirm effectiveness. The long-term outcomes for babies and mothers and optimal timing of treatment still need investigation.",
+  "tags": [
+    "pre-eclampsia",
+    "pregnancy",
+    "targeted-therapy",
+    "clinical-trial",
+    "maternal-health",
+    "sFlt-1"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
