@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-11T10:41:03.685482+00:00",
+  "last_updated": "2026-05-12T09:44:37.904220+00:00",
   "papers": [
+    {
+      "id": "20260512_tumor_derived_gdf15_induces_ccn3__schwan",
+      "title": "Tumor-derived GDF15 induces CCN3\u207a Schwann cells to promote cancer pain in pancreatic cancer",
+      "url": "https://www.nature.com/articles/s41467-026-72932-5",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-12T00:00:00+00:00",
+      "fetched_date": "2026-05-12T09:44:37.903970+00:00",
+      "headline": "Cancer cells trigger nerve-support cells to amplify pain signals in pancreatic cancer.",
+      "cancer_types": [
+        "pancreatic ductal adenocarcinoma"
+      ],
+      "tags": [
+        "pancreatic-cancer",
+        "cancer-pain",
+        "nerve-cells",
+        "GDF15",
+        "Schwann-cells",
+        "pain-mechanism",
+        "immunotherapy-target",
+        "translational-research"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260511_a_new_treatment_for_preterm_pre_eclampsi",
       "title": "A new treatment for preterm pre-eclampsia could benefit mother and child",
