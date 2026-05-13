@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-12T09:44:37.904220+00:00",
+  "last_updated": "2026-05-13T09:48:39.955711+00:00",
   "papers": [
+    {
+      "id": "20260513_ai_bills_can_be_as_big_as_a_postdoc_sala",
+      "title": "AI bills can be as big as a postdoc salary. Is the cost worth it?",
+      "url": "https://www.nature.com/articles/d41586-026-01369-z",
+      "journal": "Nature",
+      "pub_date": "2026-05-12T00:00:00+00:00",
+      "fetched_date": "2026-05-13T09:48:39.955470+00:00",
+      "headline": "AI tools are getting too expensive for cancer researchers to use routinely.",
+      "cancer_types": [],
+      "tags": [
+        "AI costs",
+        "research funding",
+        "cancer research",
+        "accessibility",
+        "machine learning",
+        "scientific equity"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "AI and machine learning tools are widely used in cancer research to identify tumors in images and predict which treatments will work best, but financial barriers and reliability concerns are limiting their adoption."
+    },
     {
       "id": "20260512_tumor_derived_gdf15_induces_ccn3__schwan",
       "title": "Tumor-derived GDF15 induces CCN3\u207a Schwann cells to promote cancer pain in pancreatic cancer",

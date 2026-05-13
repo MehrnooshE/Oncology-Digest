@@ -1,0 +1,49 @@
+{
+  "id": "20260513_ai_bills_can_be_as_big_as_a_postdoc_sala",
+  "title": "AI bills can be as big as a postdoc salary. Is the cost worth it?",
+  "url": "https://www.nature.com/articles/d41586-026-01369-z",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Chris Stokel-Walker"
+  ],
+  "pub_date": "2026-05-12T00:00:00+00:00",
+  "fetched_date": "2026-05-13T09:48:39.955470+00:00",
+  "abstract": "<p>Nature, Published online: 12 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01369-z\">doi:10.1038/d41586-026-01369-z</a></p>Recent price hikes, usage limitations and unreliable outputs are causing some scientific researchers to think twice about using artificial intelligence.",
+  "headline": "AI tools are getting too expensive for cancer researchers to use routinely.",
+  "why_it_matters": "Cancer researchers increasingly rely on artificial intelligence to spot tumors, predict treatment outcomes, and discover new drugs. But rising costs and unreliable results are forcing labs to reconsider whether AI is worth the investment\u2014potentially slowing down scientific progress that could help patients.",
+  "key_findings": [
+    "AI subscription fees are now competing with postdoc salaries (junior researcher salaries) in research budgets, forcing difficult choices about where to spend limited money.",
+    "Recent price increases and usage caps (limits on how much you can use a service) are making AI tools less accessible to individual research groups and universities.",
+    "Some AI systems give unreliable or inconsistent outputs, meaning researchers can't always trust the results without expensive human verification.",
+    "Cost barriers may widen the gap between well-funded institutions and smaller labs, creating inequality in who can access cutting-edge research tools."
+  ],
+  "methods_snapshot": "This is a perspective piece surveying current trends and challenges in AI adoption among cancer researchers, rather than a traditional experiment. The author gathered information about pricing changes, usage limitations, and researcher experiences with AI tools in the field.",
+  "glossary": [
+    {
+      "term": "Postdoc",
+      "definition": "A junior researcher who recently completed their PhD and works under senior scientists to gain research experience."
+    },
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer systems trained to recognize patterns and make decisions, often without being explicitly programmed for each task."
+    },
+    {
+      "term": "Usage limitations",
+      "definition": "Caps or restrictions on how many times you can use a paid service in a given time period."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI and machine learning tools are widely used in cancer research to identify tumors in images and predict which treatments will work best, but financial barriers and reliability concerns are limiting their adoption.",
+  "limitations": "This is an opinion and analysis piece rather than original research data, so it reflects current market conditions and researcher experiences but doesn't test the performance of any specific AI system. The cost landscape is changing rapidly, so some pricing information may become outdated quickly.",
+  "tags": [
+    "AI costs",
+    "research funding",
+    "cancer research",
+    "accessibility",
+    "machine learning",
+    "scientific equity"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
