@@ -1,0 +1,75 @@
+{
+  "id": "20260514_m_sup_6__sup_a_modification_suppresses_i",
+  "title": "m<sup>6</sup>A modification suppresses innate anti-tumour immunity in colorectal cancer by limiting alu-derived dsRNA accumulation",
+  "url": "https://www.nature.com/articles/s41467-026-73211-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yucheng Wang",
+    "Alice A. Daddi",
+    "Amir Hosseini",
+    "Kazuki Kato",
+    "Ehsan Khalili",
+    "H\u00e5vard T. Lindholm"
+  ],
+  "pub_date": "2026-05-14T00:00:00+00:00",
+  "fetched_date": "2026-05-14T09:37:20.317306+00:00",
+  "abstract": "<p>Nature Communications, Published online: 14 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73211-z\">doi:10.1038/s41467-026-73211-z</a></p>Retroelement transcripts-derived double-stranded RNAs (dsRNAs) can trigger innate immune responses in cancer through a process known as viral mimicry. Here the authors show that METTL3, the writer of m6A modification, regulates the abundance of steady-state dsRNAs and it could be targeted together with DNA methyltransferases to enhance viral mimicry in colorectal cancer therapy.",
+  "headline": "Cancer cells use a molecular trick to hide from immune attack; researchers found how to block it.",
+  "why_it_matters": "Colorectal cancer cells currently evade the immune system too easily. This research identifies a new vulnerability that could be exploited to wake up the body's natural defenses against tumors. If this works in patients, it could lead to better treatments with fewer side effects than traditional chemotherapy.",
+  "key_findings": [
+    "Cancer cells add chemical tags called m6A modifications (methyl groups attached to RNA molecules) to disable alarm signals that normally alert the immune system to danger.",
+    "These alarm signals come from old viral DNA fragments (called retroelements or Alu sequences) that all human cells carry but normally keep quiet. When these fragments accidentally get copied into double-stranded RNA (dsRNA), they look like invading viruses to immune cells.",
+    "A protein called METTL3 acts as the 'tagger' \u2014 it applies the m6A modifications that essentially silence these warning signals, allowing the cancer to hide.",
+    "Blocking METTL3 in cancer cells causes the Alu-derived dsRNA alarms to accumulate, triggering stronger immune responses that kill the cancer cells.",
+    "Combining METTL3 inhibition with drugs that block DNA methyltransferases (proteins that silence genes) was more effective than either approach alone at activating anti-tumor immunity."
+  ],
+  "methods_snapshot": "Researchers studied colorectal cancer cells in the laboratory and in mice, using molecular techniques to measure RNA modifications and immune cell activity. They used genetic and chemical tools to block METTL3 and other proteins to see what effect this had on tumor growth and immune activation.",
+  "glossary": [
+    {
+      "term": "m6A modification",
+      "definition": "A chemical tag (methyl group) attached to RNA molecules that acts like a label affecting how the cell reads and uses that RNA."
+    },
+    {
+      "term": "dsRNA (double-stranded RNA)",
+      "definition": "Two strands of RNA wrapped around each other like a twisted ladder \u2014 the cell treats this as a danger signal resembling viral invasion."
+    },
+    {
+      "term": "Retroelements (Alu sequences)",
+      "definition": "Ancient viral DNA sequences that integrated into human genomes millions of years ago and are still present in all our cells today."
+    },
+    {
+      "term": "Viral mimicry",
+      "definition": "When cancer cells accidentally produce patterns that look like viral invaders to the immune system, triggering an immune attack."
+    },
+    {
+      "term": "METTL3",
+      "definition": "A protein that acts as the 'writer' of m6A tags on RNA molecules, controlling their chemical labeling."
+    },
+    {
+      "term": "Innate immunity",
+      "definition": "The body's first-line defense system that detects broad danger signals, as opposed to learned immunity (adaptive immunity) that targets specific pathogens."
+    },
+    {
+      "term": "DNA methyltransferase",
+      "definition": "A protein that adds chemical marks to DNA to turn genes on or off, often used by cancer cells to silence tumor-fighting genes."
+    }
+  ],
+  "cancer_types": [
+    "colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted in laboratory cancer cells and mouse models; it is not yet clear whether blocking METTL3 will work safely and effectively in human colorectal cancer patients. The approach may need to be refined before it can be tested in clinical trials.",
+  "tags": [
+    "colorectal cancer",
+    "immune evasion",
+    "RNA modification",
+    "innate immunity",
+    "METTL3",
+    "therapeutic target",
+    "combination therapy",
+    "viral mimicry"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
