@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-05-14T09:37:20.317574+00:00",
+  "last_updated": "2026-05-15T09:50:22.709485+00:00",
   "papers": [
+    {
+      "id": "20260515_does_the_psa_test_for_prostate_cancer_sa",
+      "title": "Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings",
+      "url": "https://www.nature.com/articles/d41586-026-01549-x",
+      "journal": "Nature",
+      "pub_date": "2026-05-14T00:00:00+00:00",
+      "fetched_date": "2026-05-15T09:50:22.709202+00:00",
+      "headline": "A blood test for prostate cancer may not save lives after all, experts now say.",
+      "cancer_types": [
+        "prostate cancer"
+      ],
+      "tags": [
+        "prostate-cancer",
+        "screening",
+        "PSA-test",
+        "medical-guidelines",
+        "cancer-prevention",
+        "evidence-based-medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260514_m_sup_6__sup_a_modification_suppresses_i",
       "title": "m<sup>6</sup>A modification suppresses innate anti-tumour immunity in colorectal cancer by limiting alu-derived dsRNA accumulation",

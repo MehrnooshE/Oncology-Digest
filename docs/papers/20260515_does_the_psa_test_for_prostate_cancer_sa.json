@@ -1,0 +1,55 @@
+{
+  "id": "20260515_does_the_psa_test_for_prostate_cancer_sa",
+  "title": "Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings",
+  "url": "https://www.nature.com/articles/d41586-026-01549-x",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Holly Else"
+  ],
+  "pub_date": "2026-05-14T00:00:00+00:00",
+  "fetched_date": "2026-05-15T09:50:22.709202+00:00",
+  "abstract": "<p>Nature, Published online: 14 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01549-x\">doi:10.1038/d41586-026-01549-x</a></p>Health-evidence reviewers reverse recommendation on a blood test that detects a biomarker of a common cancer after decades of controversy.",
+  "headline": "A blood test for prostate cancer may not save lives after all, experts now say.",
+  "why_it_matters": "For decades, doctors recommended PSA blood tests to screen for prostate cancer, but new evidence suggests they don't actually help people live longer and may cause unnecessary worry and treatment. This reversal affects millions of men who receive this test regularly, potentially changing standard medical advice.",
+  "key_findings": [
+    "Expert reviewers changed their recommendation on PSA testing (a blood test measuring prostate-specific antigen, a protein produced by the prostate gland) after analyzing decades of research.",
+    "The PSA test detects cancer markers but doesn't clearly prevent deaths from prostate cancer or improve survival rates in large populations.",
+    "Previous studies that supported routine PSA screening are being reconsidered due to new, more rigorous evidence about whether screening actually helps patients.",
+    "The controversy highlights how medical recommendations can shift when more comprehensive data becomes available, even for widely-used tests."
+  ],
+  "methods_snapshot": "Experts systematically reviewed and evaluated all major research studies on PSA screening over many decades, comparing outcomes like death rates and quality of life between people who were screened and those who weren't. They used evidence-based methods to determine whether the test's benefits (finding cancer early) outweigh its harms (false alarms and unnecessary treatments).",
+  "glossary": [
+    {
+      "term": "PSA",
+      "definition": "Prostate-specific antigen\u2014a protein made by the prostate gland that doctors measure in blood to look for cancer signs."
+    },
+    {
+      "term": "Screening",
+      "definition": "Testing healthy people to catch disease early, before symptoms appear."
+    },
+    {
+      "term": "Biomarker",
+      "definition": "A measurable substance in the body (like a protein in blood) that signals disease or health status."
+    },
+    {
+      "term": "Evidence review",
+      "definition": "A careful examination of all published scientific studies on a topic to reach conclusions about what works."
+    }
+  ],
+  "cancer_types": [
+    "prostate cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a review of existing research rather than a new experiment, so it depends on the quality of earlier studies. The recommendation reversal may take time to reach all doctors and patients, and individual cases may differ from population-level findings.",
+  "tags": [
+    "prostate-cancer",
+    "screening",
+    "PSA-test",
+    "medical-guidelines",
+    "cancer-prevention",
+    "evidence-based-medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
