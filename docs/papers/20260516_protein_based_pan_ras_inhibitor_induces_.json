@@ -1,0 +1,74 @@
+{
+  "id": "20260516_protein_based_pan_ras_inhibitor_induces_",
+  "title": "Protein-based pan-RAS inhibitor induces tumor regression in female mice via IFN\u03b3 and CD8<sup>+</sup>\u2009T cell-dependent tumor necrosis",
+  "url": "https://www.nature.com/articles/s41467-026-73300-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Teiko Komori Nomura",
+    "Kazuki Heishima",
+    "Hidefumi Mukai",
+    "Kosuke Arai",
+    "Abdelazim Elsayed Elhelaly",
+    "Hirobumi Fuchigami"
+  ],
+  "pub_date": "2026-05-16T00:00:00+00:00",
+  "fetched_date": "2026-05-16T08:51:20.592770+00:00",
+  "abstract": "<p>Nature Communications, Published online: 16 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73300-z\">doi:10.1038/s41467-026-73300-z</a></p>Many cancers depend on RAS signaling, but blocking diverse RAS mutants remains challenging. Here, authors engineer a protein-based pan-RAS inhibitor that induces tumor regression in mouse models and reveals an immune-dependent mechanism of action",
+  "headline": "New protein drug blocks RAS cancer driver and triggers immune system to shrink tumors.",
+  "why_it_matters": "Many cancers are powered by a broken gene called RAS, but existing drugs struggle to stop all versions of it. This new approach not only blocks RAS but also wakes up the immune system to attack cancer cells \u2014 potentially offering better results for patients with hard-to-treat cancers.",
+  "key_findings": [
+    "Researchers created a protein-based drug that can block multiple versions of the RAS protein (a common cancer driver gene), which is difficult for traditional small-molecule drugs to do.",
+    "The drug worked in female mice with RAS-driven tumors, causing significant tumor shrinkage or complete regression.",
+    "The tumor-killing effect depends on interferon-gamma (IFN\u03b3), a chemical messenger that activates the immune system.",
+    "CD8+ T cells (immune cells that hunt down cancer) are essential for the drug's success \u2014 without them, the treatment failed.",
+    "This reveals an immune-dependent mechanism: the drug doesn't just directly poison cancer cells, but recruits the body's own immune system to destroy them."
+  ],
+  "methods_snapshot": "Scientists engineered a custom protein to bind and block RAS in cancer cells, then tested it in mouse models of RAS-driven tumors. They used genetic techniques to remove specific immune components and observed whether tumors still shrank, identifying which immune players were critical.",
+  "glossary": [
+    {
+      "term": "RAS protein",
+      "definition": "A cellular switch that controls growth signals; when mutated, it gets stuck in the 'on' position and drives cancer."
+    },
+    {
+      "term": "Pan-RAS inhibitor",
+      "definition": "A drug that can block many different mutated versions of the RAS protein, rather than just one."
+    },
+    {
+      "term": "Interferon-gamma (IFN\u03b3)",
+      "definition": "A signaling molecule released by immune cells that activates other immune defenses and can make cancer cells more vulnerable."
+    },
+    {
+      "term": "CD8+ T cells",
+      "definition": "Killer immune cells trained to recognize and destroy infected or cancerous cells."
+    },
+    {
+      "term": "Tumor regression",
+      "definition": "Shrinkage or disappearance of a tumor."
+    },
+    {
+      "term": "Immune-dependent mechanism",
+      "definition": "A treatment effect that relies on the body's immune system rather than working directly on cancer cells alone."
+    }
+  ],
+  "cancer_types": [
+    "RAS-mutant cancers",
+    "pancreatic cancer",
+    "colorectal cancer",
+    "lung cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was conducted in female mice only, so results may not generalize to male mice or humans. Protein-based drugs can be expensive and difficult to deliver to tumors in real patients, presenting practical challenges beyond the lab.",
+  "tags": [
+    "RAS inhibitor",
+    "immunotherapy",
+    "protein engineering",
+    "CD8 T cells",
+    "tumor immunity",
+    "preclinical",
+    "cancer immunology",
+    "drug development"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

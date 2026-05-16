@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-05-15T09:50:22.709485+00:00",
+  "last_updated": "2026-05-16T08:51:20.593062+00:00",
   "papers": [
+    {
+      "id": "20260516_protein_based_pan_ras_inhibitor_induces_",
+      "title": "Protein-based pan-RAS inhibitor induces tumor regression in female mice via IFN\u03b3 and CD8<sup>+</sup>\u2009T cell-dependent tumor necrosis",
+      "url": "https://www.nature.com/articles/s41467-026-73300-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-16T00:00:00+00:00",
+      "fetched_date": "2026-05-16T08:51:20.592770+00:00",
+      "headline": "New protein drug blocks RAS cancer driver and triggers immune system to shrink tumors.",
+      "cancer_types": [
+        "RAS-mutant cancers",
+        "pancreatic cancer",
+        "colorectal cancer",
+        "lung cancer"
+      ],
+      "tags": [
+        "RAS inhibitor",
+        "immunotherapy",
+        "protein engineering",
+        "CD8 T cells",
+        "tumor immunity",
+        "preclinical",
+        "cancer immunology",
+        "drug development"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260515_does_the_psa_test_for_prostate_cancer_sa",
       "title": "Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings",
