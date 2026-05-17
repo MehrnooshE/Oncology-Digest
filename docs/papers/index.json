@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-16T08:51:20.593062+00:00",
+  "last_updated": "2026-05-17T09:09:31.547475+00:00",
   "papers": [
+    {
+      "id": "20260517_de_novo_design_of_peptides_localizing_at",
+      "title": "De novo design of peptides localizing at the interface of biomolecular condensates",
+      "url": "https://www.nature.com/articles/s41467-026-73099-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-16T00:00:00+00:00",
+      "fetched_date": "2026-05-17T09:09:31.547171+00:00",
+      "headline": "Scientists designed custom proteins that stick to the edges of cell droplets.",
+      "cancer_types": [],
+      "tags": [
+        "biomolecular condensates",
+        "peptide design",
+        "machine learning",
+        "protein engineering",
+        "computational biology",
+        "cell biology",
+        "drug discovery"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "Machine learning algorithms were trained to recognize which peptide designs would successfully localize at condensate interfaces, enabling the discovery of design rules that would be impossible to find through manual analysis alone."
+    },
     {
       "id": "20260516_protein_based_pan_ras_inhibitor_induces_",
       "title": "Protein-based pan-RAS inhibitor induces tumor regression in female mice via IFN\u03b3 and CD8<sup>+</sup>\u2009T cell-dependent tumor necrosis",
