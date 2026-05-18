@@ -1,0 +1,68 @@
+{
+  "id": "20260518_publisher_correction__microbiota_induced",
+  "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+  "url": "https://www.nature.com/articles/s41586-026-10649-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Tariq A. Najar",
+    "Yuan Hao",
+    "Yuhan Hao",
+    "Gabriela Romero-Meza",
+    "Alexandra Dolynuk",
+    "Emma Almo"
+  ],
+  "pub_date": "2026-05-18T00:00:00+00:00",
+  "fetched_date": "2026-05-18T11:10:34.295853+00:00",
+  "abstract": "<p>Nature, Published online: 18 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10649-7\">doi:10.1038/s41586-026-10649-7</a></p>Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+  "headline": "Gut bacteria help immune cells fight cancer by making them more flexible and adaptable.",
+  "why_it_matters": "This discovery reveals a new way that bacteria living in our digestive system influence our ability to fight tumors. If confirmed, it could lead to new cancer treatments that work with our microbiome rather than against it, potentially making immunotherapy (training the immune system to attack cancer) work better for more patients.",
+  "key_findings": [
+    "The microbiota (trillions of bacteria living in your gut) influences T cells (immune cells that kill cancer), making them more adaptable \u2014 like soldiers who can switch tactics on the battlefield",
+    "T cell plasticity (the ability to change function and behavior) is essential for the immune system to control and slow tumor growth",
+    "Certain bacterial species in the gut appear to trigger this T cell flexibility, suggesting the microbiota acts as a coach for immune cells",
+    "This mechanism works across multiple cancer types, suggesting it's a fundamental principle of how the body fights cancer"
+  ],
+  "methods_snapshot": "Researchers studied how gut bacteria affect T cells in mice with tumors, tracking changes in immune cell behavior and tumor growth. They identified which bacterial species trigger the adaptive immune response and tested whether these bacteria could improve cancer control.",
+  "glossary": [
+    {
+      "term": "Microbiota",
+      "definition": "The trillions of bacteria and microorganisms that live in your gut and play major roles in health and disease."
+    },
+    {
+      "term": "T cells",
+      "definition": "A type of white blood cell that recognizes and destroys infected or cancerous cells."
+    },
+    {
+      "term": "Plasticity",
+      "definition": "The ability of cells to change their function, behavior, or characteristics in response to their environment."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer treatment that harnesses the body's own immune system to recognize and attack tumor cells."
+    },
+    {
+      "term": "Tumor control",
+      "definition": "The ability of the immune system to slow growth or shrink cancer tumors."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "colorectal cancer",
+    "lung cancer",
+    "other solid tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted primarily in mice, so results may not directly translate to human patients. The study identifies correlation between microbiota and T cell behavior, but more work is needed to fully understand the specific bacterial molecules responsible and how to reliably harness this effect in clinical settings.",
+  "tags": [
+    "microbiome",
+    "T cells",
+    "immunotherapy",
+    "tumor immunity",
+    "gut bacteria",
+    "adaptive immunity",
+    "cancer treatment"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
