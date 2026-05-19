@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-05-18T11:10:34.296150+00:00",
+  "last_updated": "2026-05-19T10:39:36.281010+00:00",
   "papers": [
+    {
+      "id": "20260519_the_uncritical_adoption_of_ai_in_science",
+      "title": "The uncritical adoption of AI in science is alarming \u2014 we urgently need guard rails",
+      "url": "https://www.nature.com/articles/d41586-026-01557-x",
+      "journal": "Nature",
+      "pub_date": "2026-05-19T00:00:00+00:00",
+      "fetched_date": "2026-05-19T10:39:36.280705+00:00",
+      "headline": "Scientists warn that blindly using AI in research risks making science worse, not better.",
+      "cancer_types": [],
+      "tags": [
+        "AI in science",
+        "research integrity",
+        "scientific method",
+        "machine learning governance",
+        "researcher training",
+        "technology ethics"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": "The paper warns against uncritical use of machine learning (a type of AI that learns from data) in science, rather than presenting a new ML application for cancer research."
+    },
     {
       "id": "20260518_publisher_correction__microbiota_induced",
       "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",

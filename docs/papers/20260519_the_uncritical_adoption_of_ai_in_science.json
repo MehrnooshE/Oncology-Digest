@@ -1,0 +1,54 @@
+{
+  "id": "20260519_the_uncritical_adoption_of_ai_in_science",
+  "title": "The uncritical adoption of AI in science is alarming \u2014 we urgently need guard rails",
+  "url": "https://www.nature.com/articles/d41586-026-01557-x",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Lisa Messeri",
+    "M. J. Crockett"
+  ],
+  "pub_date": "2026-05-19T00:00:00+00:00",
+  "fetched_date": "2026-05-19T10:39:36.280705+00:00",
+  "abstract": "<p>Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01557-x\">doi:10.1038/d41586-026-01557-x</a></p>Artificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
+  "headline": "Scientists warn that blindly using AI in research risks making science worse, not better.",
+  "why_it_matters": "As AI tools speed up cancer research and drug discovery, unchecked use could actually slow down real breakthroughs by pushing scientists to follow predictable paths instead of asking bold new questions. This matters because the way we do science today determines what treatments reach patients tomorrow.",
+  "key_findings": [
+    "AI adoption in science is happening too fast without proper safeguards or guidelines to ensure quality and integrity",
+    "Heavy reliance on AI (artificial intelligence\u2014computer systems that can learn patterns) risks narrowing the types of questions scientists ask, leading to 'groupthink' rather than diverse approaches",
+    "The training of new scientists may suffer because they rely on AI to do thinking work instead of developing their own judgment and problem-solving skills",
+    "Current scientific incentives reward speed and output volume, which favors uncritical AI use over careful, thoughtful research"
+  ],
+  "methods_snapshot": "This is a perspective piece\u2014a reasoned argument by experienced researchers rather than an experimental study. The authors reviewed how AI is being adopted across science and identified risks by examining current trends, incentive structures, and historical examples of technology adoption gone wrong.",
+  "glossary": [
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer systems trained to recognize patterns and perform tasks that normally require human thinking."
+    },
+    {
+      "term": "Guard rails",
+      "definition": "Safety rules or boundaries put in place to prevent misuse or unintended harm."
+    },
+    {
+      "term": "Scientific inquiry",
+      "definition": "The process of asking questions and designing experiments to discover how the natural world works."
+    },
+    {
+      "term": "Algorithmic bias",
+      "definition": "When an AI system makes systematically unfair decisions because of flaws in its training data or design."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The paper warns against uncritical use of machine learning (a type of AI that learns from data) in science, rather than presenting a new ML application for cancer research.",
+  "limitations": "This is an opinion piece focused on systemic risks rather than presenting experimental evidence. The authors cannot quantify exactly how much AI use has already harmed scientific progress, only identify the risks theoretically.",
+  "tags": [
+    "AI in science",
+    "research integrity",
+    "scientific method",
+    "machine learning governance",
+    "researcher training",
+    "technology ethics"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
