@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-05-19T10:39:36.281010+00:00",
+  "last_updated": "2026-05-20T10:27:21.319988+00:00",
   "papers": [
+    {
+      "id": "20260520_pathogenic_germline_variations_and_cance",
+      "title": "Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing",
+      "url": "https://www.nature.com/articles/s41591-026-04423-5",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-05-20T00:00:00+00:00",
+      "fetched_date": "2026-05-20T10:27:21.319717+00:00",
+      "headline": "Genetic mutations inherited from parents predict which children will develop cancer.",
+      "cancer_types": [
+        "leukemia",
+        "lymphoma",
+        "brain tumors",
+        "solid tumors",
+        "hereditary cancer syndromes"
+      ],
+      "tags": [
+        "childhood cancer",
+        "genetic testing",
+        "hereditary mutations",
+        "cancer risk",
+        "precision medicine",
+        "germline variants",
+        "pediatrics",
+        "prevention"
+      ],
+      "study_type": "other",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260519_the_uncritical_adoption_of_ai_in_science",
       "title": "The uncritical adoption of AI in science is alarming \u2014 we urgently need guard rails",

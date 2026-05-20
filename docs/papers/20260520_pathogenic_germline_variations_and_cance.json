@@ -1,0 +1,75 @@
+{
+  "id": "20260520_pathogenic_germline_variations_and_cance",
+  "title": "Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing",
+  "url": "https://www.nature.com/articles/s41591-026-04423-5",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Huijun Wang",
+    "Xinran Dong",
+    "Feifan Xiao",
+    "Gen Li",
+    "Yulan Lu",
+    "Mengyuan Qiao"
+  ],
+  "pub_date": "2026-05-20T00:00:00+00:00",
+  "fetched_date": "2026-05-20T10:27:21.319717+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41591-026-04423-5\">doi:10.1038/s41591-026-04423-5</a></p>Analyses of sequencing data from 75,602 children referred for genetic testing from 2016 to 2025 provide insights on the association between pathogenic germline variants and childhood cancer.",
+  "headline": "Genetic mutations inherited from parents predict which children will develop cancer.",
+  "why_it_matters": "Most childhood cancers are rare, so doctors struggle to identify high-risk children before cancer develops. This study of nearly 76,000 children shows that genetic testing can spot dangerous inherited mutations early, allowing doctors to monitor or treat vulnerable kids before cancer appears. This knowledge could eventually save lives through earlier detection and prevention.",
+  "key_findings": [
+    "Researchers identified inherited genetic mutations (changes in DNA code passed from parents) linked to childhood cancer in over 75,000 children who underwent genetic testing between 2016 and 2025.",
+    "Certain pathogenic variants (disease-causing mutations) were found to significantly increase cancer risk in children, even before symptoms appeared.",
+    "The study revealed associations between specific gene mutations and particular cancer types, helping doctors understand which children need closer monitoring.",
+    "The findings show that genetic testing can effectively identify at-risk children in a real-world clinical setting, not just in laboratory experiments.",
+    "The research provides evidence that germline variants (inherited genetic differences present from birth in every cell) are important contributors to childhood cancer development."
+  ],
+  "methods_snapshot": "The team analyzed genetic sequencing data (reading the genetic instruction manual) from 75,602 children who were referred for genetic testing over a 10-year period. They looked for pathogenic variants\u2014mutations known to cause disease\u2014and tracked which children later developed cancer to find patterns connecting specific mutations to cancer risk.",
+  "glossary": [
+    {
+      "term": "Germline variant",
+      "definition": "A genetic mutation inherited from parents that is present in every cell of the body from conception."
+    },
+    {
+      "term": "Pathogenic",
+      "definition": "Capable of causing disease or harm; in this context, a genetic mutation that increases disease risk."
+    },
+    {
+      "term": "Sequencing",
+      "definition": "Reading the order of letters (A, T, G, C) that make up an organism's DNA to identify genetic code."
+    },
+    {
+      "term": "DNA",
+      "definition": "The molecule that carries genetic instructions for building and running all living cells; like an instruction manual for your body."
+    },
+    {
+      "term": "Gene",
+      "definition": "A section of DNA that codes for a specific protein or trait; a single instruction within the larger manual."
+    },
+    {
+      "term": "Pediatric",
+      "definition": "Relating to children or medical care of children."
+    }
+  ],
+  "cancer_types": [
+    "leukemia",
+    "lymphoma",
+    "brain tumors",
+    "solid tumors",
+    "hereditary cancer syndromes"
+  ],
+  "ml_angle": null,
+  "limitations": "The study looked only at children referred for genetic testing, so results may not represent all children in the general population. The researchers could not establish that mutations directly cause cancer in every case, only that they are associated with increased risk.",
+  "tags": [
+    "childhood cancer",
+    "genetic testing",
+    "hereditary mutations",
+    "cancer risk",
+    "precision medicine",
+    "germline variants",
+    "pediatrics",
+    "prevention"
+  ],
+  "study_type": "other",
+  "impact_score": 4
+}
