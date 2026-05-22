@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-21T10:42:39.770459+00:00",
+  "last_updated": "2026-05-22T10:26:39.989957+00:00",
   "papers": [
+    {
+      "id": "20260522_stress_granules_shape_ferroptosis_in_can",
+      "title": "Stress granules shape ferroptosis in cancer",
+      "url": "https://www.nature.com/articles/s41556-026-01950-8",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-05-22T00:00:00+00:00",
+      "fetched_date": "2026-05-22T10:26:39.989721+00:00",
+      "headline": "Breaking down cancer's protective shields makes aggressive brain tumors treatable.",
+      "cancer_types": [
+        "glioblastoma",
+        "brain cancer"
+      ],
+      "tags": [
+        "glioblastoma",
+        "stress granules",
+        "ferroptosis",
+        "drug resistance",
+        "cancer stem cells",
+        "cell death",
+        "treatment combination"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260521_distinct_genomic_and_immunologic_tumor_e",
       "title": "Distinct genomic and immunologic tumor evolution in germline <i>TP53-</i>driven breast cancers",

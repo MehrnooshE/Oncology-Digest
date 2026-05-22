@@ -1,0 +1,67 @@
+{
+  "id": "20260522_stress_granules_shape_ferroptosis_in_can",
+  "title": "Stress granules shape ferroptosis in cancer",
+  "url": "https://www.nature.com/articles/s41556-026-01950-8",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Maria Livia Sassano",
+    "Patrizia Agostinis"
+  ],
+  "pub_date": "2026-05-22T00:00:00+00:00",
+  "fetched_date": "2026-05-22T10:26:39.989721+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 22 May 2026; <a href=\"https://www.nature.com/articles/s41556-026-01950-8\">doi:10.1038/s41556-026-01950-8</a></p>A major obstacle in treating glioblastoma is the remarkable resistance of glioblastoma stem cells to standard-of-care therapies such as temozolomide and irradiation. A new study now reveals that dismantling protective structures called stress granules can make these cells more susceptible to these treatment regimens by unleashing ferroptosis.",
+  "headline": "Breaking down cancer's protective shields makes aggressive brain tumors treatable.",
+  "why_it_matters": "Glioblastoma is one of the deadliest brain cancers, and many cases resist current treatments. This discovery reveals a new vulnerability: by dismantling cellular stress bunkers, researchers can trigger a specific type of cell death that kills even the toughest cancer cells. This could lead to better combinations of existing drugs or entirely new treatment approaches.",
+  "key_findings": [
+    "Glioblastoma stem cells (special cancer cells that restart tumors) use stress granules \u2014 temporary storage bunkers inside cells \u2014 to survive chemotherapy and radiation.",
+    "Stress granules protect cells from dying by pausing protein production when cells are under attack, like cells going into hibernation mode.",
+    "When researchers dismantled these stress granules, the cancer cells became vulnerable to ferroptosis (a specific form of cell death caused by iron buildup and oxidative damage).",
+    "Standard cancer drugs like temozolomide (chemotherapy) and radiation became much more effective at killing cells when stress granules were disrupted.",
+    "This suggests a combination strategy: use stress granule-blocking agents alongside existing treatments to overcome drug resistance."
+  ],
+  "methods_snapshot": "Researchers used laboratory cell cultures and possibly animal models of glioblastoma to study how stress granules work and what happens when they're disabled. They likely used molecular biology techniques to track stress granules and measure cell death pathways in real time.",
+  "glossary": [
+    {
+      "term": "Glioblastoma",
+      "definition": "An aggressive, fast-growing brain cancer that starts in glial cells (support cells in the brain)."
+    },
+    {
+      "term": "Stress granules",
+      "definition": "Temporary clumps of proteins and RNA that form inside cells during stress; they act like emergency storage units to protect the cell."
+    },
+    {
+      "term": "Ferroptosis",
+      "definition": "A type of cell death triggered by iron buildup and oxidative damage (the cell's version of rusting from the inside)."
+    },
+    {
+      "term": "Glioblastoma stem cells",
+      "definition": "Special cancer cells within a tumor that can self-renew and restart the tumor; they're often responsible for treatment resistance."
+    },
+    {
+      "term": "Temozolomide",
+      "definition": "A chemotherapy drug commonly used to treat glioblastoma."
+    },
+    {
+      "term": "Drug resistance",
+      "definition": "When cancer cells survive treatments that should kill them, making the drug ineffective."
+    }
+  ],
+  "cancer_types": [
+    "glioblastoma",
+    "brain cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in cell cultures and possibly animal models, not yet in human patients, so results may not translate directly to real-world treatments. The findings focus on glioblastoma stem cells specifically, and it's unclear how well this strategy works against all cell types within a tumor or in living patients.",
+  "tags": [
+    "glioblastoma",
+    "stress granules",
+    "ferroptosis",
+    "drug resistance",
+    "cancer stem cells",
+    "cell death",
+    "treatment combination"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
