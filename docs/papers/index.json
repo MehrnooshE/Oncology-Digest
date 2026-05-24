@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-22T10:26:39.989957+00:00",
+  "last_updated": "2026-05-24T09:23:43.424420+00:00",
   "papers": [
+    {
+      "id": "20260524_long_term_comparative_analysis_of_aav9_m",
+      "title": "Long-term comparative analysis of AAV9-mediated gene replacement therapies for spinal muscular atrophy in mice",
+      "url": "https://www.nature.com/articles/s41467-026-73545-8",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-23T00:00:00+00:00",
+      "fetched_date": "2026-05-24T09:23:43.424153+00:00",
+      "headline": "New gene therapy for muscle-wasting disease works better and safer than existing treatment in mice.",
+      "cancer_types": [],
+      "tags": [
+        "gene-therapy",
+        "spinal-muscular-atrophy",
+        "AAV9",
+        "genetic-disease",
+        "preclinical-research",
+        "drug-safety",
+        "neuromuscular"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260522_stress_granules_shape_ferroptosis_in_can",
       "title": "Stress granules shape ferroptosis in cancer",
