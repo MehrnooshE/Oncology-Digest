@@ -1,0 +1,71 @@
+{
+  "id": "20260525_a_kinetics_based_model_of_haematopoiesis",
+  "title": "A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
+  "url": "https://www.nature.com/articles/s41556-026-01958-0",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Esther Rodr\u00edguez-Correa",
+    "Florian Gr\u00fcnschl\u00e4ger",
+    "Tamar Nizharadze",
+    "Natasha Anstee",
+    "Jude Al-Sabah",
+    "Vojtech Kumpost"
+  ],
+  "pub_date": "2026-05-25T00:00:00+00:00",
+  "fetched_date": "2026-05-25T11:14:36.743849+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41556-026-01958-0\">doi:10.1038/s41556-026-01958-0</a></p>Single-cell transplantations of long-term haematopoietic stem cells (HSCs), in-depth phenotyping and mathematical modelling identify reconstitution kinetics as a unifying metric of HSC potency and extrinsic regulation as a driver of HSC lineage bias.",
+  "headline": "Blood stem cells' output is controlled by their environment, not just their own genetics.",
+  "why_it_matters": "Blood cancers like leukaemia arise when stem cells go wrong. Understanding how the environment around these cells controls what they produce could help doctors prevent or treat blood cancers more effectively. It also matters for bone marrow transplants, where we need to know which stem cells will work best.",
+  "key_findings": [
+    "Speed of recovery is the key: how fast blood stem cells rebuild the blood system after transplant tells us how powerful they are (potency means ability to produce many different cell types).",
+    "The environment controls the bias: when stem cells are 'biased' toward making one type of blood cell over another, it's not hard-wired into the cells themselves \u2014 their surroundings are steering them.",
+    "Single-cell testing revealed the truth: by transplanting individual stem cells rather than groups, researchers could see each cell's true potential without interference from neighbours.",
+    "Mathematical models unified the findings: computer simulations showed that the speed of cell production and lineage bias (preference for certain blood cell types) are actually connected through the same underlying process."
+  ],
+  "methods_snapshot": "Researchers transplanted individual long-term haematopoietic stem cells (HSCs \u2014 the master stem cells that make all blood cells) into mice, then tracked how quickly they rebuilt the blood system and what cell types they produced. They combined this with detailed single-cell analysis (looking at genes and proteins in individual cells) and mathematical modelling (computer simulations) to understand the rules governing stem cell behaviour.",
+  "glossary": [
+    {
+      "term": "haematopoietic stem cells (HSCs)",
+      "definition": "Master blood-forming cells that can divide indefinitely and produce all types of blood cells."
+    },
+    {
+      "term": "lineage bias",
+      "definition": "When stem cells preferentially make one type of blood cell over others, rather than balancing them equally."
+    },
+    {
+      "term": "potency",
+      "definition": "The ability of a stem cell to produce many different types of mature cells."
+    },
+    {
+      "term": "reconstitution kinetics",
+      "definition": "The speed and pattern at which transplanted stem cells rebuild a functioning blood system."
+    },
+    {
+      "term": "extrinsic regulation",
+      "definition": "Control of cell behaviour by external signals from the surrounding environment, rather than by the cell's own internal programming."
+    },
+    {
+      "term": "phenotyping",
+      "definition": "Measuring the physical characteristics and traits of cells, such as what proteins they display on their surface."
+    }
+  ],
+  "cancer_types": [
+    "leukaemia",
+    "lymphoma",
+    "other blood cancers"
+  ],
+  "ml_angle": "Mathematical computer models (simulations) were used to identify the underlying rules connecting stem cell speed of recovery with their preference for certain blood cell types.",
+  "limitations": "The study used mouse models, so findings need confirmation in human blood systems. The work focuses on normal stem cell behaviour; it remains to be seen exactly how these rules apply when stem cells become cancerous.",
+  "tags": [
+    "stem cells",
+    "blood formation",
+    "leukaemia",
+    "bone marrow transplant",
+    "mathematical modelling",
+    "single-cell analysis",
+    "cell environment"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

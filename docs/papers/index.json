@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-05-24T09:23:43.424420+00:00",
+  "last_updated": "2026-05-25T11:14:36.744110+00:00",
   "papers": [
+    {
+      "id": "20260525_a_kinetics_based_model_of_haematopoiesis",
+      "title": "A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
+      "url": "https://www.nature.com/articles/s41556-026-01958-0",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-05-25T00:00:00+00:00",
+      "fetched_date": "2026-05-25T11:14:36.743849+00:00",
+      "headline": "Blood stem cells' output is controlled by their environment, not just their own genetics.",
+      "cancer_types": [
+        "leukaemia",
+        "lymphoma",
+        "other blood cancers"
+      ],
+      "tags": [
+        "stem cells",
+        "blood formation",
+        "leukaemia",
+        "bone marrow transplant",
+        "mathematical modelling",
+        "single-cell analysis",
+        "cell environment"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": "Mathematical computer models (simulations) were used to identify the underlying rules connecting stem cell speed of recovery with their preference for certain blood cell types."
+    },
     {
       "id": "20260524_long_term_comparative_analysis_of_aav9_m",
       "title": "Long-term comparative analysis of AAV9-mediated gene replacement therapies for spinal muscular atrophy in mice",
