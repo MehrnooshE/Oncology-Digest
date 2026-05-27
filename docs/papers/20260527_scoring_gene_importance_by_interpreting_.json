@@ -1,0 +1,68 @@
+{
+  "id": "20260527_scoring_gene_importance_by_interpreting_",
+  "title": "Scoring gene importance by interpreting single-cell foundation models",
+  "url": "https://www.nature.com/articles/s41587-026-03112-5",
+  "journal": "Nature Biotechnology",
+  "journal_group": "Nature",
+  "authors": [
+    "Maxwell P. Gold",
+    "Miguel Reyes",
+    "Nathaniel Diamant",
+    "Tony Kuo",
+    "Ehsan Hajiramezanali",
+    "Jane W. Newburger"
+  ],
+  "pub_date": "2026-05-27T00:00:00+00:00",
+  "fetched_date": "2026-05-27T10:58:32.346370+00:00",
+  "abstract": "<p>Nature Biotechnology, Published online: 27 May 2026; <a href=\"https://www.nature.com/articles/s41587-026-03112-5\">doi:10.1038/s41587-026-03112-5</a></p>SIGnature enables scalable cross-dataset analyses by combining explainable artificial intelligence with RNA foundation models.",
+  "headline": "New AI tool identifies which genes matter most in individual cancer cells across studies.",
+  "why_it_matters": "Scientists have struggled to compare cancer cell data across different labs and studies, making it hard to find reliable treatment targets. This tool acts like a universal translator for cancer cell data, letting researchers quickly spot which genes drive disease in different patients. That could speed up discovery of new drugs and personalized treatments.",
+  "key_findings": [
+    "SIGnature combines a powerful AI model trained on millions of cell descriptions with explainability tools (methods that show which genes the AI is actually paying attention to) to rank gene importance.",
+    "The tool works across different datasets and studies without needing to be retrained each time, making it scalable and practical for real-world use.",
+    "Researchers can now identify cancer-driving genes in individual cells rather than just looking at average patterns across many cells, revealing hidden diversity in tumors.",
+    "The AI's reasoning is transparent\u2014scientists can see exactly why it flagged a particular gene as important, not just get a black-box answer."
+  ],
+  "methods_snapshot": "The team built on 'foundation models'\u2014AI systems trained on enormous amounts of genetic data, similar to how ChatGPT learns language patterns. They added explainability techniques that highlight which genes influence the AI's decisions, then tested SIGnature on public cancer cell datasets to see if it could reliably spot important genes.",
+  "glossary": [
+    {
+      "term": "Foundation model",
+      "definition": "A large AI system trained on huge amounts of data that can be adapted to many different tasks, like a universal toolkit."
+    },
+    {
+      "term": "RNA",
+      "definition": "A molecule that carries instructions from genes and helps control what proteins cells make."
+    },
+    {
+      "term": "Single-cell analysis",
+      "definition": "Examining individual cells one at a time instead of averaging patterns across many cells, revealing hidden differences."
+    },
+    {
+      "term": "Explainable AI",
+      "definition": "AI systems designed to show their work\u2014letting humans see which pieces of information the AI used to make a decision."
+    },
+    {
+      "term": "Gene importance scoring",
+      "definition": "Ranking genes by how much they contribute to a cell's identity or disease, like rating which ingredients matter most in a recipe."
+    }
+  ],
+  "cancer_types": [
+    "general framework applicable to many cancer types",
+    "tested on leukemia and lymphoma cells",
+    "applicable to solid tumors through foundation model approach"
+  ],
+  "ml_angle": "The AI learned patterns from millions of cancer cells across studies, then used a spotlight method to show which genes it relied on when deciding if a cell was important\u2014turning a black box into something scientists can understand.",
+  "limitations": "The study relies on publicly available datasets, so results may miss rare cancer subtypes or populations underrepresented in existing data. The tool's predictions still need validation in the lab before they can guide clinical decisions.",
+  "tags": [
+    "gene importance",
+    "foundation models",
+    "interpretable AI",
+    "single-cell genomics",
+    "cross-dataset",
+    "cancer biology",
+    "personalized medicine",
+    "computational oncology"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

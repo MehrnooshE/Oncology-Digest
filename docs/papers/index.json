@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-05-25T11:14:36.744110+00:00",
+  "last_updated": "2026-05-27T10:58:32.346652+00:00",
   "papers": [
+    {
+      "id": "20260527_scoring_gene_importance_by_interpreting_",
+      "title": "Scoring gene importance by interpreting single-cell foundation models",
+      "url": "https://www.nature.com/articles/s41587-026-03112-5",
+      "journal": "Nature Biotechnology",
+      "pub_date": "2026-05-27T00:00:00+00:00",
+      "fetched_date": "2026-05-27T10:58:32.346370+00:00",
+      "headline": "New AI tool identifies which genes matter most in individual cancer cells across studies.",
+      "cancer_types": [
+        "general framework applicable to many cancer types",
+        "tested on leukemia and lymphoma cells",
+        "applicable to solid tumors through foundation model approach"
+      ],
+      "tags": [
+        "gene importance",
+        "foundation models",
+        "interpretable AI",
+        "single-cell genomics",
+        "cross-dataset",
+        "cancer biology",
+        "personalized medicine",
+        "computational oncology"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI learned patterns from millions of cancer cells across studies, then used a spotlight method to show which genes it relied on when deciding if a cell was important\u2014turning a black box into something scientists can understand."
+    },
     {
       "id": "20260525_a_kinetics_based_model_of_haematopoiesis",
       "title": "A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
