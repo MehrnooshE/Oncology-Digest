@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-05-27T10:58:32.346652+00:00",
+  "last_updated": "2026-05-28T10:59:30.776407+00:00",
   "papers": [
+    {
+      "id": "20260528_multimodal_deep_learning_model_for_ai_ba",
+      "title": "Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy",
+      "url": "https://www.nature.com/articles/s41467-026-73813-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-28T00:00:00+00:00",
+      "fetched_date": "2026-05-28T10:59:30.776125+00:00",
+      "headline": "AI learns to predict which kidney cancer patients can safely avoid removing their whole kidney.",
+      "cancer_types": [
+        "renal cell carcinoma",
+        "kidney cancer"
+      ],
+      "tags": [
+        "kidney cancer",
+        "artificial intelligence",
+        "surgical decision-making",
+        "medical imaging",
+        "personalized medicine",
+        "organ preservation",
+        "deep learning",
+        "clinical risk prediction"
+      ],
+      "study_type": "imaging",
+      "impact_score": 4,
+      "ml_angle": "The AI model learned to recognize patterns in CT images and patient data that predict which kidney cancer patients will have good outcomes with kidney-sparing surgery, helping doctors decide whether full kidney removal is truly necessary."
+    },
     {
       "id": "20260527_scoring_gene_importance_by_interpreting_",
       "title": "Scoring gene importance by interpreting single-cell foundation models",

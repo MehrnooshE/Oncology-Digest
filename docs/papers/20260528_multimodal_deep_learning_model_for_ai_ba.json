@@ -1,0 +1,75 @@
+{
+  "id": "20260528_multimodal_deep_learning_model_for_ai_ba",
+  "title": "Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy",
+  "url": "https://www.nature.com/articles/s41467-026-73813-7",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yunhan Luo",
+    "Yatian Wang",
+    "Xiangpeng Zou",
+    "Shiying Tang",
+    "Xin Luo",
+    "Zhaohui Zhou"
+  ],
+  "pub_date": "2026-05-28T00:00:00+00:00",
+  "fetched_date": "2026-05-28T10:59:30.776125+00:00",
+  "abstract": "<p>Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73813-7\">doi:10.1038/s41467-026-73813-7</a></p>Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here, the authors develop an AI model for functional risk stratification in complex RCC using preoperative computed tomography images and clinical data, aiming to assist treatment choice for complex RCC patients, for whom PN is challenging but remains feasible.",
+  "headline": "AI learns to predict which kidney cancer patients can safely avoid removing their whole kidney.",
+  "why_it_matters": "Kidney cancer patients often face a tough choice: remove the whole kidney (safer but more loss of kidney function) or just the tumor (harder surgery but keeps more kidney). This AI tool could help doctors and patients make smarter decisions by predicting who will do well with the less invasive option, preserving kidney health long-term.",
+  "key_findings": [
+    "Researchers built an AI system that analyzes CT scan images and patient data to predict which complex kidney cancer patients can safely keep most of their kidney after surgery.",
+    "The model combines multiple types of information\u2014imaging scans, lab values, and tumor characteristics\u2014to create a more complete picture than any single test alone.",
+    "This 'multimodal' approach (using several data sources together) helps the AI better predict which patients will maintain good kidney function after partial kidney removal.",
+    "The tool aims to identify patients with complex tumors who are good candidates for kidney-sparing surgery, helping avoid unnecessary removal of healthy kidney tissue."
+  ],
+  "methods_snapshot": "The team trained an artificial intelligence model using CT images and clinical information from kidney cancer patients who underwent surgery. The AI learned patterns from this data to predict patient outcomes and guide treatment decisions.",
+  "glossary": [
+    {
+      "term": "Radical nephrectomy",
+      "definition": "Surgical removal of the entire kidney and surrounding tissue to treat kidney cancer."
+    },
+    {
+      "term": "Partial nephrectomy",
+      "definition": "Surgery to remove only the tumor and a small margin of healthy kidney tissue, preserving most of the kidney."
+    },
+    {
+      "term": "Renal cell carcinoma (RCC)",
+      "definition": "The most common type of kidney cancer, arising from cells that filter blood in the kidneys."
+    },
+    {
+      "term": "Multimodal",
+      "definition": "Using multiple different types of information or data sources together\u2014like combining images with lab results."
+    },
+    {
+      "term": "Computed tomography (CT)",
+      "definition": "A medical imaging scan that creates detailed 3D pictures of the inside of the body using X-rays."
+    },
+    {
+      "term": "Prognostic risk stratification",
+      "definition": "Sorting patients into groups based on their predicted medical outcomes to guide treatment decisions."
+    },
+    {
+      "term": "Deep learning",
+      "definition": "A type of artificial intelligence inspired by how brains work, capable of recognizing complex patterns in data."
+    }
+  ],
+  "cancer_types": [
+    "renal cell carcinoma",
+    "kidney cancer"
+  ],
+  "ml_angle": "The AI model learned to recognize patterns in CT images and patient data that predict which kidney cancer patients will have good outcomes with kidney-sparing surgery, helping doctors decide whether full kidney removal is truly necessary.",
+  "limitations": "This study presents an AI model, but real-world testing with new patients in actual clinical practice will be needed to confirm it works as well as the initial results suggest. The model's predictions are only as good as the data it was trained on, so results may vary in different patient populations or hospitals.",
+  "tags": [
+    "kidney cancer",
+    "artificial intelligence",
+    "surgical decision-making",
+    "medical imaging",
+    "personalized medicine",
+    "organ preservation",
+    "deep learning",
+    "clinical risk prediction"
+  ],
+  "study_type": "imaging",
+  "impact_score": 4
+}
