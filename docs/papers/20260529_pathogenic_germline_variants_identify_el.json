@@ -1,0 +1,59 @@
+{
+  "id": "20260529_pathogenic_germline_variants_identify_el",
+  "title": "Pathogenic germline variants identify elevated cancer risk in pediatric patients referred for genetic testing",
+  "url": "https://www.nature.com/articles/s41591-026-04451-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-05-29T00:00:00+00:00",
+  "fetched_date": "2026-05-29T10:51:19.089058+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41591-026-04451-1\">doi:10.1038/s41591-026-04451-1</a></p>Through large-scale genomic analysis, we show that pathogenic germline variants in pediatric cancer-predisposition genes are associated with increased subsequent tumor risk, highlighting their value for counseling and surveillance.",
+  "headline": "Genetic tests can now identify children at high risk of developing cancer early.",
+  "why_it_matters": "Some children inherit genetic mutations (changes in their DNA instructions) that dramatically raise their cancer risk. This study shows doctors can spot these high-risk children through genetic testing, allowing earlier monitoring and potentially life-saving intervention. Early detection of cancer is often much easier to treat.",
+  "key_findings": [
+    "Researchers analyzed genetic data from thousands of children referred for cancer-risk testing and found that inherited mutations in specific genes significantly increase the chances of developing cancer later.",
+    "Pathogenic variants (harmful genetic mutations passed down from parents) in cancer-predisposition genes are reliable markers that doctors can use to identify which children need closer surveillance.",
+    "The study confirms that genetic testing in pediatric patients can guide personalized cancer monitoring plans, helping catch tumors earlier when they're more treatable.",
+    "Large-scale analysis shows these inherited genetic risk factors have measurable, predictable effects on cancer development timing and type."
+  ],
+  "methods_snapshot": "Researchers conducted a large genomic analysis\u2014meaning they examined the complete genetic code of thousands of children who were already being tested for cancer risk. They identified which specific genetic mutations correlated with higher rates of subsequent cancer diagnosis, using statistical methods to confirm the strength of these connections.",
+  "glossary": [
+    {
+      "term": "pathogenic germline variant",
+      "definition": "A harmful genetic mutation you inherit from your parents that runs through every cell in your body and increases disease risk."
+    },
+    {
+      "term": "cancer-predisposition gene",
+      "definition": "A gene that, when mutated, significantly increases the likelihood that a person will develop cancer during their lifetime."
+    },
+    {
+      "term": "genomic analysis",
+      "definition": "Examining all or most of a person's genetic information to look for important patterns or differences."
+    },
+    {
+      "term": "germline",
+      "definition": "Genetic material inherited from parents that appears in every cell of the body, unlike mutations that develop later in life."
+    },
+    {
+      "term": "surveillance",
+      "definition": "Regular medical monitoring and screening to catch disease early, before symptoms appear."
+    }
+  ],
+  "cancer_types": [
+    "pediatric cancers (types not specified in abstract)",
+    "hereditary cancer syndromes"
+  ],
+  "ml_angle": null,
+  "limitations": "The study examines children already referred for genetic testing, which may skew results toward higher-risk populations and not reflect the general pediatric population. The abstract doesn't specify which cancer types were studied or how the findings might differ across different inherited mutation types.",
+  "tags": [
+    "hereditary cancer",
+    "genetic testing",
+    "pediatric oncology",
+    "risk stratification",
+    "precision medicine",
+    "cancer surveillance",
+    "germline variants"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

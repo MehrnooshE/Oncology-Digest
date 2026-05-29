@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-28T10:59:30.776407+00:00",
+  "last_updated": "2026-05-29T10:51:19.089347+00:00",
   "papers": [
+    {
+      "id": "20260529_pathogenic_germline_variants_identify_el",
+      "title": "Pathogenic germline variants identify elevated cancer risk in pediatric patients referred for genetic testing",
+      "url": "https://www.nature.com/articles/s41591-026-04451-1",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-05-29T00:00:00+00:00",
+      "fetched_date": "2026-05-29T10:51:19.089058+00:00",
+      "headline": "Genetic tests can now identify children at high risk of developing cancer early.",
+      "cancer_types": [
+        "pediatric cancers (types not specified in abstract)",
+        "hereditary cancer syndromes"
+      ],
+      "tags": [
+        "hereditary cancer",
+        "genetic testing",
+        "pediatric oncology",
+        "risk stratification",
+        "precision medicine",
+        "cancer surveillance",
+        "germline variants"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260528_multimodal_deep_learning_model_for_ai_ba",
       "title": "Multimodal deep learning model for AI-based functional prognostic risk stratification in patients undergoing radical nephrectomy",
