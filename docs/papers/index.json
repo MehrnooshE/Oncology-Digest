@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-29T10:51:19.089347+00:00",
+  "last_updated": "2026-05-30T09:23:43.333101+00:00",
   "papers": [
+    {
+      "id": "20260530_inference_of_upstream_mutation_and_metab",
+      "title": "Inference of upstream-mutation and metabolomic-signature causality identifies prognostic biomarkers and therapeutic targets in pancreatic cancer",
+      "url": "https://www.nature.com/articles/s41467-026-73871-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-30T00:00:00+00:00",
+      "fetched_date": "2026-05-30T09:23:43.332787+00:00",
+      "headline": "A blood-test signature of nine molecules predicts pancreatic cancer survival and reveals a new drug target.",
+      "cancer_types": [
+        "pancreatic cancer"
+      ],
+      "tags": [
+        "pancreatic cancer",
+        "biomarker discovery",
+        "metabolomics",
+        "prognosis prediction",
+        "causal inference",
+        "mTOR inhibition",
+        "precision medicine",
+        "drug resistance"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": "The researchers used machine learning (artificial intelligence trained on data) to identify which combinations of nine metabolites best predict patient survival and to uncover hidden cause-and-effect relationships between genes and blood chemistry."
+    },
     {
       "id": "20260529_pathogenic_germline_variants_identify_el",
       "title": "Pathogenic germline variants identify elevated cancer risk in pediatric patients referred for genetic testing",
