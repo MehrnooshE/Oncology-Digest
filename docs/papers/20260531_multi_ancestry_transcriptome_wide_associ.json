@@ -1,0 +1,71 @@
+{
+  "id": "20260531_multi_ancestry_transcriptome_wide_associ",
+  "title": "Multi-ancestry transcriptome-wide association studies uncover insights into breast cancer genetics and biology",
+  "url": "https://www.nature.com/articles/s41467-026-73801-x",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Jie Ping",
+    "Guochong Jia",
+    "Qiuyin Cai",
+    "Xingyi Guo",
+    "Jifeng Wang",
+    "Ran Tao"
+  ],
+  "pub_date": "2026-05-30T00:00:00+00:00",
+  "fetched_date": "2026-05-31T09:48:56.718372+00:00",
+  "abstract": "<p>Nature Communications, Published online: 30 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73801-x\">doi:10.1038/s41467-026-73801-x</a></p>Genome-wide association studies (GWAS) have identified over 200 genetic risk loci for breast cancer, but the target genes in these loci remain largely unknown. Here, the authors conduct multi-ancestry transcriptome-wide association studies to discover potential breast cancer susceptibility genes, which are further explored with single-cell sequencing and in vitro experiments.",
+  "headline": "Researchers identify hidden genes that increase breast cancer risk across different populations.",
+  "why_it_matters": "Scientists have found genetic markers linked to breast cancer, but didn't know which genes actually caused the risk. This study reveals the culprit genes, which could lead to better screening, prevention, and personalized treatments. Understanding these genes across different ancestry groups ensures findings help all patients, not just some.",
+  "key_findings": [
+    "Researchers used a detective method to trace genetic risk signals back to the actual genes responsible (rather than just finding signals in DNA with unknown cause)",
+    "They studied people from multiple ancestry backgrounds, ensuring discoveries aren't biased toward European populations (a major problem in genetic research)",
+    "They used single-cell sequencing to watch which cells in breast tissue express these risk genes (showing where and how genes turn on in the body)",
+    "Lab experiments confirmed that some of these genes actually affect how breast cells grow and behave",
+    "Many of the newly identified risk genes were previously unknown, expanding our understanding of breast cancer biology"
+  ],
+  "methods_snapshot": "The team performed transcriptome-wide association studies (TWAS)\u2014a computational method that links genetic variants to gene activity\u2014across diverse population groups. They then used single-cell RNA sequencing to see which breast tissue cells express these genes, and conducted lab experiments to test whether changes in these genes actually affect cell behavior.",
+  "glossary": [
+    {
+      "term": "GWAS (Genome-Wide Association Studies)",
+      "definition": "A method that scans the entire genome to find genetic variants (tiny differences in DNA) associated with disease."
+    },
+    {
+      "term": "Transcriptome-wide association studies (TWAS)",
+      "definition": "A computational approach that connects genetic variants to changes in gene expression (how active genes are) rather than just identifying variants themselves."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process of turning genetic instructions into working molecules in cells; a gene can be 'on' or 'off' at different levels."
+    },
+    {
+      "term": "Single-cell sequencing",
+      "definition": "A technique that reads the genetic activity of individual cells rather than tissue samples, revealing which genes are active in specific cell types."
+    },
+    {
+      "term": "Multi-ancestry",
+      "definition": "Including people from different ethnic and genetic backgrounds to ensure research findings apply broadly."
+    },
+    {
+      "term": "Genetic locus",
+      "definition": "A specific location on a chromosome where a genetic variant is found."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer"
+  ],
+  "ml_angle": "The study likely used computational machine learning to filter through vast amounts of genetic and expression data to predict which genes are causal targets of disease variants.",
+  "limitations": "The researchers identified candidate genes but didn't fully establish causation for all of them\u2014showing a gene is active at a risk locus is not the same as proving it causes breast cancer. The findings also need validation in larger, more diverse populations and in living organisms (animal models) before clinical application.",
+  "tags": [
+    "breast cancer genetics",
+    "gene discovery",
+    "precision medicine",
+    "health disparities",
+    "multi-ancestry",
+    "transcriptomics",
+    "single-cell biology",
+    "cancer susceptibility"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}

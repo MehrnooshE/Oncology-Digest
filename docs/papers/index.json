@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-05-30T09:23:43.333101+00:00",
+  "last_updated": "2026-05-31T09:48:56.718639+00:00",
   "papers": [
+    {
+      "id": "20260531_multi_ancestry_transcriptome_wide_associ",
+      "title": "Multi-ancestry transcriptome-wide association studies uncover insights into breast cancer genetics and biology",
+      "url": "https://www.nature.com/articles/s41467-026-73801-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-05-30T00:00:00+00:00",
+      "fetched_date": "2026-05-31T09:48:56.718372+00:00",
+      "headline": "Researchers identify hidden genes that increase breast cancer risk across different populations.",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "tags": [
+        "breast cancer genetics",
+        "gene discovery",
+        "precision medicine",
+        "health disparities",
+        "multi-ancestry",
+        "transcriptomics",
+        "single-cell biology",
+        "cancer susceptibility"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": "The study likely used computational machine learning to filter through vast amounts of genetic and expression data to predict which genes are causal targets of disease variants."
+    },
     {
       "id": "20260530_inference_of_upstream_mutation_and_metab",
       "title": "Inference of upstream-mutation and metabolomic-signature causality identifies prognostic biomarkers and therapeutic targets in pancreatic cancer",
