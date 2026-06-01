@@ -1,0 +1,59 @@
+{
+  "id": "20260601_downplaying_toxicities_in_cancer_drug_tr",
+  "title": "Downplaying toxicities in cancer drug trials is not acceptable",
+  "url": "https://www.nature.com/articles/s41591-026-04463-x",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Bishal Gyawali"
+  ],
+  "pub_date": "2026-06-01T00:00:00+00:00",
+  "fetched_date": "2026-06-01T12:42:44.058800+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 01 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04463-x\">doi:10.1038/s41591-026-04463-x</a></p>As a physician I want to treat the patient, not just the tumor.",
+  "headline": "Cancer drug trials must honestly report patient side effects, not just tumor shrinkage.",
+  "why_it_matters": "When cancer drugs are tested, researchers sometimes downplay or hide how sick patients feel from treatment side effects. This misleads doctors and patients about whether a drug is truly worth taking. If we only look at whether tumors shrink and ignore suffering, we make bad treatment decisions.",
+  "key_findings": [
+    "Cancer drug trials often underreport or minimize toxicities (harmful side effects like nausea, organ damage, or death) compared to what patients actually experience.",
+    "Regulatory agencies and journals sometimes accept incomplete safety data, allowing drugs with serious side effects to be approved without full transparency.",
+    "Physicians need complete toxicity information to weigh whether a drug's benefit outweighs the patient's quality of life and suffering during treatment.",
+    "Current reporting standards sometimes hide toxicity data behind technical language or fail to track long-term effects that emerge after trials end.",
+    "Honest communication about side effects respects patient autonomy\u2014allowing people to make informed choices rather than choosing a treatment based on incomplete information."
+  ],
+  "methods_snapshot": "This is a perspective piece and critical analysis, not a laboratory study. The author reviewed how cancer drug trials report safety data and examined cases where toxicity reporting was incomplete or misleading in regulatory submissions and published papers.",
+  "glossary": [
+    {
+      "term": "toxicity",
+      "definition": "harmful side effects or damage caused by a drug or treatment to the patient's body"
+    },
+    {
+      "term": "clinical trial",
+      "definition": "a research study where a new drug is tested on human patients to see if it works and is safe"
+    },
+    {
+      "term": "tumor",
+      "definition": "an abnormal growth of cancer cells in the body"
+    },
+    {
+      "term": "regulatory agencies",
+      "definition": "government organizations (like the FDA) that review and approve new drugs before they can be sold"
+    },
+    {
+      "term": "oncologist",
+      "definition": "a doctor who specializes in treating cancer patients"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is an opinion and analysis piece rather than new experimental data, so it cannot prove how widespread toxicity underreporting is. The recommendations are sound but require changes to industry practices and regulations that are complex and slow to implement.",
+  "tags": [
+    "clinical-trials",
+    "drug-safety",
+    "cancer-treatment",
+    "patient-transparency",
+    "medical-ethics",
+    "side-effects",
+    "regulatory-standards"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

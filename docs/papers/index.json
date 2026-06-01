@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-31T09:48:56.718639+00:00",
+  "last_updated": "2026-06-01T12:42:44.059104+00:00",
   "papers": [
+    {
+      "id": "20260601_downplaying_toxicities_in_cancer_drug_tr",
+      "title": "Downplaying toxicities in cancer drug trials is not acceptable",
+      "url": "https://www.nature.com/articles/s41591-026-04463-x",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-01T00:00:00+00:00",
+      "fetched_date": "2026-06-01T12:42:44.058800+00:00",
+      "headline": "Cancer drug trials must honestly report patient side effects, not just tumor shrinkage.",
+      "cancer_types": [],
+      "tags": [
+        "clinical-trials",
+        "drug-safety",
+        "cancer-treatment",
+        "patient-transparency",
+        "medical-ethics",
+        "side-effects",
+        "regulatory-standards"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260531_multi_ancestry_transcriptome_wide_associ",
       "title": "Multi-ancestry transcriptome-wide association studies uncover insights into breast cancer genetics and biology",
