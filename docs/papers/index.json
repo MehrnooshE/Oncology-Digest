@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-01T12:42:44.059104+00:00",
+  "last_updated": "2026-06-02T11:22:18.611574+00:00",
   "papers": [
+    {
+      "id": "20260602_15_strain_live_biotherapeutic_product_or",
+      "title": "15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent <i>Clostridioides difficile</i> infection: a randomized phase 1b trial",
+      "url": "https://www.nature.com/articles/s41591-026-04442-2",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-02T00:00:00+00:00",
+      "fetched_date": "2026-06-02T11:22:18.611261+00:00",
+      "headline": "Simple bacterial mixture works as well as full fecal transplant for stubborn C. difficile infections.",
+      "cancer_types": [],
+      "tags": [
+        "microbiome",
+        "C. difficile",
+        "fecal transplant",
+        "gut health",
+        "biotherapeutic",
+        "infection treatment",
+        "clinical trial"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260601_downplaying_toxicities_in_cancer_drug_tr",
       "title": "Downplaying toxicities in cancer drug trials is not acceptable",

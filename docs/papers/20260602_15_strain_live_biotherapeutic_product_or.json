@@ -1,0 +1,67 @@
+{
+  "id": "20260602_15_strain_live_biotherapeutic_product_or",
+  "title": "15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent <i>Clostridioides difficile</i> infection: a randomized phase 1b trial",
+  "url": "https://www.nature.com/articles/s41591-026-04442-2",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Lukas Bethlehem",
+    "Lorenza Bartu",
+    "Gina Marke",
+    "Phyu Mar",
+    "Sari Feldman",
+    "Joseph Eggers"
+  ],
+  "pub_date": "2026-06-02T00:00:00+00:00",
+  "fetched_date": "2026-06-02T11:22:18.611261+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 02 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04442-2\">doi:10.1038/s41591-026-04442-2</a></p>A randomized, single-blind, parallel-group, phase 1b clinical trial compared fecal microbiota transplant or a 15-strain live biotherapeutic product (MTC01) derived from the same donor and found similar efficacy and engraftment between treatments.",
+  "headline": "Simple bacterial mixture works as well as full fecal transplant for stubborn C. difficile infections.",
+  "why_it_matters": "Clostridioides difficile (a harmful gut bacterium) causes serious infections that keep coming back. This study shows doctors may soon have a cleaner, easier-to-make treatment using just 15 helpful bacteria strains instead of whole fecal transplants, which many patients find unpleasant. If confirmed, this could help millions of people recover faster with less discomfort.",
+  "key_findings": [
+    "A specially designed 15-strain bacterial product (MTC01) worked about as well as a full fecal microbiota transplant (FMT\u2014transferring stool from a healthy donor to restore gut bacteria balance) for treating recurring C. difficile infection.",
+    "Both treatments successfully helped the beneficial bacteria from the donor take hold and grow in patients' guts (engraftment) at similar rates.",
+    "The simplified bacterial mixture was easier to prepare and deliver than collecting and processing whole fecal material.",
+    "This is a phase 1b trial (early-stage human testing), so the sample size was intentionally small to test safety and basic effectiveness before larger studies."
+  ],
+  "methods_snapshot": "Researchers randomly assigned patients to receive either a full fecal microbiota transplant or the 15-strain engineered product, both from the same healthy donor. They then tracked how well each treatment cleared the infection and whether the donor's bacteria successfully colonized (established themselves in) each patient's gut.",
+  "glossary": [
+    {
+      "term": "Clostridioides difficile (C. difficile)",
+      "definition": "A bacterium that overgrows in the gut when good bacteria are killed off (often by antibiotics), causing severe diarrhea and infections."
+    },
+    {
+      "term": "Fecal microbiota transplant (FMT)",
+      "definition": "A medical procedure where stool from a healthy donor is transferred into a patient's gut to restore beneficial bacteria."
+    },
+    {
+      "term": "Live biotherapeutic product",
+      "definition": "A carefully chosen mixture of live beneficial bacteria given as medicine, like a probiotic but scientifically designed for a specific disease."
+    },
+    {
+      "term": "Engraftment",
+      "definition": "The ability of transplanted bacteria to survive, grow, and establish themselves in the patient's gut."
+    },
+    {
+      "term": "Phase 1b trial",
+      "definition": "An early-stage human study designed to test safety and get initial hints of whether a treatment works, usually with a small group of patients."
+    },
+    {
+      "term": "Single-blind",
+      "definition": "Patients don't know which treatment they received, but doctors do\u2014this reduces bias in how patients report their symptoms."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This was a small, early-stage trial (phase 1b), so results need confirmation in larger studies before this product is widely available. The study tested both treatments on the same donor, so it's unclear whether the simplified product works equally well with different donors or for all patients.",
+  "tags": [
+    "microbiome",
+    "C. difficile",
+    "fecal transplant",
+    "gut health",
+    "biotherapeutic",
+    "infection treatment",
+    "clinical trial"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
