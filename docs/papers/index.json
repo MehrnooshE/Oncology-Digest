@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-02T11:22:18.611574+00:00",
+  "last_updated": "2026-06-03T11:59:43.735152+00:00",
   "papers": [
+    {
+      "id": "20260603_single_cell_spatial_pharmacobiology_iden",
+      "title": "Single-cell spatial pharmacobiology identifies conserved stromal barriers to therapeutic antibody delivery in human solid tumors",
+      "url": "https://www.nature.com/articles/s41587-026-03152-x",
+      "journal": "Nature Biotechnology",
+      "pub_date": "2026-06-03T00:00:00+00:00",
+      "fetched_date": "2026-06-03T11:59:43.734817+00:00",
+      "headline": "Scientists map why antibody cancer drugs get stuck outside tumors instead of reaching cancer cells.",
+      "cancer_types": [
+        "breast cancer",
+        "lung cancer",
+        "pancreatic cancer",
+        "other solid tumors"
+      ],
+      "tags": [
+        "antibody-drug-delivery",
+        "tumor-microenvironment",
+        "immunotherapy",
+        "spatial-proteomics",
+        "therapeutic-resistance",
+        "cancer-barriers",
+        "precision-medicine",
+        "drug-penetration"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": "The researchers likely used machine learning to analyze the massive amounts of spatial protein data and identify patterns in which cell types and proteins consistently block antibody penetration across different tumors and patients."
+    },
     {
       "id": "20260602_15_strain_live_biotherapeutic_product_or",
       "title": "15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent <i>Clostridioides difficile</i> infection: a randomized phase 1b trial",

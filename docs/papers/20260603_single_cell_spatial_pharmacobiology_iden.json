@@ -1,0 +1,78 @@
+{
+  "id": "20260603_single_cell_spatial_pharmacobiology_iden",
+  "title": "Single-cell spatial pharmacobiology identifies conserved stromal barriers to therapeutic antibody delivery in human solid tumors",
+  "url": "https://www.nature.com/articles/s41587-026-03152-x",
+  "journal": "Nature Biotechnology",
+  "journal_group": "Nature",
+  "authors": [
+    "Guolan Lu",
+    "John W. Hickey",
+    "Maximilian Haist",
+    "Xulei Qin",
+    "Emily Zhao",
+    "Abdullah Naveed"
+  ],
+  "pub_date": "2026-06-03T00:00:00+00:00",
+  "fetched_date": "2026-06-03T11:59:43.734817+00:00",
+  "abstract": "<p>Nature Biotechnology, Published online: 03 June 2026; <a href=\"https://www.nature.com/articles/s41587-026-03152-x\">doi:10.1038/s41587-026-03152-x</a></p>Interactions between the tumor microenvironment and antibody drugs are imaged with spatial proteomics.",
+  "headline": "Scientists map why antibody cancer drugs get stuck outside tumors instead of reaching cancer cells.",
+  "why_it_matters": "Many antibody-based cancer drugs fail to work effectively because they can't penetrate deep into tumors\u2014they get trapped in the surrounding tissue. This study reveals exactly where and why this happens, which could help doctors design better drugs or combination treatments that actually reach the cancer cells. Understanding these barriers is essential for improving outcomes in patients with solid tumors like lung, breast, and pancreatic cancers.",
+  "key_findings": [
+    "Antibody drugs often get blocked by the tumor's supporting tissue (called stroma\u2014the connective tissue, immune cells, and blood vessels around the cancer cells) before reaching the actual cancer cells.",
+    "The researchers identified specific proteins and cell types in the stroma that act as barriers, consistently appearing across different tumor types and different patients.",
+    "These barriers are not random or unique to one person\u2014they follow similar patterns across multiple human tumors, suggesting they might be targetable with a common strategy.",
+    "Using high-resolution imaging that shows exactly where proteins are located within tumor tissue, the team created a detailed map of why antibodies get stuck and where.",
+    "The findings suggest that combining antibody drugs with therapies that temporarily disable these stromal barriers could help antibodies reach cancer cells more effectively."
+  ],
+  "methods_snapshot": "The researchers used spatial proteomics (a technique that takes photographs of thousands of proteins in their exact locations within tumor tissue samples) combined with single-cell analysis (studying individual cells rather than averaging across many). They analyzed tumor samples from multiple patients with different cancer types to find common patterns in how antibodies interact with the tumor microenvironment.",
+  "glossary": [
+    {
+      "term": "antibody drugs",
+      "definition": "Lab-made proteins that act like guided missiles, designed to stick to cancer cells and either kill them directly or mark them for the immune system to destroy."
+    },
+    {
+      "term": "tumor microenvironment",
+      "definition": "Everything surrounding cancer cells in a tumor\u2014blood vessels, immune cells, connective tissue, and signaling molecules\u2014that can either help or hinder cancer growth and drug delivery."
+    },
+    {
+      "term": "stroma",
+      "definition": "The structural and supportive tissue around cancer cells, made up of fibroblasts (support cells), immune cells, and connective tissue that can block drugs from reaching tumors."
+    },
+    {
+      "term": "spatial proteomics",
+      "definition": "A method that identifies and maps the locations of thousands of different proteins within tissue samples, like creating a detailed protein atlas of where everything is positioned."
+    },
+    {
+      "term": "single-cell analysis",
+      "definition": "Studying the genetic or protein makeup of individual cells rather than mixing all cells together, revealing which specific cell types are creating the barriers."
+    },
+    {
+      "term": "therapeutic antibodies",
+      "definition": "Engineered immune proteins used as cancer medicines that target specific markers on cancer cells to trigger their destruction."
+    },
+    {
+      "term": "solid tumors",
+      "definition": "Cancers that form dense masses (like breast, lung, or pancreatic cancer), as opposed to blood cancers like leukemia that flow through the body."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer",
+    "lung cancer",
+    "pancreatic cancer",
+    "other solid tumors"
+  ],
+  "ml_angle": "The researchers likely used machine learning to analyze the massive amounts of spatial protein data and identify patterns in which cell types and proteins consistently block antibody penetration across different tumors and patients.",
+  "limitations": "The study analyzed tumor samples outside the body rather than tracking drug delivery in living patients, so real-world effectiveness remains to be proven in clinical trials. Additionally, the findings are most applicable to solid tumors; blood cancers may have different barriers.",
+  "tags": [
+    "antibody-drug-delivery",
+    "tumor-microenvironment",
+    "immunotherapy",
+    "spatial-proteomics",
+    "therapeutic-resistance",
+    "cancer-barriers",
+    "precision-medicine",
+    "drug-penetration"
+  ],
+  "study_type": "single-cell",
+  "impact_score": 4
+}
