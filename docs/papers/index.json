@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-03T11:59:43.735152+00:00",
+  "last_updated": "2026-06-04T10:41:01.910217+00:00",
   "papers": [
+    {
+      "id": "20260604_bypassing_the_vta__thalamic_modulation_o",
+      "title": "Bypassing the VTA: Thalamic modulation of striatal dopamine prioritizes safety",
+      "url": "https://www.nature.com/articles/s41467-026-73905-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-04T00:00:00+00:00",
+      "fetched_date": "2026-06-04T10:41:01.909961+00:00",
+      "headline": "Brain discovers a safety shortcut that overrides reward signals to avoid danger.",
+      "cancer_types": [],
+      "tags": [
+        "neuroscience",
+        "dopamine",
+        "decision-making",
+        "safety",
+        "brain-circuits",
+        "reward-system",
+        "behavior",
+        "anxiety"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260603_single_cell_spatial_pharmacobiology_iden",
       "title": "Single-cell spatial pharmacobiology identifies conserved stromal barriers to therapeutic antibody delivery in human solid tumors",
