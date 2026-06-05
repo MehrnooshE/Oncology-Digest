@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-04T10:41:01.910217+00:00",
+  "last_updated": "2026-06-05T10:52:09.982895+00:00",
   "papers": [
+    {
+      "id": "20260605_spinal_cord_stimulation_for_upper_limb_m",
+      "title": "Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial",
+      "url": "https://www.nature.com/articles/s41591-026-04435-1",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-04T00:00:00+00:00",
+      "fetched_date": "2026-06-05T10:52:09.982609+00:00",
+      "headline": "Electrical stimulation of the spinal cord helps stroke survivors regain arm strength and movement.",
+      "cancer_types": [],
+      "tags": [
+        "stroke-recovery",
+        "spinal-cord-stimulation",
+        "motor-rehabilitation",
+        "neuromodulation",
+        "hemiparesis",
+        "clinical-trial",
+        "neuroplasticity"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260604_bypassing_the_vta__thalamic_modulation_o",
       "title": "Bypassing the VTA: Thalamic modulation of striatal dopamine prioritizes safety",

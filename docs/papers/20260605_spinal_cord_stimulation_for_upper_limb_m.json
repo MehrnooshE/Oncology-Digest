@@ -1,0 +1,68 @@
+{
+  "id": "20260605_spinal_cord_stimulation_for_upper_limb_m",
+  "title": "Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial",
+  "url": "https://www.nature.com/articles/s41591-026-04435-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Roberto M. de Freitas",
+    "Shovan Bhatia",
+    "Erynn Sorensen",
+    "Nikhil Verma",
+    "Erick Carranza",
+    "Scott Ensel"
+  ],
+  "pub_date": "2026-06-04T00:00:00+00:00",
+  "fetched_date": "2026-06-05T10:52:09.982609+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 04 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04435-1\">doi:10.1038/s41591-026-04435-1</a></p>In this feasibility clinical trial, the authors show that epidural stimulation of the cervical spinal cord safely improved strength, function and spasticity in seven people with arm hemiparesis.",
+  "headline": "Electrical stimulation of the spinal cord helps stroke survivors regain arm strength and movement.",
+  "why_it_matters": "Millions of stroke survivors live with permanent weakness or stiffness in their arms, severely limiting daily activities like eating or dressing. This small trial suggests a surgically implanted device that sends gentle electrical pulses to the spinal cord could restore lost function \u2014 potentially offering hope to people who've already tried conventional rehabilitation with limited success.",
+  "key_findings": [
+    "Seven stroke survivors with chronic arm weakness received an implanted device that delivered electrical stimulation (mild electrical pulses) to the cervical spinal cord (the nerves in the neck that control arm movement).",
+    "After treatment, participants showed measurable improvements in arm strength and the ability to perform everyday tasks like gripping or reaching.",
+    "Spasticity (involuntary muscle stiffness and tightness) decreased in the treated arms, making movement easier and less painful.",
+    "The procedure was safe \u2014 no serious complications occurred during the feasibility trial, meaning it's potentially safe enough to test in larger groups.",
+    "This is an early-stage proof-of-concept study with a small number of participants, suggesting the approach warrants further investigation."
+  ],
+  "methods_snapshot": "Researchers surgically implanted a device in seven people with long-standing arm weakness from stroke, positioning an electrode (a thin wire that conducts electricity) against the outer lining of the spinal cord in the neck region. The device delivered carefully controlled electrical stimulation, and the researchers measured changes in strength, arm function, and muscle tightness over time.",
+  "glossary": [
+    {
+      "term": "Hemiparesis",
+      "definition": "Weakness or partial paralysis on one side of the body, commonly caused by stroke."
+    },
+    {
+      "term": "Epidural stimulation",
+      "definition": "Delivering electrical pulses through an electrode placed just outside the membrane that covers the spinal cord."
+    },
+    {
+      "term": "Cervical spinal cord",
+      "definition": "The bundle of nerves in the neck region that carries signals controlling arm and hand movement."
+    },
+    {
+      "term": "Spasticity",
+      "definition": "Involuntary muscle tightness and stiffness that makes movement difficult, often occurring after stroke."
+    },
+    {
+      "term": "Feasibility trial",
+      "definition": "An early-stage study designed to test whether a new treatment is safe and practical before running larger trials."
+    },
+    {
+      "term": "Electrode",
+      "definition": "A thin conductor that delivers electrical current to a specific area of tissue."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a very small study with only seven participants, so results may not apply to larger, more diverse populations. Long-term safety and durability of the implanted device remain unknown, and the study doesn't include a control group (people who didn't receive the treatment) for comparison.",
+  "tags": [
+    "stroke-recovery",
+    "spinal-cord-stimulation",
+    "motor-rehabilitation",
+    "neuromodulation",
+    "hemiparesis",
+    "clinical-trial",
+    "neuroplasticity"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
