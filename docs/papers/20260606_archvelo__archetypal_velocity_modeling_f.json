@@ -1,0 +1,72 @@
+{
+  "id": "20260606_archvelo__archetypal_velocity_modeling_f",
+  "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories",
+  "url": "https://www.nature.com/articles/s41467-026-74000-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Maria Avdeeva",
+    "Sarah K. Walker",
+    "Joris van der Veeken",
+    "Alexander Y. Rudensky",
+    "Yuri Pritykin"
+  ],
+  "pub_date": "2026-06-06T00:00:00+00:00",
+  "fetched_date": "2026-06-06T09:28:39.129402+00:00",
+  "abstract": "<p>Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74000-4\">doi:10.1038/s41467-026-74000-4</a></p>Mapping cell dynamics from static data is a challenge in genomics. Here, authors introduce ArchVelo, a computational method for modeling transcription dynamics and trajectory inference using chromatin accessibility archetypes in single-cell multi-omics, and infer new T cell transitions in infection.",
+  "headline": "New tool maps how immune cells change during infection by reading their chemical switches.",
+  "why_it_matters": "Understanding how immune cells transform during infection could help doctors design better vaccines and treatments. This method fills a major gap: scientists can now watch cells change in real-time using data from a single snapshot, rather than guessing how they evolve. Better cell maps may lead to smarter immunotherapies for cancer and infectious diseases.",
+  "key_findings": [
+    "ArchVelo uses chromatin accessibility archetypes (the chemical tags on DNA that tell cells which genes to turn on or off) to predict how cells are changing, even from frozen snapshots of data",
+    "The method reconstructs cell trajectories (the path a single cell takes as it matures or changes function) by identifying archetypal patterns\u2014like recognizing a face by its key features rather than every detail",
+    "When applied to T cells (immune cells that fight infection), the tool revealed previously unknown transitions in how these cells respond to pathogens",
+    "The technique combines information from two types of cellular data collected simultaneously (transcriptomics: which genes are active; chromatin accessibility: which genes are accessible to read), giving a more complete picture than either alone",
+    "ArchVelo outperforms existing methods by handling the inherent noise and complexity of single-cell data\u2014like sharpening a blurry photo of a crowd"
+  ],
+  "methods_snapshot": "Researchers developed a computational algorithm that identifies archetypal patterns in chromatin accessibility (the open/closed state of DNA segments) to infer how individual cells transition between different states. They tested ArchVelo on multi-omic single-cell data (simultaneous measurements of gene activity and DNA accessibility from individual cells) and validated findings against known T cell biology.",
+  "glossary": [
+    {
+      "term": "chromatin accessibility",
+      "definition": "whether DNA regions are open and readable by the cell's machinery (like a book page being accessible) or tightly wrapped and hidden"
+    },
+    {
+      "term": "transcriptomics",
+      "definition": "the study of which genes a cell has turned on (expressed) at a given moment, measured through RNA molecules"
+    },
+    {
+      "term": "single-cell multi-omics",
+      "definition": "measuring multiple types of biological information (genes, proteins, DNA structure) from individual cells rather than averaging across many cells"
+    },
+    {
+      "term": "T cells",
+      "definition": "a type of white blood cell that recognizes and kills infected or cancerous cells"
+    },
+    {
+      "term": "trajectory inference",
+      "definition": "computationally predicting the developmental path a cell takes as it changes type or function over time"
+    },
+    {
+      "term": "archetype",
+      "definition": "a representative or idealized example that captures the essential pattern of a group\u2014like a prototype"
+    },
+    {
+      "term": "velocity modeling",
+      "definition": "estimating the speed and direction of cellular change by analyzing gene activity or chromatin state"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The algorithm uses machine learning to identify archetypal patterns in chromatin data and extrapolate them to predict how individual cells are changing, automating pattern recognition that would be impossible to do by hand.",
+  "limitations": "ArchVelo works best with high-quality multi-omic data, which is expensive and technically challenging to generate; results depend on having enough cells to identify reliable patterns. The method was primarily demonstrated on T cells, so its performance on other cell types remains to be fully tested.",
+  "tags": [
+    "single-cell",
+    "multi-omics",
+    "T-cell-biology",
+    "trajectory-inference",
+    "chromatin-accessibility",
+    "computational-method",
+    "immune-cells",
+    "machine-learning"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-05T10:52:09.982895+00:00",
+  "last_updated": "2026-06-06T09:28:39.129720+00:00",
   "papers": [
+    {
+      "id": "20260606_archvelo__archetypal_velocity_modeling_f",
+      "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories",
+      "url": "https://www.nature.com/articles/s41467-026-74000-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-06T00:00:00+00:00",
+      "fetched_date": "2026-06-06T09:28:39.129402+00:00",
+      "headline": "New tool maps how immune cells change during infection by reading their chemical switches.",
+      "cancer_types": [],
+      "tags": [
+        "single-cell",
+        "multi-omics",
+        "T-cell-biology",
+        "trajectory-inference",
+        "chromatin-accessibility",
+        "computational-method",
+        "immune-cells",
+        "machine-learning"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The algorithm uses machine learning to identify archetypal patterns in chromatin data and extrapolate them to predict how individual cells are changing, automating pattern recognition that would be impossible to do by hand."
+    },
     {
       "id": "20260605_spinal_cord_stimulation_for_upper_limb_m",
       "title": "Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial",
