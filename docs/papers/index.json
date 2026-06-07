@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-06T09:28:39.129720+00:00",
+  "last_updated": "2026-06-07T10:07:52.557994+00:00",
   "papers": [
+    {
+      "id": "20260607_taming_the_inflamed_heart",
+      "title": "Taming the inflamed heart",
+      "url": "https://www.nature.com/articles/d41591-026-00030-6",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-05T00:00:00+00:00",
+      "fetched_date": "2026-06-07T10:07:52.557681+00:00",
+      "headline": "Doctors are learning to spot and treat heart inflammation using AI scans and new immune-targeting drugs.",
+      "cancer_types": [],
+      "tags": [
+        "heart inflammation",
+        "artificial intelligence imaging",
+        "immunotherapy",
+        "cardiovascular disease",
+        "AI diagnostics",
+        "precision medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": "Artificial intelligence algorithms were trained to recognize patterns of inflammation in heart scans, allowing doctors to detect dangerous inflammation faster and more accurately than by eye alone."
+    },
     {
       "id": "20260606_archvelo__archetypal_velocity_modeling_f",
       "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories",

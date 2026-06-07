@@ -1,0 +1,53 @@
+{
+  "id": "20260607_taming_the_inflamed_heart",
+  "title": "Taming the inflamed heart",
+  "url": "https://www.nature.com/articles/d41591-026-00030-6",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Charlotte Harrison"
+  ],
+  "pub_date": "2026-06-05T00:00:00+00:00",
+  "fetched_date": "2026-06-07T10:07:52.557681+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41591-026-00030-6\">doi:10.1038/d41591-026-00030-6</a></p>From artificial intelligence-enhanced scans to drugs that target the immune system, inflammation is emerging as a key driver of cardiovascular risk \u2014 and clinicians are learning to detect and treat it.",
+  "headline": "Doctors are learning to spot and treat heart inflammation using AI scans and new immune-targeting drugs.",
+  "why_it_matters": "Heart disease kills more people than any other disease, but doctors have mostly focused on cholesterol and blood pressure. This research shows that inflammation\u2014the body's overactive immune response\u2014is a hidden driver of heart attacks and damage. If doctors can detect and treat this inflammation early, they could prevent millions of heart events.",
+  "key_findings": [
+    "Inflammation in the heart tissue is a major risk factor for heart disease that hasn't been fully recognized or treated until now",
+    "Artificial intelligence (AI) can analyze medical scans to spot signs of heart inflammation better and faster than traditional methods",
+    "New drugs that calm down the immune system (immunomodulatory drugs) show promise in reducing heart inflammation and protecting the heart",
+    "Detecting inflammation early using advanced imaging could help doctors identify high-risk patients before they have a heart attack"
+  ],
+  "methods_snapshot": "Researchers reviewed recent clinical evidence and emerging technologies, combining insights from AI-enhanced imaging scans and studies of immune-system-targeting medications. They examined how artificial intelligence can recognize patterns of inflammation in heart scans that human eyes might miss, and evaluated whether new anti-inflammatory drugs help cardiac patients.",
+  "glossary": [
+    {
+      "term": "Inflammation",
+      "definition": "Your immune system's overactive response to injury or stress, which can damage healthy tissue if it goes on too long."
+    },
+    {
+      "term": "Cardiovascular risk",
+      "definition": "The likelihood that you will develop heart disease or have a heart attack."
+    },
+    {
+      "term": "Immunomodulatory drugs",
+      "definition": "Medicines that calm down or reprogram the immune system to stop it from attacking the body's own tissues."
+    },
+    {
+      "term": "AI-enhanced scans",
+      "definition": "Medical imaging (like CT or MRI scans) analyzed by computer programs trained to spot disease patterns automatically."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "Artificial intelligence algorithms were trained to recognize patterns of inflammation in heart scans, allowing doctors to detect dangerous inflammation faster and more accurately than by eye alone.",
+  "limitations": "This appears to be a narrative review summarizing existing research rather than a new experimental study, so it does not present new original data. Further clinical trials are needed to confirm that treating inflammation in this way actually prevents heart disease in real patients.",
+  "tags": [
+    "heart inflammation",
+    "artificial intelligence imaging",
+    "immunotherapy",
+    "cardiovascular disease",
+    "AI diagnostics",
+    "precision medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
