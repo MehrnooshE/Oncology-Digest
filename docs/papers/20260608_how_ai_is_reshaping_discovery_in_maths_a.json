@@ -1,0 +1,52 @@
+{
+  "id": "20260608_how_ai_is_reshaping_discovery_in_maths_a",
+  "title": "How AI is reshaping discovery in maths and physics",
+  "url": "https://www.nature.com/articles/d41586-026-01820-1",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Mikhail Burtsev",
+    "Yang-Hui He",
+    "Evgeny Sobko",
+    "Ananyo Bhattacharya",
+    "Thore Graepel"
+  ],
+  "pub_date": "2026-06-08T00:00:00+00:00",
+  "fetched_date": "2026-06-08T12:02:50.268379+00:00",
+  "abstract": "<p>Nature, Published online: 08 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01820-1\">doi:10.1038/d41586-026-01820-1</a></p>Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
+  "headline": "AI is helping mathematicians and physicists ask better questions, not replacing human thinking.",
+  "why_it_matters": "This paper isn't directly about cancer, but the methods described could speed up how we discover new drugs and understand disease patterns. When AI helps scientists think differently about hard problems, those breakthroughs can eventually reach medicine and patient care.",
+  "key_findings": [
+    "AI is changing how scientists explore ideas in mathematics and physics by suggesting new angles and patterns humans might miss (like a smart research assistant highlighting connections between different ideas)",
+    "The technology works best when AI and human experts collaborate\u2014machines handle spotting patterns in huge datasets, while humans provide intuition and judgment about what matters",
+    "AI is reshaping the questions scientists ask, not just finding answers to existing questions (similar to how a good mentor might ask 'have you thought about it this way?' rather than just solving a problem for you)",
+    "Current AI tools are most useful for exploration and hypothesis generation in theoretical fields, where there's less need for real-world testing"
+  ],
+  "methods_snapshot": "This is a review article (a survey of the field) rather than a single study. The authors examined recent examples of AI being used in mathematical and physics research, analyzing how the technology is actually changing the discovery process in these fields.",
+  "glossary": [
+    {
+      "term": "Artificial Intelligence (AI)",
+      "definition": "Computer systems trained to recognize patterns and solve problems in ways that seem to mimic human thinking."
+    },
+    {
+      "term": "Machine learning",
+      "definition": "A type of AI where computers learn from examples and data rather than being explicitly programmed with rules."
+    },
+    {
+      "term": "Hypothesis generation",
+      "definition": "The process of coming up with testable ideas or predictions about how something works."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI systems can quickly identify patterns in mathematical structures and physical data that would take humans years to find manually, helping researchers spot promising new directions to explore.",
+  "limitations": "This is a review of general trends, not new experimental data, so it reflects the authors' perspective on AI's role rather than testing specific claims. The examples are mostly from theoretical fields; more work is needed to show how these approaches apply to applied medicine and cancer research.",
+  "tags": [
+    "artificial-intelligence",
+    "discovery-methods",
+    "human-AI-collaboration",
+    "mathematical-physics",
+    "future-of-science"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
