@@ -1,0 +1,65 @@
+{
+  "id": "20260609_preventing_cancer_requires_more_than_a_l",
+  "title": "Preventing cancer requires more than a list of carcinogens",
+  "url": "https://www.nature.com/articles/d41586-026-01847-4",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Hossein Akbarialiabad",
+    "Iltefat H. Hamzavi",
+    "Abrar A. Qureshi",
+    "Jane M. Grant-Kels"
+  ],
+  "pub_date": "2026-06-09T00:00:00+00:00",
+  "fetched_date": "2026-06-09T10:36:47.268709+00:00",
+  "abstract": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01847-4\">doi:10.1038/d41586-026-01847-4</a></p>Preventing cancer requires more than a list of carcinogens",
+  "headline": "Stopping cancer needs understanding how risk factors work together, not just listing dangerous chemicals.",
+  "why_it_matters": "Doctors currently tell people to avoid specific cancer-causing substances, but this misses the bigger picture: cancer usually develops when multiple risk factors combine. Understanding these interactions could help us prevent more cancers and personalize prevention advice for different people.",
+  "key_findings": [
+    "A single carcinogen (cancer-causing agent) rarely causes cancer on its own\u2014multiple exposures and conditions usually need to combine, like a lock requiring several keys.",
+    "The same carcinogen may cause cancer in one person but not another because individual genetics, immune system strength, and other exposures differ.",
+    "Prevention strategies focusing only on avoiding specific chemicals miss the synergistic effects (when two things together are more harmful than separately).",
+    "Personalized risk assessment\u2014tailored to a person's unique genetics and exposure history\u2014may be more effective than one-size-fits-all warnings."
+  ],
+  "methods_snapshot": "The authors reviewed existing cancer research and epidemiological data (studies tracking disease patterns in populations) to identify how multiple risk factors interact. They analyzed cases where people with identical exposures had different cancer outcomes to understand why genetics and environment combine unpredictably.",
+  "glossary": [
+    {
+      "term": "Carcinogen",
+      "definition": "Any substance, radiation, or behavior that can cause cancer."
+    },
+    {
+      "term": "Synergistic effect",
+      "definition": "When two or more things together cause greater harm than they would separately."
+    },
+    {
+      "term": "Epidemiology",
+      "definition": "The study of how diseases spread and affect populations."
+    },
+    {
+      "term": "Personalized prevention",
+      "definition": "Health advice customized to an individual's unique genetics and risk factors rather than generic guidance."
+    },
+    {
+      "term": "Multifactorial",
+      "definition": "Caused by many different factors working together rather than a single cause."
+    }
+  ],
+  "cancer_types": [
+    "Skin cancer (melanoma)",
+    "Lung cancer",
+    "Breast cancer",
+    "Colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a perspective/review article rather than new experimental data, so it synthesizes existing knowledge rather than testing new hypotheses. The authors cannot definitively prove how different factors interact in every individual without larger, long-term studies following people over decades.",
+  "tags": [
+    "cancer prevention",
+    "risk factors",
+    "personalized medicine",
+    "carcinogens",
+    "gene-environment interaction",
+    "public health"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
