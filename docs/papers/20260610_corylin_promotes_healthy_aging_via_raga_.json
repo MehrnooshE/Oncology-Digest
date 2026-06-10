@@ -1,0 +1,73 @@
+{
+  "id": "20260610_corylin_promotes_healthy_aging_via_raga_",
+  "title": "Corylin promotes healthy aging via RAGA\u2013mTOR suppression and sex-dependent activation of SIRT3",
+  "url": "https://www.nature.com/articles/s41467-026-74184-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Shu-Fang Cheng",
+    "Yu-Tsun Lin",
+    "Tong-Hong Wang",
+    "Yann-Lii Leu",
+    "Kuo-Chiang Hsia",
+    "Wen-Chih Lee"
+  ],
+  "pub_date": "2026-06-10T00:00:00+00:00",
+  "fetched_date": "2026-06-10T10:59:49.274575+00:00",
+  "abstract": "<p>Nature Communications, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74184-9\">doi:10.1038/s41467-026-74184-9</a></p>Corylin improves metabolic health and physical performance and extends lifespan in female mice, with multi-omics analyses linking these effects to modulation of key aging pathways, positioning Corylin as a candidate intervention for healthy aging.",
+  "headline": "A natural compound called corylin extends lifespan and improves health in female mice by tweaking aging pathways.",
+  "why_it_matters": "As we age, our cells accumulate damage and slow down, leading to disease and decline. This research identifies a natural substance that may help us stay healthier longer\u2014potentially opening new ways to prevent age-related diseases like heart disease, diabetes, and cancer. If it works in humans, corylin could become a simple supplement to support healthy aging.",
+  "key_findings": [
+    "Corylin extended lifespan and improved physical performance (endurance and strength) in female mice, along with better metabolic health (how efficiently their bodies burn calories and control blood sugar).",
+    "The compound works by suppressing mTOR, a cellular 'growth accelerator' that, when overactive, speeds up aging and disease\u2014think of it like easing off the gas pedal so cells don't burn out too quickly.",
+    "Corylin also activates SIRT3, a protein that acts as a cellular maintenance worker, cleaning up damaged parts (mitochondria\u2014the cell's power plants) and protecting against stress.",
+    "The benefits were sex-dependent: females showed strong effects, while males showed weaker responses, suggesting hormones like estrogen may play a role in how the compound works.",
+    "Multi-omics analysis (examining thousands of genes, proteins, and metabolites at once) revealed the compound remodels multiple aging pathways simultaneously, not just one target."
+  ],
+  "methods_snapshot": "Researchers gave corylin to female and male mice and measured lifespan, physical performance, and metabolic markers over time. They then used advanced molecular techniques\u2014including sequencing genes and measuring proteins\u2014to map out exactly which cellular pathways the compound was affecting, like creating a detailed map of how the drug rewires the aging process.",
+  "glossary": [
+    {
+      "term": "mTOR",
+      "definition": "A protein inside cells that acts as a master growth switch; when overactive, it accelerates aging and disease."
+    },
+    {
+      "term": "SIRT3",
+      "definition": "A cellular maintenance protein that protects mitochondria (the cell's energy factories) from damage and stress."
+    },
+    {
+      "term": "Metabolic health",
+      "definition": "How well your body manages energy\u2014controlling blood sugar, burning fat, and maintaining healthy weight."
+    },
+    {
+      "term": "Multi-omics",
+      "definition": "A technique that measures thousands of genes, proteins, and chemical signals in cells at once to understand how systems work together."
+    },
+    {
+      "term": "Mitochondria",
+      "definition": "The powerhouse of the cell\u2014tiny structures inside cells that generate energy the body needs to function."
+    },
+    {
+      "term": "Lifespan extension",
+      "definition": "An increase in how long an organism lives, used as a key measure of successful anti-aging interventions."
+    },
+    {
+      "term": "Sex-dependent effects",
+      "definition": "Benefits that differ between males and females, often because of differences in hormones like estrogen and testosterone."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study was conducted only in mice, which don't always behave the same way as humans. The effects were stronger in females, so it's unclear whether males and humans would benefit equally. Long-term safety testing in humans and larger studies will be needed before corylin could be recommended as an anti-aging therapy.",
+  "tags": [
+    "aging",
+    "longevity",
+    "corylin",
+    "mTOR",
+    "mitochondria",
+    "natural compounds",
+    "healthy aging",
+    "sex differences"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
