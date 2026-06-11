@@ -1,0 +1,66 @@
+{
+  "id": "20260611_tead1_condensates_are_transcriptionally_",
+  "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
+  "url": "https://www.nature.com/articles/s41556-026-01985-x",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Yiran Wang",
+    "Jindayi Liang",
+    "Kimberly S. Lange",
+    "Justin Demmerle",
+    "Eleanor A. Liu",
+    "Ethan Black"
+  ],
+  "pub_date": "2026-06-11T00:00:00+00:00",
+  "fetched_date": "2026-06-11T11:25:40.100196+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/s41556-026-01985-x\">doi:10.1038/s41556-026-01985-x</a></p>Wang, Liang and colleagues show that the TEAD1 transcription factor can organize micrometre-sized nuclear biomolecular condensates independently of active transcription. TEAD1 condensates may act as depots for excess TEAD1.",
+  "headline": "Cancer cells store excess TEAD1 protein in inactive storage blobs inside the nucleus.",
+  "why_it_matters": "Understanding how cancer cells organize and store proteins like TEAD1 could help researchers develop new ways to disrupt cancer growth. If scientists can target these storage sites, they might be able to starve cancer cells of the proteins they need to survive and spread.",
+  "key_findings": [
+    "TEAD1 (a protein that normally controls which genes are switched on) forms large clumps called condensates (liquid-like droplets) inside cancer cell nuclei (the command center of cells).",
+    "These condensates sit on pericentromeric heterochromatin (tightly packed, inactive DNA bundles near the center of chromosomes), acting like storage warehouses rather than active work sites.",
+    "The TEAD1 condensates are transcriptionally inactive, meaning they don't turn genes on\u2014they simply store excess TEAD1 protein out of the way.",
+    "This storage function appears to be independent of the condensates' normal job of controlling gene activity, suggesting cancer cells use them as depots to manage protein levels."
+  ],
+  "methods_snapshot": "Researchers used advanced microscopy techniques to visualize TEAD1 protein organization inside living cancer cells and mapped where these condensates were located on chromosomes. They also performed biochemical experiments to confirm that stored TEAD1 was not actively controlling genes.",
+  "glossary": [
+    {
+      "term": "TEAD1",
+      "definition": "A transcription factor\u2014a protein that acts like a switch to turn genes on and off inside cells."
+    },
+    {
+      "term": "Condensates",
+      "definition": "Liquid-like clumps or droplets that form when many proteins and RNA molecules gather together in one place, similar to oil droplets in water."
+    },
+    {
+      "term": "Pericentromeric heterochromatin",
+      "definition": "Tightly packed, inactive DNA located near the center of chromosomes, where genes are normally kept turned off."
+    },
+    {
+      "term": "Transcription",
+      "definition": "The process of reading a gene and turning it into instructions to make a protein."
+    },
+    {
+      "term": "Nucleus",
+      "definition": "The membrane-bound compartment inside a cell that contains DNA and controls most of the cell's activities."
+    }
+  ],
+  "cancer_types": [
+    "Unspecified cancer cell lines"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was conducted primarily in cultured cancer cells grown in the laboratory, so it remains unclear whether these TEAD1 condensate depots function the same way in actual tumors inside patients. The biological purpose of this storage mechanism and its role in cancer survival still needs further investigation.",
+  "tags": [
+    "TEAD1",
+    "protein condensates",
+    "gene regulation",
+    "cancer cells",
+    "nuclear organization",
+    "heterochromatin",
+    "protein storage",
+    "transcription"
+  ],
+  "study_type": "imaging",
+  "impact_score": 3
+}

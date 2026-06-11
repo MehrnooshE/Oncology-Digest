@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-06-10T10:59:49.274858+00:00",
+  "last_updated": "2026-06-11T11:25:40.100449+00:00",
   "papers": [
+    {
+      "id": "20260611_tead1_condensates_are_transcriptionally_",
+      "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
+      "url": "https://www.nature.com/articles/s41556-026-01985-x",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-06-11T00:00:00+00:00",
+      "fetched_date": "2026-06-11T11:25:40.100196+00:00",
+      "headline": "Cancer cells store excess TEAD1 protein in inactive storage blobs inside the nucleus.",
+      "cancer_types": [
+        "Unspecified cancer cell lines"
+      ],
+      "tags": [
+        "TEAD1",
+        "protein condensates",
+        "gene regulation",
+        "cancer cells",
+        "nuclear organization",
+        "heterochromatin",
+        "protein storage",
+        "transcription"
+      ],
+      "study_type": "imaging",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260610_corylin_promotes_healthy_aging_via_raga_",
       "title": "Corylin promotes healthy aging via RAGA\u2013mTOR suppression and sex-dependent activation of SIRT3",
