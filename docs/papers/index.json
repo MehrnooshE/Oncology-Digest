@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-11T11:25:40.100449+00:00",
+  "last_updated": "2026-06-12T11:04:51.803169+00:00",
   "papers": [
+    {
+      "id": "20260612_general_purpose_large_language_models_ou",
+      "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
+      "url": "https://www.nature.com/articles/s41591-026-04431-5",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-12T00:00:00+00:00",
+      "fetched_date": "2026-06-12T11:04:51.802866+00:00",
+      "headline": "General AI tools beat specialized medical AI on clinical knowledge tests.",
+      "cancer_types": [],
+      "tags": [
+        "artificial intelligence",
+        "clinical decision support",
+        "large language models",
+        "medical AI",
+        "healthcare technology",
+        "AI benchmarking"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Frontier large language models\u2014AI systems trained on diverse internet text\u2014were compared against specialized medical AI using standardized medical tests and real clinical scenarios to see which approach better captures medical knowledge and clinical reasoning."
+    },
     {
       "id": "20260611_tead1_condensates_are_transcriptionally_",
       "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
