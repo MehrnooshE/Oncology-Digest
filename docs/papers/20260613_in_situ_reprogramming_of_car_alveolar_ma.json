@@ -1,0 +1,75 @@
+{
+  "id": "20260613_in_situ_reprogramming_of_car_alveolar_ma",
+  "title": "In situ reprogramming of CAR-alveolar macrophages via liposomal nanomedicine for lung cancer immunotherapy",
+  "url": "https://www.nature.com/articles/s41467-026-74162-1",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Hui Li",
+    "Chaoyi Lyu",
+    "Xiaoyao Cai",
+    "Yufeng Zhang",
+    "Qian Guo",
+    "Yanbin Chen"
+  ],
+  "pub_date": "2026-06-13T00:00:00+00:00",
+  "fetched_date": "2026-06-13T10:05:08.619388+00:00",
+  "abstract": "<p>Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74162-1\">doi:10.1038/s41467-026-74162-1</a></p>Alveolar macrophages can contribute to systemic anti-tumor responses. Here the authors describe a cascaded targeted liposomal nanomedicine for generating chimeric antigen receptor-modified alveolar macrophages via intrapulmonary nebulization, promoting anti-tumor immunity in lung cancer models.",
+  "headline": "Scientists reprogram lung immune cells to fight cancer using a new inhaled medicine.",
+  "why_it_matters": "Lung cancer is one of the deadliest cancers worldwide. This approach uses the body's own immune cells in the lungs \u2014 which are naturally positioned to spot cancer early \u2014 and equips them with special instructions to attack tumors. If it works in patients, it could offer a gentler, more targeted way to treat lung cancer than traditional chemotherapy.",
+  "key_findings": [
+    "Researchers created an inhaled nanomedicine (tiny droplets smaller than cells) that delivers genetic instructions directly into the lungs.",
+    "The medicine reprograms alveolar macrophages (immune cells that live in the lungs and normally clean up debris) to become CAR-modified cells (cells with artificial 'receptors' that recognize and attack cancer).",
+    "Delivering the treatment by inhalation (breathing it in) keeps it focused in the lungs rather than affecting the whole body, potentially reducing side effects.",
+    "In lung cancer models (lab and mouse studies), the reprogrammed immune cells successfully triggered anti-tumor responses and slowed cancer growth.",
+    "The liposomal packaging (using fatty bubble-like containers) protected the genetic material during delivery and improved targeting to the right cells."
+  ],
+  "methods_snapshot": "Scientists designed liposomal nanoparticles (tiny fat-based containers) loaded with genetic material and targeting molecules, then tested whether inhaling them could reprogram lung immune cells in laboratory and mouse models of lung cancer. They measured whether the reprogrammed cells attacked tumors and tracked immune responses using standard lab techniques.",
+  "glossary": [
+    {
+      "term": "Alveolar macrophages",
+      "definition": "Immune cells living in tiny air sacs (alveoli) deep in your lungs that normally engulf bacteria and debris."
+    },
+    {
+      "term": "CAR (Chimeric Antigen Receptor)",
+      "definition": "An artificial molecular 'sensor' engineered onto immune cells to recognize and attack specific cancer targets."
+    },
+    {
+      "term": "Nanomedicine",
+      "definition": "Medicines made from particles so tiny (billionths of a meter) they can penetrate cells and tissues in new ways."
+    },
+    {
+      "term": "Liposomal",
+      "definition": "A delivery package made of fatty layers similar to cell membranes, used to protect and deliver medicine into cells."
+    },
+    {
+      "term": "In situ reprogramming",
+      "definition": "Modifying cells directly where they live in the body, rather than removing and changing them in a lab."
+    },
+    {
+      "term": "Intrapulmonary nebulization",
+      "definition": "Breathing in a fine mist of medicine that travels deep into the lungs."
+    },
+    {
+      "term": "Anti-tumor immunity",
+      "definition": "The body's immune system activating to recognize and destroy cancer cells."
+    }
+  ],
+  "cancer_types": [
+    "lung cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted in laboratory and mouse models, not yet in human patients, so it's unclear whether the approach will be safe or effective in real lung cancer patients. The long-term durability of the reprogrammed immune cells and whether tumors might develop resistance to this treatment remain unknown.",
+  "tags": [
+    "CAR-T cell therapy",
+    "lung cancer",
+    "immunotherapy",
+    "nanomedicine",
+    "macrophages",
+    "gene therapy",
+    "precision medicine",
+    "inhaled therapy"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

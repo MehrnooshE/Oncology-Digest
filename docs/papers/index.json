@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-06-12T11:04:51.803169+00:00",
+  "last_updated": "2026-06-13T10:05:08.619684+00:00",
   "papers": [
+    {
+      "id": "20260613_in_situ_reprogramming_of_car_alveolar_ma",
+      "title": "In situ reprogramming of CAR-alveolar macrophages via liposomal nanomedicine for lung cancer immunotherapy",
+      "url": "https://www.nature.com/articles/s41467-026-74162-1",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-13T00:00:00+00:00",
+      "fetched_date": "2026-06-13T10:05:08.619388+00:00",
+      "headline": "Scientists reprogram lung immune cells to fight cancer using a new inhaled medicine.",
+      "cancer_types": [
+        "lung cancer"
+      ],
+      "tags": [
+        "CAR-T cell therapy",
+        "lung cancer",
+        "immunotherapy",
+        "nanomedicine",
+        "macrophages",
+        "gene therapy",
+        "precision medicine",
+        "inhaled therapy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260612_general_purpose_large_language_models_ou",
       "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
