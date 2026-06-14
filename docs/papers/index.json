@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-06-13T10:05:08.619684+00:00",
+  "last_updated": "2026-06-14T10:28:20.334067+00:00",
   "papers": [
+    {
+      "id": "20260614_spatial_cellular_order_underlies_locally",
+      "title": "Spatial cellular order underlies locally-confined mechanisms of immune resistance in oropharyngeal cancer",
+      "url": "https://www.nature.com/articles/s41467-026-74318-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-13T00:00:00+00:00",
+      "fetched_date": "2026-06-14T10:28:20.333795+00:00",
+      "headline": "Cancer tumors hide from immune cells by creating special neighborhoods that block immune attacks.",
+      "cancer_types": [
+        "oropharyngeal cancer (throat cancer)",
+        "HPV-associated cancers"
+      ],
+      "tags": [
+        "immune-evasion",
+        "tumor-microenvironment",
+        "spatial-biology",
+        "single-cell-analysis",
+        "HPV-cancer",
+        "immunotherapy-resistance",
+        "tumor-architecture",
+        "T-cell-dysfunction"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260613_in_situ_reprogramming_of_car_alveolar_ma",
       "title": "In situ reprogramming of CAR-alveolar macrophages via liposomal nanomedicine for lung cancer immunotherapy",
