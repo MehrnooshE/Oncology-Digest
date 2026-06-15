@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-14T10:28:20.334067+00:00",
+  "last_updated": "2026-06-15T13:21:07.040318+00:00",
   "papers": [
+    {
+      "id": "20260615_how_ai_is_revealing_the_secret_lives_of_",
+      "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+      "url": "https://www.nature.com/articles/d41586-026-01887-w",
+      "journal": "Nature",
+      "pub_date": "2026-06-15T00:00:00+00:00",
+      "fetched_date": "2026-06-15T13:21:07.040032+00:00",
+      "headline": "AI helps scientists track and understand wild animal behavior in nature.",
+      "cancer_types": [],
+      "tags": [
+        "artificial intelligence",
+        "machine learning",
+        "wildlife tracking",
+        "animal behavior",
+        "conservation",
+        "computer vision",
+        "nature monitoring"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "Artificial intelligence was trained on thousands of animal images to automatically recognize, identify, and track individual animals and their behaviors in videos and photos\u2014a task that would take human researchers years to complete by hand."
+    },
     {
       "id": "20260614_spatial_cellular_order_underlies_locally",
       "title": "Spatial cellular order underlies locally-confined mechanisms of immune resistance in oropharyngeal cancer",
