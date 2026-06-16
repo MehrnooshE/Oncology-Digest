@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-15T13:21:07.040318+00:00",
+  "last_updated": "2026-06-16T12:14:42.481458+00:00",
   "papers": [
+    {
+      "id": "20260616_a_skin_conformal_rigid_in_soft_array_bas",
+      "title": "A skin-conformal rigid-in-soft array-based imaging system",
+      "url": "https://www.nature.com/articles/s41467-026-74257-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-16T00:00:00+00:00",
+      "fetched_date": "2026-06-16T12:14:42.481183+00:00",
+      "headline": "Tiny cameras embedded in stretchy material create a wearable imaging patch.",
+      "cancer_types": [],
+      "tags": [
+        "wearable sensors",
+        "flexible electronics",
+        "biomedical imaging",
+        "materials science",
+        "medical devices",
+        "skin monitoring"
+      ],
+      "study_type": "other",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260615_how_ai_is_revealing_the_secret_lives_of_",
       "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
