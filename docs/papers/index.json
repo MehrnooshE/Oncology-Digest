@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-16T12:14:42.481458+00:00",
+  "last_updated": "2026-06-17T11:54:21.778172+00:00",
   "papers": [
+    {
+      "id": "20260617_these__master__proteins_protect_us_from_",
+      "title": "These \u2018master\u2019 proteins protect us from deadly mutations \u2014 and could inspire new drugs",
+      "url": "https://www.nature.com/articles/d41586-026-01883-0",
+      "journal": "Nature",
+      "pub_date": "2026-06-17T00:00:00+00:00",
+      "fetched_date": "2026-06-17T11:54:21.777896+00:00",
+      "headline": "Your cells have hidden safety switches that block dangerous mutations from causing cancer.",
+      "cancer_types": [
+        "Not specific cancers studied \u2014 this is a foundational mechanism relevant to all cancer types"
+      ],
+      "tags": [
+        "cancer prevention",
+        "genetic buffering",
+        "protein networks",
+        "drug development",
+        "mutation resistance",
+        "cellular defense",
+        "precision medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260616_a_skin_conformal_rigid_in_soft_array_bas",
       "title": "A skin-conformal rigid-in-soft array-based imaging system",
