@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-17T11:54:21.778172+00:00",
+  "last_updated": "2026-06-18T11:11:35.584708+00:00",
   "papers": [
+    {
+      "id": "20260618_a_universal_deep_learning_framework_for_",
+      "title": "A universal deep learning framework for empowering nanopore identification by reinforcing temporal signals",
+      "url": "https://www.nature.com/articles/s41467-026-74507-w",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-18T00:00:00+00:00",
+      "fetched_date": "2026-06-18T11:11:35.584401+00:00",
+      "headline": "New AI tool helps tiny pores accurately identify similar molecules in noisy sensor data",
+      "cancer_types": [],
+      "tags": [
+        "nanopore-sequencing",
+        "deep-learning",
+        "molecular-detection",
+        "AI-biosensors",
+        "signal-processing",
+        "diagnostic-technology",
+        "pattern-recognition",
+        "precision-medicine"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI system learns to recognize molecular fingerprints from noisy sensor data by focusing its attention on the most telling patterns over time, improving accuracy in identifying molecules across different types of biological samples."
+    },
     {
       "id": "20260617_these__master__proteins_protect_us_from_",
       "title": "These \u2018master\u2019 proteins protect us from deadly mutations \u2014 and could inspire new drugs",
