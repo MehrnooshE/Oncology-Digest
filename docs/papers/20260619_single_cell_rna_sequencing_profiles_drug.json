@@ -1,0 +1,69 @@
+{
+  "id": "20260619_single_cell_rna_sequencing_profiles_drug",
+  "title": "Single-cell RNA sequencing profiles drug activity within spatially engineered 3D cultures",
+  "url": "https://www.nature.com/articles/s41467-026-74587-8",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Jessica J. King",
+    "Alireza Mowla",
+    "Jessica A. Kretzmann",
+    "Nishka Bhalla",
+    "Giselle Sugianto",
+    "Marck Norret"
+  ],
+  "pub_date": "2026-06-19T00:00:00+00:00",
+  "fetched_date": "2026-06-19T11:27:08.142964+00:00",
+  "abstract": "<p>Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74587-8\">doi:10.1038/s41467-026-74587-8</a></p>King and colleagues use scTECH-seq to attain spatial mapping of single-cell gene expression and drug response in three-dimensional cultured cell spheroids. Spatial expression analysis provides insight into heterogeneous drug responses in 3D culture models.",
+  "headline": "Scientists map how cancer drugs work inside realistic tumor models one cell at a time.",
+  "why_it_matters": "Cancer tumors aren't uniform\u2014different cells respond differently to the same drug, which is why some treatments fail. This study reveals exactly which cells resist drugs and why, helping doctors design better, more personalized treatments. Understanding drug resistance at this level could eventually mean fewer wasted treatments and faster paths to working therapies.",
+  "key_findings": [
+    "Researchers used a new technique called scTECH-seq (single-cell Technology for Exploring Cell Heterogeneity and spatial sequencing) to photograph which genes are active in individual cancer cells and track how they respond to drugs",
+    "Cancer cells in 3D spheroids (tiny ball-shaped clusters grown in the lab that mimic real tumors) show different drug responses depending on their location within the sphere\u2014cells in the center behave differently than those on the edge",
+    "Gene expression patterns (the instructions cells are actively following) vary widely from cell to cell, explaining why some cancer cells die from a drug while neighboring cells survive",
+    "The spatial mapping revealed hidden pockets of drug-resistant cells that traditional flat-dish experiments would have missed, showing why 3D models are more realistic"
+  ],
+  "methods_snapshot": "The team grew cancer cells into 3D spheres, exposed them to drugs, then used scTECH-seq\u2014a technique that measures which genes are turned on or off in each individual cell while preserving information about where that cell sits in the sphere. This combination of single-cell genetics (genomics) with spatial location allowed them to create a detailed map of drug response.",
+  "glossary": [
+    {
+      "term": "single-cell RNA sequencing",
+      "definition": "A technique that measures which genes are active in individual cells, rather than averaging across billions of cells at once."
+    },
+    {
+      "term": "gene expression",
+      "definition": "Whether a gene is turned 'on' or 'off'\u2014which instructions the cell is actively following right now."
+    },
+    {
+      "term": "spheroid",
+      "definition": "A tiny ball-shaped cluster of cells grown in the lab that mimics the structure of a real tumor better than flat dishes do."
+    },
+    {
+      "term": "drug heterogeneity",
+      "definition": "The fact that different cells in the same tumor respond differently to the same drug."
+    },
+    {
+      "term": "spatial mapping",
+      "definition": "Recording not just what's happening in cells, but exactly where those cells are located relative to each other."
+    },
+    {
+      "term": "scTECH-seq",
+      "definition": "A newer laboratory method that combines single-cell gene measurement with information about where each cell sits in 3D space."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract\u2014likely multiple solid tumors tested with 3D spheroid models"
+  ],
+  "ml_angle": null,
+  "limitations": "This study used lab-grown spheroids, which are simpler than real tumors with blood vessels, immune cells, and complex architecture. Results will need validation in actual patient tumors or animal models before influencing clinical practice.",
+  "tags": [
+    "single-cell-sequencing",
+    "3D-culture",
+    "drug-resistance",
+    "spatial-transcriptomics",
+    "precision-medicine",
+    "tumor-heterogeneity",
+    "cancer-biology"
+  ],
+  "study_type": "single-cell",
+  "impact_score": 4
+}

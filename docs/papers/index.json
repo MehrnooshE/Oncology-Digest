@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-18T11:11:35.584708+00:00",
+  "last_updated": "2026-06-19T11:27:08.143219+00:00",
   "papers": [
+    {
+      "id": "20260619_single_cell_rna_sequencing_profiles_drug",
+      "title": "Single-cell RNA sequencing profiles drug activity within spatially engineered 3D cultures",
+      "url": "https://www.nature.com/articles/s41467-026-74587-8",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-19T00:00:00+00:00",
+      "fetched_date": "2026-06-19T11:27:08.142964+00:00",
+      "headline": "Scientists map how cancer drugs work inside realistic tumor models one cell at a time.",
+      "cancer_types": [
+        "Not specified in abstract\u2014likely multiple solid tumors tested with 3D spheroid models"
+      ],
+      "tags": [
+        "single-cell-sequencing",
+        "3D-culture",
+        "drug-resistance",
+        "spatial-transcriptomics",
+        "precision-medicine",
+        "tumor-heterogeneity",
+        "cancer-biology"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260618_a_universal_deep_learning_framework_for_",
       "title": "A universal deep learning framework for empowering nanopore identification by reinforcing temporal signals",
