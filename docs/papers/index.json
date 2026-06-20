@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-19T11:27:08.143219+00:00",
+  "last_updated": "2026-06-20T10:11:01.972787+00:00",
   "papers": [
+    {
+      "id": "20260620_biomimetic_ferroelectric_semiconductor_t",
+      "title": "Biomimetic ferroelectric-semiconductor transistor enables neuronal multisensory integration",
+      "url": "https://www.nature.com/articles/s41467-026-74648-y",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-20T00:00:00+00:00",
+      "fetched_date": "2026-06-20T10:11:01.972465+00:00",
+      "headline": "Scientists create a brain-inspired chip that combines multiple senses like the human brain does.",
+      "cancer_types": [],
+      "tags": [
+        "brain-inspired computing",
+        "ferroelectric electronics",
+        "sensory integration",
+        "neuromorphic engineering",
+        "artificial intelligence hardware",
+        "bioelectronics"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260619_single_cell_rna_sequencing_profiles_drug",
       "title": "Single-cell RNA sequencing profiles drug activity within spatially engineered 3D cultures",
