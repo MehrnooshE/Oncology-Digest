@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-20T10:11:01.972787+00:00",
+  "last_updated": "2026-06-21T10:34:31.441705+00:00",
   "papers": [
+    {
+      "id": "20260621_sensing_centrosome_amplification__the_in",
+      "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy",
+      "url": "https://www.nature.com/articles/s41467-026-74702-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-21T00:00:00+00:00",
+      "fetched_date": "2026-06-21T10:34:31.441456+00:00",
+      "headline": "Cells can fix dangerous centrosome problems by triggering a cleanup process called autophagy.",
+      "cancer_types": [],
+      "tags": [
+        "centrosome amplification",
+        "autophagy",
+        "tumor suppression",
+        "cell cycle control",
+        "PLK4",
+        "cancer prevention",
+        "cellular quality control",
+        "ARHGAP15"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260620_biomimetic_ferroelectric_semiconductor_t",
       "title": "Biomimetic ferroelectric-semiconductor transistor enables neuronal multisensory integration",

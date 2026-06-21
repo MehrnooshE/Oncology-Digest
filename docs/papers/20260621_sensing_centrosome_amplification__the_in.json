@@ -1,0 +1,79 @@
+{
+  "id": "20260621_sensing_centrosome_amplification__the_in",
+  "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy",
+  "url": "https://www.nature.com/articles/s41467-026-74702-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Paula A. Coelho",
+    "Agnieszka Fatalska",
+    "Marco Geymonat",
+    "Ramona Lattao",
+    "David M. Glover"
+  ],
+  "pub_date": "2026-06-21T00:00:00+00:00",
+  "fetched_date": "2026-06-21T10:34:31.441456+00:00",
+  "abstract": "<p>Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74702-9\">doi:10.1038/s41467-026-74702-9</a></p>A genome wide screen reveals down-regulating the Wnt, Hippo, Tpr53, PIDDosome, ciliary biogenesis, or autophagy pathways overcomes inhibitory effects of PLK4-mediated centrosome amplification on cell proliferation. Depletion of tumor suppressor, ARHGAP15, activates autophagy to reduce centrosomes. ARHGAP15 is opposed by ARHGEF2, which is activated by centriolar protein CEP170 to generate RAC1-GTP and promote autophagy.",
+  "headline": "Cells can fix dangerous centrosome problems by triggering a cleanup process called autophagy.",
+  "why_it_matters": "Many cancers have too many centrosomes (cell structures that organize growth), which drives tumor development. This research reveals how cells naturally sense and eliminate excess centrosomes, opening new ways to stop cancers before they form or grow. Understanding this mechanism could lead to drugs that reactivate this cleanup system in cancer cells.",
+  "key_findings": [
+    "Researchers discovered that when a protein called PLK4 causes cells to grow too many centrosomes (tiny structures that act like the cell's organizing center), the cell has built-in brakes that prevent dangerous growth \u2014 and these brakes involve several different cellular pathways (Wnt, Hippo, p53, and others).",
+    "A tumor-suppressing protein called ARHGAP15 acts like a switch: when it's turned off, it activates autophagy \u2014 a cellular recycling process \u2014 which then destroys the excess centrosomes and keeps the cell under control.",
+    "The opposite protein, ARHGEF2, normally blocks autophagy; it receives signals from a centrosomal protein called CEP170, which creates a regulatory chain that decides whether excess centrosomes get cleaned up.",
+    "The researchers used a genome-wide screen (testing thousands of genes at once) to map out which cellular processes could override the growth-blocking effects of centrosome excess, revealing multiple fail-safe mechanisms cells use to prevent cancer."
+  ],
+  "methods_snapshot": "The team performed a genome-wide screen \u2014 testing the effects of disabling thousands of different genes in cells with centrosome problems \u2014 to identify which genes and pathways could rescue cell growth. They then used molecular biology techniques to trace the specific protein interactions and chemical signals involved in the autophagy-centrosome cleanup pathway.",
+  "glossary": [
+    {
+      "term": "centrosome",
+      "definition": "A tiny cellular structure that organizes the cell's growth and division; most healthy cells have exactly one, but cancer cells often have more."
+    },
+    {
+      "term": "autophagy",
+      "definition": "A cellular recycling process where the cell wraps up damaged or unwanted structures and breaks them down, like a garbage disposal."
+    },
+    {
+      "term": "PLK4",
+      "definition": "A protein that controls how many centrosomes a cell builds; overactive PLK4 causes dangerous centrosome excess."
+    },
+    {
+      "term": "tumor suppressor",
+      "definition": "A protein that prevents cells from growing out of control; when tumor suppressors fail, cancer can develop."
+    },
+    {
+      "term": "genome-wide screen",
+      "definition": "An experiment that tests the effects of modifying thousands of genes at once to identify which ones affect a specific process."
+    },
+    {
+      "term": "RAC1-GTP",
+      "definition": "An activated signaling molecule inside cells that acts like a chemical messenger triggering autophagy."
+    },
+    {
+      "term": "CEP170",
+      "definition": "A protein found on centrosomes that sends signals to control whether the cell activates its cleanup (autophagy) system."
+    },
+    {
+      "term": "Wnt and Hippo pathways",
+      "definition": "Two major cellular communication systems that regulate cell growth and division; disrupting them can override centrosome-related growth blocks."
+    },
+    {
+      "term": "p53 pathway",
+      "definition": "A cellular 'emergency stop' system controlled by the p53 tumor suppressor protein that halts growth when problems are detected."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study was conducted in cultured cells in the laboratory rather than in living organisms or human tumors, so it remains unclear how reliably these mechanisms work in the complex environment of real cancers. Additionally, the practical challenge of developing drugs that safely activate this autophagy pathway without causing unwanted side effects in healthy cells has not yet been addressed.",
+  "tags": [
+    "centrosome amplification",
+    "autophagy",
+    "tumor suppression",
+    "cell cycle control",
+    "PLK4",
+    "cancer prevention",
+    "cellular quality control",
+    "ARHGAP15"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
