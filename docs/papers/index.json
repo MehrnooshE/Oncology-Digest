@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-21T10:34:31.441705+00:00",
+  "last_updated": "2026-06-22T12:53:48.290673+00:00",
   "papers": [
+    {
+      "id": "20260622_will_ai_spark_a_scientific_renaissance__",
+      "title": "Will AI spark a scientific renaissance \u2014 or a diffuse monoculture?",
+      "url": "https://www.nature.com/articles/d41586-026-01954-2",
+      "journal": "Nature",
+      "pub_date": "2026-06-22T00:00:00+00:00",
+      "fetched_date": "2026-06-22T12:53:48.290409+00:00",
+      "headline": "AI could transform science\u2014but only if we reward creative thinking over rushing results.",
+      "cancer_types": [],
+      "tags": [
+        "artificial-intelligence",
+        "scientific-innovation",
+        "research-incentives",
+        "funding-policy",
+        "peer-review",
+        "drug-discovery",
+        "computational-research",
+        "scientific-culture"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": "The author argues that AI models are tools that could accelerate cancer research discoveries, but only if scientists use them to explore original questions rather than simply running faster versions of conventional studies."
+    },
     {
       "id": "20260621_sensing_centrosome_amplification__the_in",
       "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy",
