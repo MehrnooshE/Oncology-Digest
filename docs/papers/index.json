@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-06-22T12:53:48.290673+00:00",
+  "last_updated": "2026-06-23T10:38:47.672426+00:00",
   "papers": [
+    {
+      "id": "20260623_sex_representation_in_trials_relative_to",
+      "title": "Sex representation in trials relative to indication-specific disease burden in FDA-approved drugs (2015\u20132023)",
+      "url": "https://www.nature.com/articles/s41467-026-74469-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-23T00:00:00+00:00",
+      "fetched_date": "2026-06-23T10:38:47.672180+00:00",
+      "headline": "Women remain underrepresented in drug trials for some diseases despite overall progress.",
+      "cancer_types": [
+        "breast cancer",
+        "lung cancer",
+        "colorectal cancer",
+        "ovarian cancer",
+        "prostate cancer",
+        "pancreatic cancer"
+      ],
+      "tags": [
+        "sex representation",
+        "clinical trials",
+        "drug approval",
+        "healthcare equity",
+        "FDA",
+        "gender bias",
+        "precision medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260622_will_ai_spark_a_scientific_renaissance__",
       "title": "Will AI spark a scientific renaissance \u2014 or a diffuse monoculture?",

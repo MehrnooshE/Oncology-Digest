@@ -1,0 +1,67 @@
+{
+  "id": "20260623_sex_representation_in_trials_relative_to",
+  "title": "Sex representation in trials relative to indication-specific disease burden in FDA-approved drugs (2015\u20132023)",
+  "url": "https://www.nature.com/articles/s41467-026-74469-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Sophie Zaaijer",
+    "Simon C. Groen"
+  ],
+  "pub_date": "2026-06-23T00:00:00+00:00",
+  "fetched_date": "2026-06-23T10:38:47.672180+00:00",
+  "abstract": "<p>Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74469-z\">doi:10.1038/s41467-026-74469-z</a></p>Analysis of clinical trial cohorts for 218 FDA-approved drugs finds that, although women are now often adequately represented in trials, progress has plateaued and gaps persist in specific disease areas; the study outlines actionable next steps.",
+  "headline": "Women remain underrepresented in drug trials for some diseases despite overall progress.",
+  "why_it_matters": "If drugs are tested mainly on men, doctors may not catch side effects or dosing problems that affect women differently. This study reveals which disease areas still need more female participants in trials, helping ensure medications work safely and effectively for everyone.",
+  "key_findings": [
+    "Women are now adequately represented in many clinical trials (the studies that test new drugs in real patients), but progress has stalled and hasn't improved much recently.",
+    "Certain disease areas still have significant gaps in female representation, meaning some drug trials don't include enough women relative to how common that disease is in women.",
+    "The researchers analyzed 218 drugs approved by the FDA (the agency that regulates medicines in the US) between 2015 and 2023 to measure sex balance in their trials.",
+    "The study identifies specific diseases where women remain underrepresented, providing a roadmap for which therapeutic areas need immediate attention.",
+    "The research shows that representation varies dramatically by disease type, suggesting some medical specialties have done better than others at including diverse participants."
+  ],
+  "methods_snapshot": "Researchers examined data from 218 FDA-approved drugs released between 2015 and 2023, looking at how many men versus women participated in the clinical trials that tested each drug. They compared these trial numbers to real-world disease rates\u2014checking whether the percentage of women in trials matched the percentage of women who actually get that disease.",
+  "glossary": [
+    {
+      "term": "Clinical trial",
+      "definition": "A research study in which real patients take a new drug or treatment while doctors carefully monitor whether it works and what side effects occur."
+    },
+    {
+      "term": "FDA-approved",
+      "definition": "Officially authorized by the US Food and Drug Administration, meaning the drug has passed safety and effectiveness testing."
+    },
+    {
+      "term": "Sex representation",
+      "definition": "The balance of male and female participants in a research study, usually expressed as a percentage."
+    },
+    {
+      "term": "Indication-specific disease burden",
+      "definition": "How common a disease is in men versus women in the real population\u2014for example, breast cancer affects far more women than men."
+    },
+    {
+      "term": "Cohort",
+      "definition": "A group of people in a study who share a particular characteristic, such as all being diagnosed with the same disease."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer",
+    "lung cancer",
+    "colorectal cancer",
+    "ovarian cancer",
+    "prostate cancer",
+    "pancreatic cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "The study analyzed only FDA-approved drugs and may not capture all clinical trial data; some trials may have excluded or underrepresented women for legitimate safety or scientific reasons that the analysis couldn't distinguish. Additionally, the data shows correlation between trial representation and disease rates, but doesn't explain why certain gaps exist or how to fix them in practice.",
+  "tags": [
+    "sex representation",
+    "clinical trials",
+    "drug approval",
+    "healthcare equity",
+    "FDA",
+    "gender bias",
+    "precision medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
