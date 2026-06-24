@@ -1,0 +1,62 @@
+{
+  "id": "20260624_retraction_note__carbon_nano_onion_media",
+  "title": "Retraction Note: Carbon nano-onion-mediated dual targeting of P-selectin and P-glycoprotein to overcome cancer drug resistance",
+  "url": "https://www.nature.com/articles/s41467-026-74646-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Hai Wang",
+    "Yutong Liang",
+    "Yue Yin",
+    "Jie Zhang",
+    "Wen Su",
+    "Alisa M. White"
+  ],
+  "pub_date": "2026-06-24T00:00:00+00:00",
+  "fetched_date": "2026-06-24T10:25:14.577730+00:00",
+  "abstract": "<p>Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74646-0\">doi:10.1038/s41467-026-74646-0</a></p>Retraction Note: Carbon nano-onion-mediated dual targeting of P-selectin and P-glycoprotein to overcome cancer drug resistance",
+  "headline": "Study on nanoparticles to fight drug-resistant cancer is being retracted.",
+  "why_it_matters": "This retraction is important because the original paper claimed a promising new way to help cancer drugs work better in patients whose tumors had become resistant to treatment. The retraction means those results can't be trusted, and doctors won't be able to use this approach yet. It's a reminder that published science sometimes needs correction when problems are found.",
+  "key_findings": [
+    "The study proposed using carbon nano-onions \u2014 extremely tiny spheres made of carbon atoms \u2014 to deliver cancer drugs more effectively to tumor cells",
+    "The approach aimed to target two specific proteins: P-selectin and P-glycoprotein (these are like locks on cancer cell surfaces that researchers wanted to open to let drugs in)",
+    "P-glycoprotein normally acts as a pump that pushes cancer drugs out of cells, making tumors resistant to chemotherapy (the standard drug treatment for cancer)",
+    "The researchers claimed the nanoparticle approach could overcome this resistance by simultaneously targeting both proteins at once"
+  ],
+  "methods_snapshot": "The researchers likely used laboratory experiments with cancer cells and possibly animal models to test whether carbon nano-onions carrying cancer drugs could successfully reach and kill resistant tumor cells. They probably measured how well the drugs worked and whether the nanoparticles actually bound to the target proteins on cancer cells.",
+  "glossary": [
+    {
+      "term": "Carbon nano-onion",
+      "definition": "An extremely tiny spherical particle made of stacked carbon layers, roughly one-millionth the width of a human hair, designed to carry drugs into cancer cells."
+    },
+    {
+      "term": "P-glycoprotein",
+      "definition": "A protein that acts like a pump on cancer cell surfaces, pushing drugs out and making tumors resistant to chemotherapy."
+    },
+    {
+      "term": "P-selectin",
+      "definition": "A protein found on certain cell surfaces that helps cells stick together; researchers thought targeting it could improve drug delivery."
+    },
+    {
+      "term": "Drug resistance",
+      "definition": "When cancer cells evolve to survive chemotherapy drugs, making the treatment less effective."
+    },
+    {
+      "term": "Dual targeting",
+      "definition": "Attacking two different targets simultaneously \u2014 in this case, trying to hit both P-selectin and P-glycoprotein at the same time."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a retraction notice, not a summary of the original study's limitations. The retraction indicates that significant problems were found with the original research \u2014 either in the data, methods, or conclusions \u2014 that made the findings unreliable. The specific reasons for retraction are not detailed in this notice alone.",
+  "tags": [
+    "drug resistance",
+    "nanoparticles",
+    "cancer therapy",
+    "retraction",
+    "drug delivery",
+    "chemotherapy"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 1
+}

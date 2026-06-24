@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-23T10:38:47.672426+00:00",
+  "last_updated": "2026-06-24T10:25:14.578026+00:00",
   "papers": [
+    {
+      "id": "20260624_retraction_note__carbon_nano_onion_media",
+      "title": "Retraction Note: Carbon nano-onion-mediated dual targeting of P-selectin and P-glycoprotein to overcome cancer drug resistance",
+      "url": "https://www.nature.com/articles/s41467-026-74646-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-24T00:00:00+00:00",
+      "fetched_date": "2026-06-24T10:25:14.577730+00:00",
+      "headline": "Study on nanoparticles to fight drug-resistant cancer is being retracted.",
+      "cancer_types": [],
+      "tags": [
+        "drug resistance",
+        "nanoparticles",
+        "cancer therapy",
+        "retraction",
+        "drug delivery",
+        "chemotherapy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 1,
+      "ml_angle": null
+    },
     {
       "id": "20260623_sex_representation_in_trials_relative_to",
       "title": "Sex representation in trials relative to indication-specific disease burden in FDA-approved drugs (2015\u20132023)",
