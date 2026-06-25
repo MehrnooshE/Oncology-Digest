@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-06-24T10:25:14.578026+00:00",
+  "last_updated": "2026-06-25T10:17:58.848113+00:00",
   "papers": [
+    {
+      "id": "20260625_metabolic_determinants_of_cancer_immunot",
+      "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling",
+      "url": "https://www.nature.com/articles/s41591-026-04481-9",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-25T00:00:00+00:00",
+      "fetched_date": "2026-06-25T10:17:58.847853+00:00",
+      "headline": "A blood marker called histidine predicts which cancer patients benefit most from immunotherapy.",
+      "cancer_types": [
+        "melanoma",
+        "non-small-cell lung cancer",
+        "renal cell carcinoma",
+        "urothelial carcinoma",
+        "head and neck squamous cell carcinoma"
+      ],
+      "tags": [
+        "immunotherapy",
+        "biomarkers",
+        "metabolism",
+        "machine-learning",
+        "predictive",
+        "blood-test",
+        "cancer",
+        "precision-medicine"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": "Machine learning algorithms automatically scanned hundreds of metabolites in the blood to find which ones were most predictive of patient survival, then ranked them by importance \u2014 a task too complex for humans to do manually."
+    },
     {
       "id": "20260624_retraction_note__carbon_nano_onion_media",
       "title": "Retraction Note: Carbon nano-onion-mediated dual targeting of P-selectin and P-glycoprotein to overcome cancer drug resistance",

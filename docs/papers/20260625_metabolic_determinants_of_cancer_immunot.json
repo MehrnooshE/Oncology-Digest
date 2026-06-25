@@ -1,0 +1,83 @@
+{
+  "id": "20260625_metabolic_determinants_of_cancer_immunot",
+  "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling",
+  "url": "https://www.nature.com/articles/s41591-026-04481-9",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "D\u00e9borah Suissa",
+    "Marine Fidelle",
+    "Ella Reich",
+    "Thao-Nguyen Pham",
+    "Simon Thomas",
+    "Johannes R. Bj\u00f6rk"
+  ],
+  "pub_date": "2026-06-25T00:00:00+00:00",
+  "fetched_date": "2026-06-25T10:17:58.847853+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04481-9\">doi:10.1038/s41591-026-04481-9</a></p>Mass-spectrometry-based metabolomic analysis of plasma samples from multiple cohorts of patients treated with immunotherapy across five distinct tumor types, followed by machine learning enabled identification of metabolic signatures, as well as functional exploration, reveals association of increased plasma histidine levels with prolonged survival and its potential for therapeutic intervention.",
+  "headline": "A blood marker called histidine predicts which cancer patients benefit most from immunotherapy.",
+  "why_it_matters": "Immunotherapy drugs work amazingly well for some patients but not others, and doctors currently have no reliable way to predict who will respond. This research identifies a simple blood test that could help patients avoid ineffective treatments and focus on what actually works for them. That means faster recovery, fewer side effects, and better survival odds.",
+  "key_findings": [
+    "Patients with higher levels of histidine (an amino acid \u2014 a building block of proteins \u2014 in the bloodstream) lived significantly longer after immunotherapy treatment.",
+    "This pattern held true across five different cancer types, suggesting the finding is robust and broadly applicable.",
+    "Researchers used machine learning (AI trained to spot patterns in data) to sift through hundreds of metabolic molecules and identify histidine as a key predictor among many candidates.",
+    "The study tested blood samples from multiple patient groups, making the results more trustworthy than a single small study.",
+    "Histidine may be a target for new drug therapies, meaning doctors could potentially boost its levels to improve immunotherapy outcomes."
+  ],
+  "methods_snapshot": "Scientists collected blood samples from cancer patients receiving immunotherapy and used mass spectrometry (a machine that identifies and measures chemical molecules) to measure hundreds of metabolic compounds. They then applied machine learning algorithms to find which metabolites best predicted which patients would survive longer, and confirmed these findings across different patient groups.",
+  "glossary": [
+    {
+      "term": "immunotherapy",
+      "definition": "Cancer treatment that works by training or boosting the body's own immune system to recognize and kill cancer cells."
+    },
+    {
+      "term": "metabolomic analysis",
+      "definition": "Scientific technique that measures all the small molecules (metabolites) produced during the body's chemical processes."
+    },
+    {
+      "term": "histidine",
+      "definition": "One of the 20 amino acids that make up proteins; the body either makes it or gets it from food."
+    },
+    {
+      "term": "plasma",
+      "definition": "The liquid part of blood (without the cells)."
+    },
+    {
+      "term": "mass spectrometry",
+      "definition": "Laboratory machine that identifies what molecules are present in a sample and measures how much of each one there is."
+    },
+    {
+      "term": "machine learning",
+      "definition": "Type of artificial intelligence that learns patterns from data without being explicitly programmed for each pattern."
+    },
+    {
+      "term": "metabolic signature",
+      "definition": "A distinctive pattern of small molecules in the body that can indicate disease state or treatment response."
+    },
+    {
+      "term": "cohort",
+      "definition": "A group of patients studied together, usually over time."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "non-small-cell lung cancer",
+    "renal cell carcinoma",
+    "urothelial carcinoma",
+    "head and neck squamous cell carcinoma"
+  ],
+  "ml_angle": "Machine learning algorithms automatically scanned hundreds of metabolites in the blood to find which ones were most predictive of patient survival, then ranked them by importance \u2014 a task too complex for humans to do manually.",
+  "limitations": "The study identifies an association (histidine levels correlate with better outcomes) but doesn't yet prove cause-and-effect \u2014 it's unclear whether high histidine actually causes better immunotherapy response or is simply a marker of patients who respond well for other reasons. The findings will need to be tested in a prospective clinical trial before this blood test can be used in routine medical practice.",
+  "tags": [
+    "immunotherapy",
+    "biomarkers",
+    "metabolism",
+    "machine-learning",
+    "predictive",
+    "blood-test",
+    "cancer",
+    "precision-medicine"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
