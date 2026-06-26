@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-06-25T10:17:58.848113+00:00",
+  "last_updated": "2026-06-26T10:25:35.437751+00:00",
   "papers": [
+    {
+      "id": "20260626_re_administration_of_aav_mediated_gene_t",
+      "title": "Re-administration of AAV-mediated gene therapy for <i>OTOF</i>-related deafness: a single-arm trial",
+      "url": "https://www.nature.com/articles/s41591-026-04505-4",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-26T00:00:00+00:00",
+      "fetched_date": "2026-06-26T10:25:35.437489+00:00",
+      "headline": "Deaf patients safely received gene therapy twice, with improved hearing both times.",
+      "cancer_types": [],
+      "tags": [
+        "gene therapy",
+        "deafness",
+        "AAV",
+        "re-treatment",
+        "immune response",
+        "congenital hearing loss",
+        "clinical trial",
+        "genetic medicine"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260625_metabolic_determinants_of_cancer_immunot",
       "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling",

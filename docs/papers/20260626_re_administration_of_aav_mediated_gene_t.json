@@ -1,0 +1,64 @@
+{
+  "id": "20260626_re_administration_of_aav_mediated_gene_t",
+  "title": "Re-administration of AAV-mediated gene therapy for <i>OTOF</i>-related deafness: a single-arm trial",
+  "url": "https://www.nature.com/articles/s41591-026-04505-4",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Xintai Fan",
+    "Longlong Zhang",
+    "Ziwen Gao",
+    "Lei Han",
+    "Ping Yang",
+    "Daqi Wang"
+  ],
+  "pub_date": "2026-06-26T00:00:00+00:00",
+  "fetched_date": "2026-06-26T10:25:35.437489+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04505-4\">doi:10.1038/s41591-026-04505-4</a></p>As part of a clinical trial, re-administration of AAV gene therapy in four patients with congenital deafness, who had previously received a first gene therapy dose and developed neutralizing antibodies, was safe and led to further hearing improvements.",
+  "headline": "Deaf patients safely received gene therapy twice, with improved hearing both times.",
+  "why_it_matters": "This shows that a promising treatment for inherited deafness can work even when the body's immune system initially rejected it. For patients with congenital deafness (hearing loss from birth), this opens the door to retreating those whose first attempt didn't work optimally.",
+  "key_findings": [
+    "Four patients with congenital deafness from a genetic mutation in the OTOF gene received a second dose of AAV gene therapy (a treatment that delivers corrected genetic instructions into cells using a modified virus as a delivery vehicle)",
+    "All patients had developed neutralizing antibodies (immune proteins that fight off the therapy) after the first treatment, which normally would prevent a second dose from working",
+    "Re-administration was safe with no serious side effects reported",
+    "Patients showed continued hearing improvements after the second dose, suggesting the therapy still worked despite the immune response"
+  ],
+  "methods_snapshot": "Researchers gave four previously-treated patients a second injection of AAV gene therapy targeting their OTOF mutation. They monitored safety and measured hearing improvements using standard auditory tests over time.",
+  "glossary": [
+    {
+      "term": "AAV gene therapy",
+      "definition": "A treatment where a harmless virus carries a corrected copy of a faulty gene into patient cells to restore normal function"
+    },
+    {
+      "term": "OTOF gene",
+      "definition": "A gene that provides instructions for making a protein essential for inner ear cells to convert sound into signals the brain understands"
+    },
+    {
+      "term": "Congenital deafness",
+      "definition": "Hearing loss that is present from birth due to genetic or developmental causes"
+    },
+    {
+      "term": "Neutralizing antibodies",
+      "definition": "Immune system proteins that recognize and disable a foreign substance, in this case the gene therapy vector"
+    },
+    {
+      "term": "Re-administration",
+      "definition": "Giving a patient the same treatment a second time after an initial dose"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a very small study with only four patients, so results may not apply broadly to larger populations. Long-term safety and durability of hearing improvements beyond the study period remain to be confirmed.",
+  "tags": [
+    "gene therapy",
+    "deafness",
+    "AAV",
+    "re-treatment",
+    "immune response",
+    "congenital hearing loss",
+    "clinical trial",
+    "genetic medicine"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
