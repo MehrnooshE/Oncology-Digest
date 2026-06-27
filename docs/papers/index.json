@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-26T10:25:35.437751+00:00",
+  "last_updated": "2026-06-27T09:31:31.407753+00:00",
   "papers": [
+    {
+      "id": "20260627_multiple_human_transgenes_prolong_surviv",
+      "title": "Multiple human transgenes prolong survival of triple-carbohydrate knockout porcine kidney xenografts in nonhuman primates",
+      "url": "https://www.nature.com/articles/s41467-026-74933-w",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-27T00:00:00+00:00",
+      "fetched_date": "2026-06-27T09:31:31.407426+00:00",
+      "headline": "Genetically modified pig kidneys survive longer in primates when given human immune-calming genes.",
+      "cancer_types": [],
+      "tags": [
+        "organ transplantation",
+        "genetic engineering",
+        "xenotransplantation",
+        "immune rejection",
+        "regenerative medicine",
+        "pig kidneys",
+        "biomedical innovation"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260626_re_administration_of_aav_mediated_gene_t",
       "title": "Re-administration of AAV-mediated gene therapy for <i>OTOF</i>-related deafness: a single-arm trial",

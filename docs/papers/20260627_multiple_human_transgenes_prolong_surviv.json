@@ -1,0 +1,71 @@
+{
+  "id": "20260627_multiple_human_transgenes_prolong_surviv",
+  "title": "Multiple human transgenes prolong survival of triple-carbohydrate knockout porcine kidney xenografts in nonhuman primates",
+  "url": "https://www.nature.com/articles/s41467-026-74933-w",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Ahmad Karadagi",
+    "Takayuki Hirose",
+    "Grace Lassiter",
+    "Ivy Rosales",
+    "David Ma",
+    "Toshihide Tomosugi"
+  ],
+  "pub_date": "2026-06-27T00:00:00+00:00",
+  "fetched_date": "2026-06-27T09:31:31.407426+00:00",
+  "abstract": "<p>Nature Communications, Published online: 27 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74933-w\">doi:10.1038/s41467-026-74933-w</a></p>Genetically modified pigs lacking the three major carbohydrate xenoantigens (3KO) are being developed to reduce immune rejection in xenotransplantation. Here, the authors evaluate 3KO kidney grafts and show that adding human transgenes, notably TNFAIP3 and HMOX1, dampens immune responses and improves graft survival in non-human primate models",
+  "headline": "Genetically modified pig kidneys survive longer in primates when given human immune-calming genes.",
+  "why_it_matters": "Millions of people need organ transplants but there aren't enough human donors. This research moves us closer to using pig organs as replacements \u2014 a potential lifesaver for patients on transplant waiting lists. If successful in humans, xenotransplantation (cross-species transplants) could dramatically reduce deaths from organ failure.",
+  "key_findings": [
+    "Scientists created pigs with kidneys missing three sugar molecules (carbohydrates) on their surface that normally trigger immune rejection \u2014 imagine removing the 'foreign' labels that make the immune system attack.",
+    "Adding two human genes \u2014 TNFAIP3 (which dampens inflammation) and HMOX1 (which protects against oxidative stress, a type of cellular damage) \u2014 significantly improved how long the pig kidneys survived in primates.",
+    "Grafts with these human genes lasted substantially longer than those without them, suggesting the genes calm the recipient's immune system and reduce organ rejection.",
+    "The research used nonhuman primates (like monkeys) as test recipients because their immune systems are more similar to humans than rodent models, making results more likely to translate to human transplants."
+  ],
+  "methods_snapshot": "Researchers transplanted kidneys from genetically engineered pigs into nonhuman primates and monitored how long the organs survived and functioned. They compared kidneys with the human genes added to those without them, tracking immune responses and organ rejection over time.",
+  "glossary": [
+    {
+      "term": "xenotransplantation",
+      "definition": "Transplanting an organ or tissue from one species into another \u2014 in this case, from pigs to primates or humans."
+    },
+    {
+      "term": "carbohydrate xenoantigens",
+      "definition": "Sugar molecules on pig cells that the primate immune system recognizes as 'foreign' and attacks."
+    },
+    {
+      "term": "immune rejection",
+      "definition": "When the recipient's immune system attacks and destroys a transplanted organ because it sees it as a threat."
+    },
+    {
+      "term": "TNFAIP3",
+      "definition": "A human gene that acts as a natural 'off switch' for inflammatory immune responses."
+    },
+    {
+      "term": "HMOX1",
+      "definition": "A human gene that produces a protein protecting cells from oxidative stress, a type of harmful cellular damage."
+    },
+    {
+      "term": "graft",
+      "definition": "A transplanted organ or tissue."
+    },
+    {
+      "term": "transgenes",
+      "definition": "Foreign genes deliberately inserted into an organism's DNA using genetic engineering."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study used primates rather than humans, so results may not fully translate to human recipients. Long-term safety and function of these modified organs in people remains unknown and will require careful clinical trials.",
+  "tags": [
+    "organ transplantation",
+    "genetic engineering",
+    "xenotransplantation",
+    "immune rejection",
+    "regenerative medicine",
+    "pig kidneys",
+    "biomedical innovation"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
