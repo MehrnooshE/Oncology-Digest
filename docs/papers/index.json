@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-06-27T09:31:31.407753+00:00",
+  "last_updated": "2026-06-28T10:06:29.084164+00:00",
   "papers": [
+    {
+      "id": "20260628_enhancing_molecular_property_prediction_",
+      "title": "Enhancing molecular property prediction of transformer models with dual graph representation",
+      "url": "https://www.nature.com/articles/s41467-026-75005-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-06-27T00:00:00+00:00",
+      "fetched_date": "2026-06-28T10:06:29.083865+00:00",
+      "headline": "New AI model predicts how molecules behave by understanding their full 3D structure.",
+      "cancer_types": [],
+      "tags": [
+        "molecular-prediction",
+        "AI-transformer",
+        "drug-discovery",
+        "machine-learning",
+        "computational-chemistry",
+        "graph-neural-networks"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "An AI transformer model learns to simultaneously consider atoms, bonds, molecular shape, and 3D geometry of drug-like molecules to predict their properties more accurately than traditional single-feature approaches."
+    },
     {
       "id": "20260627_multiple_human_transgenes_prolong_surviv",
       "title": "Multiple human transgenes prolong survival of triple-carbohydrate knockout porcine kidney xenografts in nonhuman primates",
