@@ -1,0 +1,63 @@
+{
+  "id": "20260629_cliramitug_for_depletion_of_cardiac_amyl",
+  "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial",
+  "url": "https://www.nature.com/articles/s41591-026-04487-3",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Peter C. Kahr",
+    "Fabian aus dem Siepen",
+    "Olivier Lairez",
+    "Erwan Donal",
+    "Thibaud Damy",
+    "Arnt V. Kristen"
+  ],
+  "pub_date": "2026-06-26T00:00:00+00:00",
+  "fetched_date": "2026-06-29T12:03:14.520710+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04487-3\">doi:10.1038/s41591-026-04487-3</a></p>In an open-label extension study of the NI006-101 trial, in which patients with transthyretin amyloidosis cardiomyopathy were treated with the monoclonal antibody cliramitug, which targets misfolded transthyretin, long-term follow-up for a median of 29.3 months showed favorable safety, further reduction in cardiac amyloid burden and improvements in structural, functional and biomarker endpoints.",
+  "headline": "New antibody drug safely shrinks abnormal protein buildup in hearts over two years.",
+  "why_it_matters": "A rare disease called transthyretin amyloidosis damages the heart by building up misfolded proteins. This study shows a new drug can safely slow or reverse that damage, offering hope to patients with few current treatment options.",
+  "key_findings": [
+    "Cliramitug (a monoclonal antibody \u2014 a lab-made immune protein that targets specific threats) safely depleted cardiac amyloid (abnormal protein deposits) over nearly 2.5 years of follow-up.",
+    "Patients showed continued improvement in heart structure and function, measured by standard cardiac imaging and blood tests.",
+    "The drug reduced biomarkers (blood chemicals that signal heart damage), suggesting ongoing benefits beyond the initial treatment phase.",
+    "No major safety concerns emerged during the extended observation period, indicating the drug was well-tolerated long-term."
+  ],
+  "methods_snapshot": "Researchers followed patients who had been treated with cliramitug in an earlier trial (NI006-101), tracking their heart health with imaging scans and blood tests over a median of 29.3 months. This 'open-label extension' means all participants knew they were receiving the drug, and doctors monitored their progress longitudinally (over time).",
+  "glossary": [
+    {
+      "term": "Transthyretin amyloidosis cardiomyopathy",
+      "definition": "A disease where misfolded versions of a protein called transthyretin accumulate in the heart muscle, weakening its ability to pump blood."
+    },
+    {
+      "term": "Monoclonal antibody",
+      "definition": "A lab-made immune protein engineered to recognize and bind to one specific target \u2014 in this case, misfolded transthyretin."
+    },
+    {
+      "term": "Amyloid burden",
+      "definition": "The total amount of abnormal protein deposits in an organ."
+    },
+    {
+      "term": "Biomarker",
+      "definition": "A measurable substance in the blood (or other body fluid) that signals disease or healing."
+    },
+    {
+      "term": "Open-label extension",
+      "definition": "A follow-up phase of a trial where all participants receive the active drug and outcomes are tracked openly."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This was an open-label study, meaning patients and doctors knew they were receiving the drug, which can introduce bias in how outcomes are perceived. The cohort may not represent all patients with this rare disease, so results may not generalize universally.",
+  "tags": [
+    "amyloidosis",
+    "monoclonal antibody",
+    "cardiology",
+    "protein misfolding",
+    "long-term follow-up",
+    "rare disease",
+    "immunotherapy"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-28T10:06:29.084164+00:00",
+  "last_updated": "2026-06-29T12:03:14.520974+00:00",
   "papers": [
+    {
+      "id": "20260629_cliramitug_for_depletion_of_cardiac_amyl",
+      "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial",
+      "url": "https://www.nature.com/articles/s41591-026-04487-3",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-26T00:00:00+00:00",
+      "fetched_date": "2026-06-29T12:03:14.520710+00:00",
+      "headline": "New antibody drug safely shrinks abnormal protein buildup in hearts over two years.",
+      "cancer_types": [],
+      "tags": [
+        "amyloidosis",
+        "monoclonal antibody",
+        "cardiology",
+        "protein misfolding",
+        "long-term follow-up",
+        "rare disease",
+        "immunotherapy"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260628_enhancing_molecular_property_prediction_",
       "title": "Enhancing molecular property prediction of transformer models with dual graph representation",
