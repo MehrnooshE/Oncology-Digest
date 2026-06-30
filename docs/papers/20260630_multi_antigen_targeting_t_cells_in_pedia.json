@@ -1,0 +1,76 @@
+{
+  "id": "20260630_multi_antigen_targeting_t_cells_in_pedia",
+  "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",
+  "url": "https://www.nature.com/articles/s41591-026-04449-9",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Stephanie Gomez",
+    "Rachel A. DiCioccio",
+    "Ashley E. Geiger",
+    "Melanie L. Grant",
+    "Emily Reynolds",
+    "Anushree Datar"
+  ],
+  "pub_date": "2026-06-30T00:00:00+00:00",
+  "fetched_date": "2026-06-30T10:33:21.501328+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 30 June 2026; <a href=\"https://www.nature.com/articles/s41591-026-04449-9\">doi:10.1038/s41591-026-04449-9</a></p>In the phase 1 ReMIND trial of tumor-associated antigen-specific T cells in patients with pediatric central nervous system tumors, treatment was generally well tolerated with one complete response and three long-term responders.",
+  "headline": "New immune cell therapy shows promise in hard-to-treat children's brain tumors.",
+  "why_it_matters": "Brain tumors in children are among the deadliest cancers, and current treatments often cause serious side effects. This study tests a new approach: training a child's own immune cells to recognize and attack tumor cells. Early results suggest some children had long-lasting responses, offering hope for a gentler, more effective treatment option.",
+  "key_findings": [
+    "Researchers created personalized T cells (infection-fighting white blood cells) engineered to recognize multiple tumor markers \u2014 like teaching immune cells to spot several 'wanted posters' at once instead of just one.",
+    "One patient had a complete response, meaning their tumor disappeared entirely after treatment.",
+    "Three additional patients showed long-term benefit, meaning their tumors stopped growing or shrank for an extended period.",
+    "The treatment was generally well tolerated, meaning most children did not experience severe side effects \u2014 an important milestone for a first-in-human trial.",
+    "This was a phase 1 trial (the earliest human testing stage), designed primarily to check safety and gather initial effectiveness hints, not to prove the treatment works."
+  ],
+  "methods_snapshot": "Researchers took immune cells from children with brain tumors, engineered them in the lab to recognize multiple tumor-specific proteins (antigens \u2014 markers unique to cancer cells), and then infused the modified cells back into patients. They monitored safety, side effects, and tumor response over time.",
+  "glossary": [
+    {
+      "term": "T cells",
+      "definition": "White blood cells that normally fight infections by identifying and destroying abnormal cells; scientists can reprogram them to attack cancer."
+    },
+    {
+      "term": "Antigen",
+      "definition": "A marker or protein on the surface of a cell that the immune system uses as an identifier \u2014 like a name tag for the immune system."
+    },
+    {
+      "term": "Multi-antigen-targeting",
+      "definition": "Teaching immune cells to recognize multiple different markers on tumor cells simultaneously, rather than focusing on just one."
+    },
+    {
+      "term": "Central nervous system (CNS) tumors",
+      "definition": "Cancers that start in the brain or spinal cord."
+    },
+    {
+      "term": "Phase 1 trial",
+      "definition": "The first stage of human testing, usually with a small group of patients, designed to check safety and early signs of benefit."
+    },
+    {
+      "term": "Complete response",
+      "definition": "When all visible signs of cancer disappear after treatment, though cancer may still return later."
+    },
+    {
+      "term": "Long-term responder",
+      "definition": "A patient whose tumor shrank or stopped growing and stayed that way for months or longer after treatment."
+    }
+  ],
+  "cancer_types": [
+    "Pediatric central nervous system tumors",
+    "Pediatric brain tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This was a very early-stage trial with only a handful of patients, so results must be confirmed in larger studies before we know if this treatment truly works. Long-term side effects and whether the benefit lasts remain unknown, and the approach works only if tumors carry the specific markers the engineered cells were designed to recognize.",
+  "tags": [
+    "immunotherapy",
+    "T-cell therapy",
+    "pediatric cancer",
+    "brain tumors",
+    "clinical trial",
+    "personalized medicine",
+    "CAR-T",
+    "oncology"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

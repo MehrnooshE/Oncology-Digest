@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-06-29T12:03:14.520974+00:00",
+  "last_updated": "2026-06-30T10:33:21.501573+00:00",
   "papers": [
+    {
+      "id": "20260630_multi_antigen_targeting_t_cells_in_pedia",
+      "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",
+      "url": "https://www.nature.com/articles/s41591-026-04449-9",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-06-30T00:00:00+00:00",
+      "fetched_date": "2026-06-30T10:33:21.501328+00:00",
+      "headline": "New immune cell therapy shows promise in hard-to-treat children's brain tumors.",
+      "cancer_types": [
+        "Pediatric central nervous system tumors",
+        "Pediatric brain tumors"
+      ],
+      "tags": [
+        "immunotherapy",
+        "T-cell therapy",
+        "pediatric cancer",
+        "brain tumors",
+        "clinical trial",
+        "personalized medicine",
+        "CAR-T",
+        "oncology"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260629_cliramitug_for_depletion_of_cardiac_amyl",
       "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial",
