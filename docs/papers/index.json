@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-06-30T10:33:21.501573+00:00",
+  "last_updated": "2026-07-01T10:45:03.126588+00:00",
   "papers": [
+    {
+      "id": "20260701_adjunctive_ibuprofen_in_pre_extensively_",
+      "title": "Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial",
+      "url": "https://www.nature.com/articles/s41467-026-75148-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-01T00:00:00+00:00",
+      "fetched_date": "2026-07-01T10:45:03.126287+00:00",
+      "headline": "Common painkiller ibuprofen helps reduce inflammation in drug-resistant tuberculosis patients.",
+      "cancer_types": [],
+      "tags": [
+        "tuberculosis",
+        "drug-resistance",
+        "inflammation",
+        "ibuprofen",
+        "adjunctive-therapy",
+        "pilot-trial",
+        "infectious-disease"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260630_multi_antigen_targeting_t_cells_in_pedia",
       "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",

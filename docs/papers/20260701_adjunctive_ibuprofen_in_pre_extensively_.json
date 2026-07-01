@@ -1,0 +1,62 @@
+{
+  "id": "20260701_adjunctive_ibuprofen_in_pre_extensively_",
+  "title": "Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial",
+  "url": "https://www.nature.com/articles/s41467-026-75148-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Kaori L. Fonseca",
+    "Judith Farr\u00e9s",
+    "Ketevan Barbakadze",
+    "Iza Jikia",
+    "Malkhaz Tsotskhalashvili",
+    "Juan M. Garc\u00eda-Illarramendi"
+  ],
+  "pub_date": "2026-07-01T00:00:00+00:00",
+  "fetched_date": "2026-07-01T10:45:03.126287+00:00",
+  "abstract": "<p>Nature Communications, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75148-9\">doi:10.1038/s41467-026-75148-9</a></p>This pilot study reports the use of ibuprofen, an anti-inflammatory drug, as an adjunctive tuberculosis (TB) treatment in adults with extensive drug-resistant pulmonary TB, which shows a reduction of several blood-based inflammatory measures.",
+  "headline": "Common painkiller ibuprofen helps reduce inflammation in drug-resistant tuberculosis patients.",
+  "why_it_matters": "Drug-resistant tuberculosis (TB) is a serious infection that doesn't respond to standard antibiotics, making it extremely hard to treat. This study suggests that adding a cheap, widely available anti-inflammatory drug to existing TB treatments could help patients recover better by calming the harmful inflammation their immune system creates while fighting the infection.",
+  "key_findings": [
+    "Ibuprofen, added alongside standard TB drugs, reduced several blood markers of inflammation (measurable signs that the body's immune system is overactive and causing damage)",
+    "The pilot study involved adults with extensively drug-resistant TB (a form that resists multiple antibiotics) and pre-extensively drug-resistant TB (an earlier stage with some antibiotic resistance)",
+    "Ibuprofen is an over-the-counter anti-inflammatory drug that works by blocking chemicals that make the body's response to infection more intense and harmful"
+  ],
+  "methods_snapshot": "Researchers conducted an open-label pilot trial, meaning patients and doctors knew they were receiving ibuprofen alongside standard TB treatment. They measured blood samples to track inflammation markers (molecular signals showing how activated the immune system was) over the course of treatment.",
+  "glossary": [
+    {
+      "term": "Drug-resistant tuberculosis",
+      "definition": "A bacterial infection that no longer responds to common antibiotics used to treat regular TB, making it much harder to cure."
+    },
+    {
+      "term": "Anti-inflammatory",
+      "definition": "A substance that reduces swelling, redness, and the body's immune response, which can sometimes harm the patient even while fighting infection."
+    },
+    {
+      "term": "Adjunctive treatment",
+      "definition": "An additional therapy given alongside a main treatment to improve overall results."
+    },
+    {
+      "term": "Blood biomarkers",
+      "definition": "Measurable molecules in blood that indicate disease activity or immune system status."
+    },
+    {
+      "term": "Pilot study",
+      "definition": "A small early-stage trial used to test if an idea is worth pursuing before conducting larger, more expensive research."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This was a small pilot study with an open-label design, meaning patients knew they were receiving ibuprofen, which can affect how they report symptoms. Larger, blinded trials (where neither patients nor doctors know who gets the treatment) are needed to confirm these results apply broadly and to rule out placebo effects.",
+  "tags": [
+    "tuberculosis",
+    "drug-resistance",
+    "inflammation",
+    "ibuprofen",
+    "adjunctive-therapy",
+    "pilot-trial",
+    "infectious-disease"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 3
+}
