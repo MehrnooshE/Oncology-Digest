@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-01T10:45:03.126588+00:00",
+  "last_updated": "2026-07-02T10:12:45.304785+00:00",
   "papers": [
+    {
+      "id": "20260702_an_atlas_of_primate_insular_cortex_revea",
+      "title": "An atlas of primate insular cortex reveals a signal-processing strategy in von Economo neurons",
+      "url": "https://www.nature.com/articles/s41556-026-02009-4",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-07-02T00:00:00+00:00",
+      "fetched_date": "2026-07-02T10:12:45.304469+00:00",
+      "headline": "Scientists map special brain cells that may help primates process emotions and social signals.",
+      "cancer_types": [],
+      "tags": [
+        "neuroscience",
+        "brain-cells",
+        "emotion",
+        "single-cell-biology",
+        "primates",
+        "cell-mapping"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260701_adjunctive_ibuprofen_in_pre_extensively_",
       "title": "Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial",

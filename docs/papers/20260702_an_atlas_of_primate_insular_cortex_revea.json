@@ -1,0 +1,66 @@
+{
+  "id": "20260702_an_atlas_of_primate_insular_cortex_revea",
+  "title": "An atlas of primate insular cortex reveals a signal-processing strategy in von Economo neurons",
+  "url": "https://www.nature.com/articles/s41556-026-02009-4",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Rui-Feng Liu",
+    "Mengyao Huang",
+    "Yuhui Shen",
+    "Mingting Shao",
+    "Junzhan Jing",
+    "Nana Xu"
+  ],
+  "pub_date": "2026-07-02T00:00:00+00:00",
+  "fetched_date": "2026-07-02T10:12:45.304469+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41556-026-02009-4\">doi:10.1038/s41556-026-02009-4</a></p>Liu, Huang, Shen, Shao, Jing and collaborators combine single-cell transcriptomics with Patch-seq and metabolomics to dissect primate anterior insular cortex. They identify two von Economo neuron (VEN) subtypes and a VEN signal-processing strategy.",
+  "headline": "Scientists map special brain cells that may help primates process emotions and social signals.",
+  "why_it_matters": "These specialized neurons appear to be a key part of how our brains handle feelings and understand other people\u2014abilities that go wrong in conditions like depression, anxiety, and autism. Understanding how they work could eventually lead to better treatments for mental health disorders.",
+  "key_findings": [
+    "Researchers found two distinct types of von Economo neurons (VENs\u2014unusually large, specialized brain cells found mainly in primates and whales) in the insular cortex, a brain region involved in emotion and self-awareness.",
+    "These two VEN subtypes use different chemical signals and energy strategies to communicate with other brain cells, suggesting they handle different kinds of information processing.",
+    "VENs appear to act as 'hub' neurons that integrate (combine and coordinate) signals from many sources, making them central to how the brain processes interoceptive information (awareness of your own internal body state, like hunger or heartbeat).",
+    "The study created a detailed 'atlas'\u2014a comprehensive map\u2014of which genes are active in these cells, providing a resource for future research."
+  ],
+  "methods_snapshot": "The team used three complementary techniques on primate brain tissue: single-cell transcriptomics (reading which genes are turned on in individual cells), patch-seq (measuring electrical activity while simultaneously identifying the cell type), and metabolomics (studying the chemical energy pathways cells use). Together, these methods created a multi-layered picture of how VENs function.",
+  "glossary": [
+    {
+      "term": "von Economo neurons (VENs)",
+      "definition": "Unusually large, spindle-shaped brain cells found mainly in primates and some marine mammals; thought to be involved in emotion, self-awareness, and social processing."
+    },
+    {
+      "term": "insular cortex",
+      "definition": "A region deep inside the brain involved in processing emotions, self-awareness, and sensing your own body's internal state."
+    },
+    {
+      "term": "single-cell transcriptomics",
+      "definition": "A technique that reads which genes are active (turned 'on') inside individual cells, revealing what each cell is doing at the molecular level."
+    },
+    {
+      "term": "patch-seq",
+      "definition": "A method that simultaneously records electrical activity from a living cell while identifying what type of cell it is genetically."
+    },
+    {
+      "term": "metabolomics",
+      "definition": "The study of all the small chemical molecules a cell produces or uses to generate energy and build its structures."
+    },
+    {
+      "term": "interoception",
+      "definition": "Your brain's ability to sense and monitor your own internal body state\u2014things like your heartbeat, hunger, temperature, and breathing."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study was performed on primate brain tissue after death, so it captures a snapshot rather than watching cells in action over time. The findings may not fully translate to how these neurons work in living human brains, since there can be differences between species and between tissue in a dish versus in a living organism.",
+  "tags": [
+    "neuroscience",
+    "brain-cells",
+    "emotion",
+    "single-cell-biology",
+    "primates",
+    "cell-mapping"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
