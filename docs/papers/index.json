@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-02T10:12:45.304785+00:00",
+  "last_updated": "2026-07-03T10:08:24.571745+00:00",
   "papers": [
+    {
+      "id": "20260703_lassa_fever_countermeasures_gather_pace",
+      "title": "Lassa fever countermeasures gather pace",
+      "url": "https://www.nature.com/articles/s41591-026-04478-4",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-03T00:00:00+00:00",
+      "fetched_date": "2026-07-03T10:08:24.571447+00:00",
+      "headline": "Scientists test new weapons against deadly Lassa fever virus in human patients.",
+      "cancer_types": [],
+      "tags": [
+        "Lassa fever",
+        "vaccine development",
+        "therapeutic treatment",
+        "clinical trial",
+        "viral disease",
+        "infectious disease",
+        "drug development",
+        "public health"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260702_an_atlas_of_primate_insular_cortex_revea",
       "title": "An atlas of primate insular cortex reveals a signal-processing strategy in von Economo neurons",
