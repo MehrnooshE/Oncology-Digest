@@ -1,0 +1,79 @@
+{
+  "id": "20260704_generalizable_ai_predicts_immunotherapy_",
+  "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+  "url": "https://www.nature.com/articles/s41591-026-04502-7",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Wanxiang Shen",
+    "Intae Moon",
+    "Thinh H. Nguyen",
+    "Michelle M. Li",
+    "Yepeng Huang",
+    "Nitya Nair"
+  ],
+  "pub_date": "2026-07-03T00:00:00+00:00",
+  "fetched_date": "2026-07-04T09:26:58.360175+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s41591-026-04502-7\">doi:10.1038/s41591-026-04502-7</a></p>COMPASS is a pan-cancer foundation model that predicts immunotherapy response, across cancer types and treatments, from bulk tumor transcriptomes.",
+  "headline": "AI model predicts which cancer patients will respond to immunotherapy across multiple cancer types.",
+  "why_it_matters": "Immunotherapy (drugs that help the immune system fight cancer) works wonderfully for some patients but not others. Doctors currently have no reliable way to predict who will benefit before starting treatment. This AI could spare patients from toxic drugs that won't help them and identify upfront who will respond, potentially saving lives and reducing harm.",
+  "key_findings": [
+    "COMPASS is a foundation model (a pre-trained AI system, like ChatGPT but for cancer data) that can predict immunotherapy response across different cancer types and different immunotherapy drugs from tumor gene expression patterns (which genes are active in a tumor's cells).",
+    "The model learns from patterns in bulk tumor transcriptomes (genetic activity measured from whole tumor tissue samples) and generalizes to new cancers and treatments it hasn't seen before.",
+    "A single model works across multiple cancer types and treatments, rather than needing separate models for each \u2014 this is like one universal translator instead of many specific ones.",
+    "The approach identifies which genes and biological pathways predict treatment success, providing interpretability (explainability) alongside predictions."
+  ],
+  "methods_snapshot": "Researchers trained an AI model on gene expression data from tumor samples and clinical outcomes from patients who received immunotherapy. The model was tested on independent patient cohorts (groups) with different cancer types and treatments to ensure it could generalize reliably to new situations.",
+  "glossary": [
+    {
+      "term": "immunotherapy",
+      "definition": "Cancer drugs that activate or enhance the patient's own immune system to recognize and kill cancer cells."
+    },
+    {
+      "term": "transcriptome",
+      "definition": "The complete set of messenger RNA (genetic instructions) active in a cell or tissue at a given time \u2014 essentially a snapshot of which genes are 'switched on.'"
+    },
+    {
+      "term": "bulk tumor transcriptome",
+      "definition": "Gene activity measured from an entire tumor sample mixed together, rather than from individual cells."
+    },
+    {
+      "term": "foundation model",
+      "definition": "A large AI system trained on broad data that can be adapted to solve many related tasks, similar to how GPT models work for language."
+    },
+    {
+      "term": "pan-cancer",
+      "definition": "Spanning or analyzing multiple types of cancer together rather than focusing on just one."
+    },
+    {
+      "term": "response prediction",
+      "definition": "Using data to forecast which patients are likely to benefit from a specific treatment."
+    },
+    {
+      "term": "generalization",
+      "definition": "The ability of an AI model to work accurately on new data it wasn't trained on, proving it learned real patterns rather than memorizing examples."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "non-small-cell lung cancer",
+    "renal cell carcinoma",
+    "gastric cancer",
+    "bladder cancer",
+    "other solid tumors"
+  ],
+  "ml_angle": "The AI model learned shared patterns in gene expression across many cancers, then used those patterns to predict which new patients would respond to immunotherapy \u2014 generalizing beyond the specific cancers it trained on.",
+  "limitations": "The study relies on gene expression data from bulk tumor tissue; it doesn't capture genetic information from individual cells or the immune landscape within tumors, which may limit prediction accuracy. Clinical validation in prospective studies (predicting outcomes before they happen in real patients) will be needed before this becomes a standard clinical tool.",
+  "tags": [
+    "immunotherapy",
+    "AI prediction",
+    "cancer",
+    "personalized medicine",
+    "gene expression",
+    "foundation model",
+    "treatment response",
+    "precision oncology"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

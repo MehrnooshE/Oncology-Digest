@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-07-03T10:08:24.571745+00:00",
+  "last_updated": "2026-07-04T09:26:58.360456+00:00",
   "papers": [
+    {
+      "id": "20260704_generalizable_ai_predicts_immunotherapy_",
+      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+      "url": "https://www.nature.com/articles/s41591-026-04502-7",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-03T00:00:00+00:00",
+      "fetched_date": "2026-07-04T09:26:58.360175+00:00",
+      "headline": "AI model predicts which cancer patients will respond to immunotherapy across multiple cancer types.",
+      "cancer_types": [
+        "melanoma",
+        "non-small-cell lung cancer",
+        "renal cell carcinoma",
+        "gastric cancer",
+        "bladder cancer",
+        "other solid tumors"
+      ],
+      "tags": [
+        "immunotherapy",
+        "AI prediction",
+        "cancer",
+        "personalized medicine",
+        "gene expression",
+        "foundation model",
+        "treatment response",
+        "precision oncology"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI model learned shared patterns in gene expression across many cancers, then used those patterns to predict which new patients would respond to immunotherapy \u2014 generalizing beyond the specific cancers it trained on."
+    },
     {
       "id": "20260703_lassa_fever_countermeasures_gather_pace",
       "title": "Lassa fever countermeasures gather pace",
