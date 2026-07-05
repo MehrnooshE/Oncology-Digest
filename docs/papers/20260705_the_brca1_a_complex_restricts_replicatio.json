@@ -1,0 +1,76 @@
+{
+  "id": "20260705_the_brca1_a_complex_restricts_replicatio",
+  "title": "The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells",
+  "url": "https://www.nature.com/articles/s41467-026-75271-7",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Arindam Datta",
+    "Jessica Jackson",
+    "Yaroslav I. Morozov",
+    "Jinghan Qiu",
+    "Alessandro Vindigni",
+    "Roger A. Greenberg"
+  ],
+  "pub_date": "2026-07-04T00:00:00+00:00",
+  "fetched_date": "2026-07-05T09:44:45.333752+00:00",
+  "abstract": "<p>Nature Communications, Published online: 04 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75271-7\">doi:10.1038/s41467-026-75271-7</a></p>ATM kinase activity is required for cellular survival to replication fork damaging chemotherapies. Here the authors show that deficiency in the BRCA1-A complex promotes chemotherapy resistance of ATM mutated cells by restoring fork reversal to allow homologous recombination repair.",
+  "headline": "Disabling a DNA repair protein makes cancer cells with broken ATM more resistant to chemotherapy.",
+  "why_it_matters": "Many cancers have broken ATM (a protein that detects DNA damage), making them hard to treat. This study reveals an unexpected trade-off: removing a second repair protein actually helps these broken cells survive chemotherapy. Understanding this could lead to better drug combinations that prevent cancer cells from escaping treatment.",
+  "key_findings": [
+    "Cells lacking functional ATM (a damage-detection protein) normally need other repair systems to survive chemotherapy. Removing the BRCA1-A complex (a group of proteins that work together) paradoxically makes these ATM-deficient cells MORE resistant to cancer drugs.",
+    "The BRCA1-A complex normally blocks a DNA repair pathway called 'fork reversal' (a way cells back up and fix damaged DNA replication). When BRCA1-A is removed, fork reversal is re-enabled, allowing cells to repair damage through homologous recombination (a precise copying mechanism using a DNA template).",
+    "This survival advantage occurs specifically in ATM-deficient cells, suggesting a hidden conflict between these repair systems that cancer cells can exploit.",
+    "The findings suggest that combining chemotherapy with drugs targeting fork reversal might prevent resistance in ATM-deficient cancers."
+  ],
+  "methods_snapshot": "Researchers used cultured cancer cells with various genetic mutations to test how removing the BRCA1-A complex affects survival when cells are exposed to chemotherapy drugs that damage replication forks (the moving machinery that copies DNA). They measured cell survival, DNA repair activity, and the movement of replication forks using microscopy and molecular techniques.",
+  "glossary": [
+    {
+      "term": "ATM kinase",
+      "definition": "A protein that acts like a damage alarm system\u2014it detects broken DNA and tells the cell whether to repair it or shut down."
+    },
+    {
+      "term": "BRCA1-A complex",
+      "definition": "A group of proteins that work together to help repair DNA damage, particularly in breast and ovarian cancers when mutated."
+    },
+    {
+      "term": "Replication fork",
+      "definition": "The moving point where DNA copying machinery unzips and duplicates the DNA strand during cell division."
+    },
+    {
+      "term": "Fork reversal",
+      "definition": "A emergency backup maneuver where replication machinery reverses direction and rewinds, allowing cells to fix damaged DNA before continuing."
+    },
+    {
+      "term": "Homologous recombination",
+      "definition": "A precise DNA repair method where cells use an identical DNA copy (like a backup blueprint) to fix damage accurately."
+    },
+    {
+      "term": "Chemotherapy resistance",
+      "definition": "When cancer cells survive and continue growing despite treatment with cancer drugs."
+    },
+    {
+      "term": "Replication fork damaging chemotherapies",
+      "definition": "Cancer drugs designed to break or stall the DNA copying process, forcing cells to die."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer",
+    "ovarian cancer",
+    "ATM-mutated cancers (various types)"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in cultured cancer cells in laboratory conditions, not in living patients or animals, so results may not translate directly to real tumors. The findings apply mainly to cancers with specific ATM mutations, limiting generalizability to all cancer types.",
+  "tags": [
+    "DNA repair",
+    "ATM deficiency",
+    "BRCA1",
+    "chemotherapy resistance",
+    "fork reversal",
+    "homologous recombination",
+    "synthetic lethality",
+    "precision oncology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

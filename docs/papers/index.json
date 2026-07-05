@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-07-04T09:26:58.360456+00:00",
+  "last_updated": "2026-07-05T09:44:45.334030+00:00",
   "papers": [
+    {
+      "id": "20260705_the_brca1_a_complex_restricts_replicatio",
+      "title": "The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells",
+      "url": "https://www.nature.com/articles/s41467-026-75271-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-04T00:00:00+00:00",
+      "fetched_date": "2026-07-05T09:44:45.333752+00:00",
+      "headline": "Disabling a DNA repair protein makes cancer cells with broken ATM more resistant to chemotherapy.",
+      "cancer_types": [
+        "breast cancer",
+        "ovarian cancer",
+        "ATM-mutated cancers (various types)"
+      ],
+      "tags": [
+        "DNA repair",
+        "ATM deficiency",
+        "BRCA1",
+        "chemotherapy resistance",
+        "fork reversal",
+        "homologous recombination",
+        "synthetic lethality",
+        "precision oncology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260704_generalizable_ai_predicts_immunotherapy_",
       "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
