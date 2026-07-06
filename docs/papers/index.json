@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-05T09:44:45.334030+00:00",
+  "last_updated": "2026-07-06T11:40:36.237388+00:00",
   "papers": [
+    {
+      "id": "20260706_author_correction__sustained_nitric_oxid",
+      "title": "Author Correction: Sustained nitric oxide production by engineered <i>E. coli</i> remodels the tumor microenvironment and potentiates immunotherapy",
+      "url": "https://www.nature.com/articles/s41587-026-03247-5",
+      "journal": "Nature Biotechnology",
+      "pub_date": "2026-07-06T00:00:00+00:00",
+      "fetched_date": "2026-07-06T11:40:36.237102+00:00",
+      "headline": "Engineered bacteria produce a gas that helps immune cells fight tumors better.",
+      "cancer_types": [
+        "melanoma",
+        "colorectal cancer",
+        "breast cancer"
+      ],
+      "tags": [
+        "bacterial therapy",
+        "immunotherapy",
+        "nitric oxide",
+        "tumor microenvironment",
+        "engineered E. coli",
+        "immune checkpoint",
+        "combination therapy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260705_the_brca1_a_complex_restricts_replicatio",
       "title": "The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells",

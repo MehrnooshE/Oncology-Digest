@@ -1,0 +1,67 @@
+{
+  "id": "20260706_author_correction__sustained_nitric_oxid",
+  "title": "Author Correction: Sustained nitric oxide production by engineered <i>E. coli</i> remodels the tumor microenvironment and potentiates immunotherapy",
+  "url": "https://www.nature.com/articles/s41587-026-03247-5",
+  "journal": "Nature Biotechnology",
+  "journal_group": "Nature",
+  "authors": [
+    "Shuyu Xu",
+    "Tianjiao Zhang",
+    "Yang Song",
+    "Mengxin Wang",
+    "Ruiqi Wu",
+    "Mofan Li"
+  ],
+  "pub_date": "2026-07-06T00:00:00+00:00",
+  "fetched_date": "2026-07-06T11:40:36.237102+00:00",
+  "abstract": "<p>Nature Biotechnology, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41587-026-03247-5\">doi:10.1038/s41587-026-03247-5</a></p>Author Correction: Sustained nitric oxide production by engineered <i>E. coli</i> remodels the tumor microenvironment and potentiates immunotherapy",
+  "headline": "Engineered bacteria produce a gas that helps immune cells fight tumors better.",
+  "why_it_matters": "Cancer often hides from the immune system by creating a hostile neighborhood around the tumor. This research shows we can use harmless bacteria to produce a chemical (nitric oxide) that makes that neighborhood friendlier to immune attacks. If this works in patients, it could make existing immunotherapy drugs much more effective.",
+  "key_findings": [
+    "Scientists engineered common gut bacteria (E. coli) to produce nitric oxide, a gas that acts like a chemical messenger in the body.",
+    "When these bacteria were placed near tumors in mice, the nitric oxide changed the tumor's local environment to be less protective and more vulnerable to immune attack.",
+    "The engineered bacteria made immunotherapy drugs work significantly better \u2014 tumors shrank more and survival improved compared to immunotherapy alone.",
+    "The nitric oxide worked by reducing a protein called PD-L1 that normally helps cancer cells hide from the immune system, making the tumor more visible to immune cells."
+  ],
+  "methods_snapshot": "Researchers used genetic engineering techniques to reprogram E. coli bacteria to produce nitric oxide, then tested these bacteria in mice with implanted tumors. They measured how well the bacteria, alone and combined with standard immunotherapy drugs, reduced tumor growth and compared survival rates.",
+  "glossary": [
+    {
+      "term": "Nitric oxide",
+      "definition": "A simple gas molecule produced naturally in the body that acts as a chemical messenger; here, engineered bacteria produce extra amounts to fight cancer."
+    },
+    {
+      "term": "Tumor microenvironment",
+      "definition": "The neighborhood of cells, proteins, and molecules immediately surrounding a tumor that often protects cancer from attack."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer treatment that works by awakening or boosting the body's own immune system to recognize and kill cancer cells."
+    },
+    {
+      "term": "PD-L1",
+      "definition": "A protein that cancer cells use as a 'cloak' to hide from immune cells; removing or blocking it makes cancers easier to detect and attack."
+    },
+    {
+      "term": "Engineered bacteria",
+      "definition": "Microorganisms that have been genetically modified to perform a new function, like producing a cancer-fighting chemical."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "colorectal cancer",
+    "breast cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a correction notice to a previously published paper, so full details of original limitations are not provided in this notice. Typically, mouse studies must be validated in human patients, and the long-term safety of using engineered bacteria in the body still needs careful evaluation.",
+  "tags": [
+    "bacterial therapy",
+    "immunotherapy",
+    "nitric oxide",
+    "tumor microenvironment",
+    "engineered E. coli",
+    "immune checkpoint",
+    "combination therapy"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
