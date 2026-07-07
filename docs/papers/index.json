@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-06T11:40:36.237388+00:00",
+  "last_updated": "2026-07-07T10:28:45.589352+00:00",
   "papers": [
+    {
+      "id": "20260707_immune_aging_biomarkers_for_clinical_tri",
+      "title": "Immune aging biomarkers for clinical trials",
+      "url": "https://www.nature.com/articles/s41591-026-04493-5",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-03T00:00:00+00:00",
+      "fetched_date": "2026-07-07T10:28:45.589046+00:00",
+      "headline": "Scientists create a roadmap to measure how the immune system ages in clinical trials.",
+      "cancer_types": [],
+      "tags": [
+        "immune aging",
+        "biomarkers",
+        "clinical trials",
+        "geroscience",
+        "aging",
+        "immunology",
+        "framework",
+        "translational research"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260706_author_correction__sustained_nitric_oxid",
       "title": "Author Correction: Sustained nitric oxide production by engineered <i>E. coli</i> remodels the tumor microenvironment and potentiates immunotherapy",
