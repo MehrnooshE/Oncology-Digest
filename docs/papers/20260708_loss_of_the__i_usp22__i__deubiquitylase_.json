@@ -1,0 +1,77 @@
+{
+  "id": "20260708_loss_of_the__i_usp22__i__deubiquitylase_",
+  "title": "Loss of the <i>USP22</i> deubiquitylase confers resistance to chemotherapy in small cell lung cancer",
+  "url": "https://www.nature.com/articles/s41467-026-75117-2",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Scott Best",
+    "Daniel S. Hippe",
+    "Eli Grunblatt",
+    "Jackson Fatherree",
+    "Pritha Chanana",
+    "Feinan Wu"
+  ],
+  "pub_date": "2026-07-08T00:00:00+00:00",
+  "fetched_date": "2026-07-08T09:29:01.385598+00:00",
+  "abstract": "<p>Nature Communications, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75117-2\">doi:10.1038/s41467-026-75117-2</a></p>While small cell lung cancer (SCLC) typically responds well to chemotherapy, resistance often develops rapidly with limited therapeutic options. Here, using an in vivo CRISPR deletion screen in patient derived models of SCLC, the authors identify the SAGA deubiquitylase USP22 as a driver of cisplatin resistance in SCLC.",
+  "headline": "Scientists find why some lung cancers stop responding to chemotherapy and how to fix it.",
+  "why_it_matters": "Small cell lung cancer usually responds well to chemotherapy at first, but patients often develop resistance within months, leaving doctors with few options. This discovery identifies a specific protein (USP22) that controls whether cancer cells resist treatment, opening a path to new drugs that could restore chemotherapy effectiveness and improve survival.",
+  "key_findings": [
+    "When a protein called USP22 (a molecular recycler that removes chemical tags from other proteins) is lost or disabled in lung cancer cells, those cells become resistant to cisplatin (a standard chemotherapy drug).",
+    "USP22 is part of a larger protein complex called SAGA, which acts like a quality control supervisor for cell function.",
+    "Researchers discovered this by using CRISPR (a genetic scissors tool) to systematically disable thousands of genes in cancer cells grown from patient tumors, then watched which changes made cells survive chemotherapy.",
+    "The loss of USP22 appears to be a key mechanism that allows small cell lung cancer to evade chemotherapy, suggesting it could be a new therapeutic target."
+  ],
+  "methods_snapshot": "Scientists used CRISPR technology to systematically delete different genes in patient-derived small cell lung cancer models to find which genetic changes caused chemotherapy resistance. They then studied whether restoring USP22 function could reverse this resistance and make the cancer vulnerable again.",
+  "glossary": [
+    {
+      "term": "USP22",
+      "definition": "A protein that acts like a molecular garbage collector, removing chemical tags (ubiquitin) from other proteins to control their activity or destruction."
+    },
+    {
+      "term": "Deubiquitylase",
+      "definition": "An enzyme that removes ubiquitin (a small chemical label) from other proteins, like peeling stickers off packages."
+    },
+    {
+      "term": "CRISPR",
+      "definition": "A genetic editing tool that acts like molecular scissors, allowing scientists to precisely cut out or disable specific genes in cells."
+    },
+    {
+      "term": "Small cell lung cancer (SCLC)",
+      "definition": "An aggressive type of lung cancer with cells that appear small under a microscope; makes up 15% of lung cancers and spreads quickly."
+    },
+    {
+      "term": "Chemotherapy resistance",
+      "definition": "When cancer cells develop the ability to survive drugs that normally kill them, reducing treatment effectiveness over time."
+    },
+    {
+      "term": "Cisplatin",
+      "definition": "A platinum-based chemotherapy drug that damages cancer cell DNA and is a standard treatment for small cell lung cancer."
+    },
+    {
+      "term": "SAGA complex",
+      "definition": "A group of proteins that work together to control gene activity and protein quality in cells, acting like a management team."
+    },
+    {
+      "term": "Patient-derived models",
+      "definition": "Cancer cells or tumors taken directly from patients and grown in the lab, which more closely mimic real patient cancers than standard cell lines."
+    }
+  ],
+  "cancer_types": [
+    "small cell lung cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted using cancer cells and models grown in the laboratory or in mice, not yet tested in patients with lung cancer. The findings need to be confirmed in clinical trials to determine if blocking USP22 will actually restore chemotherapy effectiveness in real patients.",
+  "tags": [
+    "chemotherapy-resistance",
+    "lung-cancer",
+    "drug-resistance",
+    "CRISPR-screening",
+    "protein-degradation",
+    "precision-medicine",
+    "therapeutic-target"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

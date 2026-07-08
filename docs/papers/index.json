@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-07T10:28:45.589352+00:00",
+  "last_updated": "2026-07-08T09:29:01.385918+00:00",
   "papers": [
+    {
+      "id": "20260708_loss_of_the__i_usp22__i__deubiquitylase_",
+      "title": "Loss of the <i>USP22</i> deubiquitylase confers resistance to chemotherapy in small cell lung cancer",
+      "url": "https://www.nature.com/articles/s41467-026-75117-2",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-08T00:00:00+00:00",
+      "fetched_date": "2026-07-08T09:29:01.385598+00:00",
+      "headline": "Scientists find why some lung cancers stop responding to chemotherapy and how to fix it.",
+      "cancer_types": [
+        "small cell lung cancer"
+      ],
+      "tags": [
+        "chemotherapy-resistance",
+        "lung-cancer",
+        "drug-resistance",
+        "CRISPR-screening",
+        "protein-degradation",
+        "precision-medicine",
+        "therapeutic-target"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260707_immune_aging_biomarkers_for_clinical_tri",
       "title": "Immune aging biomarkers for clinical trials",
