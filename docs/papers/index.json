@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-08T09:29:01.385918+00:00",
+  "last_updated": "2026-07-09T10:27:52.134976+00:00",
   "papers": [
+    {
+      "id": "20260709_challenges_and_future_directions_for_mul",
+      "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
+      "url": "https://www.nature.com/articles/s41591-026-04490-8",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-09T00:00:00+00:00",
+      "fetched_date": "2026-07-09T10:27:52.134706+00:00",
+      "headline": "New diagnostic guidelines make multiple sclerosis easier to identify earlier in patients.",
+      "cancer_types": [],
+      "tags": [
+        "multiple sclerosis",
+        "diagnostic criteria",
+        "early diagnosis",
+        "biomarkers",
+        "clinical guidelines",
+        "neuroinflammation",
+        "disease stratification",
+        "precision medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260708_loss_of_the__i_usp22__i__deubiquitylase_",
       "title": "Loss of the <i>USP22</i> deubiquitylase confers resistance to chemotherapy in small cell lung cancer",

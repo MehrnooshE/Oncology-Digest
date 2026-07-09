@@ -1,0 +1,65 @@
+{
+  "id": "20260709_challenges_and_future_directions_for_mul",
+  "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
+  "url": "https://www.nature.com/articles/s41591-026-04490-8",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Jiwon Oh",
+    "Frederik Barkhof",
+    "Amit Bar-Or",
+    "Olga Ciccarrelli",
+    "Timothy Coetzee",
+    "Massimo Filippi"
+  ],
+  "pub_date": "2026-07-09T00:00:00+00:00",
+  "fetched_date": "2026-07-09T10:27:52.134706+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/s41591-026-04490-8\">doi:10.1038/s41591-026-04490-8</a></p>The 2024 revision of the McDonald diagnostic criteria is an important step toward earlier and more inclusive diagnosis of multiple sclerosis. Realizing its full potential will require continued refinement of biomarkers, disease stratification and clinical trial approaches.",
+  "headline": "New diagnostic guidelines make multiple sclerosis easier to identify earlier in patients.",
+  "why_it_matters": "Multiple sclerosis (MS) is a disease where the immune system attacks the brain and spinal cord, causing progressive disability. Earlier diagnosis means patients can start treatment sooner, potentially slowing or preventing damage. These updated guidelines help doctors spot MS more reliably, especially in people who might have been missed before.",
+  "key_findings": [
+    "The 2024 McDonald criteria (the official rulebook for diagnosing MS) was revised to catch more patients earlier by requiring less evidence of disease spread over time",
+    "Better biomarkers (biological signals in blood or spinal fluid that reveal disease) are needed to reliably identify which patients have MS versus other conditions that mimic it",
+    "Patients with MS are not all the same \u2014 they need personalized categorization (disease stratification) to predict who will get worse and which treatments will work best",
+    "Clinical trials testing new MS treatments need to evolve to match these new diagnostic standards and include more diverse patient populations",
+    "The field must continue refining how doctors use brain imaging and spinal fluid tests to confirm MS diagnosis with confidence"
+  ],
+  "methods_snapshot": "This is a review article where experts examined the latest MS diagnostic guidelines and identified gaps in current practice. They analyzed how the updated McDonald criteria change diagnosis rates and what additional tools (like blood tests and MRI imaging) doctors need to improve accuracy.",
+  "glossary": [
+    {
+      "term": "McDonald diagnostic criteria",
+      "definition": "The official international checklist that doctors use to confirm whether a patient has multiple sclerosis based on symptoms, imaging, and lab tests."
+    },
+    {
+      "term": "Biomarker",
+      "definition": "A measurable biological signal (like a protein in blood) that indicates disease presence or activity, like smoke showing there's a fire."
+    },
+    {
+      "term": "Multiple sclerosis (MS)",
+      "definition": "An autoimmune disease where the body's immune system mistakenly attacks the protective coating around nerve fibers in the brain and spinal cord."
+    },
+    {
+      "term": "Disease stratification",
+      "definition": "Sorting patients into different groups based on their disease characteristics to predict outcomes and choose the best treatment for each group."
+    },
+    {
+      "term": "MRI imaging",
+      "definition": "A scan that uses magnetic fields to take detailed pictures of the brain and spinal cord without radiation, allowing doctors to see MS damage."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is an expert opinion and review article, not a study testing new data, so the recommendations need further research to validate. Different hospitals and countries may adopt the new criteria at different rates, which could create inconsistency in how MS is diagnosed globally.",
+  "tags": [
+    "multiple sclerosis",
+    "diagnostic criteria",
+    "early diagnosis",
+    "biomarkers",
+    "clinical guidelines",
+    "neuroinflammation",
+    "disease stratification",
+    "precision medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
