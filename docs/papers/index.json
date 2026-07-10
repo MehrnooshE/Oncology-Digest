@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-09T10:27:52.134976+00:00",
+  "last_updated": "2026-07-10T10:26:17.819425+00:00",
   "papers": [
+    {
+      "id": "20260710_high_temperature_nb_si_alloys_using_data",
+      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
+      "url": "https://www.nature.com/articles/s41467-026-75353-6",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-10T00:00:00+00:00",
+      "fetched_date": "2026-07-10T10:26:17.819199+00:00",
+      "headline": "AI helps design super-strong heat-resistant metal alloys for extreme conditions.",
+      "cancer_types": [],
+      "tags": [
+        "materials science",
+        "machine learning",
+        "alloy design",
+        "high-temperature materials",
+        "computational materials",
+        "engineering optimization",
+        "AI applications",
+        "metals"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "Machine learning algorithms screened thousands of possible metal compositions and predicted which ones would combine strength with toughness, letting researchers test only the most promising candidates instead of trying random combinations."
+    },
     {
       "id": "20260709_challenges_and_future_directions_for_mul",
       "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
