@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-10T10:26:17.819425+00:00",
+  "last_updated": "2026-07-11T08:51:25.883111+00:00",
   "papers": [
+    {
+      "id": "20260711_colorectal_cancer_co_opts_an_epidermal_w",
+      "title": "Colorectal cancer co-opts an epidermal wound healing program during metastasis to generate disseminated tumor cells",
+      "url": "https://www.nature.com/articles/s41467-026-75296-y",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-11T00:00:00+00:00",
+      "fetched_date": "2026-07-11T08:51:25.882776+00:00",
+      "headline": "Cancer cells borrow a skin-healing trick to spread through the body.",
+      "cancer_types": [
+        "colorectal cancer"
+      ],
+      "tags": [
+        "metastasis",
+        "cell plasticity",
+        "colorectal cancer",
+        "tumor cells",
+        "wound healing",
+        "cancer spread",
+        "patient-derived organoids"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260710_high_temperature_nb_si_alloys_using_data",
       "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",

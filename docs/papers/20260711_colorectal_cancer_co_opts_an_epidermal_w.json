@@ -1,0 +1,73 @@
+{
+  "id": "20260711_colorectal_cancer_co_opts_an_epidermal_w",
+  "title": "Colorectal cancer co-opts an epidermal wound healing program during metastasis to generate disseminated tumor cells",
+  "url": "https://www.nature.com/articles/s41467-026-75296-y",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Mizuho Sakahara",
+    "Takuya Okamoto",
+    "Kohei Kumegawa",
+    "Yasuko Natsume",
+    "Daisuke Kusama",
+    "Hitomi Yamanaka"
+  ],
+  "pub_date": "2026-07-11T00:00:00+00:00",
+  "fetched_date": "2026-07-11T08:51:25.882776+00:00",
+  "abstract": "<p>Nature Communications, Published online: 11 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75296-y\">doi:10.1038/s41467-026-75296-y</a></p>The plasticity of disseminated tumor cells (DTCs) remains to be understood. Here the authors use serial orthotopic transplantation of colorectal patient-derived organoids to mimic cancer metastasis, and observe that DTCs have transiently adopted a wound-healing program of epidermal keratinocytes to express keratins before the metastatic outgrowth in distant organs.",
+  "headline": "Cancer cells borrow a skin-healing trick to spread through the body.",
+  "why_it_matters": "Understanding how cancer cells escape from tumors and survive in the bloodstream could help doctors stop metastasis (when cancer spreads to distant organs), the leading cause of cancer death. This discovery reveals a specific weakness in that escape process that might be targetable with new drugs.",
+  "key_findings": [
+    "Colorectal cancer cells that break free from the primary tumor temporarily switch on a wound-healing program normally used by skin cells (keratinocytes \u2014 the common cells that make up your outer skin layer).",
+    "These escaping cancer cells express keratins (tough structural proteins that normally strengthen skin) as part of this borrowed program.",
+    "This wound-healing 'costume' appears to be temporary \u2014 cancer cells use it during their journey but before they establish new tumors in distant organs.",
+    "Researchers mimicked cancer spread in the lab by repeatedly transplanting patient-derived colorectal cancer organoids (miniature tumor-like structures grown from patient cells) into mice, allowing them to study this process step-by-step."
+  ],
+  "methods_snapshot": "Scientists grew tiny tumor-like structures from colorectal cancer patients in the lab, then repeatedly transplanted them into mice and tracked how cancer cells changed. By observing which genes (instruction blueprints) were turned on and off during metastasis, they discovered the cancer cells were copying a skin cell's wound-healing strategy.",
+  "glossary": [
+    {
+      "term": "Disseminated tumor cells (DTCs)",
+      "definition": "Individual cancer cells that have broken free from the main tumor and entered the bloodstream to travel to distant organs."
+    },
+    {
+      "term": "Metastasis",
+      "definition": "The process by which cancer spreads from its original location to other parts of the body."
+    },
+    {
+      "term": "Plasticity",
+      "definition": "The ability of cells to change their identity or behavior, like a chameleon changing color."
+    },
+    {
+      "term": "Organoid",
+      "definition": "A tiny, lab-grown structure that mimics a real organ or tumor, built from patient cells."
+    },
+    {
+      "term": "Keratinocytes",
+      "definition": "The common cells that make up the outer layer of your skin."
+    },
+    {
+      "term": "Keratins",
+      "definition": "Strong, structural proteins that toughen skin and hair."
+    },
+    {
+      "term": "Orthotopic transplantation",
+      "definition": "Placing tissue or cancer cells into the same type of location in an animal (like putting colorectal cancer into a mouse's colon)."
+    }
+  ],
+  "cancer_types": [
+    "colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was performed in mice using lab-grown tumor structures from patients \u2014 the actual process in living humans may differ. It remains unclear how commonly cancer cells use this wound-healing trick, or whether blocking this program would effectively prevent metastasis in patients.",
+  "tags": [
+    "metastasis",
+    "cell plasticity",
+    "colorectal cancer",
+    "tumor cells",
+    "wound healing",
+    "cancer spread",
+    "patient-derived organoids"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
