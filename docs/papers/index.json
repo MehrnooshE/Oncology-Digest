@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-11T08:51:25.883111+00:00",
+  "last_updated": "2026-07-12T09:06:27.912816+00:00",
   "papers": [
+    {
+      "id": "20260712_daily_briefing__mutation_lets_octopuses_",
+      "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
+      "url": "https://www.nature.com/articles/d41586-026-02177-1",
+      "journal": "Nature",
+      "pub_date": "2026-07-09T00:00:00+00:00",
+      "fetched_date": "2026-07-12T09:06:27.912545+00:00",
+      "headline": "Octopuses have a genetic quirk that makes their protein-building more accurate than other animals.",
+      "cancer_types": [],
+      "tags": [
+        "protein-synthesis",
+        "octopus-genetics",
+        "mutation",
+        "cellular-precision",
+        "evolutionary-biology",
+        "error-correction"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260711_colorectal_cancer_co_opts_an_epidermal_w",
       "title": "Colorectal cancer co-opts an epidermal wound healing program during metastasis to generate disseminated tumor cells",
