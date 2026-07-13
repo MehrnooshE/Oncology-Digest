@@ -1,0 +1,49 @@
+{
+  "id": "20260713_the_rise_of_evidence_based_medicine_and_",
+  "title": "The rise of evidence-based medicine and the \u2018mavericks\u2019 who championed it",
+  "url": "https://www.nature.com/articles/d41586-026-02153-9",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Peter John"
+  ],
+  "pub_date": "2026-07-13T00:00:00+00:00",
+  "fetched_date": "2026-07-13T10:31:40.454732+00:00",
+  "abstract": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02153-9\">doi:10.1038/d41586-026-02153-9</a></p>An impeccably researched account describes how clinical trials have transformed health and social policy.",
+  "headline": "How rigorous medical testing transformed healthcare by replacing guesswork with proven facts.",
+  "why_it_matters": "For decades, doctors used treatments that seemed logical but didn't actually work. This story explains how clinical trials\u2014carefully designed experiments testing medicines on real patients\u2014became the gold standard that saved millions of lives. Today, every new cancer drug must pass these trials before reaching patients, protecting us from ineffective or dangerous treatments.",
+  "key_findings": [
+    "Clinical trials emerged as the most reliable way to prove whether a treatment actually works, replacing doctors' intuition and tradition with hard data",
+    "A handful of pioneering researchers ('mavericks') fought against medical establishment resistance to demand evidence before adopting new treatments",
+    "These champions of evidence-based medicine (making medical decisions based on proven facts rather than opinion) fundamentally changed how health policy is made worldwide",
+    "The shift toward rigorous testing has become so influential that it now shapes everything from cancer therapy to public health decisions"
+  ],
+  "methods_snapshot": "This is a historical review\u2014the author researched how clinical trials developed and gained acceptance in medicine over time. The work traces the stories and contributions of key researchers who pushed the medical world to demand proof that treatments actually work, examining how their persistence changed modern healthcare practices.",
+  "glossary": [
+    {
+      "term": "Clinical trial",
+      "definition": "A carefully controlled experiment testing whether a new medicine or treatment actually works in real patients, with strict rules to ensure results are trustworthy."
+    },
+    {
+      "term": "Evidence-based medicine",
+      "definition": "Medical practice guided by proven scientific evidence rather than tradition, intuition, or what doctors assume will work."
+    },
+    {
+      "term": "Health policy",
+      "definition": "Government and institutional rules and decisions about how healthcare is delivered and which treatments are approved for patient use."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a historical review rather than new experimental research, so it summarizes existing knowledge rather than discovering new cancer biology. The insights depend on how the author interpreted historical records and medical developments, which could reflect their particular perspective.",
+  "tags": [
+    "clinical-trials",
+    "evidence-based-medicine",
+    "medical-history",
+    "drug-approval",
+    "healthcare-policy",
+    "scientific-rigor"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

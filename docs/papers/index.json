@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-07-12T09:06:27.912816+00:00",
+  "last_updated": "2026-07-13T10:31:40.455042+00:00",
   "papers": [
+    {
+      "id": "20260713_the_rise_of_evidence_based_medicine_and_",
+      "title": "The rise of evidence-based medicine and the \u2018mavericks\u2019 who championed it",
+      "url": "https://www.nature.com/articles/d41586-026-02153-9",
+      "journal": "Nature",
+      "pub_date": "2026-07-13T00:00:00+00:00",
+      "fetched_date": "2026-07-13T10:31:40.454732+00:00",
+      "headline": "How rigorous medical testing transformed healthcare by replacing guesswork with proven facts.",
+      "cancer_types": [],
+      "tags": [
+        "clinical-trials",
+        "evidence-based-medicine",
+        "medical-history",
+        "drug-approval",
+        "healthcare-policy",
+        "scientific-rigor"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260712_daily_briefing__mutation_lets_octopuses_",
       "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
