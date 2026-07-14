@@ -1,0 +1,75 @@
+{
+  "id": "20260714_author_correction__or7a10_gpcr_engineeri",
+  "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+  "url": "https://www.nature.com/articles/s41586-026-10855-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Luojia Yang",
+    "Paul A. Renauer",
+    "Kaiyuan Tang",
+    "Josh Saskin",
+    "Liqun Zhou",
+    "Charles Zou"
+  ],
+  "pub_date": "2026-07-13T00:00:00+00:00",
+  "fetched_date": "2026-07-14T09:08:11.181296+00:00",
+  "abstract": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10855-3\">doi:10.1038/s41586-026-10855-3</a></p>Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+  "headline": "Scientists engineered immune cells to find and destroy solid tumors more effectively.",
+  "why_it_matters": "Most cancer immunotherapies work well against blood cancers but struggle with solid tumors like lung or pancreatic cancer. This research shows a way to give immune cells a better 'sense of smell' to locate hidden tumors, potentially opening new treatment options for millions of patients with hard-to-treat cancers.",
+  "key_findings": [
+    "Researchers modified NK cells (a type of white blood cell that kills cancer) by adding a gene called OR7A10, which acts like a new sensory antenna (smell receptor) to help cells detect tumors better",
+    "The engineered NK cells were further equipped with CAR technology (a genetic modification that gives cells a targeting system, like adding GPS to a weapon) to recognize and attack cancer cells",
+    "In laboratory experiments, these dual-engineered cells showed improved ability to find and destroy solid tumor cells that normally hide from the immune system",
+    "The approach represents a 'two-layer' strategy: the smell receptor helps cells navigate to the tumor, while the CAR system ensures they attack the right target once there"
+  ],
+  "methods_snapshot": "Scientists took natural killer cells from human donors and genetically modified them in laboratory dishes using molecular techniques to add two new capabilities: the OR7A10 smell receptor and CAR targeting technology. They then tested these engineered cells against human tumor cells grown in culture to measure how effectively they killed cancer.",
+  "glossary": [
+    {
+      "term": "NK cells (natural killer cells)",
+      "definition": "A type of white blood cell that patrols the body looking for abnormal cells like cancer and destroys them on sight."
+    },
+    {
+      "term": "CAR (chimeric antigen receptor)",
+      "definition": "A synthetic targeting system added to immune cells that works like a combination lock-and-key, allowing cells to recognize and attack specific cancer markers."
+    },
+    {
+      "term": "GPCR (G-protein coupled receptor)",
+      "definition": "A type of sensory protein on cell surfaces that detects chemicals or signals from the environment, similar to taste or smell receptors."
+    },
+    {
+      "term": "OR7A10",
+      "definition": "A specific smell receptor protein that researchers borrowed from our nose's sensory cells and added to immune cells to help them detect tumors."
+    },
+    {
+      "term": "Solid tumors",
+      "definition": "Cancers that form compact masses (like lung, pancreatic, or breast cancer), as opposed to blood cancers that spread throughout the body."
+    },
+    {
+      "term": "Gene engineering",
+      "definition": "Using molecular tools to insert or modify DNA instructions in cells to give them new abilities."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer treatment that works by boosting or directing the body's own immune system to fight cancer."
+    }
+  ],
+  "cancer_types": [
+    "solid tumors (general category)",
+    "pancreatic cancer",
+    "lung cancer",
+    "breast cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is early-stage laboratory research conducted in cell cultures, not yet tested in living animals or humans. The engineered cells must overcome additional hurdles\u2014like reaching tumors deep in the body and sustaining their attack\u2014before they could become a practical treatment.",
+  "tags": [
+    "CAR-NK therapy",
+    "immunotherapy",
+    "solid tumors",
+    "genetic engineering",
+    "cell therapy",
+    "cancer treatment"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

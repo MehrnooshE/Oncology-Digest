@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-13T10:31:40.455042+00:00",
+  "last_updated": "2026-07-14T09:08:11.181580+00:00",
   "papers": [
+    {
+      "id": "20260714_author_correction__or7a10_gpcr_engineeri",
+      "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+      "url": "https://www.nature.com/articles/s41586-026-10855-3",
+      "journal": "Nature",
+      "pub_date": "2026-07-13T00:00:00+00:00",
+      "fetched_date": "2026-07-14T09:08:11.181296+00:00",
+      "headline": "Scientists engineered immune cells to find and destroy solid tumors more effectively.",
+      "cancer_types": [
+        "solid tumors (general category)",
+        "pancreatic cancer",
+        "lung cancer",
+        "breast cancer"
+      ],
+      "tags": [
+        "CAR-NK therapy",
+        "immunotherapy",
+        "solid tumors",
+        "genetic engineering",
+        "cell therapy",
+        "cancer treatment"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260713_the_rise_of_evidence_based_medicine_and_",
       "title": "The rise of evidence-based medicine and the \u2018mavericks\u2019 who championed it",
