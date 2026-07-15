@@ -1,0 +1,76 @@
+{
+  "id": "20260715_exogenous_creatine_supplementation_promo",
+  "title": "Exogenous creatine supplementation promotes tumor metastasis via megakaryocyte creatine kinase B-STAT5B signaling",
+  "url": "https://www.nature.com/articles/s41467-026-74639-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Sisi Xie",
+    "Ruibo Chen",
+    "Xiaoting Sun",
+    "Xiaolei Ni",
+    "Yuting Wu",
+    "Linli Cai"
+  ],
+  "pub_date": "2026-07-15T00:00:00+00:00",
+  "fetched_date": "2026-07-15T09:12:37.298437+00:00",
+  "abstract": "<p>Nature Communications, Published online: 15 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74639-z\">doi:10.1038/s41467-026-74639-z</a></p>How diet regulates cancer progression and therapeutic response is not completely understood. Here, the authors show that creatine supplementation promotes tumor metastasis by inducing hyperactive platelets in cancer models.",
+  "headline": "A popular fitness supplement may help cancer spread by making blood cells hyperactive.",
+  "why_it_matters": "Millions of people take creatine supplements for muscle building without knowing potential cancer risks. This research suggests diet supplements can unexpectedly fuel cancer progression, which could change how we think about what's safe to take. If confirmed in humans, it might lead to new ways to block cancer spread by targeting this pathway.",
+  "key_findings": [
+    "Creatine supplementation (a popular muscle-building compound) made tumors spread more aggressively in animal models by activating a specific enzyme called megakaryocyte creatine kinase B.",
+    "This enzyme triggered an overactive signaling pathway involving STAT5B (a protein that acts like a control switch inside cells), causing platelets (tiny blood cells involved in clotting) to become hyperactive.",
+    "Hyperactive platelets helped cancer cells escape from tumors and travel through the bloodstream, a critical step in metastasis (cancer spreading to distant organs).",
+    "Blocking this creatine-related pathway reduced tumor metastasis in the animal models, suggesting it could be a therapeutic target.",
+    "The findings reveal an unexpected link between a common dietary supplement and cancer progression, highlighting how diet components can influence cancer behavior."
+  ],
+  "methods_snapshot": "Researchers used animal cancer models (typically mice) to study how creatine supplementation affects tumor growth and spread. They analyzed blood cells, tracked signaling pathways inside cells using molecular techniques, and tested whether blocking the pathway could slow metastasis.",
+  "glossary": [
+    {
+      "term": "Creatine",
+      "definition": "A natural compound in muscles that people take as a supplement to build strength and muscle mass."
+    },
+    {
+      "term": "Metastasis",
+      "definition": "The process where cancer cells break away from the original tumor and spread to other parts of the body."
+    },
+    {
+      "term": "Platelets",
+      "definition": "Tiny blood cells that help form clots and stop bleeding, but can also help cancer cells survive and spread."
+    },
+    {
+      "term": "Hyperactive",
+      "definition": "Working at abnormally high levels or more intensely than normal, in this case making cells overly aggressive."
+    },
+    {
+      "term": "Signaling pathway",
+      "definition": "A chain reaction of chemical messages inside cells that tells them what to do, like a cellular instruction manual."
+    },
+    {
+      "term": "STAT5B",
+      "definition": "A protein inside cells that acts like a switch to turn genes on and off in response to signals."
+    },
+    {
+      "term": "Enzyme",
+      "definition": "A protein that speeds up chemical reactions inside cells, acting like a biological catalyst."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract",
+    "Likely multiple solid tumors based on metastasis focus"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in animal models, not humans, so results may not directly apply to people taking creatine supplements. The doses used in animals may differ from typical human supplement amounts, and individual responses could vary based on genetics and health status.",
+  "tags": [
+    "creatine supplementation",
+    "tumor metastasis",
+    "platelets",
+    "diet and cancer",
+    "signaling pathways",
+    "cancer progression",
+    "therapeutic target",
+    "preclinical research"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

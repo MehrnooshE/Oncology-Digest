@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-14T09:08:11.181580+00:00",
+  "last_updated": "2026-07-15T09:12:37.298706+00:00",
   "papers": [
+    {
+      "id": "20260715_exogenous_creatine_supplementation_promo",
+      "title": "Exogenous creatine supplementation promotes tumor metastasis via megakaryocyte creatine kinase B-STAT5B signaling",
+      "url": "https://www.nature.com/articles/s41467-026-74639-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-15T00:00:00+00:00",
+      "fetched_date": "2026-07-15T09:12:37.298437+00:00",
+      "headline": "A popular fitness supplement may help cancer spread by making blood cells hyperactive.",
+      "cancer_types": [
+        "Not specified in abstract",
+        "Likely multiple solid tumors based on metastasis focus"
+      ],
+      "tags": [
+        "creatine supplementation",
+        "tumor metastasis",
+        "platelets",
+        "diet and cancer",
+        "signaling pathways",
+        "cancer progression",
+        "therapeutic target",
+        "preclinical research"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260714_author_correction__or7a10_gpcr_engineeri",
       "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
