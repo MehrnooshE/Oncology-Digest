@@ -1,0 +1,66 @@
+{
+  "id": "20260716_modular_in_vivo_antibody_adc_click_to_re",
+  "title": "Modular in vivo antibody\u2013ADC click to reverse drug resistance in tumours",
+  "url": "https://www.nature.com/articles/s41586-026-10789-w",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Cristina Sim\u00f3",
+    "Alexander C. Vanover",
+    "Ricardo D\u2019Oliveira Albanus",
+    "Sandeep Surendra Panikar",
+    "Shayla Shmuel",
+    "Alex Benton"
+  ],
+  "pub_date": "2026-07-15T00:00:00+00:00",
+  "fetched_date": "2026-07-16T09:19:01.870147+00:00",
+  "abstract": "<p>Nature, Published online: 15 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10789-w\">doi:10.1038/s41586-026-10789-w</a></p>In vivo ligation of clinically used therapeutic antibodies via bioorthogonal click chemistry to antibody\u2013drug conjugates leads to enhanced antitumour activity in heterogeneous and treatment-resistant tumours.",
+  "headline": "Doctors can now combine cancer-fighting antibodies with drug-loaded particles to beat resistant tumors.",
+  "why_it_matters": "Many cancers develop resistance to treatment, making them harder to cure. This new approach assembles two existing weapons together *inside* the tumor, potentially overcoming that resistance. If it works in patients, it could help people with hard-to-treat cancers live longer.",
+  "key_findings": [
+    "Researchers used 'click chemistry' (a way to snap two molecules together like Lego blocks) to connect standard antibodies (immune system proteins that target cancer cells) with drug-loaded particles called ADCs (antibody\u2013drug conjugates) directly inside tumors in living mice.",
+    "This assembly-line approach in the tumor itself was more effective than giving the same drugs separately, especially against tumors that had become resistant to previous treatments.",
+    "The modular design (meaning doctors can mix and match different antibodies and drugs) makes the approach flexible and potentially adaptable to many cancer types.",
+    "The technique worked in heterogeneous tumors (cancers with multiple different cell types), which are often the most challenging to treat."
+  ],
+  "methods_snapshot": "Scientists injected antibodies and drug-loaded particles into mice with tumors, where the click chemistry automatically linked them together. They then compared how well tumors shrank compared to standard treatments given separately.",
+  "glossary": [
+    {
+      "term": "Antibody",
+      "definition": "A protein made by your immune system that recognizes and latches onto specific targets on cancer cells."
+    },
+    {
+      "term": "ADC (Antibody\u2013Drug Conjugate)",
+      "definition": "An antibody attached to a toxic drug payload, designed to deliver poison specifically to cancer cells."
+    },
+    {
+      "term": "Bioorthogonal click chemistry",
+      "definition": "A chemical reaction that snaps two molecules together in living tissue without damaging healthy cells."
+    },
+    {
+      "term": "Drug resistance",
+      "definition": "When cancer cells evolve to survive treatments that once killed them, making the cancer harder to treat."
+    },
+    {
+      "term": "Heterogeneous tumor",
+      "definition": "A cancer containing multiple different types of cells, making it harder to target with a single drug."
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract"
+  ],
+  "ml_angle": null,
+  "limitations": "This work was done in mice, not yet in human patients, so safety and effectiveness in people remain unknown. The approach also needs to prove it works across many different cancer types before becoming standard treatment.",
+  "tags": [
+    "immunotherapy",
+    "drug-resistance",
+    "antibody-drug-conjugates",
+    "click-chemistry",
+    "precision-medicine",
+    "tumor-heterogeneity",
+    "combination-therapy",
+    "bioorthogonal-chemistry"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

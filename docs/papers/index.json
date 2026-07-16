@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-07-15T09:12:37.298706+00:00",
+  "last_updated": "2026-07-16T09:19:01.870424+00:00",
   "papers": [
+    {
+      "id": "20260716_modular_in_vivo_antibody_adc_click_to_re",
+      "title": "Modular in vivo antibody\u2013ADC click to reverse drug resistance in tumours",
+      "url": "https://www.nature.com/articles/s41586-026-10789-w",
+      "journal": "Nature",
+      "pub_date": "2026-07-15T00:00:00+00:00",
+      "fetched_date": "2026-07-16T09:19:01.870147+00:00",
+      "headline": "Doctors can now combine cancer-fighting antibodies with drug-loaded particles to beat resistant tumors.",
+      "cancer_types": [
+        "not specified in abstract"
+      ],
+      "tags": [
+        "immunotherapy",
+        "drug-resistance",
+        "antibody-drug-conjugates",
+        "click-chemistry",
+        "precision-medicine",
+        "tumor-heterogeneity",
+        "combination-therapy",
+        "bioorthogonal-chemistry"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260715_exogenous_creatine_supplementation_promo",
       "title": "Exogenous creatine supplementation promotes tumor metastasis via megakaryocyte creatine kinase B-STAT5B signaling",
