@@ -1,0 +1,64 @@
+{
+  "id": "20260717_author_correction__evolution_of_claudin1",
+  "title": "Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers",
+  "url": "https://www.nature.com/articles/s41591-026-04569-2",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Samuel J. Klempner",
+    "Raghav Sundar"
+  ],
+  "pub_date": "2026-07-16T00:00:00+00:00",
+  "fetched_date": "2026-07-17T09:13:00.927394+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/s41591-026-04569-2\">doi:10.1038/s41591-026-04569-2</a></p>Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers",
+  "headline": "New treatment approach targets a specific protein in stomach and esophageal cancers.",
+  "why_it_matters": "Stomach and esophageal cancers are hard to treat and kill hundreds of thousands of people yearly. This work reviews promising new drugs that attack a specific protein called claudin18.2, found on cancer cells but rarely on healthy ones. If successful, these therapies could offer patients better survival odds with fewer side effects.",
+  "key_findings": [
+    "Claudin18.2 is a protein (a building block of cells) that appears on the surface of stomach and esophageal cancer cells but not on most normal tissues, making it an ideal target for cancer-killing drugs",
+    "Multiple therapeutic approaches are being developed to attack claudin18.2, including antibodies (immune proteins that recognize and mark targets) and CAR-T cell therapies (engineered immune cells trained to hunt cancer)",
+    "Early clinical data suggests claudin18.2-targeting treatments improve survival in patients with advanced gastric and esophageal cancers compared to standard chemotherapy",
+    "The evolution of these therapies shows how understanding cancer biology at the molecular level (looking at tiny chemical details) can lead to smarter, more precise treatments"
+  ],
+  "methods_snapshot": "This is a review article that synthesizes existing published research on claudin18.2 therapies rather than conducting new experiments. The authors analyzed clinical trial results, laboratory findings, and treatment strategies across multiple studies to map out how this therapeutic approach is developing.",
+  "glossary": [
+    {
+      "term": "Claudin18.2",
+      "definition": "A protein that sits on the surface of stomach and esophageal cancer cells, used as a marker to help immune drugs identify and attack cancer."
+    },
+    {
+      "term": "Gastroesophageal cancer",
+      "definition": "Cancer occurring in the stomach or esophagus (the tube connecting your mouth to your stomach)."
+    },
+    {
+      "term": "Antibody",
+      "definition": "A protein made by your immune system that recognizes and sticks to specific targets, like a biological lock-and-key."
+    },
+    {
+      "term": "CAR-T cell therapy",
+      "definition": "A treatment where immune cells are removed, engineered in a lab to recognize cancer, and then returned to the patient to hunt down tumors."
+    },
+    {
+      "term": "Molecular targeting",
+      "definition": "Designing drugs to attack specific molecules unique to cancer cells, like hitting a precise weak point rather than using a sledgehammer."
+    }
+  ],
+  "cancer_types": [
+    "gastric cancer (stomach)",
+    "esophageal cancer",
+    "gastroesophageal junction cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a review summarizing existing research rather than a new experimental study, so it depends on the quality and completeness of published data. Long-term survival data for claudin18.2 therapies is still emerging, and outcomes may differ in real-world patient populations compared to controlled clinical trials.",
+  "tags": [
+    "claudin18.2",
+    "gastric cancer",
+    "immunotherapy",
+    "targeted therapy",
+    "esophageal cancer",
+    "precision medicine",
+    "antibody therapy",
+    "CAR-T cells"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

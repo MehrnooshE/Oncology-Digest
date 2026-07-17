@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-07-16T09:19:01.870424+00:00",
+  "last_updated": "2026-07-17T09:13:00.927694+00:00",
   "papers": [
+    {
+      "id": "20260717_author_correction__evolution_of_claudin1",
+      "title": "Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers",
+      "url": "https://www.nature.com/articles/s41591-026-04569-2",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-16T00:00:00+00:00",
+      "fetched_date": "2026-07-17T09:13:00.927394+00:00",
+      "headline": "New treatment approach targets a specific protein in stomach and esophageal cancers.",
+      "cancer_types": [
+        "gastric cancer (stomach)",
+        "esophageal cancer",
+        "gastroesophageal junction cancer"
+      ],
+      "tags": [
+        "claudin18.2",
+        "gastric cancer",
+        "immunotherapy",
+        "targeted therapy",
+        "esophageal cancer",
+        "precision medicine",
+        "antibody therapy",
+        "CAR-T cells"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260716_modular_in_vivo_antibody_adc_click_to_re",
       "title": "Modular in vivo antibody\u2013ADC click to reverse drug resistance in tumours",
