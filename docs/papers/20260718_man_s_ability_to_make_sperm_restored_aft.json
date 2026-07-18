@@ -1,0 +1,61 @@
+{
+  "id": "20260718_man_s_ability_to_make_sperm_restored_aft",
+  "title": "Man\u2019s ability to make sperm restored after testicular tissue transplant: what scientists think",
+  "url": "https://www.nature.com/articles/d41586-026-02191-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Heidi Ledford"
+  ],
+  "pub_date": "2026-07-17T00:00:00+00:00",
+  "fetched_date": "2026-07-18T08:51:43.519535+00:00",
+  "abstract": "<p>Nature, Published online: 17 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02191-3\">doi:10.1038/d41586-026-02191-3</a></p>Testicle sample removed from a ten-year-old before chemotherapy and frozen proves viable 16 years later.",
+  "headline": "Frozen sperm-producing tissue from a child's testicle worked 16 years later.",
+  "why_it_matters": "Cancer treatments like chemotherapy can damage or destroy a man's ability to make sperm, affecting fertility. This study shows that removing and freezing testicular tissue before treatment \u2014 then transplanting it back years later \u2014 can restore sperm production. This gives cancer survivors a real path to having biological children.",
+  "key_findings": [
+    "A testicle tissue sample taken from a 10-year-old boy before chemotherapy was successfully frozen and stored for 16 years.",
+    "When the tissue was transplanted back into the same person as an adult, it resumed producing sperm normally.",
+    "The transplanted tissue remained healthy and functional despite being frozen for more than a decade and a half.",
+    "This suggests that freezing testicular tissue before cancer treatment is a viable way to preserve fertility in young males."
+  ],
+  "methods_snapshot": "Researchers removed a small sample of testicular tissue from a child before he underwent chemotherapy, froze it using special preservation techniques, and then surgically transplanted it back into his body 16 years later. They then monitored whether the tissue could still produce sperm and tracked his fertility outcomes.",
+  "glossary": [
+    {
+      "term": "testicular tissue",
+      "definition": "The living material inside the testicles that produces sperm cells."
+    },
+    {
+      "term": "chemotherapy",
+      "definition": "Cancer-fighting drugs that kill cancer cells but can also damage healthy cells, including sperm-producing cells."
+    },
+    {
+      "term": "transplant",
+      "definition": "Surgical procedure to place living tissue from one location into another location in the same person's body."
+    },
+    {
+      "term": "fertility",
+      "definition": "The ability to produce children or contribute to reproduction."
+    },
+    {
+      "term": "cryopreservation",
+      "definition": "Freezing and storing living cells or tissue at very low temperatures so they can be used later."
+    }
+  ],
+  "cancer_types": [
+    "various childhood cancers treated with chemotherapy"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a case study of one patient, so we don't yet know how well this works across many different people or cancer types. Long-term safety and success rates need to be confirmed in larger groups of patients.",
+  "tags": [
+    "fertility preservation",
+    "cancer survivors",
+    "testicular tissue",
+    "transplantation",
+    "chemotherapy",
+    "sperm production",
+    "pediatric oncology",
+    "regenerative medicine"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

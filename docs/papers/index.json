@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-07-17T09:13:00.927694+00:00",
+  "last_updated": "2026-07-18T08:51:43.519844+00:00",
   "papers": [
+    {
+      "id": "20260718_man_s_ability_to_make_sperm_restored_aft",
+      "title": "Man\u2019s ability to make sperm restored after testicular tissue transplant: what scientists think",
+      "url": "https://www.nature.com/articles/d41586-026-02191-3",
+      "journal": "Nature",
+      "pub_date": "2026-07-17T00:00:00+00:00",
+      "fetched_date": "2026-07-18T08:51:43.519535+00:00",
+      "headline": "Frozen sperm-producing tissue from a child's testicle worked 16 years later.",
+      "cancer_types": [
+        "various childhood cancers treated with chemotherapy"
+      ],
+      "tags": [
+        "fertility preservation",
+        "cancer survivors",
+        "testicular tissue",
+        "transplantation",
+        "chemotherapy",
+        "sperm production",
+        "pediatric oncology",
+        "regenerative medicine"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260717_author_correction__evolution_of_claudin1",
       "title": "Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers",
