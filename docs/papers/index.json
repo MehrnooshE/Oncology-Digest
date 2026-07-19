@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-07-18T08:51:43.519844+00:00",
+  "last_updated": "2026-07-19T09:08:03.792046+00:00",
   "papers": [
+    {
+      "id": "20260719_crispr_gets_a_power_boost_from_ai_design",
+      "title": "CRISPR gets a power boost from AI-designed \u2018molecular scissors\u2019",
+      "url": "https://www.nature.com/articles/d41586-026-02217-w",
+      "journal": "Nature",
+      "pub_date": "2026-07-16T00:00:00+00:00",
+      "fetched_date": "2026-07-19T09:08:03.791757+00:00",
+      "headline": "AI designs new CRISPR tools that work better than nature's originals",
+      "cancer_types": [],
+      "tags": [
+        "CRISPR",
+        "gene editing",
+        "AI design",
+        "synthetic biology",
+        "precision medicine",
+        "molecular engineering",
+        "breakthrough"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "AI algorithms analyzed the structure of natural CRISPR enzymes and learned the patterns that make them work, then designed completely new versions that maintain or improve those functions."
+    },
     {
       "id": "20260718_man_s_ability_to_make_sperm_restored_aft",
       "title": "Man\u2019s ability to make sperm restored after testicular tissue transplant: what scientists think",

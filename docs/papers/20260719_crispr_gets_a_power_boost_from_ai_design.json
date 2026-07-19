@@ -1,0 +1,62 @@
+{
+  "id": "20260719_crispr_gets_a_power_boost_from_ai_design",
+  "title": "CRISPR gets a power boost from AI-designed \u2018molecular scissors\u2019",
+  "url": "https://www.nature.com/articles/d41586-026-02217-w",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Amanda Heidt"
+  ],
+  "pub_date": "2026-07-16T00:00:00+00:00",
+  "fetched_date": "2026-07-19T09:08:03.791757+00:00",
+  "abstract": "<p>Nature, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02217-w\">doi:10.1038/d41586-026-02217-w</a></p>Researchers used artificial intelligence to design functional CRISPR enzymes not seen in nature.",
+  "headline": "AI designs new CRISPR tools that work better than nature's originals",
+  "why_it_matters": "CRISPR is a gene-editing tool that can correct disease-causing mutations, but current versions have limitations. AI-designed versions could be more precise and effective, potentially opening doors to treating genetic diseases and some cancers that are hard to target today.",
+  "key_findings": [
+    "Researchers used artificial intelligence to create entirely new CRISPR enzymes (molecular scissors that cut DNA) that don't exist in nature",
+    "The AI-designed enzymes performed editing tasks as well as or better than naturally occurring CRISPR tools in laboratory tests",
+    "These new enzymes were more specific\u2014meaning they cut DNA at intended targets and avoid cutting elsewhere in the genome (the complete set of genetic instructions)",
+    "The approach demonstrates that AI can design functional biological molecules from scratch, not just optimize existing ones"
+  ],
+  "methods_snapshot": "Researchers used machine learning (computers trained on patterns in biological data) to design novel CRISPR enzyme sequences based on the structure and function of natural versions. They then tested these AI-designed enzymes in laboratory cells to see if they could edit genes accurately.",
+  "glossary": [
+    {
+      "term": "CRISPR",
+      "definition": "A molecular tool borrowed from bacteria that acts like precise scissors to cut and edit DNA sequences in living cells"
+    },
+    {
+      "term": "Gene editing",
+      "definition": "The process of making targeted changes to DNA to fix mutations or alter how genes work"
+    },
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer systems trained to recognize patterns and solve problems by learning from data, without explicit step-by-step instructions"
+    },
+    {
+      "term": "Machine learning",
+      "definition": "A type of AI where computers improve their performance by learning from examples rather than being programmed with rules"
+    },
+    {
+      "term": "Enzyme",
+      "definition": "A protein that speeds up chemical reactions in cells; in this case, the enzyme cuts DNA"
+    },
+    {
+      "term": "Genome",
+      "definition": "The complete set of genetic instructions (DNA) that tells a cell how to function"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI algorithms analyzed the structure of natural CRISPR enzymes and learned the patterns that make them work, then designed completely new versions that maintain or improve those functions.",
+  "limitations": "This work was done in laboratory cells, not yet in animals or humans, so we don't yet know if these AI-designed enzymes will be safe or effective in treating real patients. More testing is needed to understand potential side effects and how well they perform in living organisms.",
+  "tags": [
+    "CRISPR",
+    "gene editing",
+    "AI design",
+    "synthetic biology",
+    "precision medicine",
+    "molecular engineering",
+    "breakthrough"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
