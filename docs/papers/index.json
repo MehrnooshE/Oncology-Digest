@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-19T09:08:03.792046+00:00",
+  "last_updated": "2026-07-20T10:16:37.092229+00:00",
   "papers": [
+    {
+      "id": "20260720_structural_basis_of_plpp3_mediated_lipid",
+      "title": "Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma",
+      "url": "https://www.nature.com/articles/s41467-026-75824-w",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-20T00:00:00+00:00",
+      "fetched_date": "2026-07-20T10:16:37.091950+00:00",
+      "headline": "Scientists map how a cellular cleanup enzyme works and its connection to skin cancer.",
+      "cancer_types": [
+        "melanoma"
+      ],
+      "tags": [
+        "melanoma",
+        "lipid metabolism",
+        "protein structure",
+        "cryo-EM",
+        "drug target",
+        "cell signaling",
+        "structural biology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260719_crispr_gets_a_power_boost_from_ai_design",
       "title": "CRISPR gets a power boost from AI-designed \u2018molecular scissors\u2019",

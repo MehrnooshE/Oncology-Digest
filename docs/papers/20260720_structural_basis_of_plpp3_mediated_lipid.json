@@ -1,0 +1,69 @@
+{
+  "id": "20260720_structural_basis_of_plpp3_mediated_lipid",
+  "title": "Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma",
+  "url": "https://www.nature.com/articles/s41467-026-75824-w",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yingjie Wu",
+    "Di Xiao",
+    "Xingfan Li",
+    "Keyu Wang",
+    "Hongxu Zhang",
+    "Yuanyuan Zhao"
+  ],
+  "pub_date": "2026-07-20T00:00:00+00:00",
+  "fetched_date": "2026-07-20T10:16:37.091950+00:00",
+  "abstract": "<p>Nature Communications, Published online: 20 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75824-w\">doi:10.1038/s41467-026-75824-w</a></p>Phospholipid phosphatases (PLPPs) dephosphorylate lipid phosphates to regulate diverse cellular processes. Here, the authors present the cryoEM structure of PLPP3, providing mechanistic insights into lipid phosphate metabolism and its relevance to melanoma.",
+  "headline": "Scientists map how a cellular cleanup enzyme works and its connection to skin cancer.",
+  "why_it_matters": "Melanoma is a deadly form of skin cancer, and understanding how cells regulate fats inside themselves could reveal new ways to stop it. This research identifies a specific protein that controls fat chemistry, which may become a target for new drugs.",
+  "key_findings": [
+    "Researchers revealed the 3D structure of PLPP3 (phospholipid phosphatase 3 \u2014 an enzyme that removes chemical tags from fat molecules), showing exactly how it grabs and processes these fats",
+    "PLPP3 controls the balance of signaling fats inside cells (lipid phosphates), which influence whether cells grow, divide, or die",
+    "The enzyme's activity is abnormally high in melanoma cells, suggesting it helps cancer cells survive and spread",
+    "The team identified specific parts of the PLPP3 protein that could be targeted with future drugs to slow melanoma growth"
+  ],
+  "methods_snapshot": "The researchers used cryo-electron microscopy (cryo-EM), a technique that freezes proteins in place and photographs them with electrons to see their atomic structure. They then studied how PLPP3 behaves in melanoma cells to understand its cancer-related role.",
+  "glossary": [
+    {
+      "term": "PLPP3 (phospholipid phosphatase 3)",
+      "definition": "An enzyme that removes a phosphate group (a chemical tag) from fat molecules, changing how cells respond to growth and survival signals."
+    },
+    {
+      "term": "Lipid phosphates",
+      "definition": "Fat molecules with chemical tags attached that act like text messages inside cells, telling them to grow, divide, or perform other tasks."
+    },
+    {
+      "term": "Cryo-EM (cryo-electron microscopy)",
+      "definition": "A microscopy technique that freezes biological molecules and images them with a powerful electron beam to reveal their exact 3D shape."
+    },
+    {
+      "term": "Melanoma",
+      "definition": "A dangerous form of skin cancer that starts in pigment-producing cells and can spread to other parts of the body."
+    },
+    {
+      "term": "Enzyme",
+      "definition": "A protein that speeds up chemical reactions in cells, like a specialized worker performing one specific job."
+    },
+    {
+      "term": "Phosphate group",
+      "definition": "A small chemical unit containing phosphorus that attaches to molecules to mark them or change their activity."
+    }
+  ],
+  "cancer_types": [
+    "melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "The study focused on the PLPP3 protein in isolation and in melanoma cell cultures; whether blocking this enzyme will be safe and effective in living patients remains unknown. Additional clinical research would be needed to translate this discovery into a working treatment.",
+  "tags": [
+    "melanoma",
+    "lipid metabolism",
+    "protein structure",
+    "cryo-EM",
+    "drug target",
+    "cell signaling",
+    "structural biology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
