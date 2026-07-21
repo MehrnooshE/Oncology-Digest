@@ -1,0 +1,81 @@
+{
+  "id": "20260721_englumafusp_alfa_plus_glofitamab_in_b_ce",
+  "title": "Englumafusp alfa plus glofitamab in B\u2009cell non-Hodgkin lymphoma: a phase 1 trial",
+  "url": "https://www.nature.com/articles/s41591-026-04533-0",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Martin Hutchings",
+    "Michael Dickinson",
+    "Giuseppe Gritti",
+    "Carmelo Carlo-Stella",
+    "William Townsend",
+    "Francesc Bosch"
+  ],
+  "pub_date": "2026-07-16T00:00:00+00:00",
+  "fetched_date": "2026-07-21T09:31:23.821650+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/s41591-026-04533-0\">doi:10.1038/s41591-026-04533-0</a></p>Combining the CD19\u20134-1BBL co-stimulatory molecule englumafusp alfa with the bispecific antibody glofitamab in patients with relapsed or refractory aggressive B\u2009cell non-Hodgkin lymphoma showed acceptable safety signals and encouraging preliminary clinical responses, with mechanistic data supporting the rational choice of therapy.",
+  "headline": "Two new cancer-fighting drugs work better together against aggressive lymphoma.",
+  "why_it_matters": "Many patients with aggressive blood cancers stop responding to standard treatments. This study shows a new combination approach can help those difficult cases, potentially offering hope to people for whom other options have failed. The drugs work by recruiting the immune system to attack cancer cells more effectively.",
+  "key_findings": [
+    "The combination of englumafusp alfa (a molecule that activates immune cells) and glofitamab (an antibody that bridges immune cells to cancer cells) was safe enough to use in patients with relapsed or refractory aggressive B cell non-Hodgkin lymphoma (blood cancer that has returned or stopped responding to prior treatment).",
+    "Patients showed encouraging early signs of cancer shrinkage, suggesting the combination actually works against these hard-to-treat cancers.",
+    "The study included mechanistic data (experiments showing *why* and *how* the drugs work together), supporting the scientific logic behind choosing these two drugs as partners.",
+    "The safety profile was acceptable, meaning side effects were tolerable and predictable enough to pursue further testing."
+  ],
+  "methods_snapshot": "This was a phase 1 clinical trial, meaning researchers gave the drug combination to patients with advanced, treatment-resistant blood cancer and carefully monitored safety and early effectiveness. They studied patients in whom standard treatments had failed, making this a high-risk but potentially high-reward population.",
+  "glossary": [
+    {
+      "term": "B cell non-Hodgkin lymphoma",
+      "definition": "A type of blood cancer arising from immune cells called B cells, characterized by abnormal cell growth in lymph nodes and organs."
+    },
+    {
+      "term": "Relapsed or refractory",
+      "definition": "Cancer that has either returned after initial treatment (relapsed) or stopped responding to prior treatment (refractory)."
+    },
+    {
+      "term": "CD19\u20134-1BBL co-stimulatory molecule",
+      "definition": "A engineered protein that activates immune cells by sending them a 'go' signal, like pressing the accelerator on the immune response."
+    },
+    {
+      "term": "Bispecific antibody",
+      "definition": "A engineered protein with two different binding sites that acts like a bridge, connecting immune cells to cancer cells so the immune cells can attack."
+    },
+    {
+      "term": "Englumafusp alfa",
+      "definition": "An experimental drug that acts as a molecular 'switch' to activate immune cells against cancer."
+    },
+    {
+      "term": "Glofitamab",
+      "definition": "An antibody drug that brings immune cells and cancer cells together so the immune system can destroy the cancer."
+    },
+    {
+      "term": "Phase 1 trial",
+      "definition": "The earliest stage of human testing for a new drug, focused mainly on safety and finding the right dose."
+    },
+    {
+      "term": "Mechanistic data",
+      "definition": "Scientific evidence explaining *how* and *why* a drug works at the cellular level."
+    }
+  ],
+  "cancer_types": [
+    "B cell non-Hodgkin lymphoma",
+    "Aggressive lymphoma",
+    "Relapsed lymphoma",
+    "Refractory lymphoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This was a phase 1 trial with a small group of patients, so the sample size was limited and designed primarily to test safety rather than prove effectiveness. Larger studies are needed to confirm these promising early results and determine whether this combination truly works better than current standard treatments.",
+  "tags": [
+    "immunotherapy",
+    "lymphoma",
+    "bispecific antibody",
+    "co-stimulation",
+    "clinical trial",
+    "combination therapy",
+    "hematologic cancer",
+    "immune activation"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

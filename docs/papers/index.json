@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-07-20T10:16:37.092229+00:00",
+  "last_updated": "2026-07-21T09:31:23.821956+00:00",
   "papers": [
+    {
+      "id": "20260721_englumafusp_alfa_plus_glofitamab_in_b_ce",
+      "title": "Englumafusp alfa plus glofitamab in B\u2009cell non-Hodgkin lymphoma: a phase 1 trial",
+      "url": "https://www.nature.com/articles/s41591-026-04533-0",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-07-16T00:00:00+00:00",
+      "fetched_date": "2026-07-21T09:31:23.821650+00:00",
+      "headline": "Two new cancer-fighting drugs work better together against aggressive lymphoma.",
+      "cancer_types": [
+        "B cell non-Hodgkin lymphoma",
+        "Aggressive lymphoma",
+        "Relapsed lymphoma",
+        "Refractory lymphoma"
+      ],
+      "tags": [
+        "immunotherapy",
+        "lymphoma",
+        "bispecific antibody",
+        "co-stimulation",
+        "clinical trial",
+        "combination therapy",
+        "hematologic cancer",
+        "immune activation"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260720_structural_basis_of_plpp3_mediated_lipid",
       "title": "Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma",
