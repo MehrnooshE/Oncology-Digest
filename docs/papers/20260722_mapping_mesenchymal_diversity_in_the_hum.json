@@ -1,0 +1,67 @@
+{
+  "id": "20260722_mapping_mesenchymal_diversity_in_the_hum",
+  "title": "Mapping mesenchymal diversity in the human small intestine and organoids",
+  "url": "https://www.nature.com/articles/s41556-026-02027-2",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Kelli F. Johnson",
+    "Xiangning Dong",
+    "Yu-Hwai Tsai",
+    "Angeline Wu",
+    "Sydney G. Clark",
+    "Abigail Vallie"
+  ],
+  "pub_date": "2026-07-22T00:00:00+00:00",
+  "fetched_date": "2026-07-22T09:30:33.856471+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 22 July 2026; <a href=\"https://www.nature.com/articles/s41556-026-02027-2\">doi:10.1038/s41556-026-02027-2</a></p>Johnson et al. combine single-cell and spatial transcriptomics approaches to build a spatially resolved atlas of the developing human intestine and intestinal organoids, uncovering spatial organization and fibroblast heterogeneity.",
+  "headline": "Scientists map the hidden cell diversity in the intestines and lab-grown intestinal models.",
+  "why_it_matters": "The intestine is lined with support cells called fibroblasts (think of them as the 'scaffolding' holding tissue together). Understanding their different types and locations could help explain how intestinal diseases develop and how cancer starts in the gut. This atlas gives researchers a new reference guide for studying intestinal health and disease.",
+  "key_findings": [
+    "Fibroblasts in the small intestine are far more diverse than previously thought \u2014 they come in many specialized subtypes, each with different jobs and locations (like different workers on a building site)",
+    "The researchers created a spatial map showing exactly where different fibroblast types sit within the intestinal tissue, revealing hidden organization patterns",
+    "Lab-grown intestinal organoids (miniature intestines grown in dishes) contain similar fibroblast diversity to real human intestines, making them useful models for future research",
+    "Different fibroblast subtypes occupy specific zones in the intestinal structure, suggesting they have finely tuned roles in maintaining tissue function"
+  ],
+  "methods_snapshot": "The team used single-cell transcriptomics (a technique that reads the active genes in individual cells, like taking a genetic snapshot of what each cell is doing) and spatial transcriptomics (which shows where those cells sit in the tissue). They analyzed tissue from developing human intestines and compared it to organoids grown in the laboratory.",
+  "glossary": [
+    {
+      "term": "fibroblasts",
+      "definition": "Support cells that form the structural framework of tissues, producing proteins like collagen that give tissue its shape and strength"
+    },
+    {
+      "term": "single-cell transcriptomics",
+      "definition": "A laboratory method that analyzes the genes being actively used in individual cells, revealing what each cell is doing"
+    },
+    {
+      "term": "spatial transcriptomics",
+      "definition": "A technique that shows which genes are active in cells while also revealing their exact location within tissue"
+    },
+    {
+      "term": "organoids",
+      "definition": "Miniature 3D structures grown in the laboratory that mimic the structure and function of real organs"
+    },
+    {
+      "term": "mesenchymal cells",
+      "definition": "Supporting cells in tissues that create structure and provide signals to other cell types (fibroblasts are one type)"
+    }
+  ],
+  "cancer_types": [
+    "intestinal cancer (colorectal cancer)",
+    "gastric cancer"
+  ],
+  "ml_angle": "Computational analysis likely helped organize and classify the thousands of individual cell measurements, though the abstract does not explicitly mention machine learning algorithms.",
+  "limitations": "The study maps cells from developing intestines and lab models, not necessarily adult intestines in all conditions. The findings still need to be tested to confirm whether the fibroblast subtypes they found actually cause disease or could be targeted for treatment.",
+  "tags": [
+    "intestinal-biology",
+    "fibroblasts",
+    "single-cell-transcriptomics",
+    "organoids",
+    "tissue-mapping",
+    "cell-diversity",
+    "spatial-transcriptomics",
+    "gut-health"
+  ],
+  "study_type": "single-cell",
+  "impact_score": 4
+}

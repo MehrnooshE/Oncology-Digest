@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-21T09:31:23.821956+00:00",
+  "last_updated": "2026-07-22T09:30:33.856825+00:00",
   "papers": [
+    {
+      "id": "20260722_mapping_mesenchymal_diversity_in_the_hum",
+      "title": "Mapping mesenchymal diversity in the human small intestine and organoids",
+      "url": "https://www.nature.com/articles/s41556-026-02027-2",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-07-22T00:00:00+00:00",
+      "fetched_date": "2026-07-22T09:30:33.856471+00:00",
+      "headline": "Scientists map the hidden cell diversity in the intestines and lab-grown intestinal models.",
+      "cancer_types": [
+        "intestinal cancer (colorectal cancer)",
+        "gastric cancer"
+      ],
+      "tags": [
+        "intestinal-biology",
+        "fibroblasts",
+        "single-cell-transcriptomics",
+        "organoids",
+        "tissue-mapping",
+        "cell-diversity",
+        "spatial-transcriptomics",
+        "gut-health"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": "Computational analysis likely helped organize and classify the thousands of individual cell measurements, though the abstract does not explicitly mention machine learning algorithms."
+    },
     {
       "id": "20260721_englumafusp_alfa_plus_glofitamab_in_b_ce",
       "title": "Englumafusp alfa plus glofitamab in B\u2009cell non-Hodgkin lymphoma: a phase 1 trial",
