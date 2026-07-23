@@ -1,0 +1,77 @@
+{
+  "id": "20260723_spatial_transcriptomics_reveals_distinct",
+  "title": "Spatial transcriptomics reveals distinct cell type dynamics following opioid dependence in female mice with the common human \u03bc-opioid receptor variant <i>Oprm1</i> A118G",
+  "url": "https://www.nature.com/articles/s41467-026-75723-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yihan Xie",
+    "Anna K. Leonard",
+    "Omar Guessoum",
+    "Kyle A. Windisch",
+    "Johnathan Schug",
+    "Hilana El-Mekkoussi"
+  ],
+  "pub_date": "2026-07-23T00:00:00+00:00",
+  "fetched_date": "2026-07-23T09:27:52.691359+00:00",
+  "abstract": "<p>Nature Communications, Published online: 23 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75723-0\">doi:10.1038/s41467-026-75723-0</a></p>Gene expression mapping in mice reveals how genetic risk for opioid dependence shapes transcriptional architecture of the brain. Here authors show that the Oprm1 risk allele (G) links to glial changes, while the protective allele (A) promotes neuronal plasticity.",
+  "headline": "A genetic variant linked to opioid addiction works by changing brain immune cells, not just neurons.",
+  "why_it_matters": "Opioid addiction is a major public health crisis, and most people carry genetic factors that make them more or less vulnerable. This study shows that addiction risk works differently than scientists thought \u2014 by affecting the brain's immune system rather than just nerve cells. This could lead to new treatments targeting these immune changes instead of just the opioid receptors themselves.",
+  "key_findings": [
+    "A common human genetic variant in the OPRM1 gene (called A118G, which codes for the opioid receptor protein) \u2014 the versions people inherit that affect addiction risk \u2014 changes how brain cells respond to opioids in females.",
+    "The 'risk' version (the G allele) triggers changes in glial cells (the brain's immune and support cells, like janitors and first responders) rather than directly affecting neurons (the brain's main signaling cells).",
+    "The 'protective' version (the A allele) promotes neuronal plasticity (the brain's ability to rewire itself and form new connections), which may buffer against addiction.",
+    "Spatial transcriptomics (a technique that maps which genes are active in different brain regions and cell types) revealed these cell-type-specific patterns \u2014 showing exactly where and in which cells the genetic risk operates.",
+    "The study was done in female mice carrying this human variant, revealing sex-specific biology that might explain why women and men have different addiction vulnerability patterns."
+  ],
+  "methods_snapshot": "Researchers used female mice that carry the same genetic variant found in humans, then exposed them to opioids and tracked which genes turned on and off in different brain regions and cell types. They used spatial transcriptomics \u2014 a cutting-edge technique that works like a detailed map showing which genes are active in each location and cell type of the brain \u2014 to pinpoint exactly where the genetic risk operates.",
+  "glossary": [
+    {
+      "term": "OPRM1 gene",
+      "definition": "The instruction manual in our DNA that tells cells how to build the opioid receptor, the protein that opioid drugs lock onto in the brain."
+    },
+    {
+      "term": "Allele",
+      "definition": "A version of a gene \u2014 like how the same song can have different versions (remix, acoustic, etc.)."
+    },
+    {
+      "term": "Glial cells",
+      "definition": "Support and immune cells in the brain that act like janitors, security guards, and nurses for neurons."
+    },
+    {
+      "term": "Neurons",
+      "definition": "Brain cells that send signals and process information \u2014 the main communication cells of the brain."
+    },
+    {
+      "term": "Neuronal plasticity",
+      "definition": "The brain's ability to rewire itself, form new connections, and adapt to changes \u2014 like learning new skills."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "Which genes are turned 'on' (active, making protein) or 'off' (silent) in a cell at a given time."
+    },
+    {
+      "term": "Spatial transcriptomics",
+      "definition": "A technology that maps which genes are active across different regions and cell types in tissue, like GPS coordinates for gene activity."
+    },
+    {
+      "term": "Transcriptional architecture",
+      "definition": "The overall pattern of which genes are active or inactive \u2014 the cell's organizational blueprint."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study was conducted in mice, not humans, so results must be verified in human brain tissue or clinical studies. The work focused on female mice, so similar patterns in males and across diverse human populations remain to be tested.",
+  "tags": [
+    "opioid-addiction",
+    "genetics",
+    "OPRM1",
+    "spatial-transcriptomics",
+    "glial-cells",
+    "sex-differences",
+    "neurogenomics",
+    "precision-medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

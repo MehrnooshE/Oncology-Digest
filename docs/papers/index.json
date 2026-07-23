@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-22T09:30:33.856825+00:00",
+  "last_updated": "2026-07-23T09:27:52.691625+00:00",
   "papers": [
+    {
+      "id": "20260723_spatial_transcriptomics_reveals_distinct",
+      "title": "Spatial transcriptomics reveals distinct cell type dynamics following opioid dependence in female mice with the common human \u03bc-opioid receptor variant <i>Oprm1</i> A118G",
+      "url": "https://www.nature.com/articles/s41467-026-75723-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-23T00:00:00+00:00",
+      "fetched_date": "2026-07-23T09:27:52.691359+00:00",
+      "headline": "A genetic variant linked to opioid addiction works by changing brain immune cells, not just neurons.",
+      "cancer_types": [],
+      "tags": [
+        "opioid-addiction",
+        "genetics",
+        "OPRM1",
+        "spatial-transcriptomics",
+        "glial-cells",
+        "sex-differences",
+        "neurogenomics",
+        "precision-medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260722_mapping_mesenchymal_diversity_in_the_hum",
       "title": "Mapping mesenchymal diversity in the human small intestine and organoids",
