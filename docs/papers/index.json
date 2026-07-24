@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-07-23T09:27:52.691625+00:00",
+  "last_updated": "2026-07-24T09:24:33.142555+00:00",
   "papers": [
+    {
+      "id": "20260724_a_benchmark_study_of_vision_and_patholog",
+      "title": "A benchmark study of vision and pathology foundation models for computational pathology",
+      "url": "https://www.nature.com/articles/s41467-026-76004-6",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-24T00:00:00+00:00",
+      "fetched_date": "2026-07-24T09:24:33.142245+00:00",
+      "headline": "AI tools for cancer diagnosis work differently depending on the task\u2014combining multiple tools works best.",
+      "cancer_types": [
+        "breast cancer",
+        "lung cancer",
+        "prostate cancer",
+        "colorectal cancer",
+        "melanoma",
+        "other solid tumors"
+      ],
+      "tags": [
+        "AI validation",
+        "pathology",
+        "foundation models",
+        "generalization",
+        "cancer diagnosis",
+        "ensemble learning",
+        "benchmark study",
+        "computational pathology"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Artificial intelligence models learned to recognize cancer patterns in tissue images, but the study showed that different AI models excel at different tasks, and combining multiple models produces more reliable diagnoses than trusting any single AI."
+    },
     {
       "id": "20260723_spatial_transcriptomics_reveals_distinct",
       "title": "Spatial transcriptomics reveals distinct cell type dynamics following opioid dependence in female mice with the common human \u03bc-opioid receptor variant <i>Oprm1</i> A118G",
@@ -2139,31 +2169,6 @@
       "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20250425_multimodal_ai_predicts_immunotherapy_response",
-      "title": "Multimodal AI integrating pathology, genomics, and clinical data predicts immunotherapy response in non-small cell lung cancer",
-      "url": "https://www.nature.com/articles/example",
-      "journal": "Nature Medicine",
-      "pub_date": "2025-04-25T00:00:00+00:00",
-      "fetched_date": "2025-04-26T07:02:11+00:00",
-      "headline": "A multimodal AI model predicts immunotherapy response in lung cancer with 82% accuracy, outperforming PD-L1 expression alone.",
-      "cancer_types": [
-        "non-small cell lung cancer",
-        "NSCLC"
-      ],
-      "tags": [
-        "immunotherapy",
-        "checkpoint inhibitor",
-        "deep learning",
-        "digital pathology",
-        "lung cancer",
-        "biomarker",
-        "multimodal AI"
-      ],
-      "study_type": "computational",
-      "impact_score": 5,
-      "ml_angle": "Transformer-based multimodal fusion model integrating digital pathology (ViT encoder), transcriptomics, and clinical tabular data via cross-attention."
     }
   ]
 }
