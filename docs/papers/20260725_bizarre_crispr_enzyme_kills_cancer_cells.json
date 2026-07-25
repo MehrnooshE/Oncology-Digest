@@ -1,0 +1,61 @@
+{
+  "id": "20260725_bizarre_crispr_enzyme_kills_cancer_cells",
+  "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+  "url": "https://www.nature.com/articles/d41586-026-02268-z",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Heidi Ledford"
+  ],
+  "pub_date": "2026-07-24T00:00:00+00:00",
+  "fetched_date": "2026-07-25T09:03:17.658290+00:00",
+  "abstract": "<p>Nature, Published online: 24 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02268-z\">doi:10.1038/d41586-026-02268-z</a></p>Early tests suggest the protein can be aimed at targets with tumour-causing mutations.",
+  "headline": "New CRISPR tool precisely destroys cancer cells by targeting their mutated DNA.",
+  "why_it_matters": "This approach could offer a new way to kill cancer cells while potentially sparing healthy ones, by targeting the specific genetic mistakes that make cells cancerous. If it works in patients, it might become a powerful new weapon in the cancer-fighting toolkit alongside chemotherapy and immunotherapy. Early results suggest it could work against multiple cancer types.",
+  "key_findings": [
+    "Researchers engineered a CRISPR enzyme (a molecular scissors tool) that can be programmed to find and cut DNA at specific mutated locations inside cancer cells",
+    "The enzyme successfully killed cancer cells in early laboratory tests by deliberately shredding their DNA in a way that normal cells could survive",
+    "The system can be aimed at tumor-causing mutations (permanent changes in cancer cell DNA), making it potentially more precise than current treatments",
+    "The protein showed promise across early testing, suggesting it might work against different types of cancer"
+  ],
+  "methods_snapshot": "Researchers designed a modified CRISPR enzyme and tested whether it could selectively target and destroy DNA in cancer cells grown in the laboratory. They evaluated whether the tool could recognize specific cancer-causing mutations and kill cells carrying those mutations without harming normal cells.",
+  "glossary": [
+    {
+      "term": "CRISPR",
+      "definition": "A molecular tool that acts like genetic scissors, allowing scientists to find and cut DNA at precise locations"
+    },
+    {
+      "term": "Enzyme",
+      "definition": "A protein in cells that speeds up chemical reactions \u2014 in this case, cutting DNA"
+    },
+    {
+      "term": "Mutation",
+      "definition": "A permanent change in a cell's DNA code that can cause the cell to behave abnormally, sometimes leading to cancer"
+    },
+    {
+      "term": "DNA",
+      "definition": "The instruction manual inside every cell that tells it how to grow and function"
+    },
+    {
+      "term": "Tumor-causing mutations",
+      "definition": "Specific genetic mistakes that turn normal cells into cancer cells"
+    }
+  ],
+  "cancer_types": [
+    "Study focused on laboratory models; specific human cancer types to be determined in future trials"
+  ],
+  "ml_angle": null,
+  "limitations": "These are very early results from laboratory experiments, not yet tested in human patients. The challenge ahead is confirming the tool works safely and effectively in real tumors, where cancer cells are protected by surrounding tissue and the immune system that isn't present in a dish.",
+  "tags": [
+    "CRISPR",
+    "gene-editing",
+    "precision-medicine",
+    "cancer-treatment",
+    "DNA-targeting",
+    "molecular-tool",
+    "immunotherapy-adjacent",
+    "early-stage-research"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

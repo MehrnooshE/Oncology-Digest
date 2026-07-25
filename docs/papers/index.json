@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-07-24T09:24:33.142555+00:00",
+  "last_updated": "2026-07-25T09:03:17.658555+00:00",
   "papers": [
+    {
+      "id": "20260725_bizarre_crispr_enzyme_kills_cancer_cells",
+      "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+      "url": "https://www.nature.com/articles/d41586-026-02268-z",
+      "journal": "Nature",
+      "pub_date": "2026-07-24T00:00:00+00:00",
+      "fetched_date": "2026-07-25T09:03:17.658290+00:00",
+      "headline": "New CRISPR tool precisely destroys cancer cells by targeting their mutated DNA.",
+      "cancer_types": [
+        "Study focused on laboratory models; specific human cancer types to be determined in future trials"
+      ],
+      "tags": [
+        "CRISPR",
+        "gene-editing",
+        "precision-medicine",
+        "cancer-treatment",
+        "DNA-targeting",
+        "molecular-tool",
+        "immunotherapy-adjacent",
+        "early-stage-research"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260724_a_benchmark_study_of_vision_and_patholog",
       "title": "A benchmark study of vision and pathology foundation models for computational pathology",
@@ -2142,33 +2167,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "Decision-aware machine learning framework integrating practical constraints and allocation decisions to optimize essential medicine distribution in healthcare systems."
-    },
-    {
-      "id": "20260429_safety_and_efficacy_of_intratumoural_ant",
-      "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1",
-      "url": "https://www.nature.com/articles/s41586-026-10341-w",
-      "journal": "Nature",
-      "pub_date": "2026-04-29T00:00:00+00:00",
-      "fetched_date": "2026-04-29T18:22:52.737464+00:00",
-      "headline": "Intratumoural ipilimumab with IV nivolumab improves safety and efficacy in combined immunotherapy.",
-      "cancer_types": [
-        "metastatic melanoma",
-        "metastatic non-small-cell lung cancer",
-        "other solid tumours"
-      ],
-      "tags": [
-        "immunotherapy",
-        "checkpoint inhibitors",
-        "intratumoural delivery",
-        "anti-CTLA4",
-        "anti-PD1",
-        "combination therapy",
-        "safety",
-        "clinical trial"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
