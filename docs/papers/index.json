@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-07-25T09:03:17.658555+00:00",
+  "last_updated": "2026-07-26T09:18:52.318199+00:00",
   "papers": [
+    {
+      "id": "20260726__i_dicer1__i__related_tumour_predisposit",
+      "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
+      "url": "https://www.nature.com/articles/s41467-026-76094-2",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-25T00:00:00+00:00",
+      "fetched_date": "2026-07-26T09:18:52.317939+00:00",
+      "headline": "Cancer mutations in DICER1 protein accidentally boost dangerous viral elements in cells.",
+      "cancer_types": [
+        "Wilms tumour (kidney cancer in children)",
+        "Pleuropulmonary blastoma (lung cancer in children)",
+        "Ovarian cancer",
+        "Breast cancer",
+        "Other solid tumours in DICER1 syndrome"
+      ],
+      "tags": [
+        "DICER1",
+        "microRNA",
+        "tumour predisposition",
+        "endogenous retrovirus",
+        "cancer mechanism",
+        "genetic mutation",
+        "childhood cancer",
+        "precision medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260725_bizarre_crispr_enzyme_kills_cancer_cells",
       "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
@@ -2144,29 +2173,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260429_improving_access_to_essential_medicines_",
-      "title": "Improving access to essential medicines via decision-aware machine learning",
-      "url": "https://www.nature.com/articles/s41586-026-10433-7",
-      "journal": "Nature",
-      "pub_date": "2026-04-29T00:00:00+00:00",
-      "fetched_date": "2026-04-29T18:25:20.045393+00:00",
-      "headline": "Decision-aware machine learning improves essential medicine allocation in resource-limited settings.",
-      "cancer_types": [],
-      "tags": [
-        "machine learning",
-        "healthcare access",
-        "medicine allocation",
-        "global health",
-        "resource optimization",
-        "Sierra Leone",
-        "decision support",
-        "equity"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "Decision-aware machine learning framework integrating practical constraints and allocation decisions to optimize essential medicine distribution in healthcare systems."
     }
   ]
 }

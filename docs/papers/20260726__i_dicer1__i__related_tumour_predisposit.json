@@ -1,0 +1,74 @@
+{
+  "id": "20260726__i_dicer1__i__related_tumour_predisposit",
+  "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
+  "url": "https://www.nature.com/articles/s41467-026-76094-2",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Katrina Gordon",
+    "Nicolas Bellora",
+    "Jeroen Witteveldt",
+    "Joanna K. Wojtus",
+    "Felix Mueller",
+    "Katharina J. Kases"
+  ],
+  "pub_date": "2026-07-25T00:00:00+00:00",
+  "fetched_date": "2026-07-26T09:18:52.317939+00:00",
+  "abstract": "<p>Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76094-2\">doi:10.1038/s41467-026-76094-2</a></p>DICER1 is often mutated in cancer, including in DICER1-related tumour predisposition. Here, the authors show that cancer-associated DICER1 mutations shift microRNA processing and reactivate HERVH endogenous retroviruses.",
+  "headline": "Cancer mutations in DICER1 protein accidentally boost dangerous viral elements in cells.",
+  "why_it_matters": "DICER1 mutations run in some families and cause cancer predisposition \u2014 meaning family members have higher lifetime cancer risk. This discovery reveals exactly how these mutations drive cancer, which could help doctors predict who's at highest risk and develop better treatments. Understanding this mechanism opens doors to new drugs that could stop these cancers before they start.",
+  "key_findings": [
+    "DICER1 mutations don't simply break the protein \u2014 instead, they change how it works, shifting which genetic instructions (microRNAs) it processes. Think of it like a mail sorter that suddenly starts delivering some letters to the wrong houses.",
+    "These mutations cause the cell to reactivate HERVH \u2014 ancient viral DNA that's dormant in healthy cells, like a sleeping virus in your genes. When HERVH wakes up, it produces proteins that can fuel cancer growth.",
+    "The shift in microRNA processing specifically boosts microRNAs on chromosome 3p (a region called 3p-miRNA), which may help cancer cells survive and multiply.",
+    "This finding explains why people with inherited DICER1 mutations are vulnerable to multiple cancer types, not just one \u2014 because HERVH and altered microRNAs affect many cell types throughout the body."
+  ],
+  "methods_snapshot": "Researchers studied cells and tissues from cancer patients with DICER1 mutations, comparing how normal and mutated DICER1 proteins process microRNAs differently. They used genetic sequencing and laboratory cell cultures to trace exactly which viral elements turn on and which microRNAs accumulate when DICER1 is mutated.",
+  "glossary": [
+    {
+      "term": "DICER1",
+      "definition": "A protein that acts like molecular scissors, cutting long strands of genetic instructions (RNA) into smaller, functional pieces called microRNAs."
+    },
+    {
+      "term": "microRNA (miRNA)",
+      "definition": "A tiny piece of genetic code that fine-tunes how other genes are expressed \u2014 essentially a dimmer switch for gene activity."
+    },
+    {
+      "term": "HERVH",
+      "definition": "Ancient viral DNA sequences buried in human DNA, leftover from viruses that infected our ancestors millions of years ago and now sit dormant in most cells."
+    },
+    {
+      "term": "Endogenous retrovirus",
+      "definition": "Viral DNA permanently integrated into our genome (part of our inherited DNA code) that normally stays silenced."
+    },
+    {
+      "term": "Tumour predisposition",
+      "definition": "An inherited condition where people have a significantly higher genetic risk of developing cancer in their lifetime."
+    },
+    {
+      "term": "3p-miRNA",
+      "definition": "A group of microRNAs located on chromosome 3 (one of our 23 pairs of chromosomes), in the region labeled 'p'."
+    }
+  ],
+  "cancer_types": [
+    "Wilms tumour (kidney cancer in children)",
+    "Pleuropulmonary blastoma (lung cancer in children)",
+    "Ovarian cancer",
+    "Breast cancer",
+    "Other solid tumours in DICER1 syndrome"
+  ],
+  "ml_angle": null,
+  "limitations": "This work focuses on the mechanism in cells and lab models \u2014 it's not yet clear how quickly these findings will translate into new treatments for patients. Additionally, DICER1-related tumour predisposition is relatively rare, so the findings may apply to a smaller patient population than common cancers, though the underlying science could inform broader cancer research.",
+  "tags": [
+    "DICER1",
+    "microRNA",
+    "tumour predisposition",
+    "endogenous retrovirus",
+    "cancer mechanism",
+    "genetic mutation",
+    "childhood cancer",
+    "precision medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
