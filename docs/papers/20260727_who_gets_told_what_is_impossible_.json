@@ -1,0 +1,55 @@
+{
+  "id": "20260727_who_gets_told_what_is_impossible_",
+  "title": "Who gets told what is impossible?",
+  "url": "https://www.nature.com/articles/s41568-026-00961-9",
+  "journal": "Nature Reviews Cancer",
+  "journal_group": "Nature",
+  "authors": [
+    "Johanna A. Joyce"
+  ],
+  "pub_date": "2026-07-27T00:00:00+00:00",
+  "fetched_date": "2026-07-27T10:47:53.296410+00:00",
+  "abstract": "<p>Nature Reviews Cancer, Published online: 27 July 2026; <a href=\"https://www.nature.com/articles/s41568-026-00961-9\">doi:10.1038/s41568-026-00961-9</a></p>Twenty-five years after the launch of Nature Reviews Cancer, the experiences of women in cancer research have changed in important ways, with gains in visibility, representation and recognition. In this World View, Joyce reflects on the progress achieved and the persistent structural barriers that continue to impede equity.",
+  "headline": "Women in cancer research have made progress but still face hidden barriers to advancement.",
+  "why_it_matters": "Cancer research drives the treatments that save lives. When women are excluded or underrepresented in leadership roles, we may lose valuable perspectives and talent that could accelerate discoveries. Understanding these barriers is the first step to creating a fairer scientific system where the best ideas win, regardless of gender.",
+  "key_findings": [
+    "Women's visibility, representation, and recognition in cancer research have improved over the past 25 years since Nature Reviews Cancer was founded",
+    "Despite gains, structural barriers (systemic obstacles built into institutions, like unequal hiring practices or mentoring gaps) continue to hold women back",
+    "Progress has been uneven\u2014some areas have advanced more than others, suggesting change isn't automatic or uniform across the field",
+    "Institutional and cultural practices, rather than individual ability, are the main obstacles preventing full equity in cancer research"
+  ],
+  "methods_snapshot": "This is a reflective essay by a leading cancer researcher examining trends and experiences over 25 years of published research and career observations in the field. Rather than a traditional experiment, the author synthesizes documented progress and analyzes remaining systemic challenges in how the cancer research community operates.",
+  "glossary": [
+    {
+      "term": "Structural barriers",
+      "definition": "Built-in rules or systems within organizations that disadvantage certain groups, even if unintentional"
+    },
+    {
+      "term": "Equity in science",
+      "definition": "Fair treatment and equal opportunity for all scientists to contribute, be recognized, and advance their careers"
+    },
+    {
+      "term": "Representation",
+      "definition": "How many women hold positions like leadership roles, authorship on papers, or speaking opportunities in the field"
+    },
+    {
+      "term": "Nature Reviews Cancer",
+      "definition": "A prestigious scientific journal that publishes expert articles summarizing research in cancer biology and medicine"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a perspective piece reflecting on trends rather than a data-driven analysis, so it captures one expert's observations rather than comprehensive statistics across all institutions. Some barriers may be invisible or difficult to quantify, making the full scope of the problem hard to measure.",
+  "tags": [
+    "women in science",
+    "equity",
+    "cancer research",
+    "structural barriers",
+    "gender",
+    "representation",
+    "career advancement",
+    "systemic change"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-26T09:18:52.318199+00:00",
+  "last_updated": "2026-07-27T10:47:53.296734+00:00",
   "papers": [
+    {
+      "id": "20260727_who_gets_told_what_is_impossible_",
+      "title": "Who gets told what is impossible?",
+      "url": "https://www.nature.com/articles/s41568-026-00961-9",
+      "journal": "Nature Reviews Cancer",
+      "pub_date": "2026-07-27T00:00:00+00:00",
+      "fetched_date": "2026-07-27T10:47:53.296410+00:00",
+      "headline": "Women in cancer research have made progress but still face hidden barriers to advancement.",
+      "cancer_types": [],
+      "tags": [
+        "women in science",
+        "equity",
+        "cancer research",
+        "structural barriers",
+        "gender",
+        "representation",
+        "career advancement",
+        "systemic change"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260726__i_dicer1__i__related_tumour_predisposit",
       "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
@@ -2148,29 +2171,6 @@
         "cancer biology"
       ],
       "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260429_spatial_atlas_of_diabetic_kidney_disease",
-      "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",
-      "url": "https://www.nature.com/articles/s41586-026-10363-4",
-      "journal": "Nature",
-      "pub_date": "2026-04-29T00:00:00+00:00",
-      "fetched_date": "2026-04-29T18:33:49.734685+00:00",
-      "headline": "Scientists find immune cells that mark patients whose diabetic kidney damage worsens quickly.",
-      "cancer_types": [],
-      "tags": [
-        "diabetic kidney disease",
-        "B cells",
-        "immune cells",
-        "spatial transcriptomics",
-        "biomarker",
-        "disease progression",
-        "personalized medicine",
-        "kidney damage"
-      ],
-      "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": null
     }
