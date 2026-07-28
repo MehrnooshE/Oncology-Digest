@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-07-27T10:47:53.296734+00:00",
+  "last_updated": "2026-07-28T09:38:55.037067+00:00",
   "papers": [
+    {
+      "id": "20260728_data_driven_reduced_modeling_of_neural_d",
+      "title": "Data-driven reduced modeling of neural dynamics",
+      "url": "https://www.nature.com/articles/s41467-026-75924-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-28T00:00:00+00:00",
+      "fetched_date": "2026-07-28T09:38:55.036788+00:00",
+      "headline": "Scientists simplify brain models to reveal how minds make decisions.",
+      "cancer_types": [],
+      "tags": [
+        "neural dynamics",
+        "brain computation",
+        "decision-making",
+        "computational neuroscience",
+        "model reduction",
+        "working memory",
+        "network simplification",
+        "machine learning"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Machine learning (artificial intelligence) was used implicitly through the training of neural networks studied, and the method itself provides a systematic way to distill what those AI systems actually 'learned' about decision-making."
+    },
     {
       "id": "20260727_who_gets_told_what_is_impossible_",
       "title": "Who gets told what is impossible?",
@@ -2148,31 +2171,6 @@
       "study_type": "other",
       "impact_score": 4,
       "ml_angle": "The study used prediction models (likely machine learning algorithms) to combine multiple clinical inputs and test results to more accurately predict which children needed referral than doctors using standard guidelines alone."
-    },
-    {
-      "id": "20260429_evolutionary_characterization_of_lung_ca",
-      "title": "Evolutionary characterization of lung cancer metastasis",
-      "url": "https://www.nature.com/articles/s41586-026-10428-4",
-      "journal": "Nature",
-      "pub_date": "2026-04-29T00:00:00+00:00",
-      "fetched_date": "2026-04-29T18:35:51.740190+00:00",
-      "headline": "Scientists map how lung cancer spreads by sequencing tumors and their distant colonies.",
-      "cancer_types": [
-        "non-small cell lung cancer"
-      ],
-      "tags": [
-        "lung cancer",
-        "metastasis",
-        "cancer evolution",
-        "genetic sequencing",
-        "tumor heterogeneity",
-        "precision oncology",
-        "DNA analysis",
-        "cancer biology"
-      ],
-      "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
