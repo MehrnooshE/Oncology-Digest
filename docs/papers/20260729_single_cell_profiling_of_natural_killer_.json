@@ -1,0 +1,75 @@
+{
+  "id": "20260729_single_cell_profiling_of_natural_killer_",
+  "title": "Single-cell profiling of natural killer/T-cell lymphoma reveals stratified immune features and potential therapeutic implications",
+  "url": "https://www.nature.com/articles/s41467-026-76152-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yi Cao",
+    "Jun Cai",
+    "Danling Dai",
+    "Jinni Wang",
+    "Yuchen Zhang",
+    "Jie Xiong"
+  ],
+  "pub_date": "2026-07-29T00:00:00+00:00",
+  "fetched_date": "2026-07-29T09:40:57.729677+00:00",
+  "abstract": "<p>Nature Communications, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76152-9\">doi:10.1038/s41467-026-76152-9</a></p>Tumor cell heterogeneity and interactions with the immune microenvironment play a key role in natural killer/T-cell lymphoma (NKTCL). Here, the authors characterize 63 NKTCL samples using single-cell, spatial, and bulk multiomics; they identify four gene expression meta-programs that are associated with tumor proliferation and response to therapy.",
+  "headline": "Scientists map the hidden diversity within a rare blood cancer to predict which treatments will work.",
+  "why_it_matters": "Natural killer/T-cell lymphoma (NKTCL) is a rare and aggressive blood cancer that often doesn't respond well to standard treatments. By understanding which cancer cells are present and how they interact with the immune system, doctors may be able to predict who will benefit from which therapies and potentially develop better treatments. This kind of precision medicine could transform how we care for patients with this hard-to-treat cancer.",
+  "key_findings": [
+    "The researchers found that NKTCL tumors contain four distinct 'programs' or patterns of gene activity (the instructions cells use to behave) that control how fast the cancer grows and whether it responds to treatment.",
+    "Different patients' tumors have different combinations of these programs, which explains why the same treatment works for some patients but not others.",
+    "By analyzing individual cancer cells (rather than looking at the tumor as a whole), scientists could see that tumors are mosaics of many different cell types working together, not just one uniform mass.",
+    "The immune cells surrounding the cancer cells (the 'immune microenvironment') vary significantly between patients and influence how the cancer behaves and spreads.",
+    "The research identified new biomarkers \u2014 measurable signatures in cancer cells \u2014 that could help doctors predict treatment response before giving therapy."
+  ],
+  "methods_snapshot": "The team analyzed 63 patient tumor samples using three complementary technologies: single-cell profiling (isolating and examining individual cancer cells), spatial mapping (seeing where different cell types sit within the tumor), and bulk analysis (measuring all the genetic material present). This multi-angle approach is like photographing an object from above, the side, and up close to get a complete picture.",
+  "glossary": [
+    {
+      "term": "Natural killer/T-cell lymphoma (NKTCL)",
+      "definition": "A rare cancer of immune cells called natural killer cells and T cells, which normally help fight infections but become malignant."
+    },
+    {
+      "term": "Single-cell profiling",
+      "definition": "A technology that separates individual cells and measures their genes and proteins to understand how each cell is unique."
+    },
+    {
+      "term": "Gene expression meta-programs",
+      "definition": "Coordinated patterns of activity across multiple genes that cause cancer cells to behave in similar ways."
+    },
+    {
+      "term": "Immune microenvironment",
+      "definition": "The community of immune cells, blood vessels, and proteins surrounding a tumor that influence how it grows."
+    },
+    {
+      "term": "Biomarkers",
+      "definition": "Measurable biological signals \u2014 like specific genes or proteins \u2014 that indicate disease status or predict treatment response."
+    },
+    {
+      "term": "Heterogeneity",
+      "definition": "Variation and diversity; in this case, the fact that cancer cells within a single tumor are not all identical."
+    },
+    {
+      "term": "Spatial multiomics",
+      "definition": "Technologies that measure multiple types of biological information (genes, proteins, etc.) while preserving information about where cells are located in tissue."
+    }
+  ],
+  "cancer_types": [
+    "Natural killer/T-cell lymphoma (NKTCL)"
+  ],
+  "ml_angle": "Machine learning likely identified patterns across thousands of genes in individual cells to group them into the four distinct 'programs' and predict which patients would respond to therapy.",
+  "limitations": "The study analyzed 63 samples, which is relatively small for some analyses; results may not apply equally to all NKTCL subtypes or geographic populations. The gene programs identified are correlations found in this dataset; confirming they directly cause treatment response will require follow-up validation studies in new patient groups.",
+  "tags": [
+    "single-cell",
+    "lymphoma",
+    "immunotherapy",
+    "precision-medicine",
+    "tumor-heterogeneity",
+    "biomarkers",
+    "treatment-resistance",
+    "immune-profiling"
+  ],
+  "study_type": "single-cell",
+  "impact_score": 4
+}

@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-07-28T09:38:55.037067+00:00",
+  "last_updated": "2026-07-29T09:40:57.729997+00:00",
   "papers": [
+    {
+      "id": "20260729_single_cell_profiling_of_natural_killer_",
+      "title": "Single-cell profiling of natural killer/T-cell lymphoma reveals stratified immune features and potential therapeutic implications",
+      "url": "https://www.nature.com/articles/s41467-026-76152-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-07-29T00:00:00+00:00",
+      "fetched_date": "2026-07-29T09:40:57.729677+00:00",
+      "headline": "Scientists map the hidden diversity within a rare blood cancer to predict which treatments will work.",
+      "cancer_types": [
+        "Natural killer/T-cell lymphoma (NKTCL)"
+      ],
+      "tags": [
+        "single-cell",
+        "lymphoma",
+        "immunotherapy",
+        "precision-medicine",
+        "tumor-heterogeneity",
+        "biomarkers",
+        "treatment-resistance",
+        "immune-profiling"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": "Machine learning likely identified patterns across thousands of genes in individual cells to group them into the four distinct 'programs' and predict which patients would respond to therapy."
+    },
     {
       "id": "20260728_data_driven_reduced_modeling_of_neural_d",
       "title": "Data-driven reduced modeling of neural dynamics",
@@ -2148,29 +2173,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "SPARK uses machine learning and natural language processing to act as an autonomous research agent that can read cancer data, generate biological theories, and test them without human intervention at each step."
-    },
-    {
-      "id": "20260429_predicting_referral_need_for_febrile_chi",
-      "title": "Predicting referral need for febrile children in low-resource community settings in South and Southeast Asia",
-      "url": "https://www.nature.com/articles/s41591-026-04338-1",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-04-29T00:00:00+00:00",
-      "fetched_date": "2026-04-29T18:39:58.624669+00:00",
-      "headline": "Simple tests help doctors quickly spot which sick children need urgent hospital care in poor regions.",
-      "cancer_types": [],
-      "tags": [
-        "pediatric",
-        "fever",
-        "referral",
-        "low-resource settings",
-        "predictive model",
-        "diagnostic",
-        "Asia",
-        "public health"
-      ],
-      "study_type": "other",
-      "impact_score": 4,
-      "ml_angle": "The study used prediction models (likely machine learning algorithms) to combine multiple clinical inputs and test results to more accurately predict which children needed referral than doctors using standard guidelines alone."
     }
   ]
 }
