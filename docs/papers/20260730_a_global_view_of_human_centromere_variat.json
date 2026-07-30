@@ -1,0 +1,68 @@
+{
+  "id": "20260730_a_global_view_of_human_centromere_variat",
+  "title": "A global view of human centromere variation and evolution",
+  "url": "https://www.nature.com/articles/s41586-026-10841-9",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Shenghan Gao",
+    "Keisuke K. Oshima",
+    "Shu-Cheng Chuang",
+    "Mark Loftus",
+    "Tamara A. Potapova",
+    "Annalaura Montanari"
+  ],
+  "pub_date": "2026-07-29T00:00:00+00:00",
+  "fetched_date": "2026-07-30T09:33:25.963192+00:00",
+  "abstract": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10841-9\">doi:10.1038/s41586-026-10841-9</a></p>Complete sequencing of more than 2,000 centromeres from diverse humans reveals structures and elevated mutation rates that shape the evolution of these critically important regions.",
+  "headline": "Scientists map how centromeres vary and mutate across human populations worldwide.",
+  "why_it_matters": "Centromeres are structures that hold chromosomes together during cell division\u2014if they break down, cells can malfunction or become cancerous. Understanding how these regions differ between people and evolve over time could help us predict disease risk and develop better treatments. This knowledge might also explain why some populations are more vulnerable to certain genetic diseases.",
+  "key_findings": [
+    "Centromeres (the pinched middle part of chromosomes that holds them together) vary much more between individual humans than previously thought, with distinct patterns across different ancestry groups.",
+    "Centromeres mutate at much higher rates than most other parts of the genome (the complete set of genetic instructions), suggesting they are hotspots for genetic change.",
+    "These structural variations have shaped human evolution and may contribute to differences in disease susceptibility between populations.",
+    "The team identified thousands of previously unknown variants (genetic differences) in centromeres across diverse human populations, filling major gaps in our genetic maps."
+  ],
+  "methods_snapshot": "Researchers sequenced (read the genetic code of) centromeres from over 2,000 people with diverse ancestries, using advanced long-read DNA sequencing technology that can decode repetitive stretches of DNA better than older methods. They then compared these sequences to identify patterns, similarities, and differences across populations.",
+  "glossary": [
+    {
+      "term": "Centromere",
+      "definition": "The pinched middle region of a chromosome where two sister copies connect and attach to machinery that pulls them apart during cell division."
+    },
+    {
+      "term": "Chromosome",
+      "definition": "A package of tightly coiled DNA containing thousands of genes; humans have 46 chromosomes (23 pairs)."
+    },
+    {
+      "term": "Sequencing",
+      "definition": "The process of reading out the order of DNA letters (A, T, G, C) that make up genes and the genome."
+    },
+    {
+      "term": "Variants",
+      "definition": "Genetic differences or spelling changes in DNA that vary between individuals or populations."
+    },
+    {
+      "term": "Genome",
+      "definition": "The complete set of genetic instructions (all DNA) in a cell."
+    },
+    {
+      "term": "Mutation rate",
+      "definition": "How frequently errors or changes occur in DNA over time or generations."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study provides a snapshot of centromere variation but includes only 2,000+ individuals\u2014some ancestry groups may be underrepresented. The functional consequences of many variants (what they actually do) remain unclear and will require follow-up research.",
+  "tags": [
+    "centromere",
+    "genomics",
+    "human-variation",
+    "evolution",
+    "chromosome-biology",
+    "population-genetics",
+    "structural-variants",
+    "sequencing"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
