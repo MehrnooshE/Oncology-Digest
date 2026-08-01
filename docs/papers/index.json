@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-31T09:48:52.652076+00:00",
+  "last_updated": "2026-08-01T09:10:09.512159+00:00",
   "papers": [
+    {
+      "id": "20260801_the_transcription_factor_c_ebp__promotes",
+      "title": "The transcription factor C/EBP\u03b2 promotes hyperglycemia-elicited glycolysis and liver cancer progression",
+      "url": "https://www.nature.com/articles/s41467-026-76209-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-01T00:00:00+00:00",
+      "fetched_date": "2026-08-01T09:10:09.511820+00:00",
+      "headline": "High blood sugar wakes up a cancer-promoting switch in liver cells",
+      "cancer_types": [
+        "Hepatocellular carcinoma (liver cancer)",
+        "HRAS-driven liver tumors"
+      ],
+      "tags": [
+        "diabetes",
+        "liver cancer",
+        "glucose metabolism",
+        "C/EBP\u03b2",
+        "cancer progression",
+        "therapeutic target",
+        "glycolysis",
+        "precision medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260731_deep_learning_prediction_of_left_atrial_",
       "title": "Deep learning prediction of left atrial structure and function from 12-lead electrocardiograms",
@@ -2145,30 +2171,6 @@
         "senescence"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260501_blood_test_hints_at_breast_tumour_respon",
-      "title": "Blood test hints at breast-tumour response to treatment",
-      "url": "https://www.nature.com/articles/d41586-026-01353-7",
-      "journal": "Nature",
-      "pub_date": "2026-04-30T00:00:00+00:00",
-      "fetched_date": "2026-05-01T09:05:16.429476+00:00",
-      "headline": "A blood test can predict which breast cancer patients will benefit from immune therapy.",
-      "cancer_types": [
-        "Hormone receptor\u2013negative breast cancer",
-        "Triple-negative breast cancer"
-      ],
-      "tags": [
-        "breast cancer",
-        "immunotherapy",
-        "biomarker",
-        "blood test",
-        "precision medicine",
-        "treatment prediction"
-      ],
-      "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
     }

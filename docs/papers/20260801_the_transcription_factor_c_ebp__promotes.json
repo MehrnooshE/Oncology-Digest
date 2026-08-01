@@ -1,0 +1,72 @@
+{
+  "id": "20260801_the_transcription_factor_c_ebp__promotes",
+  "title": "The transcription factor C/EBP\u03b2 promotes hyperglycemia-elicited glycolysis and liver cancer progression",
+  "url": "https://www.nature.com/articles/s41467-026-76209-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yifan Luo",
+    "Zhengjiang Qian",
+    "Guandou Yuan",
+    "Shuai Yang",
+    "Wei Gong",
+    "Yangyang Zhai"
+  ],
+  "pub_date": "2026-08-01T00:00:00+00:00",
+  "fetched_date": "2026-08-01T09:10:09.511820+00:00",
+  "abstract": "<p>Nature Communications, Published online: 01 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76209-9\">doi:10.1038/s41467-026-76209-9</a></p>High blood sugar in diabetes is linked to faster cancer growth, but the mechanisms remain unclear. Here, the authors show that the transcription factor C/EBP\u03b2 is activated by high glucose to enhance glycolysis and HRAS-driven proliferation, promoting liver cancer progression and revealing a potential therapeutic target.",
+  "headline": "High blood sugar wakes up a cancer-promoting switch in liver cells",
+  "why_it_matters": "Millions of people with diabetes have high blood sugar, and doctors have long noticed these patients develop liver cancer faster. This research explains *why* \u2014 uncovering a molecular switch that links high glucose directly to cancer growth. If this switch can be blocked with drugs, it might help prevent or slow liver cancer in diabetic patients.",
+  "key_findings": [
+    "High blood sugar activates a protein called C/EBP\u03b2 (a transcription factor \u2014 basically a switch that turns genes on and off) in liver cells",
+    "When C/EBP\u03b2 is switched on, it tells cancer cells to use sugar more aggressively for energy and rapid growth \u2014 a process called glycolysis (the cell's way of converting glucose into fuel and building blocks)",
+    "This hyperactivation (excessive turning-on) of the C/EBP\u03b2 switch specifically accelerates liver cancer driven by mutations in a gene called HRAS",
+    "Blocking or removing C/EBP\u03b2 in mouse models slowed tumor growth, suggesting this protein is essential for linking high blood sugar to cancer progression",
+    "The researchers identified C/EBP\u03b2 as a potential therapeutic target \u2014 meaning doctors might be able to design drugs to block it and slow cancer growth in diabetic patients"
+  ],
+  "methods_snapshot": "The team used cell culture (cancer cells grown in dishes) and mouse models of liver cancer to observe what happens when blood glucose is high. They also used molecular techniques to track which genes were turned on or off, and tested what happened when they artificially blocked C/EBP\u03b2.",
+  "glossary": [
+    {
+      "term": "Transcription factor",
+      "definition": "A protein that acts like a light switch, turning genes on or off by binding to DNA"
+    },
+    {
+      "term": "Glycolysis",
+      "definition": "The cellular process of breaking down glucose (sugar) to create energy and building materials for cell growth"
+    },
+    {
+      "term": "C/EBP\u03b2",
+      "definition": "A specific transcription factor protein that sits at the intersection of blood sugar levels and cancer cell growth"
+    },
+    {
+      "term": "HRAS",
+      "definition": "A gene that, when mutated, can drive cancer cell growth; one of the most common cancer-causing mutations"
+    },
+    {
+      "term": "Hyperglycemia",
+      "definition": "High blood sugar, a hallmark of diabetes"
+    },
+    {
+      "term": "Therapeutic target",
+      "definition": "A protein or pathway that doctors can potentially block with drugs to treat disease"
+    }
+  ],
+  "cancer_types": [
+    "Hepatocellular carcinoma (liver cancer)",
+    "HRAS-driven liver tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This work was done primarily in cells and mice, not humans, so the findings need to be tested in patients before any new drug could be used clinically. Also, it focuses on a specific type of liver cancer driven by HRAS mutations, so the mechanism may not apply to all liver cancers or all diabetic patients.",
+  "tags": [
+    "diabetes",
+    "liver cancer",
+    "glucose metabolism",
+    "C/EBP\u03b2",
+    "cancer progression",
+    "therapeutic target",
+    "glycolysis",
+    "precision medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
