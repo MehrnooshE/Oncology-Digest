@@ -1,0 +1,72 @@
+{
+  "id": "20260802_line_1_insertion_intermediates_recombine",
+  "title": "LINE-1 insertion intermediates recombine with one another or with DNA breaks to form genome rearrangements",
+  "url": "https://www.nature.com/articles/s41467-026-76308-7",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Carlos Mendez-Dorantes",
+    "Jupiter C. Kalinowski",
+    "Aidan Burn",
+    "Phillip Schofield",
+    "Cheuk-Ting Law",
+    "Esin Isik"
+  ],
+  "pub_date": "2026-08-01T00:00:00+00:00",
+  "fetched_date": "2026-08-02T09:12:47.429715+00:00",
+  "abstract": "<p>Nature Communications, Published online: 01 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76308-7\">doi:10.1038/s41467-026-76308-7</a></p>LINE-1 retrotransposition is associated with genome instability in cancers, yet the mechanisms are not fully understood. Here, the authors combine recombination reporter assays with long-read sequencing to show that retrotransposition intermediates can recombine with one another or with DNA breaks to produce chromosomal rearrangements.",
+  "headline": "Jumping DNA segments cause cancer by colliding with each other and DNA damage",
+  "why_it_matters": "Cancer cells often have scrambled genomes, and this study reveals a major culprit: mobile DNA pieces that copy themselves and then crash into each other, creating dangerous rearrangements. Understanding this mechanism could help researchers develop better ways to prevent or treat cancers driven by genome instability.",
+  "key_findings": [
+    "LINE-1 elements (stretches of DNA that can copy and paste themselves throughout the genome) create unstable intermediate structures while jumping around",
+    "These intermediates can collide with each other, causing them to recombine and create large chromosomal rearrangements (large segments of DNA get rearranged or swapped between chromosomes)",
+    "LINE-1 intermediates can also crash into existing DNA breaks in the genome, merging with them to form new, abnormal DNA arrangements",
+    "The research used molecular tools to detect and measure these recombination events and long-read sequencing (a technique that reads longer stretches of DNA) to map exactly how the rearrangements form"
+  ],
+  "methods_snapshot": "Researchers used recombination reporter assays (engineered DNA systems that light up when recombination happens) combined with long-read sequencing to directly observe and trace how LINE-1 intermediates collide and merge. This approach allowed them to see the actual DNA sequences before and after these crashes, revealing the mechanisms behind genome rearrangements.",
+  "glossary": [
+    {
+      "term": "LINE-1",
+      "definition": "A type of selfish DNA sequence that can copy itself and insert new copies elsewhere in the genome, sometimes causing mutations"
+    },
+    {
+      "term": "Retrotransposition",
+      "definition": "The process by which LINE-1 elements copy themselves and jump to new locations in the genome"
+    },
+    {
+      "term": "Genome instability",
+      "definition": "When the DNA in a cell becomes prone to breaking, rearranging, or accumulating damage"
+    },
+    {
+      "term": "Chromosomal rearrangements",
+      "definition": "Large segments of DNA that break and rejoin in abnormal ways, often resulting in deleted, duplicated, or swapped genetic material"
+    },
+    {
+      "term": "Recombination",
+      "definition": "When two separate DNA sequences merge or exchange pieces, creating new genetic combinations"
+    },
+    {
+      "term": "Long-read sequencing",
+      "definition": "A DNA-reading technology that can decode long stretches of genetic code at once, helping scientists trace complex rearrangements"
+    },
+    {
+      "term": "Retrotransposition intermediates",
+      "definition": "Temporary structures that form during the process of LINE-1 jumping, before the copying is complete"
+    }
+  ],
+  "cancer_types": [
+    "Not specified \u2014 likely multiple cancer types with LINE-1 activity"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a preclinical study using engineered systems and cell-based assays, so it remains unclear how frequently these collisions happen in living tumors or how much they contribute to cancer development in patients. The findings suggest a mechanism, but additional work is needed to confirm its importance in human cancers.",
+  "tags": [
+    "genome-instability",
+    "LINE-1-retrotransposons",
+    "chromosomal-rearrangements",
+    "DNA-recombination",
+    "cancer-mechanisms",
+    "genomic-mutations"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-08-01T09:10:09.512159+00:00",
+  "last_updated": "2026-08-02T09:12:47.429973+00:00",
   "papers": [
+    {
+      "id": "20260802_line_1_insertion_intermediates_recombine",
+      "title": "LINE-1 insertion intermediates recombine with one another or with DNA breaks to form genome rearrangements",
+      "url": "https://www.nature.com/articles/s41467-026-76308-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-01T00:00:00+00:00",
+      "fetched_date": "2026-08-02T09:12:47.429715+00:00",
+      "headline": "Jumping DNA segments cause cancer by colliding with each other and DNA damage",
+      "cancer_types": [
+        "Not specified \u2014 likely multiple cancer types with LINE-1 activity"
+      ],
+      "tags": [
+        "genome-instability",
+        "LINE-1-retrotransposons",
+        "chromosomal-rearrangements",
+        "DNA-recombination",
+        "cancer-mechanisms",
+        "genomic-mutations"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260801_the_transcription_factor_c_ebp__promotes",
       "title": "The transcription factor C/EBP\u03b2 promotes hyperglycemia-elicited glycolysis and liver cancer progression",
@@ -2144,31 +2167,6 @@
         "tumor suppression",
         "dosage effect",
         "cell cycle"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260502_activating_p53_sup_y220c__sup__with_a_mu",
-      "title": "Activating p53<sup>Y220C</sup> with a mutant-specific small molecule",
-      "url": "https://www.nature.com/articles/s41467-026-72165-6",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-02T00:00:00+00:00",
-      "fetched_date": "2026-05-02T08:24:04.042257+00:00",
-      "headline": "Scientists created a drug that reawakens a broken tumor-fighting protein in certain cancers.",
-      "cancer_types": [
-        "Cancers with p53 Y220C mutations (specific subset of solid tumors)"
-      ],
-      "tags": [
-        "p53",
-        "tumor suppressor",
-        "drug development",
-        "cancer therapy",
-        "protein reactivation",
-        "precision medicine",
-        "apoptosis",
-        "senescence"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
