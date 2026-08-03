@@ -1,0 +1,65 @@
+{
+  "id": "20260803_evolution_of_botulinum_neurotoxin_seroty",
+  "title": "Evolution of botulinum neurotoxin serotype X proteases to induce inflammatory cell death in cancer cells",
+  "url": "https://www.nature.com/articles/s41587-026-03243-9",
+  "journal": "Nature Biotechnology",
+  "journal_group": "Nature",
+  "authors": [
+    "Julia McCreary",
+    "Colin F. Hemez",
+    "Michael H. Raymond",
+    "Travis R. Blum",
+    "Angel Gonzalez-Valero",
+    "Teresa L. Augustin"
+  ],
+  "pub_date": "2026-08-03T00:00:00+00:00",
+  "fetched_date": "2026-08-03T10:48:21.456200+00:00",
+  "abstract": "<p>Nature Biotechnology, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41587-026-03243-9\">doi:10.1038/s41587-026-03243-9</a></p>Directed evolution of proteases induces targeted, multipathway lytic cell death in cancer cells.",
+  "headline": "Scientists engineer toxic proteins to kill cancer cells by triggering inflammatory cell death.",
+  "why_it_matters": "Current cancer drugs often stop working as tumors evolve defenses against them. This research creates a new weapon that forces cancer cells to die in a way that also alerts the immune system to attack remaining tumor cells. This dual approach could make treatments more effective and harder for cancers to resist.",
+  "key_findings": [
+    "Researchers used directed evolution (a lab technique that mimics natural selection to redesign proteins) to modify botulinum neurotoxin proteases (natural protein-cutting enzymes) to specifically target and destroy cancer cell machinery instead of nerve cells.",
+    "The engineered proteases trigger multiple death pathways simultaneously (like breaking several locks on a door at once), making it harder for cancer cells to evolve resistance to the treatment.",
+    "The modified toxins induce inflammatory cell death (pyroptosis \u2014 a type of cell death that activates immune responses), which signals the body's immune system to recognize and eliminate remaining cancer cells.",
+    "The approach worked across multiple cancer cell types in laboratory tests, suggesting it could have broad therapeutic potential."
+  ],
+  "methods_snapshot": "The team used directed evolution \u2014 a process where they created thousands of variants of botulinum toxin proteins, selected the ones that worked best against cancer cells in lab dishes, and repeated this cycle to progressively improve the proteins. They then tested these engineered proteins on various human cancer cells to measure how effectively they triggered cell death.",
+  "glossary": [
+    {
+      "term": "Protease",
+      "definition": "An enzyme that cuts apart other proteins, like molecular scissors."
+    },
+    {
+      "term": "Directed evolution",
+      "definition": "A laboratory technique that rapidly creates many variants of a protein and selects the best ones, mimicking how evolution works in nature but much faster."
+    },
+    {
+      "term": "Botulinum neurotoxin",
+      "definition": "A naturally occurring toxin produced by bacteria that normally paralyzes nerve cells; scientists reprogrammed it here to attack cancer instead."
+    },
+    {
+      "term": "Pyroptosis",
+      "definition": "A type of inflammatory cell death that alerts the immune system, unlike silent cell death that tumors can hide from."
+    },
+    {
+      "term": "Proteolytic pathway",
+      "definition": "A sequence of protein-cutting events inside cells that leads to a specific cellular outcome, like triggering cell death."
+    }
+  ],
+  "cancer_types": [
+    "Multiple cancer cell lines tested in vitro (exact cancer types not specified in abstract)"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in laboratory cell cultures, not yet in living organisms or human patients, so it remains unclear how well these engineered proteins would work inside the complex environment of a real tumor. Safety and manufacturing challenges for delivering these modified toxins to tumors would need to be addressed before human testing.",
+  "tags": [
+    "immunotherapy",
+    "protein engineering",
+    "cell death",
+    "targeted therapy",
+    "directed evolution",
+    "cancer resistance",
+    "inflammatory response"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
