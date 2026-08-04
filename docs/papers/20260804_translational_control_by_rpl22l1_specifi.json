@@ -1,0 +1,70 @@
+{
+  "id": "20260804_translational_control_by_rpl22l1_specifi",
+  "title": "Translational control by RPL22L1-specific ribosomes enhances DNA repair and chemoresistance",
+  "url": "https://www.nature.com/articles/s41467-026-76283-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Saisai Wei",
+    "Wentao Yu",
+    "Yilin Shen",
+    "Yu Qian",
+    "Ye Wang",
+    "Tiezheng Li"
+  ],
+  "pub_date": "2026-08-04T00:00:00+00:00",
+  "fetched_date": "2026-08-04T09:40:54.784820+00:00",
+  "abstract": "<p>Nature Communications, Published online: 04 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76283-z\">doi:10.1038/s41467-026-76283-z</a></p>Ribosomal heterogeneity regulates the translation of specific mRNAs with unique structural features. Here, the authors discover that RPL22L1 regulates translation of mRNAs related to DNA repair such as ATRX, and that, consequently, RPL22L1 loss sensitizes cancer cells to chemotherapy.",
+  "headline": "Cancer cells use a special protein to boost DNA repair, making them resistant to chemotherapy.",
+  "why_it_matters": "Cancer cells often develop resistance to chemotherapy drugs, making treatment less effective. This study reveals a key mechanism behind that resistance, pointing to a potential new target doctors could block to make drugs work better. Understanding this could lead to therapies that prevent cancer from becoming drug-resistant.",
+  "key_findings": [
+    "Cancer cells contain a protein called RPL22L1 that acts like a specialized factory worker \u2014 it helps translate (convert genetic instructions into proteins) only certain DNA repair genes, not others.",
+    "When RPL22L1 is present, cancer cells produce extra copies of a DNA repair protein called ATRX, which fixes damage from chemotherapy drugs before they can kill the cell.",
+    "Removing or blocking RPL22L1 forces cancer cells to make less ATRX, leaving them unable to repair chemotherapy damage and making them die more easily.",
+    "This discovery shows that cancer cells have evolved a selective translation system \u2014 they're essentially using a specialized protein-making machinery to survive drug attacks."
+  ],
+  "methods_snapshot": "Researchers studied cancer cells in the laboratory to identify which proteins RPL22L1 targets. They then removed or reduced RPL22L1 and watched whether cancer cells became more vulnerable to chemotherapy drugs and whether DNA damage accumulated inside them.",
+  "glossary": [
+    {
+      "term": "RPL22L1",
+      "definition": "A protein found in cellular machinery (ribosomes) that selectively controls which genetic instructions get translated into proteins."
+    },
+    {
+      "term": "Translation",
+      "definition": "The biological process of converting genetic instructions (mRNA) into working proteins that cells use."
+    },
+    {
+      "term": "ATRX",
+      "definition": "A DNA repair protein that fixes breaks and damage in genetic material caused by chemotherapy drugs."
+    },
+    {
+      "term": "Ribosome",
+      "definition": "The cell's protein-making factory that reads genetic instructions and assembles proteins."
+    },
+    {
+      "term": "mRNA",
+      "definition": "A temporary copy of genetic instructions that cells use to make specific proteins."
+    },
+    {
+      "term": "Chemoresistance",
+      "definition": "The ability of cancer cells to survive chemotherapy drugs by repairing or neutralizing drug damage."
+    },
+    {
+      "term": "Ribosomal heterogeneity",
+      "definition": "The fact that different ribosomes have slightly different structures and can specialize in translating different sets of genes."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This work was done in laboratory cancer cells, not in living patients, so it remains unclear whether blocking RPL22L1 will work as a treatment in real tumors, which are more complex. The study also doesn't yet explain how cancer cells evolved this specialized protein-making system or whether all cancers use it.",
+  "tags": [
+    "drug resistance",
+    "DNA repair",
+    "ribosomal proteins",
+    "chemotherapy",
+    "translation control",
+    "cancer biology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-03T10:48:21.456521+00:00",
+  "last_updated": "2026-08-04T09:40:54.785138+00:00",
   "papers": [
+    {
+      "id": "20260804_translational_control_by_rpl22l1_specifi",
+      "title": "Translational control by RPL22L1-specific ribosomes enhances DNA repair and chemoresistance",
+      "url": "https://www.nature.com/articles/s41467-026-76283-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-04T00:00:00+00:00",
+      "fetched_date": "2026-08-04T09:40:54.784820+00:00",
+      "headline": "Cancer cells use a special protein to boost DNA repair, making them resistant to chemotherapy.",
+      "cancer_types": [],
+      "tags": [
+        "drug resistance",
+        "DNA repair",
+        "ribosomal proteins",
+        "chemotherapy",
+        "translation control",
+        "cancer biology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260803_evolution_of_botulinum_neurotoxin_seroty",
       "title": "Evolution of botulinum neurotoxin serotype X proteases to induce inflammatory cell death in cancer cells",
@@ -2145,29 +2166,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "Rocket is an AI system that automatically tunes itself using self-play reinforcement learning, removing the need for human experts to manually adjust hundreds of configuration settings."
-    },
-    {
-      "id": "20260504_mechanically_driven_expandable_patch_pro",
-      "title": "Mechanically-driven expandable patch promotes tracheal defect reconstruction via synergistic microcurrent and mechanical force cascades",
-      "url": "https://www.nature.com/articles/s41467-026-72593-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-04T00:00:00+00:00",
-      "fetched_date": "2026-05-04T09:26:45.522367+00:00",
-      "headline": "Smart patch uses tiny electrical pulses and stretching to repair damaged windpipes.",
-      "cancer_types": [],
-      "tags": [
-        "regenerative medicine",
-        "tissue engineering",
-        "electrical stimulation",
-        "wound healing",
-        "biomaterials",
-        "tracheal repair",
-        "angiogenesis",
-        "expandable devices"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
