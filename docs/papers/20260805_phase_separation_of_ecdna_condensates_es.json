@@ -1,0 +1,79 @@
+{
+  "id": "20260805_phase_separation_of_ecdna_condensates_es",
+  "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective <i>MYC</i> regulatory interactions",
+  "url": "https://www.nature.com/articles/s41467-026-76447-x",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Mattia Conte",
+    "Lana Al Hasani",
+    "Tommaso Matteuzzi",
+    "Andrea Esposito",
+    "Sumanta Kundu",
+    "Andrea M. Chiariello"
+  ],
+  "pub_date": "2026-08-05T00:00:00+00:00",
+  "fetched_date": "2026-08-05T09:40:05.442757+00:00",
+  "abstract": "<p>Nature Communications, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76447-x\">doi:10.1038/s41467-026-76447-x</a></p>Here the authors show by polymer physics that BRD4-driven ecDNA condensates in cancer cells form in-trans contact domains (I-TADs) that selectively boost MYC regulatory interactions, while JQ1 reverses phase separation, sharply reducing oncogene transcription.",
+  "headline": "Cancer cells use sticky protein clusters to overactivate a growth gene; a drug can dissolve them.",
+  "why_it_matters": "Many cancers rely on a gene called MYC to grow uncontrollably. This study reveals how cancer cells physically reorganize their DNA to supercharge MYC, and shows a drug that could reverse this process. Understanding this mechanism could lead to better ways to starve cancer cells of the signals they need to survive.",
+  "key_findings": [
+    "Proteins called BRD4 gather together to form dense, liquid-like droplets (phase separation) on cancer DNA, creating special zones where genes are switched on more intensely.",
+    "These droplets create 'contact domains' \u2014 imagine a telephone switchboard where certain calls get routed preferentially \u2014 that help the MYC cancer gene talk to its control switches much more efficiently.",
+    "The ecDNA (extra copies of DNA floating loose in cancer cells, separate from normal chromosomes) uses these droplets as organizational hubs to amplify MYC's cancer-driving activity.",
+    "A drug called JQ1 can dissolve these protein droplets, which dramatically reduces MYC activation and slows down cancer cell growth.",
+    "The research used physics-based mathematical modeling to show how these molecular clusters organize themselves and behave \u2014 like simulating a crowd's movement to understand how it forms."
+  ],
+  "methods_snapshot": "The team used computer modeling based on polymer physics (the study of how long chain molecules behave) to map how BRD4 proteins cluster and organize DNA. They also studied real cancer cells in the lab to confirm their predictions about how the droplets form and what happens when JQ1 breaks them apart.",
+  "glossary": [
+    {
+      "term": "ecDNA",
+      "definition": "Extra circular pieces of DNA found floating in cancer cells, separate from normal chromosomes, that often contain cancer-driving genes."
+    },
+    {
+      "term": "Phase separation",
+      "definition": "When proteins and other molecules spontaneously cluster together into dense droplets, like how oil separates from water."
+    },
+    {
+      "term": "BRD4",
+      "definition": "A protein that acts like a molecular bridge, helping to turn genes on by connecting DNA to the cell's transcription machinery."
+    },
+    {
+      "term": "MYC",
+      "definition": "A gene that controls cell growth and division; when overactive, it drives many cancers."
+    },
+    {
+      "term": "JQ1",
+      "definition": "An experimental drug that blocks BRD4 function and can dissolve the protein clusters that activate cancer genes."
+    },
+    {
+      "term": "In-trans contact domains (I-TADs)",
+      "definition": "Special zones where DNA strands or separate DNA pieces preferentially interact with each other to boost gene activity."
+    },
+    {
+      "term": "Transcription",
+      "definition": "The process of copying a gene into instructions that the cell uses to make proteins."
+    }
+  ],
+  "cancer_types": [
+    "Multiple cancer types with MYC amplification",
+    "Osteosarcoma (bone cancer)",
+    "Neuroblastoma (nerve cell cancer)",
+    "Breast cancer",
+    "Other cancers with ecDNA"
+  ],
+  "ml_angle": null,
+  "limitations": "This work combines computer modeling with lab-grown cancer cells, so results may not fully reflect how the process works inside a living patient's tumor. The drug JQ1 tested here is experimental and has not yet been approved for clinical use, so more research is needed to prove it works safely and effectively in people.",
+  "tags": [
+    "MYC activation",
+    "ecDNA",
+    "phase separation",
+    "BRD4",
+    "cancer biology",
+    "gene regulation",
+    "JQ1 drug",
+    "polymer physics"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

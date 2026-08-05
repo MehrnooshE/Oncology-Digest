@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-04T09:40:54.785138+00:00",
+  "last_updated": "2026-08-05T09:40:05.443036+00:00",
   "papers": [
+    {
+      "id": "20260805_phase_separation_of_ecdna_condensates_es",
+      "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective <i>MYC</i> regulatory interactions",
+      "url": "https://www.nature.com/articles/s41467-026-76447-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-05T00:00:00+00:00",
+      "fetched_date": "2026-08-05T09:40:05.442757+00:00",
+      "headline": "Cancer cells use sticky protein clusters to overactivate a growth gene; a drug can dissolve them.",
+      "cancer_types": [
+        "Multiple cancer types with MYC amplification",
+        "Osteosarcoma (bone cancer)",
+        "Neuroblastoma (nerve cell cancer)",
+        "Breast cancer",
+        "Other cancers with ecDNA"
+      ],
+      "tags": [
+        "MYC activation",
+        "ecDNA",
+        "phase separation",
+        "BRD4",
+        "cancer biology",
+        "gene regulation",
+        "JQ1 drug",
+        "polymer physics"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260804_translational_control_by_rpl22l1_specifi",
       "title": "Translational control by RPL22L1-specific ribosomes enhances DNA repair and chemoresistance",
@@ -2143,29 +2172,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The researchers trained an artificial intelligence system to analyze comet brightness patterns and predict their actual sizes\u2014a task too complex for traditional math alone."
-    },
-    {
-      "id": "20260505_automated_deep_learning_by_recurrent_hyp",
-      "title": "Automated deep learning by recurrent hyperparameter optimization",
-      "url": "https://www.nature.com/articles/s41467-026-72413-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-04T00:00:00+00:00",
-      "fetched_date": "2026-05-05T09:11:32.936639+00:00",
-      "headline": "AI system learns to tune itself, speeding up cancer research computations.",
-      "cancer_types": [],
-      "tags": [
-        "automated machine learning",
-        "hyperparameter optimization",
-        "reinforcement learning",
-        "computational efficiency",
-        "deep learning",
-        "medical AI",
-        "cancer detection",
-        "AI deployment"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "Rocket is an AI system that automatically tunes itself using self-play reinforcement learning, removing the need for human experts to manually adjust hundreds of configuration settings."
     }
   ]
 }
