@@ -1,0 +1,71 @@
+{
+  "id": "20260806_surfaceome_crispr_activation_screening_u",
+  "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing",
+  "url": "https://www.nature.com/articles/s41467-026-76374-x",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Ravi K. Dinesh",
+    "Xiaotong Wang",
+    "Imran A. Mohammad",
+    "Pari Gunasekaran",
+    "Kostas Stiklioraitis",
+    "Jeremy R. Villafuerte"
+  ],
+  "pub_date": "2026-08-06T00:00:00+00:00",
+  "fetched_date": "2026-08-06T09:42:49.358290+00:00",
+  "abstract": "<p>Nature Communications, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76374-x\">doi:10.1038/s41467-026-76374-x</a></p>NK cell determinants of tumor susceptibility remain poorly understood. CRISPRa surfaceome screening identifies CD43, CD44, PDPN, and Siglec-1 as modulators of NK cytotoxicity, and reveals that CD43 targeting enhances NK and CAR T cell killing of leukemia.",
+  "headline": "Scientists find immune cell triggers that help the body's natural killer cells destroy leukemia.",
+  "why_it_matters": "Natural killer (NK) cells are immune cells that patrol the body looking for cancer. This research identifies specific molecular 'handles' on tumor cells that NK cells recognize and attack\u2014like finding the right key to unlock a door. Understanding these handles could lead to better cancer treatments by boosting the immune system's ability to fight leukemia and potentially other blood cancers.",
+  "key_findings": [
+    "Researchers identified four protein 'switches' on tumor cell surfaces (CD43, CD44, PDPN, and Siglec-1) that control whether NK cells can kill cancer cells\u2014think of these as volume dials that turn the immune attack up or down.",
+    "When they turned up the CD43 switch using gene editing (CRISPR activation, a precise molecular tool), NK cells became much better at killing leukemia cells in the lab.",
+    "Boosting CD43 also made CAR T cells (engineered immune cells already used in some cancer treatments) more effective at destroying leukemia.",
+    "The research reveals that these four proteins work like hidden 'danger signals' or 'ignore me' signals on cancer cell surfaces that the immune system uses to decide whether to attack."
+  ],
+  "methods_snapshot": "The team used CRISPR activation\u2014a gene-editing technique that turns genes on without cutting DNA\u2014to systematically test thousands of surface proteins on tumor cells and measure which ones changed how vulnerable the cancer was to NK cell killing. They then focused on the most promising candidates and tested them in lab cultures of human leukemia and immune cells to confirm the findings.",
+  "glossary": [
+    {
+      "term": "NK cells (natural killer cells)",
+      "definition": "A type of immune cell that patrols the body and kills infected or cancerous cells without needing prior training, acting as a first-line defender."
+    },
+    {
+      "term": "CRISPR activation (CRISPRa)",
+      "definition": "A precise molecular tool that turns specific genes on or off, allowing scientists to test which genes control a particular cell behavior."
+    },
+    {
+      "term": "CAR T cells",
+      "definition": "Engineered immune cells that are genetically modified to recognize and attack cancer cells; some are already approved medicines."
+    },
+    {
+      "term": "Surfaceome",
+      "definition": "All the proteins sitting on the outer surface of a cell that other cells use to communicate and recognize each other."
+    },
+    {
+      "term": "Cytotoxicity",
+      "definition": "The ability of one cell to kill another cell."
+    },
+    {
+      "term": "CD43, CD44, PDPN, Siglec-1",
+      "definition": "Names of specific protein markers found on cell surfaces; scientists use these names as a standard way to identify and refer to them."
+    }
+  ],
+  "cancer_types": [
+    "leukemia",
+    "blood cancers"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted in laboratory cell cultures, not in living patients, so results may not translate directly to human treatment. The study focuses mainly on leukemia; whether these findings apply to solid tumors (like lung or breast cancer) remains unclear.",
+  "tags": [
+    "immunotherapy",
+    "NK cells",
+    "CRISPR",
+    "leukemia",
+    "cell surface proteins",
+    "CAR T cells",
+    "immune checkpoint",
+    "cancer immunology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-05T09:40:05.443036+00:00",
+  "last_updated": "2026-08-06T09:42:49.358540+00:00",
   "papers": [
+    {
+      "id": "20260806_surfaceome_crispr_activation_screening_u",
+      "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing",
+      "url": "https://www.nature.com/articles/s41467-026-76374-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-06T00:00:00+00:00",
+      "fetched_date": "2026-08-06T09:42:49.358290+00:00",
+      "headline": "Scientists find immune cell triggers that help the body's natural killer cells destroy leukemia.",
+      "cancer_types": [
+        "leukemia",
+        "blood cancers"
+      ],
+      "tags": [
+        "immunotherapy",
+        "NK cells",
+        "CRISPR",
+        "leukemia",
+        "cell surface proteins",
+        "CAR T cells",
+        "immune checkpoint",
+        "cancer immunology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260805_phase_separation_of_ecdna_condensates_es",
       "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective <i>MYC</i> regulatory interactions",
@@ -2151,27 +2177,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260506_deep_learning_enabled_size_estimation_of",
-      "title": "Deep learning-enabled size estimation of comets indicates a more dynamic early solar system",
-      "url": "https://www.nature.com/articles/s41467-026-72646-8",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-06T00:00:00+00:00",
-      "fetched_date": "2026-05-06T09:29:51.590835+00:00",
-      "headline": "AI reveals our early solar system had far more comets than we thought.",
-      "cancer_types": [],
-      "tags": [
-        "comets",
-        "solar-system-formation",
-        "oort-cloud",
-        "deep-learning",
-        "astronomy",
-        "planetary-science"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The researchers trained an artificial intelligence system to analyze comet brightness patterns and predict their actual sizes\u2014a task too complex for traditional math alone."
     }
   ]
 }
