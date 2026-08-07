@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-06T09:42:49.358540+00:00",
+  "last_updated": "2026-08-07T08:17:38.413518+00:00",
   "papers": [
+    {
+      "id": "20260807_cafs_shape_the_immunosuppressive_microen",
+      "title": "CAFs shape the immunosuppressive microenvironment of pancreatic cancer through the Lin28b-STING Axis",
+      "url": "https://www.nature.com/articles/s41467-026-76495-3",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-07T00:00:00+00:00",
+      "fetched_date": "2026-08-07T08:17:38.413237+00:00",
+      "headline": "Cancer-supporting cells block immune defenses by silencing a key alarm system",
+      "cancer_types": [
+        "pancreatic cancer"
+      ],
+      "tags": [
+        "pancreatic-cancer",
+        "immunotherapy",
+        "tumor-microenvironment",
+        "Lin28b",
+        "STING-pathway",
+        "fibroblasts",
+        "immune-evasion"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260806_surfaceome_crispr_activation_screening_u",
       "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing",
@@ -2148,31 +2172,6 @@
         "cell therapy",
         "blood cancer",
         "precision medicine"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260507_rna_triggered_cell_killing_with_crispr_c",
-      "title": "RNA-triggered cell killing with CRISPR\u2013Cas12a2",
-      "url": "https://www.nature.com/articles/s41586-026-10466-y",
-      "journal": "Nature",
-      "pub_date": "2026-05-06T00:00:00+00:00",
-      "fetched_date": "2026-05-07T09:39:46.859443+00:00",
-      "headline": "Scientists create a precision tool to kill cells by detecting specific genes they express.",
-      "cancer_types": [
-        "Not specified \u2014 demonstrated in cells carrying cancer-causing mutations in laboratory models"
-      ],
-      "tags": [
-        "CRISPR",
-        "gene-therapy",
-        "precision-medicine",
-        "cancer-treatment",
-        "RNA-detection",
-        "cell-killing",
-        "molecular-scissors",
-        "immunotherapy"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
