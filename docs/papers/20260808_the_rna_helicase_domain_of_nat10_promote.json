@@ -1,0 +1,73 @@
+{
+  "id": "20260808_the_rna_helicase_domain_of_nat10_promote",
+  "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation",
+  "url": "https://www.nature.com/articles/s41467-026-76383-w",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Mahmood H. Dalhat",
+    "Sharath Narayan",
+    "Maria Eleftheriou",
+    "James Russell",
+    "James Heslop",
+    "Hannah Serio"
+  ],
+  "pub_date": "2026-08-08T00:00:00+00:00",
+  "fetched_date": "2026-08-08T07:52:29.256883+00:00",
+  "abstract": "<p>Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76383-w\">doi:10.1038/s41467-026-76383-w</a></p>The mechanisms underlying the role of N-acetyltransferase 10 (NAT10) in cancer remain poorly characterised. Here, PROTAC-mediated degradation of NAT10 with a deep mutational scanning assay and functional validation reveal the oncogenic properties of the RNA helicase domain of NAT10.",
+  "headline": "A cancer-fueling protein's hidden talent for building defective cellular machinery revealed.",
+  "why_it_matters": "Cancer cells often hijack normal proteins to speed up their own growth. This study identifies a specific weak point in NAT10, a protein that helps cancer cells thrive, which could lead to new drugs that slow or stop tumor growth. Understanding exactly how cancer cells break the rules gives doctors new targets to attack them.",
+  "key_findings": [
+    "NAT10 (a protein called N-acetyltransferase 10) has a special RNA-unwinding ability (the helicase domain) that cancer cells exploit to build ribosomes faster \u2014 think of ribosomes as the factories that make proteins inside cells.",
+    "Cancer cells deliberately build ribosomes with fewer chemical modifications (decorations) than normal cells \u2014 these 'hypomodified' ribosomes are like slightly broken machines that actually help tumors grow faster, not slower.",
+    "Disabling NAT10's RNA helicase domain stops cancer cells from making these defective-but-useful ribosomes, which slows down cancer cell multiplication.",
+    "The researchers used a technique called deep mutational scanning (testing thousands of small mutations at once) to map exactly which parts of NAT10 matter most for cancer growth."
+  ],
+  "methods_snapshot": "Scientists used PROTAC technology \u2014 a molecular 'garbage disposal' system that removes NAT10 protein from cancer cells \u2014 combined with deep mutational scanning, a high-throughput method that tests thousands of genetic variations simultaneously to pinpoint which protein regions drive cancer growth. They then validated their findings by testing these predictions in living cancer cells.",
+  "glossary": [
+    {
+      "term": "NAT10 (N-acetyltransferase 10)",
+      "definition": "A protein that modifies RNA molecules and has the ability to unwind RNA strands; cancer cells often produce too much of it."
+    },
+    {
+      "term": "RNA helicase domain",
+      "definition": "The part of a protein that acts like molecular scissors or unzippers, pulling apart coiled-up RNA to make it accessible."
+    },
+    {
+      "term": "Ribosome",
+      "definition": "The cell's protein-making factory \u2014 a complex machine built from RNA and proteins that reads instructions and assembles amino acids into new proteins."
+    },
+    {
+      "term": "Hypomodified ribosomes",
+      "definition": "Ribosomes missing some of their normal chemical decorations (modifications), making them less precise but paradoxically helping cancer cells grow faster."
+    },
+    {
+      "term": "PROTAC-mediated degradation",
+      "definition": "A technique that uses synthetic molecules to tag a protein for destruction, allowing scientists to selectively remove specific proteins and study what happens."
+    },
+    {
+      "term": "Deep mutational scanning",
+      "definition": "A lab method that tests thousands of small genetic changes at once to rapidly identify which mutations affect a protein's function most strongly."
+    },
+    {
+      "term": "Oncogenic",
+      "definition": "Relating to or capable of causing cancer; cancer-promoting."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract \u2014 likely tested on common cancer cell lines in the lab"
+  ],
+  "ml_angle": "Deep mutational scanning uses computational analysis to rapidly process data from thousands of genetic mutations and identify which ones matter most, enabling faster discovery than testing mutations one-by-one.",
+  "limitations": "This is early-stage laboratory research using cancer cells grown in dishes and not yet tested in living organisms or patients. The study doesn't clarify which types of cancer might benefit most from targeting NAT10, and it's unclear whether disabling this protein would be safe or effective enough for actual cancer treatment.",
+  "tags": [
+    "cancer",
+    "protein",
+    "ribosome",
+    "NAT10",
+    "drug-target",
+    "RNA-modification",
+    "cell-growth"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-07T08:17:38.413518+00:00",
+  "last_updated": "2026-08-08T07:52:29.257153+00:00",
   "papers": [
+    {
+      "id": "20260808_the_rna_helicase_domain_of_nat10_promote",
+      "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation",
+      "url": "https://www.nature.com/articles/s41467-026-76383-w",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-08T00:00:00+00:00",
+      "fetched_date": "2026-08-08T07:52:29.256883+00:00",
+      "headline": "A cancer-fueling protein's hidden talent for building defective cellular machinery revealed.",
+      "cancer_types": [
+        "Not specified in abstract \u2014 likely tested on common cancer cell lines in the lab"
+      ],
+      "tags": [
+        "cancer",
+        "protein",
+        "ribosome",
+        "NAT10",
+        "drug-target",
+        "RNA-modification",
+        "cell-growth"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": "Deep mutational scanning uses computational analysis to rapidly process data from thousands of genetic mutations and identify which ones matter most, enabling faster discovery than testing mutations one-by-one."
+    },
     {
       "id": "20260807_cafs_shape_the_immunosuppressive_microen",
       "title": "CAFs shape the immunosuppressive microenvironment of pancreatic cancer through the Lin28b-STING Axis",
@@ -2149,31 +2173,6 @@
         "chemotherapy"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260508_cd84_is_a_specific_target_for_acute_myel",
-      "title": "CD84 is a specific target for acute myeloid leukemia CAR-T cell therapy",
-      "url": "https://www.nature.com/articles/s41467-026-72361-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-08T00:00:00+00:00",
-      "fetched_date": "2026-05-08T08:24:28.081579+00:00",
-      "headline": "Scientists found a new target on leukemia cells that allows immune cells to attack them more effectively.",
-      "cancer_types": [
-        "acute myeloid leukemia"
-      ],
-      "tags": [
-        "CAR-T therapy",
-        "acute myeloid leukemia",
-        "immunotherapy",
-        "CD84",
-        "cancer treatment",
-        "cell therapy",
-        "blood cancer",
-        "precision medicine"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
