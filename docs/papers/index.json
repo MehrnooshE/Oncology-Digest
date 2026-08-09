@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-08-08T07:52:29.257153+00:00",
+  "last_updated": "2026-08-09T07:55:44.292856+00:00",
   "papers": [
+    {
+      "id": "20260809_mricombo__a_deep_learning_based_framewor",
+      "title": "MRICombo: a deep-learning-based framework for universal volumetric segmentation grading-staging and malignancy detection across heterogeneous MRI",
+      "url": "https://www.nature.com/articles/s41467-026-76461-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-08T00:00:00+00:00",
+      "fetched_date": "2026-08-09T07:55:44.292587+00:00",
+      "headline": "AI tool reads MRI scans to spot tumors and assess cancer severity across different scan types.",
+      "cancer_types": [
+        "brain tumors",
+        "liver cancer",
+        "kidney cancer",
+        "pancreatic cancer",
+        "prostate cancer"
+      ],
+      "tags": [
+        "cancer imaging",
+        "deep learning",
+        "MRI analysis",
+        "tumor detection",
+        "clinical AI",
+        "automated diagnosis",
+        "radiomics",
+        "precision medicine"
+      ],
+      "study_type": "imaging",
+      "impact_score": 4,
+      "ml_angle": "The AI system learned from thousands of labeled MRI scans to recognize tumor features and automatically perform multiple cancer assessment tasks\u2014segmentation, typing, grading, and staging\u2014without needing separate specialized models for each scan type."
+    },
     {
       "id": "20260808_the_rna_helicase_domain_of_nat10_promote",
       "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation",
@@ -2146,31 +2175,6 @@
         "drug development",
         "survival",
         "undruggable targets"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260509_anti_pd_1_plus_nab_paclitaxel_and_bevaci",
-      "title": "Anti-PD-1 plus nab-paclitaxel and bevacizumab for second-line treatment of cancer of unknown primary (Fudan CUP-002): a phase II trial",
-      "url": "https://www.nature.com/articles/s41467-026-72745-6",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-09T00:00:00+00:00",
-      "fetched_date": "2026-05-09T08:45:25.162697+00:00",
-      "headline": "New drug combination shows promise for hard-to-treat cancers with unknown origins.",
-      "cancer_types": [
-        "cancer of unknown primary"
-      ],
-      "tags": [
-        "immunotherapy",
-        "cancer-of-unknown-primary",
-        "combination-therapy",
-        "second-line-treatment",
-        "phase-II-trial",
-        "anti-PD-1",
-        "bevacizumab",
-        "chemotherapy"
       ],
       "study_type": "clinical trial",
       "impact_score": 4,
