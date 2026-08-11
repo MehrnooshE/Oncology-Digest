@@ -1,0 +1,69 @@
+{
+  "id": "20260811_adipocyte_derived___hydroxybutyrate_conf",
+  "title": "Adipocyte-derived \u03b2-hydroxybutyrate confers metabolic resilience in multiple myeloma",
+  "url": "https://www.nature.com/articles/s41467-026-76595-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Chen Song",
+    "Peng Yang",
+    "Yu Li",
+    "Tao Xia",
+    "Rui Li",
+    "Mengmeng Guo"
+  ],
+  "pub_date": "2026-08-11T00:00:00+00:00",
+  "fetched_date": "2026-08-11T08:11:30.252793+00:00",
+  "abstract": "<p>Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76595-0\">doi:10.1038/s41467-026-76595-0</a></p>Multiple cell populations within the bone tumour microenvironment have been shown to support multiple myeloma (MM). Here, the authors show that under glucose deprived conditions, adipocytes produce \u03b2-hydroxybutyrate, which promotes MM cell survival.",
+  "headline": "Fat cells feed cancer cells a survival molecule when glucose runs low.",
+  "why_it_matters": "Multiple myeloma is a blood cancer that hides in bone marrow and is hard to treat. This discovery reveals a clever survival trick cancer cells use, which could lead to new drugs that block this trick and starve the cancer. Understanding how tumors survive in harsh conditions inside the body is key to designing better treatments.",
+  "key_findings": [
+    "When glucose (blood sugar) is scarce, fat cells (adipocytes) nearby produce a molecule called \u03b2-hydroxybutyrate, a type of fuel the body normally makes during fasting.",
+    "Multiple myeloma cancer cells consume this \u03b2-hydroxybutyrate and use it to survive and thrive even when starved of their preferred fuel, glucose.",
+    "The bone marrow microenvironment (the neighborhood of cells surrounding the tumor) actively supports the cancer by providing this alternative energy source.",
+    "This metabolic resilience (ability to switch fuel sources) explains why myeloma cells can hide and survive in bone marrow despite harsh conditions."
+  ],
+  "methods_snapshot": "Researchers studied how myeloma cells behave when glucose is limited, using cell cultures and analyzing which molecules are produced by nearby fat cells. They identified \u03b2-hydroxybutyrate as a key survival signal and traced how cancer cells use it as fuel.",
+  "glossary": [
+    {
+      "term": "Multiple myeloma",
+      "definition": "A cancer of plasma cells (immune cells) that grows in bone marrow and produces abnormal antibodies."
+    },
+    {
+      "term": "Adipocytes",
+      "definition": "Fat cells that store energy and also produce signaling molecules that affect other cells."
+    },
+    {
+      "term": "\u03b2-hydroxybutyrate",
+      "definition": "A molecule the body produces during fasting that cells can burn for energy instead of glucose."
+    },
+    {
+      "term": "Metabolic resilience",
+      "definition": "The ability of cells to switch between different fuel sources to survive when conditions change."
+    },
+    {
+      "term": "Microenvironment",
+      "definition": "The community of non-cancer cells surrounding a tumor that can support or oppose cancer growth."
+    },
+    {
+      "term": "Glucose",
+      "definition": "Blood sugar; the primary fuel most cells prefer to burn for energy."
+    }
+  ],
+  "cancer_types": [
+    "Multiple myeloma"
+  ],
+  "ml_angle": null,
+  "limitations": "This work was done mostly in lab cell cultures and may not fully reflect how complex the real tumor environment is inside a patient's bones. Further studies are needed to confirm these findings work the same way in living organisms and to test whether blocking this pathway actually helps treat myeloma in patients.",
+  "tags": [
+    "metabolism",
+    "myeloma",
+    "tumor microenvironment",
+    "ketone bodies",
+    "metabolic adaptation",
+    "bone marrow",
+    "cancer survival"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

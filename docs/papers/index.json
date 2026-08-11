@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-09T07:55:44.292856+00:00",
+  "last_updated": "2026-08-11T08:11:30.253080+00:00",
   "papers": [
+    {
+      "id": "20260811_adipocyte_derived___hydroxybutyrate_conf",
+      "title": "Adipocyte-derived \u03b2-hydroxybutyrate confers metabolic resilience in multiple myeloma",
+      "url": "https://www.nature.com/articles/s41467-026-76595-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-11T00:00:00+00:00",
+      "fetched_date": "2026-08-11T08:11:30.252793+00:00",
+      "headline": "Fat cells feed cancer cells a survival molecule when glucose runs low.",
+      "cancer_types": [
+        "Multiple myeloma"
+      ],
+      "tags": [
+        "metabolism",
+        "myeloma",
+        "tumor microenvironment",
+        "ketone bodies",
+        "metabolic adaptation",
+        "bone marrow",
+        "cancer survival"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260809_mricombo__a_deep_learning_based_framewor",
       "title": "MRICombo: a deep-learning-based framework for universal volumetric segmentation grading-staging and malignancy detection across heterogeneous MRI",
@@ -2152,29 +2176,6 @@
         "clinical-trial",
         "maternal-health",
         "sFlt-1"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260510__undruggable__cancer_proteins_meet_their",
-      "title": "\u2018Undruggable\u2019 cancer proteins meet their match",
-      "url": "https://www.nature.com/articles/d41586-026-01447-2",
-      "journal": "Nature",
-      "pub_date": "2026-05-08T00:00:00+00:00",
-      "fetched_date": "2026-05-10T08:59:06.007273+00:00",
-      "headline": "New drug stops hard-to-treat pancreatic cancer proteins, extending patient survival",
-      "cancer_types": [
-        "pancreatic cancer"
-      ],
-      "tags": [
-        "pancreatic cancer",
-        "targeted therapy",
-        "protein inhibitor",
-        "drug development",
-        "survival",
-        "undruggable targets"
       ],
       "study_type": "clinical trial",
       "impact_score": 4,
