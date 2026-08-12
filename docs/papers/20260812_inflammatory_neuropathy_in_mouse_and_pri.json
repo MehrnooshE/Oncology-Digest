@@ -1,0 +1,71 @@
+{
+  "id": "20260812_inflammatory_neuropathy_in_mouse_and_pri",
+  "title": "Inflammatory neuropathy in mouse and primate models of colorectal cancer",
+  "url": "https://www.nature.com/articles/s41467-026-76683-1",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Caitlyn M. Gaffney",
+    "Angela M. Casaril",
+    "Iqbal Mahmud",
+    "Bo Wei",
+    "Yanyan Jiang",
+    "Nathan T. Fiore"
+  ],
+  "pub_date": "2026-08-12T00:00:00+00:00",
+  "fetched_date": "2026-08-12T08:22:25.985900+00:00",
+  "abstract": "<p>Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76683-1\">doi:10.1038/s41467-026-76683-1</a></p>Whether cancer damages peripheral nerves before treatment is unclear. Here, authors show that colorectal tumors drive inflammation and disrupt neuronal lipids, causing subtle sensory pathology in mice and monkeys that may persist in survivors.",
+  "headline": "Colorectal tumors damage nerves before cancer treatment even begins.",
+  "why_it_matters": "Many cancer survivors report lingering nerve pain and numbness long after treatment ends, but doctors didn't know if tumors themselves were causing the damage. This study shows that tumors actively harm peripheral nerves (the ones carrying sensation from your skin and limbs) even before chemotherapy starts. Understanding this could help doctors predict and prevent long-term nerve problems in cancer survivors.",
+  "key_findings": [
+    "Colorectal tumors trigger inflammation (the body's immune system overreacting) and disrupt the protective lipid coating around nerve fibers, similar to how rust damages a wire's insulation.",
+    "Mice with colorectal tumors showed subtle sensory problems\u2014difficulty sensing touch or temperature\u2014without obvious visible nerve damage under a microscope.",
+    "Primates (monkeys) with colorectal tumors also developed similar nerve problems, suggesting the finding likely applies to humans too.",
+    "The nerve damage was detected before cancer treatment began, meaning the tumor itself, not chemotherapy drugs, was causing the initial harm.",
+    "The nerve changes may persist long-term in cancer survivors, potentially explaining lingering tingling or numbness after treatment."
+  ],
+  "methods_snapshot": "Researchers gave mice and primates colorectal tumors, then examined their peripheral nerves using microscopy and molecular analysis to look for signs of inflammation and damage. They measured how well the animals sensed touch and temperature to detect functional nerve problems.",
+  "glossary": [
+    {
+      "term": "peripheral nerves",
+      "definition": "Nerves extending from your spinal cord to your skin, muscles, and organs that relay sensation and control movement."
+    },
+    {
+      "term": "inflammation",
+      "definition": "The immune system's protective response to injury or threat, involving swelling, heat, and immune cell activity\u2014helpful in small doses but harmful when chronic."
+    },
+    {
+      "term": "lipid coating",
+      "definition": "A fatty insulating layer (called myelin) wrapped around nerve fibers that speeds up electrical signals, similar to plastic coating on a wire."
+    },
+    {
+      "term": "colorectal cancer",
+      "definition": "Cancer originating in the colon or rectum, parts of the large intestine that absorb water and store waste."
+    },
+    {
+      "term": "neuropathy",
+      "definition": "Disease or dysfunction of one or more peripheral nerves, often causing weakness, numbness, or pain."
+    },
+    {
+      "term": "sensory pathology",
+      "definition": "Abnormal changes in the nerves that detect sensation (touch, temperature, pain), leading to reduced or altered feeling."
+    }
+  ],
+  "cancer_types": [
+    "colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study used mice and primates rather than directly studying humans, so the findings need confirmation in patient studies to be certain they apply to people. The nerve changes were subtle and detected only with specialized tests, so it's unclear how much they affect patients' daily quality of life.",
+  "tags": [
+    "neuropathy",
+    "colorectal-cancer",
+    "inflammation",
+    "peripheral-nerves",
+    "cancer-survivors",
+    "side-effects",
+    "preclinical-models",
+    "nerve-damage"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-11T08:11:30.253080+00:00",
+  "last_updated": "2026-08-12T08:22:25.986176+00:00",
   "papers": [
+    {
+      "id": "20260812_inflammatory_neuropathy_in_mouse_and_pri",
+      "title": "Inflammatory neuropathy in mouse and primate models of colorectal cancer",
+      "url": "https://www.nature.com/articles/s41467-026-76683-1",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-12T00:00:00+00:00",
+      "fetched_date": "2026-08-12T08:22:25.985900+00:00",
+      "headline": "Colorectal tumors damage nerves before cancer treatment even begins.",
+      "cancer_types": [
+        "colorectal cancer"
+      ],
+      "tags": [
+        "neuropathy",
+        "colorectal-cancer",
+        "inflammation",
+        "peripheral-nerves",
+        "cancer-survivors",
+        "side-effects",
+        "preclinical-models",
+        "nerve-damage"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260811_adipocyte_derived___hydroxybutyrate_conf",
       "title": "Adipocyte-derived \u03b2-hydroxybutyrate confers metabolic resilience in multiple myeloma",
@@ -2157,27 +2182,6 @@
         "translational-research"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260511_a_new_treatment_for_preterm_pre_eclampsi",
-      "title": "A new treatment for preterm pre-eclampsia could benefit mother and child",
-      "url": "https://www.nature.com/articles/s41591-026-04400-y",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-05-11T00:00:00+00:00",
-      "fetched_date": "2026-05-11T10:41:03.685269+00:00",
-      "headline": "Removing a harmful placental protein safely improves outcomes in dangerous pregnancy complications.",
-      "cancer_types": [],
-      "tags": [
-        "pre-eclampsia",
-        "pregnancy",
-        "targeted-therapy",
-        "clinical-trial",
-        "maternal-health",
-        "sFlt-1"
-      ],
-      "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
     }
