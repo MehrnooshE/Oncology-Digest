@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-12T08:22:25.986176+00:00",
+  "last_updated": "2026-08-13T08:24:55.036291+00:00",
   "papers": [
+    {
+      "id": "20260813_rb_driven_transcription_limits_its_tumou",
+      "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
+      "url": "https://www.nature.com/articles/s41586-026-10886-w",
+      "journal": "Nature",
+      "pub_date": "2026-08-12T00:00:00+00:00",
+      "fetched_date": "2026-08-13T08:24:55.035948+00:00",
+      "headline": "A breast cancer drug accidentally activates genes it should shut down, limiting its own effectiveness.",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "tags": [
+        "CDK4/6-inhibitors",
+        "drug-resistance",
+        "breast-cancer",
+        "Rb-protein",
+        "precision-medicine",
+        "estrogen-signaling",
+        "cell-cycle",
+        "therapeutic-strategy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260812_inflammatory_neuropathy_in_mouse_and_pri",
       "title": "Inflammatory neuropathy in mouse and primate models of colorectal cancer",
@@ -2159,31 +2184,6 @@
       "study_type": "review",
       "impact_score": 3,
       "ml_angle": "AI and machine learning tools are widely used in cancer research to identify tumors in images and predict which treatments will work best, but financial barriers and reliability concerns are limiting their adoption."
-    },
-    {
-      "id": "20260512_tumor_derived_gdf15_induces_ccn3__schwan",
-      "title": "Tumor-derived GDF15 induces CCN3\u207a Schwann cells to promote cancer pain in pancreatic cancer",
-      "url": "https://www.nature.com/articles/s41467-026-72932-5",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-12T00:00:00+00:00",
-      "fetched_date": "2026-05-12T09:44:37.903970+00:00",
-      "headline": "Cancer cells trigger nerve-support cells to amplify pain signals in pancreatic cancer.",
-      "cancer_types": [
-        "pancreatic ductal adenocarcinoma"
-      ],
-      "tags": [
-        "pancreatic-cancer",
-        "cancer-pain",
-        "nerve-cells",
-        "GDF15",
-        "Schwann-cells",
-        "pain-mechanism",
-        "immunotherapy-target",
-        "translational-research"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
