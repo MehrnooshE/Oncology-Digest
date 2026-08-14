@@ -1,0 +1,61 @@
+{
+  "id": "20260814_an_early_shot_at_stopping_pdac",
+  "title": "An early shot at stopping PDAC",
+  "url": "https://www.nature.com/articles/s41568-026-00971-7",
+  "journal": "Nature Reviews Cancer",
+  "journal_group": "Nature",
+  "authors": [
+    "Gabrielle Brewer"
+  ],
+  "pub_date": "2026-08-14T00:00:00+00:00",
+  "fetched_date": "2026-08-14T08:20:20.140305+00:00",
+  "abstract": "<p>Nature Reviews Cancer, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41568-026-00971-7\">doi:10.1038/s41568-026-00971-7</a></p>The progression of pancreatic ductal adenocarcinoma (PDAC) from precursor lesions presents an opportunity for cancer prevention. Haldar et al. developed mKRAS-VAX, a peptide vaccine targeting six common KRAS mutations in PDAC, and evaluated it in a phase I clinical trial.",
+  "headline": "New vaccine trains the immune system to stop pancreatic cancer before it starts.",
+  "why_it_matters": "Pancreatic cancer is one of the deadliest cancers because it's usually caught too late. This vaccine targets early warning signs\u2014abnormal cells that haven't yet become full cancer\u2014giving doctors a chance to prevent the disease entirely. If it works, it could save lives by stopping cancer at the gate rather than fighting it after it's established.",
+  "key_findings": [
+    "Researchers created a vaccine called mKRAS-VAX that teaches your immune system to recognize six common mutations (spelling mistakes in genes) found in early pancreatic cancer cells.",
+    "The vaccine was tested in a phase I clinical trial (the earliest stage of human testing, focused on safety and dosage rather than proving it works).",
+    "This approach targets PDAC (pancreatic ductal adenocarcinoma, the most common type of pancreatic cancer) at a precursor stage\u2014when abnormal cells exist but haven't developed into invasive cancer yet.",
+    "The study represents a shift from treating established cancer to preventing it by intercepting disease development early."
+  ],
+  "methods_snapshot": "Researchers designed a peptide vaccine\u2014a short protein fragment that mimics cancer-causing mutations to trigger an immune response. They tested this vaccine in human patients in a phase I trial to evaluate whether it was safe and whether patients' immune systems could recognize and respond to the targeted mutations.",
+  "glossary": [
+    {
+      "term": "PDAC",
+      "definition": "Pancreatic ductal adenocarcinoma; the most common type of pancreatic cancer, starting in the tubes that carry digestive juices."
+    },
+    {
+      "term": "KRAS mutation",
+      "definition": "A specific error in a gene that controls cell growth; found in about 90% of pancreatic cancers and drives abnormal cell behavior."
+    },
+    {
+      "term": "Peptide vaccine",
+      "definition": "A vaccine made of short protein pieces that teach your immune system to recognize and attack cancer cells with specific mutations."
+    },
+    {
+      "term": "Precursor lesion",
+      "definition": "An abnormal growth or tissue change that is not yet cancer but has the potential to become cancer."
+    },
+    {
+      "term": "Phase I clinical trial",
+      "definition": "The first stage of testing a new treatment in humans, focusing mainly on safety and appropriate dosage rather than effectiveness."
+    }
+  ],
+  "cancer_types": [
+    "pancreatic ductal adenocarcinoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This is only a phase I trial, which tests safety in a small group of people\u2014it does not yet prove the vaccine actually prevents cancer or improves survival. Longer-term studies will be needed to determine whether the vaccine's immune response translates into meaningful protection against developing PDAC.",
+  "tags": [
+    "pancreatic cancer",
+    "immunotherapy",
+    "cancer prevention",
+    "vaccine",
+    "early detection",
+    "KRAS",
+    "clinical trial",
+    "personalized medicine"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

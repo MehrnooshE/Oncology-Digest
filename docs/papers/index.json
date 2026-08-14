@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-13T08:24:55.036291+00:00",
+  "last_updated": "2026-08-14T08:20:20.140574+00:00",
   "papers": [
+    {
+      "id": "20260814_an_early_shot_at_stopping_pdac",
+      "title": "An early shot at stopping PDAC",
+      "url": "https://www.nature.com/articles/s41568-026-00971-7",
+      "journal": "Nature Reviews Cancer",
+      "pub_date": "2026-08-14T00:00:00+00:00",
+      "fetched_date": "2026-08-14T08:20:20.140305+00:00",
+      "headline": "New vaccine trains the immune system to stop pancreatic cancer before it starts.",
+      "cancer_types": [
+        "pancreatic ductal adenocarcinoma"
+      ],
+      "tags": [
+        "pancreatic cancer",
+        "immunotherapy",
+        "cancer prevention",
+        "vaccine",
+        "early detection",
+        "KRAS",
+        "clinical trial",
+        "personalized medicine"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260813_rb_driven_transcription_limits_its_tumou",
       "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
@@ -2163,27 +2188,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260513_ai_bills_can_be_as_big_as_a_postdoc_sala",
-      "title": "AI bills can be as big as a postdoc salary. Is the cost worth it?",
-      "url": "https://www.nature.com/articles/d41586-026-01369-z",
-      "journal": "Nature",
-      "pub_date": "2026-05-12T00:00:00+00:00",
-      "fetched_date": "2026-05-13T09:48:39.955470+00:00",
-      "headline": "AI tools are getting too expensive for cancer researchers to use routinely.",
-      "cancer_types": [],
-      "tags": [
-        "AI costs",
-        "research funding",
-        "cancer research",
-        "accessibility",
-        "machine learning",
-        "scientific equity"
-      ],
-      "study_type": "review",
-      "impact_score": 3,
-      "ml_angle": "AI and machine learning tools are widely used in cancer research to identify tumors in images and predict which treatments will work best, but financial barriers and reliability concerns are limiting their adoption."
     }
   ]
 }
