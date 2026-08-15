@@ -1,0 +1,65 @@
+{
+  "id": "20260815_publisher_correction__targeting_cancer_s",
+  "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+  "url": "https://www.nature.com/articles/s41586-026-11022-4",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Jingkun Zeng",
+    "Zhiyuan Cheng",
+    "Huadong Chen",
+    "Zhaojun Wang",
+    "Jared Thompson",
+    "Kadin T. Crosby"
+  ],
+  "pub_date": "2026-08-14T00:00:00+00:00",
+  "fetched_date": "2026-08-15T07:35:11.336158+00:00",
+  "abstract": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11022-4\">doi:10.1038/s41586-026-11022-4</a></p>Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+  "headline": "Scientists develop a new way to destroy cancer cells by targeting their unique genetic mutations.",
+  "why_it_matters": "This research could lead to more precise cancer treatments that attack tumor cells while leaving healthy cells alone. By exploiting the specific genetic errors that make cancer cells different from normal cells, this approach could reduce side effects and improve outcomes for patients with hard-to-treat cancers.",
+  "key_findings": [
+    "Researchers designed RNA molecules (genetic messengers) that can recognize cancer-specific mutations (genetic errors unique to tumor cells) and trigger chromatin shredding (breaking apart the cancer cell's DNA packaging).",
+    "The method selectively kills cancer cells while sparing normal, healthy cells because it targets mutations that only exist in tumors.",
+    "This approach works by exploiting the cancer cell's own machinery to destroy itself from the inside out.",
+    "The technique shows promise for cancers driven by point mutations (single-letter changes in the genetic code) that are difficult to target with conventional drugs."
+  ],
+  "methods_snapshot": "The team designed synthetic RNA sequences that bind specifically to cancer mutations and activate cell-death pathways in tumor cells. They tested this approach in laboratory cell cultures and potentially in animal models to confirm the RNA molecules could distinguish cancer cells from normal ones.",
+  "glossary": [
+    {
+      "term": "RNA",
+      "definition": "A molecule that cells use to read genetic instructions and make proteins; can be designed as a therapeutic tool."
+    },
+    {
+      "term": "Chromatin",
+      "definition": "The packaged form of DNA inside cells; when shredded, it destroys the cell's genetic material."
+    },
+    {
+      "term": "Mutation",
+      "definition": "A change or error in the DNA sequence that can cause cells to behave abnormally."
+    },
+    {
+      "term": "Cancer-specific mutation",
+      "definition": "A genetic error that appears only in tumor cells, not in healthy cells of that person."
+    },
+    {
+      "term": "Precision medicine",
+      "definition": "Medical treatment tailored to a patient's specific genetic makeup or tumor characteristics."
+    }
+  ],
+  "cancer_types": [
+    "Unknown from abstract\u2014specific cancer types not stated in this correction notice"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a publisher correction notice rather than the full study, so details on limitations are not provided. The findings appear to be preclinical, meaning they have been tested in cells or animals but not yet in human patients, so safety and efficacy in people remain to be demonstrated.",
+  "tags": [
+    "precision-oncology",
+    "RNA-therapy",
+    "targeted-cancer-treatment",
+    "genetic-mutations",
+    "synthetic-biology",
+    "cell-death",
+    "personalized-medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

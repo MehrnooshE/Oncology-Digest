@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-14T08:20:20.140574+00:00",
+  "last_updated": "2026-08-15T07:35:11.336453+00:00",
   "papers": [
+    {
+      "id": "20260815_publisher_correction__targeting_cancer_s",
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "url": "https://www.nature.com/articles/s41586-026-11022-4",
+      "journal": "Nature",
+      "pub_date": "2026-08-14T00:00:00+00:00",
+      "fetched_date": "2026-08-15T07:35:11.336158+00:00",
+      "headline": "Scientists develop a new way to destroy cancer cells by targeting their unique genetic mutations.",
+      "cancer_types": [
+        "Unknown from abstract\u2014specific cancer types not stated in this correction notice"
+      ],
+      "tags": [
+        "precision-oncology",
+        "RNA-therapy",
+        "targeted-cancer-treatment",
+        "genetic-mutations",
+        "synthetic-biology",
+        "cell-death",
+        "personalized-medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260814_an_early_shot_at_stopping_pdac",
       "title": "An early shot at stopping PDAC",
@@ -2161,31 +2185,6 @@
         "evidence-based-medicine"
       ],
       "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260514_m_sup_6__sup_a_modification_suppresses_i",
-      "title": "m<sup>6</sup>A modification suppresses innate anti-tumour immunity in colorectal cancer by limiting alu-derived dsRNA accumulation",
-      "url": "https://www.nature.com/articles/s41467-026-73211-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-14T00:00:00+00:00",
-      "fetched_date": "2026-05-14T09:37:20.317306+00:00",
-      "headline": "Cancer cells use a molecular trick to hide from immune attack; researchers found how to block it.",
-      "cancer_types": [
-        "colorectal cancer"
-      ],
-      "tags": [
-        "colorectal cancer",
-        "immune evasion",
-        "RNA modification",
-        "innate immunity",
-        "METTL3",
-        "therapeutic target",
-        "combination therapy",
-        "viral mimicry"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
