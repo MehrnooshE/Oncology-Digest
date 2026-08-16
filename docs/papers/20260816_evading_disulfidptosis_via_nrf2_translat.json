@@ -1,0 +1,65 @@
+{
+  "id": "20260816_evading_disulfidptosis_via_nrf2_translat",
+  "title": "Evading disulfidptosis via NRF2 translation",
+  "url": "https://www.nature.com/articles/s41556-026-02036-1",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Liam Baird",
+    "Masayuki Yamamoto"
+  ],
+  "pub_date": "2026-08-14T00:00:00+00:00",
+  "fetched_date": "2026-08-16T07:35:07.113213+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41556-026-02036-1\">doi:10.1038/s41556-026-02036-1</a></p>Metabolic adaptation functions as an important selective bottleneck during tumour development. A study reveals that in response to glucose starvation, a metabolite from the TCA cycle is leveraged to enhance translation of the transcription factor NRF2, providing a critical adaptive response against disulfidptosis.",
+  "headline": "Cancer cells survive starvation by activating a protective protein through a clever metabolic trick.",
+  "why_it_matters": "Cancer cells are notorious for adapting to harsh conditions inside tumors, including lack of nutrients. This discovery reveals a new survival mechanism that tumors use, which could lead to new drugs that block this escape route and make existing treatments more effective. Understanding these adaptation tricks is key to stopping cancers from outsmarting our medicines.",
+  "key_findings": [
+    "When cancer cells run out of glucose (their main fuel), they use a backup molecule called a TCA cycle metabolite (a chemical made during energy production) to activate production of NRF2, a master protein that protects cells from damage.",
+    "NRF2 (a protective 'bodyguard' protein) helps cancer cells survive a specific type of cell death called disulfidptosis, which happens when certain proteins get tangled up by reactive molecules.",
+    "This glucose-starvation response reveals a metabolic adaptation pathway\u2014essentially a survival plan cancer cells activate when times get tough.",
+    "The mechanism involves translational control, meaning cancer cells boost production of NRF2 protein without needing to make more of the NRF2 gene itself."
+  ],
+  "methods_snapshot": "Researchers used cell culture experiments (growing cancer cells in dishes) combined with molecular analysis to track how metabolites and proteins change when glucose is removed. They likely used biochemical techniques to measure protein levels and genetic tools to confirm which molecules were essential for the survival response.",
+  "glossary": [
+    {
+      "term": "NRF2",
+      "definition": "A master control protein that acts like a cellular bodyguard, turning on protective genes when cells face stress."
+    },
+    {
+      "term": "Disulfidptosis",
+      "definition": "A newly discovered type of cell death triggered when proteins get damaged by reactive molecules and can no longer function."
+    },
+    {
+      "term": "TCA cycle",
+      "definition": "A fundamental cellular engine that breaks down nutrients to produce energy and chemical building blocks for the cell."
+    },
+    {
+      "term": "Metabolite",
+      "definition": "A small chemical molecule produced or used during normal cell processes, like fuel or signaling messengers."
+    },
+    {
+      "term": "Translation",
+      "definition": "The cellular process of reading genetic instructions and building protein molecules from them."
+    },
+    {
+      "term": "Metabolic adaptation",
+      "definition": "When cells reprogram their chemical processes to survive in new or hostile conditions."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract\u2014likely multiple solid tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This is preclinical research done in laboratory cell cultures, so the findings need to be tested in animal models and eventually human trials to confirm they work in living organisms. The study focused on one specific death pathway, but cancer cells likely have multiple backup survival mechanisms not addressed here.",
+  "tags": [
+    "metabolic adaptation",
+    "NRF2",
+    "disulfidptosis",
+    "tumor survival",
+    "cell stress response",
+    "glucose starvation",
+    "precision oncology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-15T07:35:11.336453+00:00",
+  "last_updated": "2026-08-16T07:35:07.113462+00:00",
   "papers": [
+    {
+      "id": "20260816_evading_disulfidptosis_via_nrf2_translat",
+      "title": "Evading disulfidptosis via NRF2 translation",
+      "url": "https://www.nature.com/articles/s41556-026-02036-1",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-08-14T00:00:00+00:00",
+      "fetched_date": "2026-08-16T07:35:07.113213+00:00",
+      "headline": "Cancer cells survive starvation by activating a protective protein through a clever metabolic trick.",
+      "cancer_types": [
+        "Not specified in abstract\u2014likely multiple solid tumors"
+      ],
+      "tags": [
+        "metabolic adaptation",
+        "NRF2",
+        "disulfidptosis",
+        "tumor survival",
+        "cell stress response",
+        "glucose starvation",
+        "precision oncology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260815_publisher_correction__targeting_cancer_s",
       "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
@@ -2162,29 +2186,6 @@
         "drug development"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260515_does_the_psa_test_for_prostate_cancer_sa",
-      "title": "Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings",
-      "url": "https://www.nature.com/articles/d41586-026-01549-x",
-      "journal": "Nature",
-      "pub_date": "2026-05-14T00:00:00+00:00",
-      "fetched_date": "2026-05-15T09:50:22.709202+00:00",
-      "headline": "A blood test for prostate cancer may not save lives after all, experts now say.",
-      "cancer_types": [
-        "prostate cancer"
-      ],
-      "tags": [
-        "prostate-cancer",
-        "screening",
-        "PSA-test",
-        "medical-guidelines",
-        "cancer-prevention",
-        "evidence-based-medicine"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }
