@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-08-16T07:35:07.113462+00:00",
+  "last_updated": "2026-08-17T07:55:23.255519+00:00",
   "papers": [
+    {
+      "id": "20260817_decoding_the_sequence_determinants_of_lo",
+      "title": "Decoding the sequence determinants of locus-specific DNA methylation across human tissues",
+      "url": "https://www.nature.com/articles/s41467-026-76744-5",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-17T00:00:00+00:00",
+      "fetched_date": "2026-08-17T07:55:23.255245+00:00",
+      "headline": "AI learns to predict how DNA gets chemically labeled across human tissues.",
+      "cancer_types": [],
+      "tags": [
+        "DNA methylation",
+        "epigenetics",
+        "deep learning",
+        "gene regulation",
+        "precision medicine",
+        "computational biology",
+        "tissue-specific",
+        "cancer prevention"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI model Melody was trained to recognize DNA sequence patterns that predict where methylation tags appear, then used those learned patterns to forecast methylation in tissues and cell types it had never encountered before."
+    },
     {
       "id": "20260816_evading_disulfidptosis_via_nrf2_translat",
       "title": "Evading disulfidptosis via NRF2 translation",
@@ -2160,34 +2183,6 @@
       "study_type": "computational",
       "impact_score": 3,
       "ml_angle": "Machine learning algorithms were trained to recognize which peptide designs would successfully localize at condensate interfaces, enabling the discovery of design rules that would be impossible to find through manual analysis alone."
-    },
-    {
-      "id": "20260516_protein_based_pan_ras_inhibitor_induces_",
-      "title": "Protein-based pan-RAS inhibitor induces tumor regression in female mice via IFN\u03b3 and CD8<sup>+</sup>\u2009T cell-dependent tumor necrosis",
-      "url": "https://www.nature.com/articles/s41467-026-73300-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-16T00:00:00+00:00",
-      "fetched_date": "2026-05-16T08:51:20.592770+00:00",
-      "headline": "New protein drug blocks RAS cancer driver and triggers immune system to shrink tumors.",
-      "cancer_types": [
-        "RAS-mutant cancers",
-        "pancreatic cancer",
-        "colorectal cancer",
-        "lung cancer"
-      ],
-      "tags": [
-        "RAS inhibitor",
-        "immunotherapy",
-        "protein engineering",
-        "CD8 T cells",
-        "tumor immunity",
-        "preclinical",
-        "cancer immunology",
-        "drug development"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": "20260817_decoding_the_sequence_determinants_of_lo",
+  "title": "Decoding the sequence determinants of locus-specific DNA methylation across human tissues",
+  "url": "https://www.nature.com/articles/s41467-026-76744-5",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Junru Jin",
+    "Ding Wang",
+    "Jianbo Qiao",
+    "Wenjia Gao",
+    "Yuhang Liu",
+    "Siqi Chen"
+  ],
+  "pub_date": "2026-08-17T00:00:00+00:00",
+  "fetched_date": "2026-08-17T07:55:23.255245+00:00",
+  "abstract": "<p>Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76744-5\">doi:10.1038/s41467-026-76744-5</a></p>Here, the authors use genomic sequence to predict locus-specific DNA methylation across 39 human tissues with the deep learning model Melody. Their approach outperforms existing methods and extends to previously unseen cell types using transcriptomic data.",
+  "headline": "AI learns to predict how DNA gets chemically labeled across human tissues.",
+  "why_it_matters": "DNA methylation (chemical tags on DNA) controls which genes turn on or off, and mistakes in this process drive many cancers. If we can predict these patterns accurately, we can spot disease earlier and design better treatments. This tool could eventually help doctors personalize cancer prevention and therapy.",
+  "key_findings": [
+    "Researchers built an AI model called Melody that predicts exactly where DNA gets methylated (chemically tagged) by reading the underlying DNA sequence alone",
+    "Melody works better than previous methods and can forecast methylation patterns across 39 different human tissues, from brain to blood to skin",
+    "The model successfully predicts methylation in cell types it never 'saw' during training by using gene expression data (a proxy for what genes are active)",
+    "DNA sequence patterns near genes strongly determine how methylated they become, suggesting the 'instruction manual' in our DNA influences these chemical labels"
+  ],
+  "methods_snapshot": "The team trained a deep learning model (a type of AI that mimics how brains learn) on methylation data from 39 human tissues, teaching it to spot patterns in DNA sequence that predict where chemical methyl tags appear. They then tested whether the trained model could forecast methylation in new cell types by combining sequence information with gene expression data (which shows which genes are active).",
+  "glossary": [
+    {
+      "term": "DNA methylation",
+      "definition": "A chemical tag (made of carbon and hydrogen atoms) attached to DNA that acts like a dimmer switch\u2014it quiets genes without changing the DNA code itself."
+    },
+    {
+      "term": "Locus-specific",
+      "definition": "Targeting a specific, precise location on the DNA strand, rather than looking at the whole genome."
+    },
+    {
+      "term": "Deep learning",
+      "definition": "A type of artificial intelligence inspired by how the brain learns, using layers of connected artificial 'neurons' to find hidden patterns in data."
+    },
+    {
+      "term": "Transcriptomic data",
+      "definition": "Information about which genes are turned on and off in a cell, showing the cell's active life instructions."
+    },
+    {
+      "term": "Sequence determinants",
+      "definition": "Specific DNA letter patterns that control or influence what happens to that region of DNA, like a recipe determining the final dish."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The AI model Melody was trained to recognize DNA sequence patterns that predict where methylation tags appear, then used those learned patterns to forecast methylation in tissues and cell types it had never encountered before.",
+  "limitations": "The study predicts methylation from DNA sequence alone in known tissues, but real cells are complex and methylation can change with age, disease, and environment\u2014factors not fully captured here. Results may not apply equally to all populations if training data was biased toward certain genetic backgrounds.",
+  "tags": [
+    "DNA methylation",
+    "epigenetics",
+    "deep learning",
+    "gene regulation",
+    "precision medicine",
+    "computational biology",
+    "tissue-specific",
+    "cancer prevention"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
