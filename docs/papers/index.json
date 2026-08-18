@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-17T07:55:23.255519+00:00",
+  "last_updated": "2026-08-18T07:42:34.992851+00:00",
   "papers": [
+    {
+      "id": "20260818_transcriptomic_profiling_of_inner_ear_ha",
+      "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of <i>dlx5a</i>",
+      "url": "https://www.nature.com/articles/s41467-026-76892-8",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-18T00:00:00+00:00",
+      "fetched_date": "2026-08-18T07:42:34.992542+00:00",
+      "headline": "Scientists find the genetic switch that helps inner ear cells repair themselves after damage.",
+      "cancer_types": [],
+      "tags": [
+        "hearing loss",
+        "regenerative medicine",
+        "inner ear",
+        "gene regulation",
+        "zebrafish model",
+        "stem cells",
+        "sensory restoration"
+      ],
+      "study_type": "single-cell",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260817_decoding_the_sequence_determinants_of_lo",
       "title": "Decoding the sequence determinants of locus-specific DNA methylation across human tissues",
@@ -2161,28 +2183,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260517_de_novo_design_of_peptides_localizing_at",
-      "title": "De novo design of peptides localizing at the interface of biomolecular condensates",
-      "url": "https://www.nature.com/articles/s41467-026-73099-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-16T00:00:00+00:00",
-      "fetched_date": "2026-05-17T09:09:31.547171+00:00",
-      "headline": "Scientists designed custom proteins that stick to the edges of cell droplets.",
-      "cancer_types": [],
-      "tags": [
-        "biomolecular condensates",
-        "peptide design",
-        "machine learning",
-        "protein engineering",
-        "computational biology",
-        "cell biology",
-        "drug discovery"
-      ],
-      "study_type": "computational",
-      "impact_score": 3,
-      "ml_angle": "Machine learning algorithms were trained to recognize which peptide designs would successfully localize at condensate interfaces, enabling the discovery of design rules that would be impossible to find through manual analysis alone."
     }
   ]
 }
