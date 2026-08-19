@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-18T07:42:34.992851+00:00",
+  "last_updated": "2026-08-19T07:42:39.505750+00:00",
   "papers": [
+    {
+      "id": "20260819_a_revolutionary_stem_cell_therapy_must_p",
+      "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+      "url": "https://www.nature.com/articles/d41586-026-02524-2",
+      "journal": "Nature",
+      "pub_date": "2026-08-18T00:00:00+00:00",
+      "fetched_date": "2026-08-19T07:42:39.505457+00:00",
+      "headline": "Stem cell therapy shows promise, but scientists must earn public trust carefully.",
+      "cancer_types": [],
+      "tags": [
+        "stem-cell-therapy",
+        "iPSCs",
+        "clinical-trials",
+        "bioethics",
+        "regenerative-medicine",
+        "public-trust",
+        "translational-science"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260818_transcriptomic_profiling_of_inner_ear_ha",
       "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of <i>dlx5a</i>",
@@ -2156,33 +2178,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": "The paper warns against uncritical use of machine learning (a type of AI that learns from data) in science, rather than presenting a new ML application for cancer research."
-    },
-    {
-      "id": "20260518_publisher_correction__microbiota_induced",
-      "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-      "url": "https://www.nature.com/articles/s41586-026-10649-7",
-      "journal": "Nature",
-      "pub_date": "2026-05-18T00:00:00+00:00",
-      "fetched_date": "2026-05-18T11:10:34.295853+00:00",
-      "headline": "Gut bacteria help immune cells fight cancer by making them more flexible and adaptable.",
-      "cancer_types": [
-        "melanoma",
-        "colorectal cancer",
-        "lung cancer",
-        "other solid tumors"
-      ],
-      "tags": [
-        "microbiome",
-        "T cells",
-        "immunotherapy",
-        "tumor immunity",
-        "gut bacteria",
-        "adaptive immunity",
-        "cancer treatment"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": "20260819_a_revolutionary_stem_cell_therapy_must_p",
+  "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+  "url": "https://www.nature.com/articles/d41586-026-02524-2",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-08-18T00:00:00+00:00",
+  "fetched_date": "2026-08-19T07:42:39.505457+00:00",
+  "abstract": "<p>Nature, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02524-2\">doi:10.1038/d41586-026-02524-2</a></p>It is 20 years since induced pluripotent stem cells shook biomedicine. Public trust must be retained now that clinical trials are well under way.",
+  "headline": "Stem cell therapy shows promise, but scientists must earn public trust carefully.",
+  "why_it_matters": "A powerful new technique for growing replacement cells from adult cells is moving into human testing after 20 years of research. If managed responsibly, it could eventually treat diseases like cancer, heart disease, and Parkinson's. Getting this right now\u2014with transparency and safety\u2014is crucial so the public supports further development.",
+  "key_findings": [
+    "Induced pluripotent stem cells (iPSCs\u2014adult cells reprogrammed to behave like newborn cells that can become any cell type) have matured from lab curiosity to clinical reality.",
+    "Clinical trials using iPSC-derived therapies are now underway in patients, a major milestone.",
+    "Public confidence in this technology depends on researchers demonstrating rigorous safety checks and ethical oversight.",
+    "Responsible development now will unlock the therapy's full potential to treat currently incurable diseases."
+  ],
+  "methods_snapshot": "This is a perspective piece\u2014expert analysis rather than a new experiment\u2014reviewing the history of iPSC research and examining the current landscape of clinical trials. The authors synthesize evidence from multiple studies to argue that transparency and careful governance are essential as iPSC therapies move from bench to bedside.",
+  "glossary": [
+    {
+      "term": "Induced pluripotent stem cells (iPSCs)",
+      "definition": "Adult cells (like skin cells) that have been reprogrammed in the lab to behave like embryonic stem cells, capable of becoming any cell type in the body."
+    },
+    {
+      "term": "Stem cells",
+      "definition": "Cells that have two special abilities: they can divide many times, and they can transform into specialized cells (like nerve or muscle cells)."
+    },
+    {
+      "term": "Clinical trial",
+      "definition": "A test of a new medical treatment in human patients to see if it is safe and effective."
+    },
+    {
+      "term": "Pluripotent",
+      "definition": "Capable of becoming many (pluri-) different types of cells (potent = powerful)."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a commentary, not original research, so it doesn't present new experimental data. Its conclusions about the need for responsible governance are sound but general; specific safety risks and technical hurdles for individual iPSC therapies are not deeply analyzed.",
+  "tags": [
+    "stem-cell-therapy",
+    "iPSCs",
+    "clinical-trials",
+    "bioethics",
+    "regenerative-medicine",
+    "public-trust",
+    "translational-science"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
