@@ -1,0 +1,73 @@
+{
+  "id": "20260820_drug_screen_and_machine_learning_predict",
+  "title": "Drug screen and machine learning predict neuroprotective agents in a preclinical human model of childhood dementia",
+  "url": "https://www.nature.com/articles/s41467-026-76837-1",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Zarina Greenberg",
+    "Ella McDonald",
+    "Alejandra Nore\u00f1a Puerta",
+    "Manam Inushi De Silva",
+    "Cade Christensen",
+    "Robert Adams"
+  ],
+  "pub_date": "2026-08-20T00:00:00+00:00",
+  "fetched_date": "2026-08-20T07:46:19.021588+00:00",
+  "abstract": "<p>Nature Communications, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76837-1\">doi:10.1038/s41467-026-76837-1</a></p>Here authors show patient-derived neural models of childhood dementia exhibit key disease features. A drug screening platform integrating machine learning, imaging, transcriptomics and electrophysiology, identifies repurposed compounds that mitigate adverse effects.",
+  "headline": "Scientists find existing drugs that could slow childhood brain disease using AI and lab-grown brain cells.",
+  "why_it_matters": "Childhood dementia is rare and devastating, with few treatment options. This work shows how to rapidly test thousands of drugs on patient cells to find ones that actually work, potentially speeding up the path to real treatments. The approach could be used for other rare brain diseases too.",
+  "key_findings": [
+    "Researchers grew brain cells in a dish from patients with childhood dementia, and these cells showed the same problems seen in sick patients' brains (reproducing the disease outside the body)",
+    "They tested thousands of existing drugs on these patient cells to see which ones reduced the harmful effects of the disease",
+    "Machine learning (a type of AI that learns patterns from data) analyzed images and genetic activity to predict which drugs would work best",
+    "Several repurposed drugs\u2014medications already approved for other conditions\u2014showed promise in protecting brain cells from damage",
+    "The combination of multiple measurement methods (imaging how cells look, genetic analysis of which genes are active, and electrical measurements of brain cell function) made predictions more accurate than using any single method alone"
+  ],
+  "methods_snapshot": "The team created human brain cells from childhood dementia patients using lab techniques, then screened a large library of existing drugs to see which ones helped. They used machine learning to analyze images, genetic activity patterns, and electrical signals from the cells to identify the most promising drug candidates.",
+  "glossary": [
+    {
+      "term": "patient-derived neural models",
+      "definition": "Brain cells grown in a laboratory dish from a sick patient's own cells, used to study how disease develops"
+    },
+    {
+      "term": "drug screening",
+      "definition": "Testing many different drugs quickly to find which ones have a desired effect on cells or organisms"
+    },
+    {
+      "term": "machine learning",
+      "definition": "AI technology that learns patterns from data and uses those patterns to make predictions or decisions"
+    },
+    {
+      "term": "transcriptomics",
+      "definition": "The study of which genes are turned 'on' or 'off' in a cell, revealed by measuring messenger molecules (RNA) they produce"
+    },
+    {
+      "term": "electrophysiology",
+      "definition": "Measuring the electrical signals that brain cells use to communicate with each other"
+    },
+    {
+      "term": "repurposed compounds",
+      "definition": "Existing drugs originally approved to treat one disease, tested to see if they work for a different disease"
+    },
+    {
+      "term": "neuroprotective",
+      "definition": "Capable of protecting nerve cells from damage or death"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "Machine learning analyzed patterns in cell images, genetic activity, and electrical signals to predict which drugs would best protect brain cells, making the screening process faster and more accurate than human review alone.",
+  "limitations": "This work was done in lab-grown cells, not in living patients or animals yet, so results may not translate directly to real treatments. The study focused on one type of childhood dementia, so findings may need to be tested in other rare brain diseases.",
+  "tags": [
+    "rare-disease",
+    "drug-repurposing",
+    "machine-learning",
+    "neurodegeneration",
+    "childhood-dementia",
+    "patient-derived-models",
+    "high-throughput-screening",
+    "neuroprotection"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-08-19T07:42:39.505750+00:00",
+  "last_updated": "2026-08-20T07:46:19.021915+00:00",
   "papers": [
+    {
+      "id": "20260820_drug_screen_and_machine_learning_predict",
+      "title": "Drug screen and machine learning predict neuroprotective agents in a preclinical human model of childhood dementia",
+      "url": "https://www.nature.com/articles/s41467-026-76837-1",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-20T00:00:00+00:00",
+      "fetched_date": "2026-08-20T07:46:19.021588+00:00",
+      "headline": "Scientists find existing drugs that could slow childhood brain disease using AI and lab-grown brain cells.",
+      "cancer_types": [],
+      "tags": [
+        "rare-disease",
+        "drug-repurposing",
+        "machine-learning",
+        "neurodegeneration",
+        "childhood-dementia",
+        "patient-derived-models",
+        "high-throughput-screening",
+        "neuroprotection"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": "Machine learning analyzed patterns in cell images, genetic activity, and electrical signals to predict which drugs would best protect brain cells, making the screening process faster and more accurate than human review alone."
+    },
     {
       "id": "20260819_a_revolutionary_stem_cell_therapy_must_p",
       "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
@@ -2157,27 +2180,6 @@
       "study_type": "other",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260519_the_uncritical_adoption_of_ai_in_science",
-      "title": "The uncritical adoption of AI in science is alarming \u2014 we urgently need guard rails",
-      "url": "https://www.nature.com/articles/d41586-026-01557-x",
-      "journal": "Nature",
-      "pub_date": "2026-05-19T00:00:00+00:00",
-      "fetched_date": "2026-05-19T10:39:36.280705+00:00",
-      "headline": "Scientists warn that blindly using AI in research risks making science worse, not better.",
-      "cancer_types": [],
-      "tags": [
-        "AI in science",
-        "research integrity",
-        "scientific method",
-        "machine learning governance",
-        "researcher training",
-        "technology ethics"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": "The paper warns against uncritical use of machine learning (a type of AI that learns from data) in science, rather than presenting a new ML application for cancer research."
     }
   ]
 }
