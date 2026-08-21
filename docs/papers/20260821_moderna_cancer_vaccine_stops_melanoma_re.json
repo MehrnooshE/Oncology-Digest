@@ -1,0 +1,66 @@
+{
+  "id": "20260821_moderna_cancer_vaccine_stops_melanoma_re",
+  "title": "Moderna cancer vaccine stops melanoma returning: what\u2019s next for personalized treatments?",
+  "url": "https://www.nature.com/articles/d41586-026-02612-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Rachel Fieldhouse",
+    "Mohana Basu"
+  ],
+  "pub_date": "2026-08-20T00:00:00+00:00",
+  "fetched_date": "2026-08-21T07:48:11.861810+00:00",
+  "abstract": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02612-3\">doi:10.1038/d41586-026-02612-3</a></p>Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+  "headline": "A personalized vaccine helped melanoma patients stay cancer-free longer after surgery.",
+  "why_it_matters": "Cancer vaccines are a new frontier \u2014 instead of fighting existing tumors, they train your immune system to recognize and destroy cancer cells before they come back. If this approach works for melanoma, it could be adapted for many other cancer types, offering patients a way to prevent recurrence after treatment.",
+  "key_findings": [
+    "A messenger RNA vaccine (mRNA \u2014 genetic instructions that tell cells to make cancer-fighting proteins) combined with an immunotherapy drug reduced the risk of melanoma returning or spreading in trial patients.",
+    "The vaccine was personalized \u2014 researchers sequenced each patient's tumor to identify its unique mutations, then designed a custom vaccine to target those specific mutations.",
+    "Results showed durable protection (meaning the benefit lasted over time) in a meaningful portion of patients who received both the vaccine and immunotherapy together.",
+    "This approach suggests cancer vaccines could work against other tumor types beyond melanoma, potentially opening a new class of personalized cancer treatments."
+  ],
+  "methods_snapshot": "Researchers enrolled melanoma patients who had surgery to remove their tumors, then gave some patients a personalized mRNA vaccine combined with an immunotherapy drug (a treatment that boosts the immune system). They followed patients over time to track how often the cancer returned and how long patients survived without recurrence.",
+  "glossary": [
+    {
+      "term": "melanoma",
+      "definition": "a serious type of skin cancer that starts in cells called melanocytes, which produce skin pigment"
+    },
+    {
+      "term": "mRNA vaccine",
+      "definition": "a vaccine made of genetic instructions that teach your immune cells to make a protein that trains your body to recognize and attack a specific target \u2014 in this case, cancer cells"
+    },
+    {
+      "term": "immunotherapy",
+      "definition": "treatment that supercharges your own immune system to fight cancer, rather than using drugs that directly kill cancer cells"
+    },
+    {
+      "term": "mutation",
+      "definition": "a change in the genetic code of a cell \u2014 cancer cells have many mutations that make them different from healthy cells"
+    },
+    {
+      "term": "personalized medicine",
+      "definition": "medical treatment tailored to each individual patient's unique disease, genetics, or tumor characteristics"
+    },
+    {
+      "term": "recurrence",
+      "definition": "when cancer comes back after treatment, either in the same place or elsewhere in the body"
+    }
+  ],
+  "cancer_types": [
+    "melanoma"
+  ],
+  "ml_angle": "Computational tools likely helped researchers sequence tumor DNA and identify which mutations were unique to each patient, enabling the design of personalized vaccines.",
+  "limitations": "This was a trial with a specific group of melanoma patients \u2014 results may not apply equally to all patients or other cancer types. Larger, longer follow-up studies are needed to confirm how durable the protection is and whether this approach works broadly across different cancers.",
+  "tags": [
+    "cancer vaccine",
+    "melanoma",
+    "personalized medicine",
+    "mRNA",
+    "immunotherapy",
+    "clinical trial",
+    "recurrence prevention",
+    "precision oncology"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

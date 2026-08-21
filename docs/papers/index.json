@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-20T07:46:19.021915+00:00",
+  "last_updated": "2026-08-21T07:48:11.862082+00:00",
   "papers": [
+    {
+      "id": "20260821_moderna_cancer_vaccine_stops_melanoma_re",
+      "title": "Moderna cancer vaccine stops melanoma returning: what\u2019s next for personalized treatments?",
+      "url": "https://www.nature.com/articles/d41586-026-02612-3",
+      "journal": "Nature",
+      "pub_date": "2026-08-20T00:00:00+00:00",
+      "fetched_date": "2026-08-21T07:48:11.861810+00:00",
+      "headline": "A personalized vaccine helped melanoma patients stay cancer-free longer after surgery.",
+      "cancer_types": [
+        "melanoma"
+      ],
+      "tags": [
+        "cancer vaccine",
+        "melanoma",
+        "personalized medicine",
+        "mRNA",
+        "immunotherapy",
+        "clinical trial",
+        "recurrence prevention",
+        "precision oncology"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": "Computational tools likely helped researchers sequence tumor DNA and identify which mutations were unique to each patient, enabling the design of personalized vaccines."
+    },
     {
       "id": "20260820_drug_screen_and_machine_learning_predict",
       "title": "Drug screen and machine learning predict neuroprotective agents in a preclinical human model of childhood dementia",
@@ -2149,35 +2174,6 @@
         "precision-medicine"
       ],
       "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260520_pathogenic_germline_variations_and_cance",
-      "title": "Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing",
-      "url": "https://www.nature.com/articles/s41591-026-04423-5",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-05-20T00:00:00+00:00",
-      "fetched_date": "2026-05-20T10:27:21.319717+00:00",
-      "headline": "Genetic mutations inherited from parents predict which children will develop cancer.",
-      "cancer_types": [
-        "leukemia",
-        "lymphoma",
-        "brain tumors",
-        "solid tumors",
-        "hereditary cancer syndromes"
-      ],
-      "tags": [
-        "childhood cancer",
-        "genetic testing",
-        "hereditary mutations",
-        "cancer risk",
-        "precision medicine",
-        "germline variants",
-        "pediatrics",
-        "prevention"
-      ],
-      "study_type": "other",
       "impact_score": 4,
       "ml_angle": null
     }
