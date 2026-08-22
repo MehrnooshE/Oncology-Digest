@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-21T07:48:11.862082+00:00",
+  "last_updated": "2026-08-22T07:35:59.073889+00:00",
   "papers": [
+    {
+      "id": "20260822_alcohol_reshapes_liver_zonal_plasticity_",
+      "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
+      "url": "https://www.nature.com/articles/s41467-026-77089-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-22T00:00:00+00:00",
+      "fetched_date": "2026-08-22T07:35:59.073545+00:00",
+      "headline": "Alcohol changes how liver cells organize and respond to cancer-fighting drugs.",
+      "cancer_types": [
+        "hepatocellular carcinoma"
+      ],
+      "tags": [
+        "liver cancer",
+        "alcohol",
+        "obesity",
+        "immunotherapy",
+        "metabolic disease",
+        "cellular plasticity",
+        "single-cell analysis"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260821_moderna_cancer_vaccine_stops_melanoma_re",
       "title": "Moderna cancer vaccine stops melanoma returning: what\u2019s next for personalized treatments?",
@@ -2149,31 +2173,6 @@
         "treatment combination"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260521_distinct_genomic_and_immunologic_tumor_e",
-      "title": "Distinct genomic and immunologic tumor evolution in germline <i>TP53-</i>driven breast cancers",
-      "url": "https://www.nature.com/articles/s41467-026-73163-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-21T00:00:00+00:00",
-      "fetched_date": "2026-05-21T10:42:39.770191+00:00",
-      "headline": "Breast cancers linked to inherited TP53 mutations evolve differently than sporadic cases.",
-      "cancer_types": [
-        "Breast cancer (LFS-related)",
-        "Breast cancer (sporadic, premenopausal)"
-      ],
-      "tags": [
-        "inherited-cancer",
-        "TP53",
-        "breast-cancer",
-        "tumor-evolution",
-        "genomics",
-        "immunology",
-        "precision-medicine"
-      ],
-      "study_type": "multi-omics",
       "impact_score": 4,
       "ml_angle": null
     }
