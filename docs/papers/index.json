@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-22T07:35:59.073889+00:00",
+  "last_updated": "2026-08-23T07:37:42.344338+00:00",
   "papers": [
+    {
+      "id": "20260823_xpo1_mediated_trim21_nuclear_export_repr",
+      "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
+      "url": "https://www.nature.com/articles/s41467-026-76862-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-22T00:00:00+00:00",
+      "fetched_date": "2026-08-23T07:37:42.344053+00:00",
+      "headline": "Blocking a protein export pathway helps immune cells fight lung cancer and respond better to immunotherapy.",
+      "cancer_types": [
+        "Small cell lung cancer (SCLC)"
+      ],
+      "tags": [
+        "immunotherapy",
+        "macrophages",
+        "lung cancer",
+        "protein trafficking",
+        "checkpoint inhibitor",
+        "tumor immunity",
+        "drug resistance",
+        "precision oncology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260822_alcohol_reshapes_liver_zonal_plasticity_",
       "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
@@ -2146,31 +2171,6 @@
         "preclinical-research",
         "drug-safety",
         "neuromuscular"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260522_stress_granules_shape_ferroptosis_in_can",
-      "title": "Stress granules shape ferroptosis in cancer",
-      "url": "https://www.nature.com/articles/s41556-026-01950-8",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-05-22T00:00:00+00:00",
-      "fetched_date": "2026-05-22T10:26:39.989721+00:00",
-      "headline": "Breaking down cancer's protective shields makes aggressive brain tumors treatable.",
-      "cancer_types": [
-        "glioblastoma",
-        "brain cancer"
-      ],
-      "tags": [
-        "glioblastoma",
-        "stress granules",
-        "ferroptosis",
-        "drug resistance",
-        "cancer stem cells",
-        "cell death",
-        "treatment combination"
       ],
       "study_type": "preclinical",
       "impact_score": 4,

@@ -1,0 +1,79 @@
+{
+  "id": "20260823_xpo1_mediated_trim21_nuclear_export_repr",
+  "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
+  "url": "https://www.nature.com/articles/s41467-026-76862-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Qingwu Du",
+    "Tingting Qin",
+    "Jingya Wang",
+    "Yantao Jiang",
+    "Qi Xu",
+    "Xueyang Li"
+  ],
+  "pub_date": "2026-08-22T00:00:00+00:00",
+  "fetched_date": "2026-08-23T07:37:42.344053+00:00",
+  "abstract": "<p>Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76862-0\">doi:10.1038/s41467-026-76862-0</a></p>Small cell lung cancer (SCLC) is an aggressive malignancy characterized by an immunosuppressive tumor microenvironment (TME) resistant to Immune checkpoint inhibitor (ICI) therapy. Here, the authors define an XPO1-TRIM21-TNFSF15 axis that promotes the polarization of immunosuppressive TREM2+ macrophages, which ultimately orchestrates immune exclusion by impairing antigen presentation. Importantly, targeting XPO1 enhances the efficacy of anti-PD1 immunotherapy in mice.",
+  "headline": "Blocking a protein export pathway helps immune cells fight lung cancer and respond better to immunotherapy.",
+  "why_it_matters": "Small cell lung cancer is one of the deadliest lung cancers and often resists current immunotherapy treatments. This research identifies a new target that could make existing immunotherapies work better by retraining immune cells inside tumors to attack cancer instead of protecting it.",
+  "key_findings": [
+    "The researchers found a chain reaction (called XPO1-TRIM21-TNFSF15 axis) that hijacks immune cells called TREM2+ macrophages, turning them into tumor protectors rather than tumor fighters.",
+    "These corrupted immune cells actively block the presentation of cancer antigens (like 'wanted posters' for cancer cells) to other immune fighters, allowing tumors to hide.",
+    "Blocking the XPO1 protein (which acts like a delivery service moving packages out of the cell nucleus) reverses this hijacking and restores the immune cells' cancer-fighting ability.",
+    "In mouse models, blocking XPO1 made anti-PD-1 immunotherapy (a standard immune checkpoint inhibitor drug) significantly more effective at shrinking tumors.",
+    "The mechanism involves redirecting a protein called IRF3 (an immune signaling molecule) to reprogram macrophage behavior toward anti-tumor activity."
+  ],
+  "methods_snapshot": "The team used laboratory cell cultures and mouse tumor models to trace how the XPO1 protein controls immune cell behavior. They manipulated genes, measured protein locations and signaling patterns, and tested drug combinations to confirm that blocking XPO1 restores immunity and improves immunotherapy response.",
+  "glossary": [
+    {
+      "term": "XPO1",
+      "definition": "A protein that acts like a bouncer, controlling what leaves the cell nucleus (the control center of a cell)."
+    },
+    {
+      "term": "TRIM21",
+      "definition": "A protein that helps coordinate immune responses and can be moved around the cell by XPO1."
+    },
+    {
+      "term": "TREM2+ macrophages",
+      "definition": "A type of immune cell with a specific marker (TREM2) that normally fights infections but can be corrupted to protect tumors instead."
+    },
+    {
+      "term": "IRF3",
+      "definition": "A messenger protein inside cells that triggers immune responses against threats like cancer."
+    },
+    {
+      "term": "Immune checkpoint inhibitor (ICI) / anti-PD-1",
+      "definition": "A type of cancer drug that removes the brakes on immune cells, allowing them to attack cancer. PD-1 is one of those brakes."
+    },
+    {
+      "term": "Antigen presentation",
+      "definition": "The process where immune cells display pieces of an invader (or cancer cell) on their surface like a wanted poster, alerting other immune fighters."
+    },
+    {
+      "term": "Tumor microenvironment (TME)",
+      "definition": "The neighborhood surrounding a tumor, including immune cells, blood vessels, and chemical signals that the tumor uses to protect itself."
+    },
+    {
+      "term": "Immunosuppressive",
+      "definition": "Creating conditions where the immune system is weakened or prevented from attacking an invader or cancer cell."
+    }
+  ],
+  "cancer_types": [
+    "Small cell lung cancer (SCLC)"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in mice and cell cultures, not human patients, so results may not directly translate to treating human cancer. The long-term safety of blocking XPO1 in patients is unknown, and this approach will likely need to be combined with existing therapies rather than used alone.",
+  "tags": [
+    "immunotherapy",
+    "macrophages",
+    "lung cancer",
+    "protein trafficking",
+    "checkpoint inhibitor",
+    "tumor immunity",
+    "drug resistance",
+    "precision oncology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
