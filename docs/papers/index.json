@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-23T07:37:42.344338+00:00",
+  "last_updated": "2026-08-24T07:59:57.963194+00:00",
   "papers": [
+    {
+      "id": "20260824_responsiveness_of_epigenetic_aging_bioma",
+      "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans",
+      "url": "https://www.nature.com/articles/s41591-026-04562-9",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-08-21T00:00:00+00:00",
+      "fetched_date": "2026-08-24T07:59:57.962921+00:00",
+      "headline": "Scientists tested whether aging clocks can track if treatments actually slow human aging.",
+      "cancer_types": [],
+      "tags": [
+        "aging biomarkers",
+        "epigenetics",
+        "longevity",
+        "aging clocks",
+        "intervention response",
+        "clinical translation",
+        "precision medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": "The aging clocks themselves are machine learning models trained to recognize patterns in DNA chemical modifications that correlate with age and aging rate."
+    },
     {
       "id": "20260823_xpo1_mediated_trim21_nuclear_export_repr",
       "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
@@ -2153,28 +2175,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": "Mathematical computer models (simulations) were used to identify the underlying rules connecting stem cell speed of recovery with their preference for certain blood cell types."
-    },
-    {
-      "id": "20260524_long_term_comparative_analysis_of_aav9_m",
-      "title": "Long-term comparative analysis of AAV9-mediated gene replacement therapies for spinal muscular atrophy in mice",
-      "url": "https://www.nature.com/articles/s41467-026-73545-8",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-23T00:00:00+00:00",
-      "fetched_date": "2026-05-24T09:23:43.424153+00:00",
-      "headline": "New gene therapy for muscle-wasting disease works better and safer than existing treatment in mice.",
-      "cancer_types": [],
-      "tags": [
-        "gene-therapy",
-        "spinal-muscular-atrophy",
-        "AAV9",
-        "genetic-disease",
-        "preclinical-research",
-        "drug-safety",
-        "neuromuscular"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

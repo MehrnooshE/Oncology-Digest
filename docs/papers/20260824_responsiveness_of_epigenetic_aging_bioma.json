@@ -1,0 +1,59 @@
+{
+  "id": "20260824_responsiveness_of_epigenetic_aging_bioma",
+  "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans",
+  "url": "https://www.nature.com/articles/s41591-026-04562-9",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Raghav Sehgal",
+    "Daniel Borrus",
+    "Jenel F. Armstrong",
+    "John Gonzalez",
+    "Jessica Kasamoto",
+    "Yaroslav Markov"
+  ],
+  "pub_date": "2026-08-21T00:00:00+00:00",
+  "fetched_date": "2026-08-24T07:59:57.962921+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/s41591-026-04562-9\">doi:10.1038/s41591-026-04562-9</a></p>The responsiveness of 16 different epigenetic aging clocks to a broad array of pharmacological and lifestyle interventions in humans was assessed across 51 different longitudinal studies, providing insights into the potential of aging clocks to serve as reliable aging biomarkers.",
+  "headline": "Scientists tested whether aging clocks can track if treatments actually slow human aging.",
+  "why_it_matters": "We need reliable ways to measure whether anti-aging drugs and lifestyle changes actually work in people. This study tested 16 different 'aging clocks' across dozens of studies to see which ones are trustworthy\u2014potentially accelerating development of therapies that extend healthy lifespan.",
+  "key_findings": [
+    "Researchers analyzed 51 human studies to see how 16 different epigenetic aging clocks (biological markers that estimate your 'age' based on chemical tags on DNA) responded to treatments and lifestyle changes.",
+    "Some aging clocks were more responsive to interventions than others, meaning some are better at detecting when aging actually slows down.",
+    "The study provides a roadmap for which aging clocks scientists should use to validate new anti-aging drugs and strategies in future research.",
+    "Different clocks measured different aspects of aging, suggesting no single clock captures everything about how fast we age."
+  ],
+  "methods_snapshot": "The team gathered data from 51 existing longitudinal studies (long-term follow-up studies tracking the same people over time) where people received various drugs, supplements, or lifestyle interventions. They measured whether 16 different epigenetic aging clocks\u2014computational tools that read chemical modifications on DNA to estimate biological age\u2014changed in response to these interventions.",
+  "glossary": [
+    {
+      "term": "epigenetic aging clock",
+      "definition": "A computational tool that reads chemical 'tags' attached to your DNA to estimate your biological age, which may differ from your calendar age."
+    },
+    {
+      "term": "biomarker",
+      "definition": "A measurable sign in your body that indicates disease, aging, or response to treatment\u2014like how a thermometer measures fever."
+    },
+    {
+      "term": "longevity intervention",
+      "definition": "Any treatment, drug, or lifestyle change intended to slow aging or extend healthy lifespan."
+    },
+    {
+      "term": "longitudinal study",
+      "definition": "A research study that follows the same people over months or years to track how they change over time."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The aging clocks themselves are machine learning models trained to recognize patterns in DNA chemical modifications that correlate with age and aging rate.",
+  "limitations": "The study pooled data from many different studies with varying designs and populations, which can make it harder to draw firm conclusions. Additionally, aging clocks measure biological aging, but it's still unclear whether slowing biological aging always translates to living longer or staying healthier.",
+  "tags": [
+    "aging biomarkers",
+    "epigenetics",
+    "longevity",
+    "aging clocks",
+    "intervention response",
+    "clinical translation",
+    "precision medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
