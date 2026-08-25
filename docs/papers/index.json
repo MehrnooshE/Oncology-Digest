@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-08-24T07:59:57.963194+00:00",
+  "last_updated": "2026-08-25T07:49:04.927433+00:00",
   "papers": [
+    {
+      "id": "20260825_redox_stratified_macromolecule_degradati",
+      "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
+      "url": "https://www.nature.com/articles/s41467-026-77249-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-25T00:00:00+00:00",
+      "fetched_date": "2026-08-25T07:49:04.927164+00:00",
+      "headline": "Deep-ocean microbes survive starvation by switching how they burn fuel.",
+      "cancer_types": [],
+      "tags": [
+        "deep-sea microbiology",
+        "extremophiles",
+        "metabolic adaptation",
+        "nutrient cycling",
+        "ocean sediments",
+        "microbial resilience"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260824_responsiveness_of_epigenetic_aging_bioma",
       "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans",
@@ -2149,32 +2170,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The AI learned patterns from millions of cancer cells across studies, then used a spotlight method to show which genes it relied on when deciding if a cell was important\u2014turning a black box into something scientists can understand."
-    },
-    {
-      "id": "20260525_a_kinetics_based_model_of_haematopoiesis",
-      "title": "A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
-      "url": "https://www.nature.com/articles/s41556-026-01958-0",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-05-25T00:00:00+00:00",
-      "fetched_date": "2026-05-25T11:14:36.743849+00:00",
-      "headline": "Blood stem cells' output is controlled by their environment, not just their own genetics.",
-      "cancer_types": [
-        "leukaemia",
-        "lymphoma",
-        "other blood cancers"
-      ],
-      "tags": [
-        "stem cells",
-        "blood formation",
-        "leukaemia",
-        "bone marrow transplant",
-        "mathematical modelling",
-        "single-cell analysis",
-        "cell environment"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": "Mathematical computer models (simulations) were used to identify the underlying rules connecting stem cell speed of recovery with their preference for certain blood cell types."
     }
   ]
 }
