@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-08-25T07:49:04.927433+00:00",
+  "last_updated": "2026-08-26T07:50:59.374258+00:00",
   "papers": [
+    {
+      "id": "20260826_methylation_mesa_define_functional_regul",
+      "title": "Methylation Mesa define functional regulatory elements for targeted gene activation",
+      "url": "https://www.nature.com/articles/s41467-026-76648-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-26T00:00:00+00:00",
+      "fetched_date": "2026-08-26T07:50:59.373970+00:00",
+      "headline": "Scientists find genetic 'switches' that control tumor-suppressing genes and learn how to turn them on.",
+      "cancer_types": [
+        "Not specified \u2014 study appears to use general cancer cell models"
+      ],
+      "tags": [
+        "epigenetics",
+        "DNA methylation",
+        "gene regulation",
+        "tumor suppression",
+        "therapeutic targets",
+        "chromatin"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260825_redox_stratified_macromolecule_degradati",
       "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
@@ -2143,33 +2166,6 @@
       "study_type": "imaging",
       "impact_score": 4,
       "ml_angle": "The AI model learned to recognize patterns in CT images and patient data that predict which kidney cancer patients will have good outcomes with kidney-sparing surgery, helping doctors decide whether full kidney removal is truly necessary."
-    },
-    {
-      "id": "20260527_scoring_gene_importance_by_interpreting_",
-      "title": "Scoring gene importance by interpreting single-cell foundation models",
-      "url": "https://www.nature.com/articles/s41587-026-03112-5",
-      "journal": "Nature Biotechnology",
-      "pub_date": "2026-05-27T00:00:00+00:00",
-      "fetched_date": "2026-05-27T10:58:32.346370+00:00",
-      "headline": "New AI tool identifies which genes matter most in individual cancer cells across studies.",
-      "cancer_types": [
-        "general framework applicable to many cancer types",
-        "tested on leukemia and lymphoma cells",
-        "applicable to solid tumors through foundation model approach"
-      ],
-      "tags": [
-        "gene importance",
-        "foundation models",
-        "interpretable AI",
-        "single-cell genomics",
-        "cross-dataset",
-        "cancer biology",
-        "personalized medicine",
-        "computational oncology"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The AI learned patterns from millions of cancer cells across studies, then used a spotlight method to show which genes it relied on when deciding if a cell was important\u2014turning a black box into something scientists can understand."
     }
   ]
 }
