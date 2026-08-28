@@ -1,0 +1,57 @@
+{
+  "id": "20260828_briefing_chat__how_dolly_parton_left_her",
+  "title": "Briefing Chat: How Dolly Parton left her mark on science",
+  "url": "https://www.nature.com/articles/d41586-026-02732-w",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Benjamin Thompson",
+    "Elizabeth Gibney"
+  ],
+  "pub_date": "2026-08-28T00:00:00+00:00",
+  "fetched_date": "2026-08-28T19:20:59.085308+00:00",
+  "abstract": "<p>Nature, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02732-w\">doi:10.1038/d41586-026-02732-w</a></p>Nature reporters discuss the country-music icon's advocacy for vaccines and public health \u2014 plus, promising trial results for an mRNA cancer therapy.",
+  "headline": "Dolly Parton's vaccine advocacy sparks interest in mRNA cancer treatment breakthroughs.",
+  "why_it_matters": "mRNA cancer therapies represent a new way to teach your immune system to fight tumors, similar to how COVID vaccines work. Early trial results suggest this approach could help patients whose cancers don't respond to standard treatments, offering hope for more personalized medicine.",
+  "key_findings": [
+    "Dolly Parton's public support for vaccines helped raise awareness about mRNA technology beyond COVID-19 vaccines",
+    "An mRNA cancer therapy showed promising results in clinical trials (a study testing a new treatment in real patients)",
+    "The therapy works by instructing cells to produce proteins that alert the immune system to attack cancer cells",
+    "Patient outcomes suggest mRNA approaches may be effective against certain hard-to-treat cancers"
+  ],
+  "methods_snapshot": "Researchers conducted clinical trials where patients received mRNA cancer therapy and were monitored for safety and effectiveness. Scientists measured how well patients' immune systems responded and whether their tumors shrank or stopped growing.",
+  "glossary": [
+    {
+      "term": "mRNA",
+      "definition": "A molecule that carries instructions from DNA telling cells what proteins to make; in therapy, it's designed to instruct cells to make cancer-fighting proteins."
+    },
+    {
+      "term": "Clinical trial",
+      "definition": "A research study testing a new medical treatment on actual patients to see if it's safe and works."
+    },
+    {
+      "term": "Immune system",
+      "definition": "Your body's natural defense system that fights infections and abnormal cells like cancer."
+    },
+    {
+      "term": "Personalized medicine",
+      "definition": "Medical treatments customized to an individual patient's unique tumor or genetic makeup."
+    }
+  ],
+  "cancer_types": [
+    "not specifically detailed in abstract"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a briefing piece discussing advocacy and trial results rather than detailed research; specific cancer types, patient numbers, and full efficacy data are not provided in the abstract. More comprehensive peer-reviewed papers are needed to evaluate the complete safety and effectiveness profile.",
+  "tags": [
+    "mRNA therapy",
+    "cancer immunotherapy",
+    "clinical trials",
+    "vaccine advocacy",
+    "personalized medicine",
+    "immune system",
+    "public health"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

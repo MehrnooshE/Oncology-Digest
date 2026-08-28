@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-27T18:10:46.120974+00:00",
+  "last_updated": "2026-08-28T19:20:59.085606+00:00",
   "papers": [
+    {
+      "id": "20260828_briefing_chat__how_dolly_parton_left_her",
+      "title": "Briefing Chat: How Dolly Parton left her mark on science",
+      "url": "https://www.nature.com/articles/d41586-026-02732-w",
+      "journal": "Nature",
+      "pub_date": "2026-08-28T00:00:00+00:00",
+      "fetched_date": "2026-08-28T19:20:59.085308+00:00",
+      "headline": "Dolly Parton's vaccine advocacy sparks interest in mRNA cancer treatment breakthroughs.",
+      "cancer_types": [
+        "not specifically detailed in abstract"
+      ],
+      "tags": [
+        "mRNA therapy",
+        "cancer immunotherapy",
+        "clinical trials",
+        "vaccine advocacy",
+        "personalized medicine",
+        "immune system",
+        "public health"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260827_atomistic_machine_learning_with_irreduci",
       "title": "Atomistic machine learning with irreducible Cartesian natural tensors",
@@ -2136,31 +2160,6 @@
       "study_type": "multi-omics",
       "impact_score": 4,
       "ml_angle": "The researchers used machine learning (artificial intelligence trained on data) to identify which combinations of nine metabolites best predict patient survival and to uncover hidden cause-and-effect relationships between genes and blood chemistry."
-    },
-    {
-      "id": "20260529_pathogenic_germline_variants_identify_el",
-      "title": "Pathogenic germline variants identify elevated cancer risk in pediatric patients referred for genetic testing",
-      "url": "https://www.nature.com/articles/s41591-026-04451-1",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-05-29T00:00:00+00:00",
-      "fetched_date": "2026-05-29T10:51:19.089058+00:00",
-      "headline": "Genetic tests can now identify children at high risk of developing cancer early.",
-      "cancer_types": [
-        "pediatric cancers (types not specified in abstract)",
-        "hereditary cancer syndromes"
-      ],
-      "tags": [
-        "hereditary cancer",
-        "genetic testing",
-        "pediatric oncology",
-        "risk stratification",
-        "precision medicine",
-        "cancer surveillance",
-        "germline variants"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
