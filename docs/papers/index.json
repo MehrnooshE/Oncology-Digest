@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-28T19:20:59.085606+00:00",
+  "last_updated": "2026-08-29T13:05:32.085594+00:00",
   "papers": [
+    {
+      "id": "20260829_the_moderna_cancer_vaccine_offers_hope__",
+      "title": "The Moderna cancer vaccine offers hope \u2014 now we must speed up personalized therapies",
+      "url": "https://www.nature.com/articles/d41586-026-02680-5",
+      "journal": "Nature",
+      "pub_date": "2026-08-28T00:00:00+00:00",
+      "fetched_date": "2026-08-29T13:05:32.085337+00:00",
+      "headline": "A personalized cancer vaccine shows promise in early human trials.",
+      "cancer_types": [
+        "melanoma",
+        "non-small cell lung cancer"
+      ],
+      "tags": [
+        "cancer vaccine",
+        "personalized medicine",
+        "immunotherapy",
+        "Moderna",
+        "tumor mutations",
+        "clinical trial",
+        "precision oncology",
+        "immune response"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": "Machine learning algorithms likely helped identify tumor mutations and predict which mutations would trigger the strongest immune response, allowing researchers to design more effective personalized vaccines."
+    },
     {
       "id": "20260828_briefing_chat__how_dolly_parton_left_her",
       "title": "Briefing Chat: How Dolly Parton left her mark on science",
@@ -2135,31 +2161,6 @@
       "study_type": "multi-omics",
       "impact_score": 4,
       "ml_angle": "The study likely used computational machine learning to filter through vast amounts of genetic and expression data to predict which genes are causal targets of disease variants."
-    },
-    {
-      "id": "20260530_inference_of_upstream_mutation_and_metab",
-      "title": "Inference of upstream-mutation and metabolomic-signature causality identifies prognostic biomarkers and therapeutic targets in pancreatic cancer",
-      "url": "https://www.nature.com/articles/s41467-026-73871-x",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-30T00:00:00+00:00",
-      "fetched_date": "2026-05-30T09:23:43.332787+00:00",
-      "headline": "A blood-test signature of nine molecules predicts pancreatic cancer survival and reveals a new drug target.",
-      "cancer_types": [
-        "pancreatic cancer"
-      ],
-      "tags": [
-        "pancreatic cancer",
-        "biomarker discovery",
-        "metabolomics",
-        "prognosis prediction",
-        "causal inference",
-        "mTOR inhibition",
-        "precision medicine",
-        "drug resistance"
-      ],
-      "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": "The researchers used machine learning (artificial intelligence trained on data) to identify which combinations of nine metabolites best predict patient survival and to uncover hidden cause-and-effect relationships between genes and blood chemistry."
     }
   ]
 }
