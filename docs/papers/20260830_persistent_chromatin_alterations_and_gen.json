@@ -1,0 +1,71 @@
+{
+  "id": "20260830_persistent_chromatin_alterations_and_gen",
+  "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
+  "url": "https://www.nature.com/articles/s41467-026-77331-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Aram S. Modrek",
+    "Keerthivasan R. Chandradoss",
+    "Catherine Do",
+    "Ravesanker Ezhilarasan",
+    "Theodore Sakellaropoulos",
+    "Jerome Karp"
+  ],
+  "pub_date": "2026-08-29T00:00:00+00:00",
+  "fetched_date": "2026-08-30T12:42:05.496736+00:00",
+  "abstract": "<p>Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77331-4\">doi:10.1038/s41467-026-77331-4</a></p>How DNA damage reshapes cancer cells beyond genetic mutations is poorly understood. Here, the authors show that DNA double-strand breaks in glioblastoma cells trigger lasting non-genetic changes in 3D genome folding, gene expression and DNA modifications that persist for weeks.",
+  "headline": "DNA damage in brain cancer causes lasting changes to how genes work, not just mutations.",
+  "why_it_matters": "Most cancer treatments work by damaging DNA to kill tumor cells, but we didn't fully understand what happens after that damage. This study reveals that the damage triggers long-lasting changes in how cancer cells organize and use their genes \u2014 changes that might affect how tumors respond to therapy or come back. Understanding this could help doctors design better treatments.",
+  "key_findings": [
+    "When glioblastoma cells (aggressive brain cancer cells) suffer double-strand breaks \u2014 like snaps in both strands of the DNA ladder \u2014 the damage triggers changes that last for weeks, not just hours or days.",
+    "The DNA inside cells is organized in 3D space like a tangled necklace; this study shows the damage permanently reshapes that 3D organization, changing which genes are close to each other and easier to 'read.'",
+    "Gene expression (which genes get turned on or off) is permanently reprogrammed after DNA damage, meaning cancer cells behave differently long-term, not just immediately after injury.",
+    "Chemical modifications to DNA and proteins that wrap around it (called epigenetic changes) persist after damage, essentially leaving a long-term 'memory' of the injury in the cell.",
+    "These changes happen without new genetic mutations, meaning the cell's blueprint stays the same but its behavior changes \u2014 like redecorating a house without rebuilding its walls."
+  ],
+  "methods_snapshot": "Researchers damaged DNA in glioblastoma cells in the lab and tracked what happened using advanced imaging and sequencing technologies (methods that 'read' genes and how they're organized). They monitored changes over weeks to see which alterations stuck around versus which disappeared quickly.",
+  "glossary": [
+    {
+      "term": "Glioblastoma",
+      "definition": "An aggressive type of brain cancer that starts in support cells (glial cells) in the brain."
+    },
+    {
+      "term": "Double-strand break",
+      "definition": "A break in both strands of the DNA double helix, like a snapped ladder \u2014 one of the most serious types of DNA damage."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process of turning genes 'on' or 'off' so they produce proteins or stay silent."
+    },
+    {
+      "term": "Chromatin",
+      "definition": "The complex of DNA and proteins packaged tightly together inside cells, organized in 3D space like a tangled necklace."
+    },
+    {
+      "term": "Epigenetic changes",
+      "definition": "Changes to how genes are wrapped up and marked chemically, affecting which genes turn on or off without changing the DNA code itself."
+    },
+    {
+      "term": "3D genome folding",
+      "definition": "How DNA and its packaging proteins arrange themselves in three-dimensional space inside the cell nucleus, which affects which genes are accessible."
+    }
+  ],
+  "cancer_types": [
+    "glioblastoma",
+    "brain cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was done in lab-grown cancer cells, not in tumors inside living patients, so results may differ in real human bodies. It focused only on glioblastoma, so findings might not apply to all cancer types.",
+  "study_type": "preclinical",
+  "tags": [
+    "DNA damage",
+    "glioblastoma",
+    "epigenetics",
+    "cancer biology",
+    "chromatin",
+    "gene expression",
+    "genomics"
+  ],
+  "impact_score": 4
+}

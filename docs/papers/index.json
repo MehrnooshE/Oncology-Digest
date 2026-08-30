@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-29T13:05:32.085594+00:00",
+  "last_updated": "2026-08-30T12:42:05.497024+00:00",
   "papers": [
+    {
+      "id": "20260830_persistent_chromatin_alterations_and_gen",
+      "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
+      "url": "https://www.nature.com/articles/s41467-026-77331-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-08-29T00:00:00+00:00",
+      "fetched_date": "2026-08-30T12:42:05.496736+00:00",
+      "headline": "DNA damage in brain cancer causes lasting changes to how genes work, not just mutations.",
+      "cancer_types": [
+        "glioblastoma",
+        "brain cancer"
+      ],
+      "tags": [
+        "DNA damage",
+        "glioblastoma",
+        "epigenetics",
+        "cancer biology",
+        "chromatin",
+        "gene expression",
+        "genomics"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260829_the_moderna_cancer_vaccine_offers_hope__",
       "title": "The Moderna cancer vaccine offers hope \u2014 now we must speed up personalized therapies",
@@ -2136,31 +2161,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260531_multi_ancestry_transcriptome_wide_associ",
-      "title": "Multi-ancestry transcriptome-wide association studies uncover insights into breast cancer genetics and biology",
-      "url": "https://www.nature.com/articles/s41467-026-73801-x",
-      "journal": "Nature Communications",
-      "pub_date": "2026-05-30T00:00:00+00:00",
-      "fetched_date": "2026-05-31T09:48:56.718372+00:00",
-      "headline": "Researchers identify hidden genes that increase breast cancer risk across different populations.",
-      "cancer_types": [
-        "breast cancer"
-      ],
-      "tags": [
-        "breast cancer genetics",
-        "gene discovery",
-        "precision medicine",
-        "health disparities",
-        "multi-ancestry",
-        "transcriptomics",
-        "single-cell biology",
-        "cancer susceptibility"
-      ],
-      "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": "The study likely used computational machine learning to filter through vast amounts of genetic and expression data to predict which genes are causal targets of disease variants."
     }
   ]
 }
