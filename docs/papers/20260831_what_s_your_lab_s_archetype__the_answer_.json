@@ -1,0 +1,58 @@
+{
+  "id": "20260831_what_s_your_lab_s_archetype__the_answer_",
+  "title": "What\u2019s your lab\u2019s archetype? The answer could inform how you use AI",
+  "url": "https://www.nature.com/articles/d41586-026-02543-z",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Jenna Ahart"
+  ],
+  "pub_date": "2026-08-31T00:00:00+00:00",
+  "fetched_date": "2026-08-31T14:58:14.743396+00:00",
+  "abstract": "<p>Nature, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02543-z\">doi:10.1038/d41586-026-02543-z</a></p>A white paper gives research groups four priority models, each of which uses artificial intelligence differently.",
+  "headline": "Different research labs should adopt AI strategies tailored to their specific goals and structure.",
+  "why_it_matters": "Cancer research labs are increasingly using AI (artificial intelligence) to speed up discoveries, but there's no one-size-fits-all approach. This work helps lab leaders choose AI tools that actually match how their team works and what they're trying to accomplish, potentially making research faster and more effective. Better AI strategy could translate to quicker development of new cancer treatments.",
+  "key_findings": [
+    "Research labs fall into four distinct archetypes (categories) based on their priorities, size, and resources",
+    "Each archetype benefits from different AI applications \u2014 some labs need AI for analyzing massive datasets, while others need it for automating routine experiments (work that repeats the same steps)",
+    "A white paper (a detailed guide) provides a framework to help labs identify which archetype they are and how to use AI accordingly",
+    "Matching AI strategy to lab type reduces wasted effort and helps labs focus computing resources where they'll have the biggest impact"
+  ],
+  "methods_snapshot": "The authors surveyed and interviewed cancer research groups to identify common organizational patterns and priorities. They then developed four lab archetypes and matched each with recommended AI and machine learning (computer systems that learn from data) strategies suited to that type.",
+  "glossary": [
+    {
+      "term": "archetype",
+      "definition": "a standard or typical example that represents a larger category"
+    },
+    {
+      "term": "artificial intelligence (AI)",
+      "definition": "computer systems designed to perform tasks that normally require human intelligence, like analyzing patterns or making decisions"
+    },
+    {
+      "term": "machine learning",
+      "definition": "a type of AI where computers learn from data and examples rather than being explicitly programmed for each task"
+    },
+    {
+      "term": "white paper",
+      "definition": "an authoritative guide or report that explains a topic and offers recommendations"
+    },
+    {
+      "term": "automation",
+      "definition": "using machines or computer systems to perform repetitive tasks without human intervention each time"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The paper discusses how different lab archetypes should use machine learning and AI differently \u2014 some for high-throughput screening (testing many compounds quickly), others for pattern recognition in medical images, and others for predicting drug responses.",
+  "limitations": "This is a framework paper rather than a study testing specific outcomes, so it cannot directly prove that following these recommendations will improve research results. Different labs may not fit neatly into one archetype, and resource constraints may limit what AI strategies are truly feasible for smaller or under-funded groups.",
+  "tags": [
+    "AI strategy",
+    "cancer research",
+    "lab management",
+    "machine learning",
+    "research optimization",
+    "precision medicine",
+    "computational biology"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

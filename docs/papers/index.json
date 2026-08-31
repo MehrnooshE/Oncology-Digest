@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-30T12:42:05.497024+00:00",
+  "last_updated": "2026-08-31T14:58:14.743663+00:00",
   "papers": [
+    {
+      "id": "20260831_what_s_your_lab_s_archetype__the_answer_",
+      "title": "What\u2019s your lab\u2019s archetype? The answer could inform how you use AI",
+      "url": "https://www.nature.com/articles/d41586-026-02543-z",
+      "journal": "Nature",
+      "pub_date": "2026-08-31T00:00:00+00:00",
+      "fetched_date": "2026-08-31T14:58:14.743396+00:00",
+      "headline": "Different research labs should adopt AI strategies tailored to their specific goals and structure.",
+      "cancer_types": [],
+      "tags": [
+        "AI strategy",
+        "cancer research",
+        "lab management",
+        "machine learning",
+        "research optimization",
+        "precision medicine",
+        "computational biology"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "The paper discusses how different lab archetypes should use machine learning and AI differently \u2014 some for high-throughput screening (testing many compounds quickly), others for pattern recognition in medical images, and others for predicting drug responses."
+    },
     {
       "id": "20260830_persistent_chromatin_alterations_and_gen",
       "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
@@ -2137,28 +2159,6 @@
         "clinical trial"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260601_downplaying_toxicities_in_cancer_drug_tr",
-      "title": "Downplaying toxicities in cancer drug trials is not acceptable",
-      "url": "https://www.nature.com/articles/s41591-026-04463-x",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-01T00:00:00+00:00",
-      "fetched_date": "2026-06-01T12:42:44.058800+00:00",
-      "headline": "Cancer drug trials must honestly report patient side effects, not just tumor shrinkage.",
-      "cancer_types": [],
-      "tags": [
-        "clinical-trials",
-        "drug-safety",
-        "cancer-treatment",
-        "patient-transparency",
-        "medical-ethics",
-        "side-effects",
-        "regulatory-standards"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }
