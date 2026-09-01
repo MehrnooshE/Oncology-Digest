@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-08-31T14:58:14.743663+00:00",
+  "last_updated": "2026-09-01T12:28:41.220264+00:00",
   "papers": [
+    {
+      "id": "20260901_author_correction__activating_mutations_",
+      "title": "Author Correction: Activating mutations in <i>CSF1R</i> and additional receptor tyrosine kinases in histiocytic neoplasms",
+      "url": "https://www.nature.com/articles/s41591-026-04613-1",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-01T00:00:00+00:00",
+      "fetched_date": "2026-09-01T12:28:41.219991+00:00",
+      "headline": "Researchers identify genetic mutations driving rare blood cell cancers and suggest new treatment targets.",
+      "cancer_types": [
+        "Histiocytic neoplasms",
+        "Langerhans cell histiocytosis",
+        "Rosai-Dorfman disease"
+      ],
+      "tags": [
+        "rare cancer",
+        "genetic mutations",
+        "targeted therapy",
+        "immunotherapy",
+        "precision medicine",
+        "drug development"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260831_what_s_your_lab_s_archetype__the_answer_",
       "title": "What\u2019s your lab\u2019s archetype? The answer could inform how you use AI",
@@ -2139,28 +2164,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": "The researchers likely used machine learning to analyze the massive amounts of spatial protein data and identify patterns in which cell types and proteins consistently block antibody penetration across different tumors and patients."
-    },
-    {
-      "id": "20260602_15_strain_live_biotherapeutic_product_or",
-      "title": "15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent <i>Clostridioides difficile</i> infection: a randomized phase 1b trial",
-      "url": "https://www.nature.com/articles/s41591-026-04442-2",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-02T00:00:00+00:00",
-      "fetched_date": "2026-06-02T11:22:18.611261+00:00",
-      "headline": "Simple bacterial mixture works as well as full fecal transplant for stubborn C. difficile infections.",
-      "cancer_types": [],
-      "tags": [
-        "microbiome",
-        "C. difficile",
-        "fecal transplant",
-        "gut health",
-        "biotherapeutic",
-        "infection treatment",
-        "clinical trial"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

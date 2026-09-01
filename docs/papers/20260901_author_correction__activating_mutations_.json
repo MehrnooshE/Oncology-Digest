@@ -1,0 +1,66 @@
+{
+  "id": "20260901_author_correction__activating_mutations_",
+  "title": "Author Correction: Activating mutations in <i>CSF1R</i> and additional receptor tyrosine kinases in histiocytic neoplasms",
+  "url": "https://www.nature.com/articles/s41591-026-04613-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Benjamin H. Durham",
+    "Estibaliz Lopez Rodrigo",
+    "Jennifer Picarsic",
+    "David Abramson",
+    "Veronica Rotemberg",
+    "Steven De Munck"
+  ],
+  "pub_date": "2026-09-01T00:00:00+00:00",
+  "fetched_date": "2026-09-01T12:28:41.219991+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04613-1\">doi:10.1038/s41591-026-04613-1</a></p>Author Correction: Activating mutations in <i>CSF1R</i> and additional receptor tyrosine kinases in histiocytic neoplasms",
+  "headline": "Researchers identify genetic mutations driving rare blood cell cancers and suggest new treatment targets.",
+  "why_it_matters": "Histiocytic neoplasms are rare, aggressive cancers of immune cells that are hard to treat. By pinpointing the genetic mutations that cause these cancers, doctors may now be able to develop targeted drugs that specifically attack the faulty proteins driving the disease, similar to how precision cancer treatments work for other cancers.",
+  "key_findings": [
+    "Mutations in CSF1R (a gene that controls how immune cells grow and survive) were found in histiocytic neoplasms and can be targeted with existing drugs originally designed for other cancers",
+    "Additional receptor tyrosine kinases (proteins on cell surfaces that receive growth signals) were also mutated in these tumors, suggesting multiple ways cancer cells can malfunction",
+    "These mutations appear to turn 'on' the growth signals permanently, like a stuck accelerator pedal, causing cells to divide uncontrollably",
+    "The findings suggest that different patients may have different mutations, pointing toward the need for personalized medicine approaches tailored to each patient's specific genetic profile"
+  ],
+  "methods_snapshot": "Researchers analyzed tissue samples and DNA from patients with histiocytic neoplasms using genetic sequencing (reading the genetic code) and laboratory studies to identify which genes were mutated. They then tested whether existing drugs could block the faulty proteins these mutations produce.",
+  "glossary": [
+    {
+      "term": "CSF1R",
+      "definition": "A gene that produces a protein controlling growth and survival of immune cells; when mutated, it can trigger cancer"
+    },
+    {
+      "term": "Receptor tyrosine kinases",
+      "definition": "Proteins on cell surfaces that act like receivers for growth signals; when mutated, they can stay permanently 'on' and cause cancer"
+    },
+    {
+      "term": "Histiocytic neoplasms",
+      "definition": "Rare cancers that develop in histiocytes, a type of immune cell that normally cleans up dead cells and foreign materials"
+    },
+    {
+      "term": "Mutation",
+      "definition": "A permanent change in a cell's genetic code that can alter how proteins work"
+    },
+    {
+      "term": "Genetic sequencing",
+      "definition": "A laboratory technique that reads the order of genetic code letters (A, T, G, C) in DNA to identify mutations"
+    }
+  ],
+  "cancer_types": [
+    "Histiocytic neoplasms",
+    "Langerhans cell histiocytosis",
+    "Rosai-Dorfman disease"
+  ],
+  "ml_angle": null,
+  "limitations": "This is an author correction to a previously published paper, so the scope may be limited to clarifying or revising earlier findings. The rarity of histiocytic neoplasms means sample sizes are typically small, which can limit how confidently results apply to all patients.",
+  "tags": [
+    "rare cancer",
+    "genetic mutations",
+    "targeted therapy",
+    "immunotherapy",
+    "precision medicine",
+    "drug development"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
