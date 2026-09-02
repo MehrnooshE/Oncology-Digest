@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-01T12:28:41.220264+00:00",
+  "last_updated": "2026-09-02T12:02:09.590476+00:00",
   "papers": [
+    {
+      "id": "20260902_atezolizumab_in_early_triple_negative_br",
+      "title": "Atezolizumab in early triple-negative breast cancer: the randomized phase 3 NSABP B-59/GeparDouze trial",
+      "url": "https://www.nature.com/articles/s41591-026-04565-6",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-01T00:00:00+00:00",
+      "fetched_date": "2026-09-02T12:02:09.590148+00:00",
+      "headline": "New immunotherapy drug didn't improve survival in early triple-negative breast cancer.",
+      "cancer_types": [
+        "triple-negative breast cancer"
+      ],
+      "tags": [
+        "immunotherapy",
+        "breast cancer",
+        "clinical trial",
+        "triple-negative",
+        "tumor microenvironment",
+        "personalized medicine",
+        "chemotherapy"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260901_author_correction__activating_mutations_",
       "title": "Author Correction: Activating mutations in <i>CSF1R</i> and additional receptor tyrosine kinases in histiocytic neoplasms",
@@ -2136,34 +2160,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260603_single_cell_spatial_pharmacobiology_iden",
-      "title": "Single-cell spatial pharmacobiology identifies conserved stromal barriers to therapeutic antibody delivery in human solid tumors",
-      "url": "https://www.nature.com/articles/s41587-026-03152-x",
-      "journal": "Nature Biotechnology",
-      "pub_date": "2026-06-03T00:00:00+00:00",
-      "fetched_date": "2026-06-03T11:59:43.734817+00:00",
-      "headline": "Scientists map why antibody cancer drugs get stuck outside tumors instead of reaching cancer cells.",
-      "cancer_types": [
-        "breast cancer",
-        "lung cancer",
-        "pancreatic cancer",
-        "other solid tumors"
-      ],
-      "tags": [
-        "antibody-drug-delivery",
-        "tumor-microenvironment",
-        "immunotherapy",
-        "spatial-proteomics",
-        "therapeutic-resistance",
-        "cancer-barriers",
-        "precision-medicine",
-        "drug-penetration"
-      ],
-      "study_type": "single-cell",
-      "impact_score": 4,
-      "ml_angle": "The researchers likely used machine learning to analyze the massive amounts of spatial protein data and identify patterns in which cell types and proteins consistently block antibody penetration across different tumors and patients."
     }
   ]
 }
