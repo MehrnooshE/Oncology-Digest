@@ -1,0 +1,56 @@
+{
+  "id": "20260903_induced_proximity_comes_of_age",
+  "title": "Induced proximity comes of age",
+  "url": "https://www.nature.com/articles/d41591-026-00045-z",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Natalie Healey"
+  ],
+  "pub_date": "2026-09-03T00:00:00+00:00",
+  "fetched_date": "2026-09-03T12:01:27.627630+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41591-026-00045-z\">doi:10.1038/d41591-026-00045-z</a></p>The first approved PROTAC for breast cancer validated the idea that medicines can work by bringing proteins together rather than by simply blocking them. Now, a new generation of proximity-based therapies is pushing that principle further.",
+  "headline": "New cancer drugs work by gluing proteins together instead of just blocking them.",
+  "why_it_matters": "For decades, cancer medicines worked like off-switches\u2014they'd block a bad protein from working. But this paper describes a smarter approach: drugs that act like molecular bridges, forcing harmful proteins to stick together so they get destroyed. This opens doors to treating cancers that were previously hard to drug, potentially helping thousands of patients.",
+  "key_findings": [
+    "The first PROTAC drug (a synthetic molecule that acts as a molecular matchmaker) was approved for breast cancer, proving the concept works in real patients, not just lab experiments",
+    "PROTACs bring two proteins close together, causing the body's natural trash-disposal system (the proteasome, which normally degrades worn-out proteins) to destroy them both",
+    "This 'proximity-based' approach can target proteins that traditional blocking drugs couldn't touch because they lacked a good chemical 'handle' to grab onto",
+    "A new wave of similar therapies is now in development, suggesting this principle can be applied far beyond the first approved drug"
+  ],
+  "methods_snapshot": "This is a research commentary that synthesizes findings from the first approved PROTAC therapy and emerging clinical data on next-generation proximity-based drugs. Rather than conducting a single study, the authors reviewed and analyzed existing clinical trial results and preclinical research to assess how this new drug class is performing.",
+  "glossary": [
+    {
+      "term": "PROTAC",
+      "definition": "An artificial protein-targeting molecule that glues together a cancer protein and a disposal protein, triggering the cancer protein's destruction."
+    },
+    {
+      "term": "Proximity-based therapy",
+      "definition": "A treatment that works by forcing two proteins to come close together, rather than simply blocking a single protein's function."
+    },
+    {
+      "term": "Proteasome",
+      "definition": "The cell's main recycling center that breaks down proteins marked for disposal."
+    },
+    {
+      "term": "Induced proximity",
+      "definition": "The technique of artificially bringing molecules close together to trigger a desired chemical reaction."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a commentary summarizing recent advances rather than a controlled experiment, so it cannot measure efficacy on its own. The long-term safety and effectiveness of newer proximity-based drugs remain to be established through ongoing clinical trials.",
+  "tags": [
+    "PROTACs",
+    "protein degradation",
+    "breast cancer",
+    "immunotherapy",
+    "drug development",
+    "precision medicine",
+    "therapeutic innovation"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-02T12:02:09.590476+00:00",
+  "last_updated": "2026-09-03T12:01:27.627899+00:00",
   "papers": [
+    {
+      "id": "20260903_induced_proximity_comes_of_age",
+      "title": "Induced proximity comes of age",
+      "url": "https://www.nature.com/articles/d41591-026-00045-z",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-03T00:00:00+00:00",
+      "fetched_date": "2026-09-03T12:01:27.627630+00:00",
+      "headline": "New cancer drugs work by gluing proteins together instead of just blocking them.",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "tags": [
+        "PROTACs",
+        "protein degradation",
+        "breast cancer",
+        "immunotherapy",
+        "drug development",
+        "precision medicine",
+        "therapeutic innovation"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260902_atezolizumab_in_early_triple_negative_br",
       "title": "Atezolizumab in early triple-negative breast cancer: the randomized phase 3 NSABP B-59/GeparDouze trial",
@@ -2135,29 +2159,6 @@
         "neuroplasticity"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260604_bypassing_the_vta__thalamic_modulation_o",
-      "title": "Bypassing the VTA: Thalamic modulation of striatal dopamine prioritizes safety",
-      "url": "https://www.nature.com/articles/s41467-026-73905-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-04T00:00:00+00:00",
-      "fetched_date": "2026-06-04T10:41:01.909961+00:00",
-      "headline": "Brain discovers a safety shortcut that overrides reward signals to avoid danger.",
-      "cancer_types": [],
-      "tags": [
-        "neuroscience",
-        "dopamine",
-        "decision-making",
-        "safety",
-        "brain-circuits",
-        "reward-system",
-        "behavior",
-        "anxiety"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
