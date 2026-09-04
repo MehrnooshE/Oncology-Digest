@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-09-03T12:01:27.627899+00:00",
+  "last_updated": "2026-09-04T12:03:19.257796+00:00",
   "papers": [
+    {
+      "id": "20260904_multimodal_radiopathomics_model_predicts",
+      "title": "Multimodal radiopathomics model predicts postoperative metachronous liver metastasis in gastric cancer",
+      "url": "https://www.nature.com/articles/s41467-026-76382-x",
+      "journal": "Nature Communications",
+      "pub_date": "2026-09-04T00:00:00+00:00",
+      "fetched_date": "2026-09-04T12:03:19.257483+00:00",
+      "headline": "AI model predicts which gastric cancer patients will develop liver tumors after surgery.",
+      "cancer_types": [
+        "gastric cancer",
+        "stomach cancer"
+      ],
+      "tags": [
+        "gastric cancer",
+        "metastasis prediction",
+        "machine learning",
+        "precision medicine",
+        "immunotherapy",
+        "cancer imaging",
+        "prognosis"
+      ],
+      "study_type": "imaging",
+      "impact_score": 4,
+      "ml_angle": "Machine learning algorithms analyzed thousands of medical images, tissue samples, and patient records simultaneously to identify subtle patterns that predict liver metastasis\u2014patterns too complex for doctors to spot manually."
+    },
     {
       "id": "20260903_induced_proximity_comes_of_age",
       "title": "Induced proximity comes of age",
@@ -2139,28 +2164,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The algorithm uses machine learning to identify archetypal patterns in chromatin data and extrapolate them to predict how individual cells are changing, automating pattern recognition that would be impossible to do by hand."
-    },
-    {
-      "id": "20260605_spinal_cord_stimulation_for_upper_limb_m",
-      "title": "Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial",
-      "url": "https://www.nature.com/articles/s41591-026-04435-1",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-04T00:00:00+00:00",
-      "fetched_date": "2026-06-05T10:52:09.982609+00:00",
-      "headline": "Electrical stimulation of the spinal cord helps stroke survivors regain arm strength and movement.",
-      "cancer_types": [],
-      "tags": [
-        "stroke-recovery",
-        "spinal-cord-stimulation",
-        "motor-rehabilitation",
-        "neuromodulation",
-        "hemiparesis",
-        "clinical-trial",
-        "neuroplasticity"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

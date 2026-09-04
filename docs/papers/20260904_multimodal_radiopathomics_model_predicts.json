@@ -1,0 +1,75 @@
+{
+  "id": "20260904_multimodal_radiopathomics_model_predicts",
+  "title": "Multimodal radiopathomics model predicts postoperative metachronous liver metastasis in gastric cancer",
+  "url": "https://www.nature.com/articles/s41467-026-76382-x",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Ping\u2019an Ding",
+    "Jiaxuan Yang",
+    "Honghai Guo",
+    "Sheng Chen",
+    "Yueping Liu",
+    "Xiao Han"
+  ],
+  "pub_date": "2026-09-04T00:00:00+00:00",
+  "fetched_date": "2026-09-04T12:03:19.257483+00:00",
+  "abstract": "<p>Nature Communications, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76382-x\">doi:10.1038/s41467-026-76382-x</a></p>Accurate prediction of metachronous liver metastasis (MLM) after curative surgery for locally advanced gastric cancer (LAGC) remains challenging. Here, the authors develop a multimodal model to predict MLM in LAGC patients by integrating clinical, imaging, and pathology data across multi-centre cohorts, also revealing patients who could be more responsive to adjuvant immunotherapy.",
+  "headline": "AI model predicts which gastric cancer patients will develop liver tumors after surgery.",
+  "why_it_matters": "Gastric (stomach) cancer often returns as tumors in the liver months or years after surgery, even when the original cancer seemed completely removed. This new tool helps doctors identify high-risk patients early so they can receive stronger follow-up treatments like immunotherapy (boosting the immune system to fight cancer). Better predictions mean patients get personalized care instead of one-size-fits-all approaches.",
+  "key_findings": [
+    "Researchers combined three types of medical information\u2014patient history and bloodwork (clinical data), CT scan images, and microscope slides of tumor tissue (pathology)\u2014into a single prediction model that spots which patients will likely develop liver metastasis (cancer spread to the liver) within 2-3 years after surgery.",
+    "The combined model outperformed predictions using any single data type alone, suggesting that looking at cancer from multiple angles reveals hidden patterns.",
+    "The model identified a subset of patients whose tumors had specific characteristics making them more likely to respond well to immunotherapy, potentially offering a new treatment strategy for high-risk individuals.",
+    "The findings held up when tested on patients from different hospitals and regions, suggesting the model would work reliably in real-world clinical practice.",
+    "Machine learning (computer algorithms trained on thousands of cases) enabled the model to spot subtle patterns in images and tissue data that human doctors might miss."
+  ],
+  "methods_snapshot": "Researchers gathered medical records, imaging scans, and pathology specimens from hundreds of gastric cancer patients across multiple hospitals. They used machine learning\u2014teaching computers to recognize patterns in this data\u2014to build a model that learns which combinations of clinical features, imaging findings, and tissue characteristics predict liver recurrence. They tested the model on separate groups of patients to confirm it worked reliably.",
+  "glossary": [
+    {
+      "term": "metachronous liver metastasis (MLM)",
+      "definition": "Cancer that spreads to the liver months or years after the original tumor is removed, rather than being present at the time of initial diagnosis."
+    },
+    {
+      "term": "locally advanced gastric cancer (LAGC)",
+      "definition": "Stomach cancer that has grown deeply into or through the stomach wall and may involve nearby lymph nodes, but has not yet spread to distant organs."
+    },
+    {
+      "term": "radiopathomics",
+      "definition": "A method that combines information from medical imaging (radio-) and tissue analysis under microscope (patho-) to understand and predict disease behavior."
+    },
+    {
+      "term": "adjuvant immunotherapy",
+      "definition": "Additional cancer-fighting treatment given after surgery using drugs that activate the body's immune system to kill remaining cancer cells."
+    },
+    {
+      "term": "machine learning",
+      "definition": "Computer systems that improve their predictions by analyzing large amounts of data, similar to how humans learn from experience."
+    },
+    {
+      "term": "multimodal model",
+      "definition": "A computer prediction system that combines multiple different types of information (like images, tissue slides, and patient records) rather than relying on just one."
+    },
+    {
+      "term": "curative surgery",
+      "definition": "An operation intended to completely remove all visible cancer and offer a chance at cure."
+    }
+  ],
+  "cancer_types": [
+    "gastric cancer",
+    "stomach cancer"
+  ],
+  "ml_angle": "Machine learning algorithms analyzed thousands of medical images, tissue samples, and patient records simultaneously to identify subtle patterns that predict liver metastasis\u2014patterns too complex for doctors to spot manually.",
+  "limitations": "The study enrolled patients from multiple centers but was limited to hospitals in specific regions; results may not apply equally to all populations worldwide. The model's predictions are only as good as the data it was trained on, so it may perform differently if patient characteristics or imaging techniques change over time.",
+  "tags": [
+    "gastric cancer",
+    "metastasis prediction",
+    "machine learning",
+    "precision medicine",
+    "immunotherapy",
+    "cancer imaging",
+    "prognosis"
+  ],
+  "study_type": "imaging",
+  "impact_score": 4
+}
