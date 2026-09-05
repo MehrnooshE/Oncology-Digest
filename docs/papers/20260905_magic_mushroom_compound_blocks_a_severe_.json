@@ -1,0 +1,55 @@
+{
+  "id": "20260905_magic_mushroom_compound_blocks_a_severe_",
+  "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy in mice",
+  "url": "https://www.nature.com/articles/d41586-026-02744-6",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Max Kozlov"
+  ],
+  "pub_date": "2026-09-03T00:00:00+00:00",
+  "fetched_date": "2026-09-05T11:12:32.742450+00:00",
+  "abstract": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02744-6\">doi:10.1038/d41586-026-02744-6</a></p>Study shows that psilocybin acts on nerves to prevent the painful condition called peripheral neuropathy.",
+  "headline": "Magic mushroom compound shields cancer patients from severe nerve damage caused by chemotherapy.",
+  "why_it_matters": "Chemotherapy drugs kill cancer cells but often damage nerves in hands and feet, causing pain that can be debilitating and permanent. If psilocybin (the active ingredient in certain mushrooms) can prevent this side effect in humans, it could let doctors use more effective cancer treatments without sacrificing quality of life.",
+  "key_findings": [
+    "Psilocybin prevented peripheral neuropathy (painful nerve damage in arms and legs) in mice receiving chemotherapy drugs",
+    "The compound works by acting on nerve cells directly, rather than by blocking the chemotherapy drug itself",
+    "Treated mice maintained normal nerve function and showed reduced pain responses compared to untreated mice",
+    "The protection was observed with multiple chemotherapy drugs known to cause this complication"
+  ],
+  "methods_snapshot": "Researchers gave mice chemotherapy drugs known to damage nerves, then treated some with psilocybin while leaving others untreated as controls. They measured nerve damage and pain sensitivity using standard laboratory tests to compare outcomes between groups.",
+  "glossary": [
+    {
+      "term": "Peripheral neuropathy",
+      "definition": "Damage to nerves in the hands and feet that causes numbness, tingling, or burning pain\u2014a common side effect of certain cancer drugs."
+    },
+    {
+      "term": "Psilocybin",
+      "definition": "The psychoactive compound found in certain mushrooms that also appears to have protective effects on nerve cells."
+    },
+    {
+      "term": "Chemotherapy",
+      "definition": "Powerful drugs designed to kill cancer cells, which unfortunately can also damage healthy cells including nerves."
+    },
+    {
+      "term": "Preclinical study",
+      "definition": "Research conducted in laboratory animals (like mice) before testing in human patients."
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract\u2014likely applicable to cancers treated with neurotoxic chemotherapy drugs"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was done in mice, so we don't yet know if psilocybin will work the same way in humans or at what doses it would be safe and effective. More research is needed to understand whether this approach is practical for cancer patients.",
+  "tags": [
+    "chemotherapy side effects",
+    "neuropathy",
+    "psilocybin",
+    "nerve protection",
+    "cancer treatment",
+    "drug repurposing"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

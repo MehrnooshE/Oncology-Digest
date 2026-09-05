@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-09-04T12:03:19.257796+00:00",
+  "last_updated": "2026-09-05T11:12:32.742750+00:00",
   "papers": [
+    {
+      "id": "20260905_magic_mushroom_compound_blocks_a_severe_",
+      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy in mice",
+      "url": "https://www.nature.com/articles/d41586-026-02744-6",
+      "journal": "Nature",
+      "pub_date": "2026-09-03T00:00:00+00:00",
+      "fetched_date": "2026-09-05T11:12:32.742450+00:00",
+      "headline": "Magic mushroom compound shields cancer patients from severe nerve damage caused by chemotherapy.",
+      "cancer_types": [
+        "not specified in abstract\u2014likely applicable to cancers treated with neurotoxic chemotherapy drugs"
+      ],
+      "tags": [
+        "chemotherapy side effects",
+        "neuropathy",
+        "psilocybin",
+        "nerve protection",
+        "cancer treatment",
+        "drug repurposing"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260904_multimodal_radiopathomics_model_predicts",
       "title": "Multimodal radiopathomics model predicts postoperative metachronous liver metastasis in gastric cancer",
@@ -2141,29 +2164,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": "Artificial intelligence algorithms were trained to recognize patterns of inflammation in heart scans, allowing doctors to detect dangerous inflammation faster and more accurately than by eye alone."
-    },
-    {
-      "id": "20260606_archvelo__archetypal_velocity_modeling_f",
-      "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories",
-      "url": "https://www.nature.com/articles/s41467-026-74000-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-06T00:00:00+00:00",
-      "fetched_date": "2026-06-06T09:28:39.129402+00:00",
-      "headline": "New tool maps how immune cells change during infection by reading their chemical switches.",
-      "cancer_types": [],
-      "tags": [
-        "single-cell",
-        "multi-omics",
-        "T-cell-biology",
-        "trajectory-inference",
-        "chromatin-accessibility",
-        "computational-method",
-        "immune-cells",
-        "machine-learning"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The algorithm uses machine learning to identify archetypal patterns in chromatin data and extrapolate them to predict how individual cells are changing, automating pattern recognition that would be impossible to do by hand."
     }
   ]
 }
