@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-09-05T11:12:32.742750+00:00",
+  "last_updated": "2026-09-06T11:35:31.987025+00:00",
   "papers": [
+    {
+      "id": "20260906_prmt7_restricts_cd8__t_cells_expansion_v",
+      "title": "PRMT7 restricts CD8+ T cells expansion via the NF-\u039aB pathway",
+      "url": "https://www.nature.com/articles/s41467-026-77155-2",
+      "journal": "Nature Communications",
+      "pub_date": "2026-09-06T00:00:00+00:00",
+      "fetched_date": "2026-09-06T11:35:31.986755+00:00",
+      "headline": "Blocking a protein called PRMT7 makes immune cells fight cancer better.",
+      "cancer_types": [
+        "Not specified \u2014 study is foundational research on immune mechanism, applicable broadly to cancers treated with T-cell therapy"
+      ],
+      "tags": [
+        "immunotherapy",
+        "T cell",
+        "PRMT7",
+        "NF-\u03baB",
+        "cancer",
+        "drug target",
+        "protein degradation",
+        "preclinical"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260905_magic_mushroom_compound_blocks_a_severe_",
       "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy in mice",
@@ -2143,27 +2168,6 @@
       "study_type": "review",
       "impact_score": 3,
       "ml_angle": "AI systems can quickly identify patterns in mathematical structures and physical data that would take humans years to find manually, helping researchers spot promising new directions to explore."
-    },
-    {
-      "id": "20260607_taming_the_inflamed_heart",
-      "title": "Taming the inflamed heart",
-      "url": "https://www.nature.com/articles/d41591-026-00030-6",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-05T00:00:00+00:00",
-      "fetched_date": "2026-06-07T10:07:52.557681+00:00",
-      "headline": "Doctors are learning to spot and treat heart inflammation using AI scans and new immune-targeting drugs.",
-      "cancer_types": [],
-      "tags": [
-        "heart inflammation",
-        "artificial intelligence imaging",
-        "immunotherapy",
-        "cardiovascular disease",
-        "AI diagnostics",
-        "precision medicine"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": "Artificial intelligence algorithms were trained to recognize patterns of inflammation in heart scans, allowing doctors to detect dangerous inflammation faster and more accurately than by eye alone."
     }
   ]
 }

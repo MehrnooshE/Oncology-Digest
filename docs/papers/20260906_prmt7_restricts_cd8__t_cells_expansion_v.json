@@ -1,0 +1,66 @@
+{
+  "id": "20260906_prmt7_restricts_cd8__t_cells_expansion_v",
+  "title": "PRMT7 restricts CD8+ T cells expansion via the NF-\u039aB pathway",
+  "url": "https://www.nature.com/articles/s41467-026-77155-2",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Nivine Srour",
+    "Kaixiu Luo",
+    "David Allard",
+    "Yan Xiong",
+    "Zhenbao Yu",
+    "Theodore Papadopoulos"
+  ],
+  "pub_date": "2026-09-06T00:00:00+00:00",
+  "fetched_date": "2026-09-06T11:35:31.986755+00:00",
+  "abstract": "<p>Nature Communications, Published online: 06 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77155-2\">doi:10.1038/s41467-026-77155-2</a></p>Cytotoxic T cells (CTL) are successfully employed in tumour therapy but understanding how their expansion and effector function is regulated might result in further improvements. Here the authors show by a T-cell-specific deletion of Prmt7 and by developing a PRMT7-targeting PROTAC degrader that PRMT7 is a negative regulator of the NF-\u03baB pathway in CTL, removing of which improves anti-tumour function of CTL.",
+  "headline": "Blocking a protein called PRMT7 makes immune cells fight cancer better.",
+  "why_it_matters": "Cancer immunotherapy using engineered immune cells has shown promise, but many patients don't respond well enough. This discovery identifies a molecular brake that weakens these cells, and removing it could make them more powerful fighters against tumors. This could lead to better treatments for patients whose cancers currently resist therapy.",
+  "key_findings": [
+    "PRMT7 is a protein that acts like a brake on cytotoxic T cells (CTL \u2014 immune cells trained to kill cancer cells), preventing them from multiplying and attacking tumors effectively.",
+    "When researchers genetically removed PRMT7 from T cells in mice, the cells multiplied more and fought cancer better, shrinking tumors more successfully.",
+    "PRMT7 works by blocking a pathway called NF-\u03baB (a cellular communication system that tells cells to grow and become active). Removing PRMT7 turns this pathway back on.",
+    "The team created a new drug-like molecule (called a PROTAC degrader) that can destroy PRMT7 in the body, offering a potential therapeutic approach that doesn't require genetic editing."
+  ],
+  "methods_snapshot": "Researchers used genetically modified mice where the PRMT7 gene was deleted specifically in T cells, then tested how well these modified cells fought tumors. They also designed and tested a new molecule that chemically destroys PRMT7 protein to see if it had the same effect, mimicking what a future drug might do.",
+  "glossary": [
+    {
+      "term": "PRMT7",
+      "definition": "A protein in cells that acts as a chemical modifier, tagging other proteins to change how they work; in this case, it dampens immune cell activity."
+    },
+    {
+      "term": "Cytotoxic T cells (CTL)",
+      "definition": "White blood cells trained by the immune system to recognize and kill cancer cells or infected cells."
+    },
+    {
+      "term": "NF-\u03baB pathway",
+      "definition": "A cellular communication network inside cells that receives signals telling the cell to grow, divide, and become active; it's like an on switch for cell activity."
+    },
+    {
+      "term": "PROTAC degrader",
+      "definition": "A synthetic molecule designed to find and destroy a specific protein inside cells, acting like a targeted search-and-destroy weapon."
+    },
+    {
+      "term": "T-cell-specific deletion",
+      "definition": "Genetically removing a gene from only one type of cell (here, T cells) while leaving it intact in all other cell types."
+    }
+  ],
+  "cancer_types": [
+    "Not specified \u2014 study is foundational research on immune mechanism, applicable broadly to cancers treated with T-cell therapy"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was conducted primarily in laboratory mice and cell cultures, so it's unclear whether blocking PRMT7 will be as effective or safe in human patients. The new drug-like molecule (PROTAC) is still in early development and would need extensive testing before use in humans.",
+  "tags": [
+    "immunotherapy",
+    "T cell",
+    "PRMT7",
+    "NF-\u03baB",
+    "cancer",
+    "drug target",
+    "protein degradation",
+    "preclinical"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
