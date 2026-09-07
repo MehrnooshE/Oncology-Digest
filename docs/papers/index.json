@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-06T11:35:31.987025+00:00",
+  "last_updated": "2026-09-07T13:24:25.226135+00:00",
   "papers": [
+    {
+      "id": "20260907_the_secret_life_of_a_cell_cycle_gatekeep",
+      "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
+      "url": "https://www.nature.com/articles/d41586-026-02470-z",
+      "journal": "Nature",
+      "pub_date": "2026-09-07T00:00:00+00:00",
+      "fetched_date": "2026-09-07T13:24:25.225842+00:00",
+      "headline": "Scientists find why blocking cell division surprisingly strengthens estrogen-driven breast cancer growth.",
+      "cancer_types": [
+        "breast cancer"
+      ],
+      "tags": [
+        "Rb protein",
+        "breast cancer",
+        "estrogen receptor",
+        "cell cycle",
+        "drug resistance",
+        "combination therapy",
+        "precision medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260906_prmt7_restricts_cd8__t_cells_expansion_v",
       "title": "PRMT7 restricts CD8+ T cells expansion via the NF-\u039aB pathway",
@@ -2148,26 +2172,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260608_how_ai_is_reshaping_discovery_in_maths_a",
-      "title": "How AI is reshaping discovery in maths and physics",
-      "url": "https://www.nature.com/articles/d41586-026-01820-1",
-      "journal": "Nature",
-      "pub_date": "2026-06-08T00:00:00+00:00",
-      "fetched_date": "2026-06-08T12:02:50.268379+00:00",
-      "headline": "AI is helping mathematicians and physicists ask better questions, not replacing human thinking.",
-      "cancer_types": [],
-      "tags": [
-        "artificial-intelligence",
-        "discovery-methods",
-        "human-AI-collaboration",
-        "mathematical-physics",
-        "future-of-science"
-      ],
-      "study_type": "review",
-      "impact_score": 3,
-      "ml_angle": "AI systems can quickly identify patterns in mathematical structures and physical data that would take humans years to find manually, helping researchers spot promising new directions to explore."
     }
   ]
 }
