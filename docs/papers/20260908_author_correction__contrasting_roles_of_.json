@@ -1,0 +1,64 @@
+{
+  "id": "20260908_author_correction__contrasting_roles_of_",
+  "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+  "url": "https://www.nature.com/articles/s41586-026-11081-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Panagiotis Ntziachristos",
+    "Aristotelis Tsirigos",
+    "G. Grant Welstead",
+    "Thomas Trimarchi",
+    "Sofia Bakogianni",
+    "Luyao Xu"
+  ],
+  "pub_date": "2026-09-08T00:00:00+00:00",
+  "fetched_date": "2026-09-08T12:03:43.390148+00:00",
+  "abstract": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11081-7\">doi:10.1038/s41586-026-11081-7</a></p>Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+  "headline": "Two opposing proteins control childhood blood cancer growth; blocking one could offer new treatment.",
+  "why_it_matters": "Acute lymphoblastic leukaemia (ALL) is the most common childhood cancer. This research reveals how two rival proteins fight for control of cancer cell growth, suggesting doctors could starve cancer by targeting the right protein. This opens a new drug strategy that might work better than existing treatments.",
+  "key_findings": [
+    "Two proteins called KDM6A and KDM6B both remove chemical 'off switches' (histone modifications) from DNA, but they have opposite effects in leukaemia \u2014 one fuels cancer, the other fights it.",
+    "KDM6B acts like a brake on cancer growth, while KDM6A promotes it, making them competing forces in the same cells.",
+    "Removing KDM6A (the cancer-promoting protein) slowed tumour growth in lab models, suggesting it could be a drug target.",
+    "The two proteins work partly through different genes and pathways, explaining why they have opposite roles despite doing similar chemical jobs."
+  ],
+  "methods_snapshot": "Researchers used leukaemia cells from patients and laboratory-grown cancer models to compare how KDM6A and KDM6B individually affected cancer growth. They also analysed genetic data to understand which genes each protein controls and how they differ in function.",
+  "glossary": [
+    {
+      "term": "Histone 3 lysine 27 demethylases",
+      "definition": "Proteins that act like erasers, removing chemical tags (called methyl groups) from DNA packaging proteins; this changes which genes are active or silent."
+    },
+    {
+      "term": "Demethylation",
+      "definition": "Removal of a chemical marker (methyl group) from DNA or its packaging proteins, usually turning genes 'on'."
+    },
+    {
+      "term": "Acute lymphoblastic leukaemia (ALL)",
+      "definition": "A fast-growing blood cancer where immature white blood cells multiply out of control, most common in children."
+    },
+    {
+      "term": "KDM6A and KDM6B",
+      "definition": "Two related proteins that erase chemical 'off' marks on DNA, controlling which genes cancer cells activate."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process of turning genetic instructions into working proteins; determines what a cell does."
+    }
+  ],
+  "cancer_types": [
+    "acute lymphoblastic leukaemia (ALL)"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was mainly done in laboratory cells and animal models, not yet in patients; it's unclear whether blocking KDM6A alone would work safely in humans or if cancer might develop resistance. The study is also a correction to an earlier paper, suggesting some findings may need careful re-evaluation.",
+  "tags": [
+    "epigenetics",
+    "childhood-cancer",
+    "drug-targets",
+    "leukaemia",
+    "protein-function",
+    "tumour-suppression"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

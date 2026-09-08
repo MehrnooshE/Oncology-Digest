@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-09-07T13:24:25.226135+00:00",
+  "last_updated": "2026-09-08T12:03:43.390470+00:00",
   "papers": [
+    {
+      "id": "20260908_author_correction__contrasting_roles_of_",
+      "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+      "url": "https://www.nature.com/articles/s41586-026-11081-7",
+      "journal": "Nature",
+      "pub_date": "2026-09-08T00:00:00+00:00",
+      "fetched_date": "2026-09-08T12:03:43.390148+00:00",
+      "headline": "Two opposing proteins control childhood blood cancer growth; blocking one could offer new treatment.",
+      "cancer_types": [
+        "acute lymphoblastic leukaemia (ALL)"
+      ],
+      "tags": [
+        "epigenetics",
+        "childhood-cancer",
+        "drug-targets",
+        "leukaemia",
+        "protein-function",
+        "tumour-suppression"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260907_the_secret_life_of_a_cell_cycle_gatekeep",
       "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
@@ -2144,32 +2167,6 @@
         "sex differences"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260609_preventing_cancer_requires_more_than_a_l",
-      "title": "Preventing cancer requires more than a list of carcinogens",
-      "url": "https://www.nature.com/articles/d41586-026-01847-4",
-      "journal": "Nature",
-      "pub_date": "2026-06-09T00:00:00+00:00",
-      "fetched_date": "2026-06-09T10:36:47.268709+00:00",
-      "headline": "Stopping cancer needs understanding how risk factors work together, not just listing dangerous chemicals.",
-      "cancer_types": [
-        "Skin cancer (melanoma)",
-        "Lung cancer",
-        "Breast cancer",
-        "Colorectal cancer"
-      ],
-      "tags": [
-        "cancer prevention",
-        "risk factors",
-        "personalized medicine",
-        "carcinogens",
-        "gene-environment interaction",
-        "public health"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }
