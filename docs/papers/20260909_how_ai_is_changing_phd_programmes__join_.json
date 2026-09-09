@@ -1,0 +1,50 @@
+{
+  "id": "20260909_how_ai_is_changing_phd_programmes__join_",
+  "title": "How AI is changing PhD programmes: join our free webinar",
+  "url": "https://www.nature.com/articles/d41586-026-02751-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "David Payne"
+  ],
+  "pub_date": "2026-09-09T00:00:00+00:00",
+  "fetched_date": "2026-09-09T12:14:26.589540+00:00",
+  "abstract": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02751-7\">doi:10.1038/d41586-026-02751-7</a></p>Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
+  "headline": "AI tools are reshaping how PhD students learn research, but overreliance poses real risks.",
+  "why_it_matters": "As artificial intelligence becomes more powerful, students and early-career researchers need to understand how to use it as a helper without letting it replace critical thinking. Learning to work *with* AI rather than *relying on* it will shape the next generation of scientists who solve medical problems, including cancer.",
+  "key_findings": [
+    "AI can strengthen PhD training by automating routine tasks, freeing up time for students to focus on creative problem-solving and experimental design",
+    "Over-dependence on AI tools risks eroding core research skills like literature review, hypothesis development, and hands-on experimental thinking",
+    "Institutions need clear guidelines on when and how AI should be used in PhD programmes to maintain research quality and integrity",
+    "Students who understand both the capabilities and limitations of AI will be better equipped for careers in modern research"
+  ],
+  "methods_snapshot": "This is a perspective piece and webinar announcement rather than a formal research study. It synthesizes insights about AI's role in academic training and highlights both opportunities and cautionary lessons from early adoption of AI tools in PhD programmes.",
+  "glossary": [
+    {
+      "term": "Artificial Intelligence (AI)",
+      "definition": "Computer systems designed to perform tasks that normally require human thinking, such as learning from examples and making decisions."
+    },
+    {
+      "term": "PhD programme",
+      "definition": "A multi-year university education leading to a doctorate degree, typically involving original research and training in specialized fields like biology or medicine."
+    },
+    {
+      "term": "Research integrity",
+      "definition": "Honesty and transparency in how scientists conduct, report, and share their work to ensure findings are trustworthy."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI systems can help researchers rapidly analyze literature, design experiments, and process data\u2014but students must still develop their own scientific intuition and judgment.",
+  "limitations": "This commentary does not present experimental data or case studies; it is a call for thoughtful discussion rather than empirical evidence. The actual long-term effects of AI integration in PhD training remain unclear.",
+  "tags": [
+    "artificial intelligence",
+    "PhD training",
+    "research skills",
+    "academic integrity",
+    "education",
+    "machine learning",
+    "scientific workforce"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
