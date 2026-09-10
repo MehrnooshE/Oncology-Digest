@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-09-09T12:14:26.589813+00:00",
+  "last_updated": "2026-09-10T12:08:57.014012+00:00",
   "papers": [
+    {
+      "id": "20260910_a_clinically_oriented_foundation_model_f",
+      "title": "A clinically-oriented foundation model for intraoperative pathology",
+      "url": "https://www.nature.com/articles/s41591-026-04703-0",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-10T00:00:00+00:00",
+      "fetched_date": "2026-09-10T12:08:57.013709+00:00",
+      "headline": "AI tool helps surgeons identify cancer during operations with greater accuracy than existing methods.",
+      "cancer_types": [
+        "not specified in abstract"
+      ],
+      "tags": [
+        "surgical AI",
+        "cancer detection",
+        "intraoperative diagnosis",
+        "pathology",
+        "frozen sections",
+        "real-time diagnosis",
+        "machine learning",
+        "clinical validation"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": "CRISP is an AI system trained to recognize cancer patterns in frozen tissue samples, helping it identify whether cancer is present and guide surgeons' decisions during operations."
+    },
     {
       "id": "20260909_how_ai_is_changing_phd_programmes__join_",
       "title": "How AI is changing PhD programmes: join our free webinar",
@@ -2143,31 +2168,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "Frontier large language models\u2014AI systems trained on diverse internet text\u2014were compared against specialized medical AI using standardized medical tests and real clinical scenarios to see which approach better captures medical knowledge and clinical reasoning."
-    },
-    {
-      "id": "20260611_tead1_condensates_are_transcriptionally_",
-      "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
-      "url": "https://www.nature.com/articles/s41556-026-01985-x",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-06-11T00:00:00+00:00",
-      "fetched_date": "2026-06-11T11:25:40.100196+00:00",
-      "headline": "Cancer cells store excess TEAD1 protein in inactive storage blobs inside the nucleus.",
-      "cancer_types": [
-        "Unspecified cancer cell lines"
-      ],
-      "tags": [
-        "TEAD1",
-        "protein condensates",
-        "gene regulation",
-        "cancer cells",
-        "nuclear organization",
-        "heterochromatin",
-        "protein storage",
-        "transcription"
-      ],
-      "study_type": "imaging",
-      "impact_score": 3,
-      "ml_angle": null
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "20260910_a_clinically_oriented_foundation_model_f",
+  "title": "A clinically-oriented foundation model for intraoperative pathology",
+  "url": "https://www.nature.com/articles/s41591-026-04703-0",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Zihan Zhao",
+    "Fengtao Zhou",
+    "Ronggang Li",
+    "Bing Chu",
+    "Xinke Zhang",
+    "Xueyi Zheng"
+  ],
+  "pub_date": "2026-09-10T00:00:00+00:00",
+  "fetched_date": "2026-09-10T12:08:57.013709+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04703-0\">doi:10.1038/s41591-026-04703-0</a></p>CRISP, a vision-based pathology foundation model developed exclusively from frozen section slides, supports treatment decision-making throughout the surgical workflow with superior performance to current foundation models and extensive validation, including in a prospective cohort.",
+  "headline": "AI tool helps surgeons identify cancer during operations with greater accuracy than existing methods.",
+  "why_it_matters": "During cancer surgery, doctors need to know immediately whether they've removed all the tumor tissue \u2014 currently this takes time and sometimes they have to go back in for a second operation. This new AI system reads tissue samples in real-time during surgery, helping surgeons make better decisions on the spot and potentially reducing the need for repeat procedures.",
+  "key_findings": [
+    "CRISP (a type of artificial intelligence trained to recognize cancer patterns) was developed using only frozen tissue samples (tissue that's quickly frozen and examined during surgery rather than processed the traditional slow way)",
+    "CRISP outperformed other existing AI foundation models (general-purpose AI systems trained on broad medical data) at identifying cancer in surgical samples",
+    "The system was tested prospectively (meaning doctors used it in real surgeries and tracked results going forward), not just on old stored samples",
+    "The AI can support decision-making throughout the surgical workflow (meaning it helps guide choices at multiple stages of an operation, from initial assessment through final checks)"
+  ],
+  "methods_snapshot": "Researchers trained an AI system called CRISP exclusively on frozen section slides \u2014 tissue samples that are quickly frozen and examined during surgery. They then tested it against other AI systems and validated it in a prospective study where surgeons actually used it during real operations.",
+  "glossary": [
+    {
+      "term": "frozen section",
+      "definition": "A tissue sample that is quickly frozen and thinly sliced so a pathologist can examine it under a microscope during surgery, usually within minutes."
+    },
+    {
+      "term": "foundation model",
+      "definition": "A large AI system trained on broad medical data that can recognize patterns and be adapted for specific tasks, similar to how a student learns general skills before specializing."
+    },
+    {
+      "term": "pathology",
+      "definition": "The medical science of identifying diseases by examining tissue samples under a microscope."
+    },
+    {
+      "term": "intraoperative",
+      "definition": "Occurring during a surgical operation."
+    },
+    {
+      "term": "prospective cohort",
+      "definition": "A group of patients followed forward through time in real conditions, rather than looking backward at past records."
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract"
+  ],
+  "ml_angle": "CRISP is an AI system trained to recognize cancer patterns in frozen tissue samples, helping it identify whether cancer is present and guide surgeons' decisions during operations.",
+  "limitations": "The abstract doesn't specify which cancer types were studied or provide detailed performance numbers, so the full scope of the tool's applicability across different cancers remains unclear from this summary alone. Real-world implementation would require careful testing in different hospital settings and surgical teams.",
+  "tags": [
+    "surgical AI",
+    "cancer detection",
+    "intraoperative diagnosis",
+    "pathology",
+    "frozen sections",
+    "real-time diagnosis",
+    "machine learning",
+    "clinical validation"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
