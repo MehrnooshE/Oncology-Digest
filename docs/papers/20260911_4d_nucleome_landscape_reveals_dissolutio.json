@@ -1,0 +1,74 @@
+{
+  "id": "20260911_4d_nucleome_landscape_reveals_dissolutio",
+  "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
+  "url": "https://www.nature.com/articles/s41556-026-02063-y",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Xiaoli Xie",
+    "Delin Tan",
+    "Jingyun Mo",
+    "Yang Xu",
+    "Qingqiang Ni",
+    "Ting Liu"
+  ],
+  "pub_date": "2026-09-11T00:00:00+00:00",
+  "fetched_date": "2026-09-11T12:06:49.442608+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 11 September 2026; <a href=\"https://www.nature.com/articles/s41556-026-02063-y\">doi:10.1038/s41556-026-02063-y</a></p>Xie, Tan, Mo and colleagues show that a liver-specific bipartite structure of the active X chromosome is lost early in hepatocarcinogenesis in mice and humans, driving X-linked gene activation and premalignant transformation, particularly in males.",
+  "headline": "Cancer cells disable a protective structure in the X chromosome, fueling liver tumor growth.",
+  "why_it_matters": "This discovery reveals an early warning sign of liver cancer development, especially in men who have only one X chromosome. Understanding this mechanism could lead to new ways to detect cancer early or block its progression before tumors form.",
+  "key_findings": [
+    "The active X chromosome (the copy of the X chromosome that cells use) normally has a special two-part structure in liver cells that keeps genes organized and controlled.",
+    "This protective structure breaks down early in liver cancer development, both in mouse models and human patients.",
+    "When the structure dissolves, X-linked genes (genes located on the X chromosome) become abnormally active, causing cells to transform into a precancerous state.",
+    "Men appear especially vulnerable because they have only one X chromosome, so losing this protection has a bigger impact on their cells.",
+    "The findings suggest this structural collapse is a driver of cancer, not just a side effect\u2014meaning it actually helps cancer get started."
+  ],
+  "methods_snapshot": "Researchers used 4D imaging and mapping techniques (methods that track chromosome structure and gene activity over time) to watch how the X chromosome's architecture changes in normal liver cells versus cancer cells. They studied this in both laboratory mice and human tissue samples to confirm their findings.",
+  "glossary": [
+    {
+      "term": "X chromosome",
+      "definition": "One of two sex chromosomes; females have two copies, males have one."
+    },
+    {
+      "term": "Active X chromosome",
+      "definition": "The working copy of the X chromosome that a cell uses to make proteins; the other copy is usually inactive."
+    },
+    {
+      "term": "Bipartite structure",
+      "definition": "A two-part organized arrangement that helps control how genes are packaged and used in cells."
+    },
+    {
+      "term": "X-linked genes",
+      "definition": "Genes located on the X chromosome that can be inherited differently in males and females."
+    },
+    {
+      "term": "Hepatocarcinogenesis",
+      "definition": "The process of normal liver cells gradually turning into liver cancer cells."
+    },
+    {
+      "term": "Premalignant transformation",
+      "definition": "The early step when a normal cell begins to show cancer-like behavior but hasn't become a full tumor yet."
+    },
+    {
+      "term": "4D nucleome",
+      "definition": "A map of how chromosomes inside the cell nucleus are arranged and interact over time (the '4D' means three dimensions of space plus time)."
+    }
+  ],
+  "cancer_types": [
+    "Liver cancer (hepatocellular carcinoma)"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was primarily conducted in mouse models, so the findings need confirmation in more human patients to fully understand how this mechanism works in real-world liver cancer. It remains unclear whether this X chromosome change happens in all liver cancers or only in certain subtypes.",
+  "tags": [
+    "X chromosome",
+    "liver cancer",
+    "chromosome structure",
+    "early detection",
+    "sex-specific cancer risk",
+    "epigenetics",
+    "cancer development"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
