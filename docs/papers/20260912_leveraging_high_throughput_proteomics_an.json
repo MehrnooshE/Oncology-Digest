@@ -1,0 +1,80 @@
+{
+  "id": "20260912_leveraging_high_throughput_proteomics_an",
+  "title": "Leveraging high-throughput proteomics and AI-based protein folding to accelerate VAV1 molecular glue discovery",
+  "url": "https://www.nature.com/articles/s41467-026-77657-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Hanfeng Lin",
+    "Xin Yu",
+    "Haiyang Zheng",
+    "Ran Cheng",
+    "Min Zhang",
+    "Xiaoli Qi"
+  ],
+  "pub_date": "2026-09-12T00:00:00+00:00",
+  "fetched_date": "2026-09-12T11:32:56.482420+00:00",
+  "abstract": "<p>Nature Communications, Published online: 12 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77657-z\">doi:10.1038/s41467-026-77657-z</a></p>VAV1 is a blood-cell signaling protein linked to leukemia and autoimmune disease. Here, the authors discover CRBN molecular glues that degrade VAV1 via a non-canonical degron, using proteomics and AI-based structural modeling to guide the design of more potent degraders.",
+  "headline": "Scientists design new drugs that destroy a leukemia-linked protein by hijacking the cell's cleanup system.",
+  "why_it_matters": "Leukemia and autoimmune diseases are caused partly by a protein called VAV1 that runs amok. Current drugs struggle to stop it. This work shows a smarter way to disable VAV1, which could lead to better treatments with fewer side effects. The method could also work for other hard-to-target disease proteins.",
+  "key_findings": [
+    "Researchers discovered molecular glues (special small molecules that act like molecular 'glue' to stick two proteins together) that trick cells into destroying VAV1 via an unusual attachment point called a non-canonical degron (a hidden tag that tells the cell to delete the protein).",
+    "Using AI protein-folding software (AlphaFold-like tools that predict 3D protein shapes), scientists mapped how these glues bind and designed more powerful versions.",
+    "High-throughput proteomics (measuring thousands of proteins at once using automation) revealed which cells were actually degrading VAV1, validating the approach.",
+    "The glues work through CRBN (cereblon, a protein the cell uses as a garbage collector), a known drug target, making the approach potentially translatable to human patients.",
+    "This non-canonical pathway for VAV1 degradation bypasses traditional drug-resistant mechanisms, suggesting a new direction for leukemia therapy."
+  ],
+  "methods_snapshot": "The team combined two modern tools: AI-powered protein structure prediction to design candidate drugs, and large-scale protein measurement (proteomics) to test which designs actually worked in living cells. They used automation to screen thousands of molecular variations quickly, then validated hits computationally.",
+  "glossary": [
+    {
+      "term": "VAV1",
+      "definition": "A protein found in blood cells that controls cell signaling; when it malfunctions, it can drive leukemia and autoimmune disease."
+    },
+    {
+      "term": "Molecular glue",
+      "definition": "A small drug molecule that sticks two proteins together, forcing them to interact in ways that can destroy one of them."
+    },
+    {
+      "term": "Degron",
+      "definition": "A hidden molecular tag on a protein that marks it for destruction by the cell's cleanup machinery."
+    },
+    {
+      "term": "Non-canonical",
+      "definition": "Unusual or not the expected way; here, VAV1 is destroyed via a previously unknown attachment point."
+    },
+    {
+      "term": "CRBN (Cereblon)",
+      "definition": "A cellular protein that acts as a garbage collector, removing tagged proteins. It's the target of existing leukemia drugs."
+    },
+    {
+      "term": "Proteomics",
+      "definition": "Large-scale analysis of all or many proteins in a cell, revealing which proteins are present and how they change."
+    },
+    {
+      "term": "AI protein folding",
+      "definition": "Computer software trained on known protein structures that predicts the 3D shape of a protein from its chemical sequence\u2014crucial for drug design."
+    },
+    {
+      "term": "High-throughput",
+      "definition": "Testing thousands of samples or conditions automatically and rapidly, rather than one at a time."
+    }
+  ],
+  "cancer_types": [
+    "leukemia",
+    "autoimmune-associated cancers"
+  ],
+  "ml_angle": "AI protein-folding models predicted how candidate drugs would fold and bind to VAV1 and CRBN, allowing researchers to design stronger degraders without making thousands of physical prototypes.",
+  "limitations": "This work was done in cell cultures and computational models, not yet in animals or patients, so it's unclear if the drugs will work safely in living organisms. The team focused on one protein (VAV1); broader applicability to other disease-causing proteins remains to be tested.",
+  "tags": [
+    "protein degradation",
+    "molecular glue",
+    "leukemia",
+    "AI drug design",
+    "AlphaFold",
+    "proteomics",
+    "precision medicine",
+    "CRBN"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

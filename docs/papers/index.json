@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-11T12:06:49.442856+00:00",
+  "last_updated": "2026-09-12T11:32:56.482744+00:00",
   "papers": [
+    {
+      "id": "20260912_leveraging_high_throughput_proteomics_an",
+      "title": "Leveraging high-throughput proteomics and AI-based protein folding to accelerate VAV1 molecular glue discovery",
+      "url": "https://www.nature.com/articles/s41467-026-77657-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-09-12T00:00:00+00:00",
+      "fetched_date": "2026-09-12T11:32:56.482420+00:00",
+      "headline": "Scientists design new drugs that destroy a leukemia-linked protein by hijacking the cell's cleanup system.",
+      "cancer_types": [
+        "leukemia",
+        "autoimmune-associated cancers"
+      ],
+      "tags": [
+        "protein degradation",
+        "molecular glue",
+        "leukemia",
+        "AI drug design",
+        "AlphaFold",
+        "proteomics",
+        "precision medicine",
+        "CRBN"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": "AI protein-folding models predicted how candidate drugs would fold and bind to VAV1 and CRBN, allowing researchers to design stronger degraders without making thousands of physical prototypes."
+    },
     {
       "id": "20260911_4d_nucleome_landscape_reveals_dissolutio",
       "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
@@ -2144,31 +2170,6 @@
         "T-cell-dysfunction"
       ],
       "study_type": "single-cell",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260613_in_situ_reprogramming_of_car_alveolar_ma",
-      "title": "In situ reprogramming of CAR-alveolar macrophages via liposomal nanomedicine for lung cancer immunotherapy",
-      "url": "https://www.nature.com/articles/s41467-026-74162-1",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-13T00:00:00+00:00",
-      "fetched_date": "2026-06-13T10:05:08.619388+00:00",
-      "headline": "Scientists reprogram lung immune cells to fight cancer using a new inhaled medicine.",
-      "cancer_types": [
-        "lung cancer"
-      ],
-      "tags": [
-        "CAR-T cell therapy",
-        "lung cancer",
-        "immunotherapy",
-        "nanomedicine",
-        "macrophages",
-        "gene therapy",
-        "precision medicine",
-        "inhaled therapy"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
