@@ -1,0 +1,66 @@
+{
+  "id": "20260913_a_multimodal_murmuration_for_immunothera",
+  "title": "A multimodal murmuration for immunotherapy",
+  "url": "https://www.nature.com/articles/s41591-026-04587-0",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Raquel Perez-Lopez",
+    "Mireia Crispin-Ortuzar"
+  ],
+  "pub_date": "2026-09-13T00:00:00+00:00",
+  "fetched_date": "2026-09-13T12:38:46.230301+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 13 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04587-0\">doi:10.1038/s41591-026-04587-0</a></p>A study shows that integrating numerous multimodal, patient-level biomarkers enhances the prediction of cancer immunotherapy response, but generalizability is still a challenge.",
+  "headline": "Combining multiple patient data types predicts which cancer patients benefit from immunotherapy.",
+  "why_it_matters": "Immunotherapy\u2014drugs that help the immune system fight cancer\u2014doesn't work for everyone. Right now, doctors struggle to know in advance who will respond. This study shows that looking at many different types of patient information together could help predict success, potentially sparing patients from ineffective treatments and side effects.",
+  "key_findings": [
+    "Using multiple data types together (genetic information, tumor characteristics, and immune system markers) predicts immunotherapy response better than any single type alone",
+    "A multimodal approach (combining different kinds of biological measurements from the same patient) captured information that single measurements missed",
+    "The prediction model performed well in the research setting, but applying it to new patient groups remains difficult\u2014a major hurdle for real-world use",
+    "The authors emphasize that better methods are needed to make these predictions reliable across different patient populations and cancer types"
+  ],
+  "methods_snapshot": "Researchers collected multiple types of biological data from cancer patients receiving immunotherapy\u2014like tumor DNA changes, immune cell types, and protein markers\u2014then used computational analysis to find patterns linking these features to treatment success. They built a machine learning model (a computer system trained to recognize patterns) to predict which patients would respond, but tested mainly on the same patient group they trained on.",
+  "glossary": [
+    {
+      "term": "immunotherapy",
+      "definition": "Cancer treatment that activates or enhances your own immune system to fight tumor cells"
+    },
+    {
+      "term": "biomarkers",
+      "definition": "Measurable biological features (like genes, proteins, or immune cells) that indicate disease status or treatment response"
+    },
+    {
+      "term": "multimodal",
+      "definition": "Using multiple different types of data or information at the same time"
+    },
+    {
+      "term": "generalizability",
+      "definition": "Whether a finding works reliably in new patients, not just the ones studied originally"
+    },
+    {
+      "term": "machine learning model",
+      "definition": "A computer system trained on data to recognize patterns and make predictions on new cases"
+    },
+    {
+      "term": "tumor characteristics",
+      "definition": "Physical and genetic features of the cancer cells, like mutations or growth patterns"
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract"
+  ],
+  "ml_angle": "Machine learning integrated multiple types of patient data to identify patterns predicting immunotherapy response better than traditional single-measure approaches.",
+  "limitations": "The study built and tested predictions mainly on the same group of patients, which may overestimate how well the approach works in genuinely new patient populations. Applying this method broadly across different cancer types and medical centers remains an unsolved challenge.",
+  "tags": [
+    "immunotherapy",
+    "precision medicine",
+    "biomarkers",
+    "machine learning",
+    "treatment prediction",
+    "cancer",
+    "multimodal data",
+    "personalized medicine"
+  ],
+  "study_type": "computational",
+  "impact_score": 3
+}
