@@ -1,0 +1,61 @@
+{
+  "id": "20260914_de_novo_mutations_bridge_parental_reprod",
+  "title": "De novo mutations bridge parental reproductive factors and offspring health",
+  "url": "https://www.nature.com/articles/s41591-026-04676-0",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-09-14T00:00:00+00:00",
+  "fetched_date": "2026-09-14T13:47:54.052376+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04676-0\">doi:10.1038/s41591-026-04676-0</a></p>Whole-genome sequencing of 7,851 parent\u2013offspring families enabled the identification of parent-of-origin and post-zygotic de novo mutations that were associated with distinct procedures of assisted reproductive technology (ART), independently of parental age at conception. Increased paternal mutational burden statistically mediates the effects of advanced parental age and ART on gestational duration and other birth outcomes.",
+  "headline": "New mutations from fertility treatments may explain premature birth and other birth complications.",
+  "why_it_matters": "Millions of babies are born using assisted reproductive technology (ART) \u2014 fertility treatments like in vitro fertilization. This study shows that these procedures may introduce tiny changes in DNA (mutations) that affect pregnancy length and newborn health, independent of how old the parents are. Understanding this link could help doctors improve fertility treatments and predict which pregnancies need closer monitoring.",
+  "key_findings": [
+    "Researchers found that assisted reproductive technology (ART \u2014 procedures like IVF where eggs are fertilized outside the body) is associated with increased numbers of new mutations (random DNA changes) in babies, separate from the effect of parental age.",
+    "The father's mutational burden (total number of new DNA mistakes he passes on) statistically explains why older parental age and ART are linked to shorter pregnancy length and complications like premature birth.",
+    "Different ART procedures (such as intracytoplasmic sperm injection, where a single sperm is injected into an egg) were associated with distinct patterns of mutations, suggesting the procedure itself matters, not just the underlying infertility.",
+    "The study examined whole-genome sequencing (reading nearly all 3 billion letters of DNA code) from 7,851 families to track which mutations came from parents and which arose newly in offspring."
+  ],
+  "methods_snapshot": "Scientists performed whole-genome sequencing (a complete read of all DNA) on nearly 8,000 parent-child families to identify new mutations (DNA changes present in the child but not in either parent). They then used statistical analysis to determine whether these mutations could explain the connection between fertility treatments, parental age, and birth outcomes like premature delivery.",
+  "glossary": [
+    {
+      "term": "De novo mutations",
+      "definition": "New DNA changes that appear in a child but were not inherited from either parent; they arise spontaneously during sperm or egg formation or early development."
+    },
+    {
+      "term": "Assisted reproductive technology (ART)",
+      "definition": "Medical procedures to help people conceive, such as in vitro fertilization (IVF), where eggs are fertilized outside the body before implantation."
+    },
+    {
+      "term": "Whole-genome sequencing",
+      "definition": "Reading and mapping the complete set of DNA instructions (approximately 3 billion letters) in a person's cells."
+    },
+    {
+      "term": "Paternal mutational burden",
+      "definition": "The total number of new DNA mutations a father passes to his offspring."
+    },
+    {
+      "term": "Post-zygotic mutations",
+      "definition": "DNA changes that occur after the egg and sperm fuse, arising during early cell divisions of the developing embryo."
+    },
+    {
+      "term": "Parent-of-origin",
+      "definition": "Identifying whether a genetic change came from the mother or the father."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study is observational \u2014 it shows associations between ART and mutations but doesn't prove cause and effect in a controlled experiment. The findings apply primarily to families in the study population and may not fully represent all populations worldwide. Long-term health outcomes beyond birth were not examined.",
+  "tags": [
+    "assisted reproductive technology",
+    "de novo mutations",
+    "birth outcomes",
+    "genomic sequencing",
+    "parental age",
+    "premature birth",
+    "fertility",
+    "DNA variation"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}

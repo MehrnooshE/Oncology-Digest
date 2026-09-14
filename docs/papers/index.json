@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-09-13T12:38:46.230561+00:00",
+  "last_updated": "2026-09-14T13:47:54.052670+00:00",
   "papers": [
+    {
+      "id": "20260914_de_novo_mutations_bridge_parental_reprod",
+      "title": "De novo mutations bridge parental reproductive factors and offspring health",
+      "url": "https://www.nature.com/articles/s41591-026-04676-0",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-14T00:00:00+00:00",
+      "fetched_date": "2026-09-14T13:47:54.052376+00:00",
+      "headline": "New mutations from fertility treatments may explain premature birth and other birth complications.",
+      "cancer_types": [],
+      "tags": [
+        "assisted reproductive technology",
+        "de novo mutations",
+        "birth outcomes",
+        "genomic sequencing",
+        "parental age",
+        "premature birth",
+        "fertility",
+        "DNA variation"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260913_a_multimodal_murmuration_for_immunothera",
       "title": "A multimodal murmuration for immunotherapy",
@@ -2149,28 +2172,6 @@
       "study_type": "other",
       "impact_score": 3,
       "ml_angle": null
-    },
-    {
-      "id": "20260615_how_ai_is_revealing_the_secret_lives_of_",
-      "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
-      "url": "https://www.nature.com/articles/d41586-026-01887-w",
-      "journal": "Nature",
-      "pub_date": "2026-06-15T00:00:00+00:00",
-      "fetched_date": "2026-06-15T13:21:07.040032+00:00",
-      "headline": "AI helps scientists track and understand wild animal behavior in nature.",
-      "cancer_types": [],
-      "tags": [
-        "artificial intelligence",
-        "machine learning",
-        "wildlife tracking",
-        "animal behavior",
-        "conservation",
-        "computer vision",
-        "nature monitoring"
-      ],
-      "study_type": "computational",
-      "impact_score": 3,
-      "ml_angle": "Artificial intelligence was trained on thousands of animal images to automatically recognize, identify, and track individual animals and their behaviors in videos and photos\u2014a task that would take human researchers years to complete by hand."
     }
   ]
 }
