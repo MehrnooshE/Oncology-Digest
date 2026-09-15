@@ -1,0 +1,70 @@
+{
+  "id": "20260915_viral_mimicry_escape_as_a_necessary_feat",
+  "title": "Viral mimicry escape as a necessary feature of malignant transformation",
+  "url": "https://www.nature.com/articles/s41568-026-00977-1",
+  "journal": "Nature Reviews Cancer",
+  "journal_group": "Nature",
+  "authors": [
+    "Raymond Chen",
+    "Aobo He",
+    "H\u00e5vard T. Lindholm",
+    "Daniel D. De Carvalho"
+  ],
+  "pub_date": "2026-09-15T00:00:00+00:00",
+  "fetched_date": "2026-09-15T12:34:03.281802+00:00",
+  "abstract": "<p>Nature Reviews Cancer, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41568-026-00977-1\">doi:10.1038/s41568-026-00977-1</a></p>Viral mimicry is the activation of antiviral immune responses by endogenous nucleic acids that have accumulated in the cytosol. In this Review, Chen et al. highlight how cancer-associated epigenetic and transcriptional dysregulation promotes the generation of immunogenic nucleic acids, which can limit tumour progression. They further outline the mechanisms tumours use to suppress these responses, and the evidence that escape from viral mimicry is central to tumour evolution and a potential target for therapy.",
+  "headline": "Cancer cells escape our immune system by silencing alarm signals that would normally alert defenses.",
+  "why_it_matters": "Understanding how tumors hide from immunity could lead to new treatments that reactivate these alarm signals, potentially helping the immune system fight cancer more effectively. This offers a fresh angle for drug development beyond current approaches.",
+  "key_findings": [
+    "Cancer cells accumulate genetic changes that cause loose DNA and RNA strands to pile up inside cells, which normally triggers alarm bells (called viral mimicry\u2014the immune system mistakes these loose molecules for viral invaders).",
+    "These alarm signals actually slow down tumor growth initially, acting like a natural brake on cancer progression.",
+    "Tumors evolve by developing ways to shut off these alarm signals, allowing them to grow unchecked\u2014this 'escape' is a critical step in becoming truly malignant (dangerous and spreading).",
+    "Multiple different mechanisms exist by which cancers silence these alarms, suggesting tumors have many backup escape routes.",
+    "Reactivating these silenced alarm signals could be a new therapeutic strategy\u2014essentially forcing the immune system to 'see' and attack cancer cells."
+  ],
+  "methods_snapshot": "This is a review article that synthesizes existing research rather than performing new experiments. The authors analyzed published studies on how cancer cells generate immunogenic (immune-triggering) molecules and how they suppress the resulting immune responses.",
+  "glossary": [
+    {
+      "term": "Viral mimicry",
+      "definition": "When loose DNA or RNA inside a cell accumulates and triggers the same immune alarm system that normally activates against viruses."
+    },
+    {
+      "term": "Epigenetic dysregulation",
+      "definition": "When the chemical switches controlling which genes are turned on or off malfunction, leading to inappropriate gene expression."
+    },
+    {
+      "term": "Immunogenic nucleic acids",
+      "definition": "Loose strands of DNA or RNA that trigger immune system activation and inflammation."
+    },
+    {
+      "term": "Malignant transformation",
+      "definition": "The process by which normal cells become dangerous cancer cells capable of growing uncontrollably and spreading."
+    },
+    {
+      "term": "Tumor evolution",
+      "definition": "How cancer cells change and adapt over time, often becoming more dangerous and resistant to treatment."
+    },
+    {
+      "term": "Cytosol",
+      "definition": "The gel-like fluid inside cells where various chemical processes occur."
+    }
+  ],
+  "cancer_types": [
+    "general cancer biology",
+    "multiple solid tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a review synthesizing existing literature rather than reporting new data, so conclusions depend on the quality and scope of studies already published. The proposed therapeutic strategies remain largely untested in clinical settings and would require substantial development before reaching patients.",
+  "tags": [
+    "immune-evasion",
+    "epigenetics",
+    "tumor-evolution",
+    "immunotherapy",
+    "viral-mimicry",
+    "innate-immunity",
+    "therapeutic-target",
+    "cancer-biology"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
