@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-09-15T12:34:03.282075+00:00",
+  "last_updated": "2026-09-16T12:31:09.953308+00:00",
   "papers": [
+    {
+      "id": "20260916_liquid_biopsy_for_early_detection_of_pan",
+      "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
+      "url": "https://www.nature.com/articles/s41591-026-04625-x",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-16T00:00:00+00:00",
+      "fetched_date": "2026-09-16T12:31:09.953003+00:00",
+      "headline": "A blood test catches pancreatic cancer early using tiny particles, offering hope for better outcomes.",
+      "cancer_types": [
+        "pancreatic ductal adenocarcinoma (PDAC)"
+      ],
+      "tags": [
+        "pancreatic-cancer",
+        "early-detection",
+        "liquid-biopsy",
+        "blood-test",
+        "exosomes",
+        "biomarkers",
+        "cancer-screening",
+        "prospective-study"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260915_viral_mimicry_escape_as_a_necessary_feat",
       "title": "Viral mimicry escape as a necessary feature of malignant transformation",
@@ -2153,30 +2178,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The AI system learns to recognize molecular fingerprints from noisy sensor data by focusing its attention on the most telling patterns over time, improving accuracy in identifying molecules across different types of biological samples."
-    },
-    {
-      "id": "20260617_these__master__proteins_protect_us_from_",
-      "title": "These \u2018master\u2019 proteins protect us from deadly mutations \u2014 and could inspire new drugs",
-      "url": "https://www.nature.com/articles/d41586-026-01883-0",
-      "journal": "Nature",
-      "pub_date": "2026-06-17T00:00:00+00:00",
-      "fetched_date": "2026-06-17T11:54:21.777896+00:00",
-      "headline": "Your cells have hidden safety switches that block dangerous mutations from causing cancer.",
-      "cancer_types": [
-        "Not specific cancers studied \u2014 this is a foundational mechanism relevant to all cancer types"
-      ],
-      "tags": [
-        "cancer prevention",
-        "genetic buffering",
-        "protein networks",
-        "drug development",
-        "mutation resistance",
-        "cellular defense",
-        "precision medicine"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

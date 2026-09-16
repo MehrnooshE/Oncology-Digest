@@ -1,0 +1,70 @@
+{
+  "id": "20260916_liquid_biopsy_for_early_detection_of_pan",
+  "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
+  "url": "https://www.nature.com/articles/s41591-026-04625-x",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Caiming Xu",
+    "Alessandro Mannucci",
+    "Haiyong Han",
+    "Ruben M. Munoz",
+    "Derek Cridebring",
+    "Sourat Darabi"
+  ],
+  "pub_date": "2026-09-16T00:00:00+00:00",
+  "fetched_date": "2026-09-16T12:31:09.953003+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04625-x\">doi:10.1038/s41591-026-04625-x</a></p>In a prospective study involving 1,785 individuals from four countries, the PANXEON exosome-based biomarker, combined with carbohydrate antigen 19-9 levels, achieves high sensitivity for the detection of early-stage pancreatic cancer.",
+  "headline": "A blood test catches pancreatic cancer early using tiny particles, offering hope for better outcomes.",
+  "why_it_matters": "Pancreatic cancer is one of the deadliest cancers because it's usually found too late. This blood test could find it when patients still have a chance at treatment. Earlier detection could save thousands of lives by making the disease treatable before it spreads.",
+  "key_findings": [
+    "Researchers identified PANXEON, a biomarker (a measurable sign of disease found in the body) made of exosomes (tiny fatty packages cells release into the blood) that signals pancreatic cancer",
+    "When combined with a standard existing blood test called CA 19-9 (a protein linked to pancreatic cancer), the new marker detected early-stage pancreatic cancer with high accuracy",
+    "The test worked well across a large, diverse group: nearly 1,800 people from four different countries, making the results more reliable and applicable worldwide",
+    "The study was prospective (participants were followed forward in time), which is stronger evidence than simply looking backward at old medical records"
+  ],
+  "methods_snapshot": "Scientists tested blood samples from nearly 1,800 people in four countries to see if tiny cell particles (exosomes) combined with existing blood markers could reliably identify early pancreatic cancer. They tracked participants over time to confirm which ones actually developed the disease and whether the blood test predicted it accurately.",
+  "glossary": [
+    {
+      "term": "exosome",
+      "definition": "A tiny bubble made of fat that cells release into the bloodstream, carrying proteins and other molecules that can signal disease"
+    },
+    {
+      "term": "biomarker",
+      "definition": "A measurable indicator in your body\u2014like a protein in blood\u2014that signals you may have a disease"
+    },
+    {
+      "term": "liquid biopsy",
+      "definition": "A blood or body fluid test that looks for signs of cancer without needing tissue removal, like a biopsy (tissue sample)"
+    },
+    {
+      "term": "CA 19-9",
+      "definition": "A protein found in higher levels in people with pancreatic cancer; it's already used as a cancer marker in clinical practice"
+    },
+    {
+      "term": "sensitivity",
+      "definition": "How well a test catches the disease when it's actually present\u2014like a smoke detector that reliably goes off when there's smoke"
+    },
+    {
+      "term": "prospective study",
+      "definition": "A research study that follows people forward in time, starting before they develop disease, rather than looking backward at past records"
+    }
+  ],
+  "cancer_types": [
+    "pancreatic ductal adenocarcinoma (PDAC)"
+  ],
+  "ml_angle": null,
+  "limitations": "The study tested people who already had access to medical care in wealthy countries, so results may not apply equally to underserved populations. The test needs validation in real-world clinical settings before it can be widely adopted into standard screening programs.",
+  "tags": [
+    "pancreatic-cancer",
+    "early-detection",
+    "liquid-biopsy",
+    "blood-test",
+    "exosomes",
+    "biomarkers",
+    "cancer-screening",
+    "prospective-study"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
