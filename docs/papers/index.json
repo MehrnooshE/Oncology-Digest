@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-16T12:31:09.953308+00:00",
+  "last_updated": "2026-09-17T12:31:01.485216+00:00",
   "papers": [
+    {
+      "id": "20260917_levetiracetam_therapeutically_targets_ga",
+      "title": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
+      "url": "https://www.nature.com/articles/s41591-026-04646-6",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-17T00:00:00+00:00",
+      "fetched_date": "2026-09-17T12:31:01.484879+00:00",
+      "headline": "Common seizure drug slows brain tumor growth in children with midline glioma.",
+      "cancer_types": [
+        "diffuse midline glioma",
+        "high-grade glioma"
+      ],
+      "tags": [
+        "brain-cancer",
+        "pediatric-oncology",
+        "drug-repurposing",
+        "glioma",
+        "levetiracetam",
+        "mechanism-of-action",
+        "survival",
+        "precision-medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260916_liquid_biopsy_for_early_detection_of_pan",
       "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
@@ -2155,29 +2181,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260618_a_universal_deep_learning_framework_for_",
-      "title": "A universal deep learning framework for empowering nanopore identification by reinforcing temporal signals",
-      "url": "https://www.nature.com/articles/s41467-026-74507-w",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-18T00:00:00+00:00",
-      "fetched_date": "2026-06-18T11:11:35.584401+00:00",
-      "headline": "New AI tool helps tiny pores accurately identify similar molecules in noisy sensor data",
-      "cancer_types": [],
-      "tags": [
-        "nanopore-sequencing",
-        "deep-learning",
-        "molecular-detection",
-        "AI-biosensors",
-        "signal-processing",
-        "diagnostic-technology",
-        "pattern-recognition",
-        "precision-medicine"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The AI system learns to recognize molecular fingerprints from noisy sensor data by focusing its attention on the most telling patterns over time, improving accuracy in identifying molecules across different types of biological samples."
     }
   ]
 }

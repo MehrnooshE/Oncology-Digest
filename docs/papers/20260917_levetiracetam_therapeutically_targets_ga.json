@@ -1,0 +1,67 @@
+{
+  "id": "20260917_levetiracetam_therapeutically_targets_ga",
+  "title": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
+  "url": "https://www.nature.com/articles/s41591-026-04646-6",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Tara Barron",
+    "Richard Drexler",
+    "Aaron Mochizuki",
+    "Evan Cantor",
+    "Kiarash Shamardani",
+    "Pamelyn J. Woo"
+  ],
+  "pub_date": "2026-09-17T00:00:00+00:00",
+  "fetched_date": "2026-09-17T12:31:01.484879+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04646-6\">doi:10.1038/s41591-026-04646-6</a></p>Results of this study show in experimental models and data from patient cohorts that the antiseizure medication levetiracetam is associated with longer survival and reduced tumor growth in diffuse midline glioma, but not hemispheric high-grade glioma, by selectively dampening GABAergic synaptic signaling, independently of its canonical SV2A-mediated primary antiseizure mechanism.",
+  "headline": "Common seizure drug slows brain tumor growth in children with midline glioma.",
+  "why_it_matters": "Diffuse midline glioma is a devastating childhood brain cancer with few treatment options. This research suggests a cheap, already-approved drug might help patients live longer by slowing tumor growth. The discovery opens a new way to think about treating this cancer using existing medications.",
+  "key_findings": [
+    "Levetiracetam (a seizure medication) helps patients with midline glioma (a tumor in the center of the brain) survive longer and grow tumors more slowly.",
+    "The drug works differently than scientists expected \u2014 not through its main seizure-stopping mechanism (called SV2A), but by quieting a specific type of brain cell communication called GABAergic signaling (a type of chemical messaging between neurons).",
+    "The benefit only appeared in midline glioma, not in hemispheric high-grade glioma (tumors in the outer brain regions), suggesting the drug targets something unique to midline tumors.",
+    "The finding was supported by both lab experiments and data from groups of actual patients, making the results more trustworthy."
+  ],
+  "methods_snapshot": "Researchers tested levetiracetam in laboratory models of midline glioma and compared patient survival data between those who received the drug and those who did not. They also examined how the drug affects specific brain cell communication pathways to understand the mechanism of action.",
+  "glossary": [
+    {
+      "term": "Diffuse midline glioma",
+      "definition": "An aggressive brain tumor located in the center of the brain, common in children, that spreads throughout the tissue rather than forming a single lump."
+    },
+    {
+      "term": "Levetiracetam",
+      "definition": "An FDA-approved medication originally designed to prevent seizures; in this study, it appears to also slow certain brain tumors."
+    },
+    {
+      "term": "GABAergic signaling",
+      "definition": "Communication between brain cells using a chemical messenger called GABA, which normally calms neural activity."
+    },
+    {
+      "term": "SV2A",
+      "definition": "A protein on nerve cells that levetiracetam usually targets to prevent seizures; this study shows the drug's tumor benefit works through a different pathway."
+    },
+    {
+      "term": "Hemispheric glioma",
+      "definition": "A brain tumor located in the outer regions of the brain (the hemispheres), as opposed to the midline or center."
+    }
+  ],
+  "cancer_types": [
+    "diffuse midline glioma",
+    "high-grade glioma"
+  ],
+  "ml_angle": null,
+  "limitations": "The findings come from lab models and patient data analysis, not yet from a large-scale clinical trial designed to prove the drug works. Results only applied to midline glioma, so doctors cannot assume this drug helps other brain cancer types, and more rigorous testing in patients is needed before it becomes standard treatment.",
+  "tags": [
+    "brain-cancer",
+    "pediatric-oncology",
+    "drug-repurposing",
+    "glioma",
+    "levetiracetam",
+    "mechanism-of-action",
+    "survival",
+    "precision-medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
