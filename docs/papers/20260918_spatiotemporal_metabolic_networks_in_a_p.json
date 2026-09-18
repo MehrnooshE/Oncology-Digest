@@ -1,0 +1,71 @@
+{
+  "id": "20260918_spatiotemporal_metabolic_networks_in_a_p",
+  "title": "Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia",
+  "url": "https://www.nature.com/articles/s41467-026-77745-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Blanca Majem",
+    "Min-Sik Lee",
+    "Kyung Cheul Shin",
+    "Insia Naqvi",
+    "Courtney Dennis",
+    "Lucas Dailey"
+  ],
+  "pub_date": "2026-09-18T00:00:00+00:00",
+  "fetched_date": "2026-09-18T12:09:16.918895+00:00",
+  "abstract": "<p>Nature Communications, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77745-0\">doi:10.1038/s41467-026-77745-0</a></p>Cachexia commonly develops in patients with pancreatic cancer and is closely linked to increased morbidity and mortality. Here, the authors provide an in-depth longitudinal characterization of systemic metabolomic alterations in a mouse model of pancreatic cancer\u2013associated cachexia.",
+  "headline": "Cancer's hidden metabolic ripple effects throughout the body reveal why patients waste away.",
+  "why_it_matters": "Pancreatic cancer patients often develop cachexia \u2014 dangerous weight loss and muscle wasting \u2014 which makes treatment harder and survival worse. This study maps out the biochemical changes happening throughout the body during cancer cachexia, which could help doctors develop treatments to slow or stop this wasting and improve patient outcomes.",
+  "key_findings": [
+    "The researchers tracked metabolic changes (the chemical processes cells use for energy and building blocks) over time as pancreatic cancer developed, rather than just looking at a single snapshot.",
+    "Cachexia causes widespread metabolic disruption throughout multiple organs and tissues, not just at the tumor site \u2014 it's a whole-body problem.",
+    "The study identified specific molecular signatures (chemical fingerprints) in the blood and tissues that track with cachexia development, which could potentially be used as early warning signs.",
+    "Different tissues show distinct metabolic patterns during cancer cachexia, suggesting the cancer hijacks energy and nutrient distribution across the body in coordinated ways.",
+    "Understanding these systemic metabolic networks opens new targets for intervention \u2014 rather than just fighting the cancer itself, doctors might prevent the body's wasting by restoring normal metabolism."
+  ],
+  "methods_snapshot": "Researchers used a mouse model of pancreatic cancer and measured metabolites (small molecules produced by cellular chemistry) in blood and tissues at multiple time points to create a timeline of metabolic changes. They analyzed the data to map how metabolism shifted across different organs as cancer and cachexia developed.",
+  "glossary": [
+    {
+      "term": "Cachexia",
+      "definition": "Severe, wasting weight loss and muscle breakdown caused by serious illness like cancer, which doesn't improve even with eating more."
+    },
+    {
+      "term": "Metabolomics",
+      "definition": "The study of all small molecules (metabolites) produced by cells and tissues, revealing what chemical processes are happening."
+    },
+    {
+      "term": "Metabolites",
+      "definition": "Small molecules created during cellular chemical processes that the body uses for energy, building materials, and communication."
+    },
+    {
+      "term": "Preclinical model",
+      "definition": "A laboratory or animal study used to test ideas before they're tried in humans; here, genetically engineered mice that develop pancreatic cancer."
+    },
+    {
+      "term": "Systemic",
+      "definition": "Affecting the whole body or organism, rather than just one local area."
+    },
+    {
+      "term": "Longitudinal study",
+      "definition": "A study that follows the same subjects over time to track how things change, rather than just comparing groups at one moment."
+    }
+  ],
+  "cancer_types": [
+    "pancreatic cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted in mice, which don't always behave exactly like human cancer \u2014 the findings will need to be tested in human patients to confirm they apply to real pancreatic cancer cachexia. The study is detailed but represents one specific type of pancreatic cancer model, so results may vary across different patient populations.",
+  "tags": [
+    "pancreatic cancer",
+    "cachexia",
+    "metabolism",
+    "metabolomics",
+    "wasting",
+    "preclinical",
+    "longitudinal",
+    "systems biology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
