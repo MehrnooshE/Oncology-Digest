@@ -1,0 +1,65 @@
+{
+  "id": "20260919_editorial_expression_of_concern__swi_snf",
+  "title": "Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+  "url": "https://www.nature.com/articles/s41591-026-04708-9",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Kimberly H. Kim",
+    "Woojin Kim",
+    "Thomas P. Howard",
+    "Francisca Vazquez",
+    "Aviad Tsherniak",
+    "Jennifer N. Wu"
+  ],
+  "pub_date": "2026-09-18T00:00:00+00:00",
+  "fetched_date": "2026-09-19T11:51:53.282050+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04708-9\">doi:10.1038/s41591-026-04708-9</a></p>Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+  "headline": "Some cancers need a protein called EZH2 to survive in two different ways at once.",
+  "why_it_matters": "This finding could help doctors treat a stubborn type of cancer that develops when cells lose a key tumor-fighting protein called SWI/SNF. If scientists can block EZH2 in the right way, it might offer a new weapon against cancers that currently have few good treatment options.",
+  "key_findings": [
+    "Cancers with broken SWI/SNF (a protein that normally acts like a brake on cell growth) become addicted to EZH2, a protein that controls which genes are turned on and off in cells.",
+    "EZH2 helps these cancers survive through two separate mechanisms: one involving its catalytic activity (its chemical work, like scissors cutting something) and another through non-catalytic activity (functions that don't involve chemical cutting).",
+    "Blocking just the cutting ability of EZH2 wasn't enough to kill these cancer cells \u2014 you need to stop both types of activity to be effective.",
+    "This dual-dependency suggests that single-approach treatments targeting only EZH2's chemical function may fail, and combination strategies might be needed."
+  ],
+  "methods_snapshot": "Researchers used laboratory cancer cell models and genetic experiments to test how cancer cells depend on different parts of the EZH2 protein. They systematically disabled different EZH2 functions to see which ones were essential for cancer cell survival.",
+  "glossary": [
+    {
+      "term": "SWI/SNF",
+      "definition": "A protein complex that acts like a cell's traffic controller, deciding which genes get read and expressed; when mutated or lost, it often leads to cancer."
+    },
+    {
+      "term": "EZH2",
+      "definition": "A protein that silences genes by adding chemical tags to DNA; cancer cells often depend heavily on it for survival."
+    },
+    {
+      "term": "Catalytic activity",
+      "definition": "The ability of a protein to speed up a chemical reaction, like an enzyme doing work on a molecule."
+    },
+    {
+      "term": "Non-catalytic activity",
+      "definition": "Functions a protein performs that don't involve chemical reactions, such as holding other proteins together or sending signals."
+    },
+    {
+      "term": "Mutation",
+      "definition": "A permanent change in a cell's DNA that can alter how genes work."
+    }
+  ],
+  "cancer_types": [
+    "SWI/SNF-mutant cancers (multiple tumor types including some blood and solid tumors)"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was done in laboratory cell models and may not fully reflect how these mechanisms work inside a living patient's body. Further clinical trials are needed to confirm whether blocking both EZH2 functions is safe and effective as a real cancer treatment.",
+  "tags": [
+    "epigenetics",
+    "protein-function",
+    "cancer-dependency",
+    "targeted-therapy",
+    "SWI-SNF-mutation",
+    "drug-resistance",
+    "mechanism-of-action"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 3
+}

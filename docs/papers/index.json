@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-18T12:09:16.919231+00:00",
+  "last_updated": "2026-09-19T11:51:53.282352+00:00",
   "papers": [
+    {
+      "id": "20260919_editorial_expression_of_concern__swi_snf",
+      "title": "Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+      "url": "https://www.nature.com/articles/s41591-026-04708-9",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-18T00:00:00+00:00",
+      "fetched_date": "2026-09-19T11:51:53.282050+00:00",
+      "headline": "Some cancers need a protein called EZH2 to survive in two different ways at once.",
+      "cancer_types": [
+        "SWI/SNF-mutant cancers (multiple tumor types including some blood and solid tumors)"
+      ],
+      "tags": [
+        "epigenetics",
+        "protein-function",
+        "cancer-dependency",
+        "targeted-therapy",
+        "SWI-SNF-mutation",
+        "drug-resistance",
+        "mechanism-of-action"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260918_spatiotemporal_metabolic_networks_in_a_p",
       "title": "Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia",
@@ -2157,27 +2181,6 @@
         "cancer prevention",
         "cellular quality control",
         "ARHGAP15"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260620_biomimetic_ferroelectric_semiconductor_t",
-      "title": "Biomimetic ferroelectric-semiconductor transistor enables neuronal multisensory integration",
-      "url": "https://www.nature.com/articles/s41467-026-74648-y",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-20T00:00:00+00:00",
-      "fetched_date": "2026-06-20T10:11:01.972465+00:00",
-      "headline": "Scientists create a brain-inspired chip that combines multiple senses like the human brain does.",
-      "cancer_types": [],
-      "tags": [
-        "brain-inspired computing",
-        "ferroelectric electronics",
-        "sensory integration",
-        "neuromorphic engineering",
-        "artificial intelligence hardware",
-        "bioelectronics"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
