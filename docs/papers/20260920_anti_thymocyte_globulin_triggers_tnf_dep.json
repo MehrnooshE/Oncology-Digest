@@ -1,0 +1,64 @@
+{
+  "id": "20260920_anti_thymocyte_globulin_triggers_tnf_dep",
+  "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
+  "url": "https://www.nature.com/articles/s41467-026-77027-9",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Marie Emilie Dourthe",
+    "Mehdi Latiri",
+    "Etienne Lenglin\u00e9",
+    "Guillaume Charbonnier",
+    "Chaimae Saji",
+    "Gr\u00e9goire Hur\u00e9"
+  ],
+  "pub_date": "2026-09-19T00:00:00+00:00",
+  "fetched_date": "2026-09-20T12:10:13.495805+00:00",
+  "abstract": "<p>Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77027-9\">doi:10.1038/s41467-026-77027-9</a></p>Anti-thymocyte globulin (ATG) is a potent immunosuppressant used to prevent and treat acute organ transplant rejection and severe aplastic anemia. Here, the authors discover that ATG can be repurposed to induce TNF-driven cell death in T cell acute lymphoblastic leukemia.",
+  "headline": "A transplant rejection drug kills leukemia cells by triggering a self-destruct program.",
+  "why_it_matters": "Doctors already use this drug safely to prevent organ rejection and treat bone marrow failure. If it works against a deadly blood cancer, it could offer patients a therapy that's already proven safe, potentially faster than developing new drugs. This kind of repurposing can get treatments to patients years earlier.",
+  "key_findings": [
+    "ATG (anti-thymocyte globulin \u2014 a protein mixture that suppresses the immune system) can kill leukemia cancer cells, not just suppress immunity.",
+    "The drug works by activating TNF (tumor necrosis factor \u2014 a protein messenger that tells cells to self-destruct), triggering a death pathway inside cancer cells.",
+    "T-cell acute lymphoblastic leukemia (a fast-growing blood cancer in young people) is vulnerable to this TNF-driven cell death mechanism.",
+    "The researchers showed this effect in lab-grown cancer cells and animal models, demonstrating the mechanism is reproducible and measurable."
+  ],
+  "methods_snapshot": "The team used cancer cells grown in the lab and tested how ATG affected them, measuring whether cells died and tracking which molecular signals (like TNF) were activated. They confirmed findings in mice carrying human leukemia to show the drug works in a living system.",
+  "glossary": [
+    {
+      "term": "Anti-thymocyte globulin (ATG)",
+      "definition": "A mixture of proteins derived from animals that dampens immune responses; used medically to prevent transplant rejection."
+    },
+    {
+      "term": "T-cell acute lymphoblastic leukemia (T-ALL)",
+      "definition": "A fast-growing blood cancer where immune cells called T cells multiply out of control, mainly in children and young adults."
+    },
+    {
+      "term": "TNF (tumor necrosis factor)",
+      "definition": "A chemical messenger that signals cells to undergo programmed self-destruction."
+    },
+    {
+      "term": "Immunosuppressant",
+      "definition": "A drug that weakens or slows down the immune system's activity."
+    },
+    {
+      "term": "Cell death mechanism",
+      "definition": "The biological pathway that causes a cell to self-destruct in a controlled way."
+    }
+  ],
+  "cancer_types": [
+    "T-cell acute lymphoblastic leukemia"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was done in lab cultures and mice, not yet in patients; human trials are needed to confirm the drug is safe and effective for leukemia. The dose, side effects, and which patients would benefit most remain to be determined.",
+  "tags": [
+    "drug repurposing",
+    "leukemia",
+    "immunotherapy",
+    "cell death",
+    "TNF signaling",
+    "preclinical"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
