@@ -1,0 +1,74 @@
+{
+  "id": "20260922_all_the_ways_a_cell_can_die___and_why_th",
+  "title": "All the ways a cell can die \u2014 and why the variety matters",
+  "url": "https://www.nature.com/articles/d41586-026-02929-z",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Amber Dance"
+  ],
+  "pub_date": "2026-09-22T00:00:00+00:00",
+  "fetched_date": "2026-09-22T12:29:57.539171+00:00",
+  "abstract": "<p>Nature, Published online: 22 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02929-z\">doi:10.1038/d41586-026-02929-z</a></p>Scientists are poking holes in established ideas about how cells live and die, and are harnessing these discoveries to fight diseases from cancer to autoimmune conditions.",
+  "headline": "Cells die in more ways than we thought \u2014 and that changes how we treat disease.",
+  "why_it_matters": "For decades, scientists focused on one main way cells die. Now we know there are many pathways, and different diseases exploit different ones. This means we can design smarter drugs that target the specific death pathway a cancer or autoimmune disease uses, potentially making treatments more effective and less toxic.",
+  "key_findings": [
+    "Cells have multiple distinct death programs beyond the two long-established ones (apoptosis, the planned 'self-destruct' pathway, and necrosis, chaotic cell rupture), including ferroptosis (iron-driven cell death), pyroptosis (inflammatory cell death), and autophagy-dependent death (cells digesting themselves).",
+    "Different cancer types and disease states preferentially use different death pathways \u2014 some tumors evade apoptosis but remain vulnerable to ferroptosis, suggesting a personalized approach to drug design.",
+    "Blocking one death pathway can paradoxically activate another, explaining why some cancer treatments fail or cause resistance \u2014 the tumor simply switches to an alternate survival or death mechanism.",
+    "These discoveries apply beyond cancer to autoimmune diseases (like lupus), neurodegeneration, and infectious disease, where unwanted cell death or survival drives pathology.",
+    "Scientists are now designing drugs to trigger specific death pathways in disease cells while sparing healthy tissue, potentially reducing side effects."
+  ],
+  "methods_snapshot": "This is a review synthesizing recent discoveries from multiple laboratories using cell cultures, animal models, and emerging single-cell techniques (analyzing individual cells rather than populations) to map which death pathways are active in different diseases. Researchers used imaging, genetic manipulation, and biochemical analysis to identify and characterize novel cell death mechanisms.",
+  "glossary": [
+    {
+      "term": "apoptosis",
+      "definition": "A controlled, tidy form of cell suicide where the cell packages itself neatly to avoid damaging neighbors \u2014 like a building demolition crew versus a building collapse."
+    },
+    {
+      "term": "ferroptosis",
+      "definition": "Cell death triggered by iron buildup and fat oxidation (rust-like damage to cell membranes), distinct from the body's classical cell-death programs."
+    },
+    {
+      "term": "pyroptosis",
+      "definition": "A violent, inflammatory form of cell death where cells burst and alert the immune system \u2014 useful for fighting infections but problematic in autoimmune disease."
+    },
+    {
+      "term": "autophagy",
+      "definition": "The cell's recycling system where it digests its own components; when dysregulated, it can trigger cell death instead of survival."
+    },
+    {
+      "term": "necrosis",
+      "definition": "Uncontrolled, messy cell death caused by injury or stress, where the cell ruptures and leaks inflammatory molecules."
+    },
+    {
+      "term": "cell death pathway",
+      "definition": "A molecular signaling chain \u2014 like a cascade of dominoes \u2014 that triggers a specific mechanism of cell death."
+    },
+    {
+      "term": "single-cell analysis",
+      "definition": "A technique that studies individual cells rather than millions at once, revealing which genes and processes are active in each cell."
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract \u2014 review covers multiple cancer types",
+    "lung cancer",
+    "liver cancer",
+    "colorectal cancer",
+    "melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a review article synthesizing existing research rather than reporting new experimental data, so findings depend on quality and accuracy of included studies. The field is rapidly evolving, and some findings may be preliminary; clinical translation to new drugs remains in early stages for many pathways.",
+  "tags": [
+    "cell death",
+    "cancer biology",
+    "drug development",
+    "ferroptosis",
+    "personalized medicine",
+    "apoptosis",
+    "therapeutic resistance",
+    "immunotherapy"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}

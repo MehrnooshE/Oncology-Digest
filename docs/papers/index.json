@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-09-20T12:10:13.496069+00:00",
+  "last_updated": "2026-09-22T12:29:57.539453+00:00",
   "papers": [
+    {
+      "id": "20260922_all_the_ways_a_cell_can_die___and_why_th",
+      "title": "All the ways a cell can die \u2014 and why the variety matters",
+      "url": "https://www.nature.com/articles/d41586-026-02929-z",
+      "journal": "Nature",
+      "pub_date": "2026-09-22T00:00:00+00:00",
+      "fetched_date": "2026-09-22T12:29:57.539171+00:00",
+      "headline": "Cells die in more ways than we thought \u2014 and that changes how we treat disease.",
+      "cancer_types": [
+        "not specified in abstract \u2014 review covers multiple cancer types",
+        "lung cancer",
+        "liver cancer",
+        "colorectal cancer",
+        "melanoma"
+      ],
+      "tags": [
+        "cell death",
+        "cancer biology",
+        "drug development",
+        "ferroptosis",
+        "personalized medicine",
+        "apoptosis",
+        "therapeutic resistance",
+        "immunotherapy"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260920_anti_thymocyte_globulin_triggers_tnf_dep",
       "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
@@ -2162,29 +2191,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260622_will_ai_spark_a_scientific_renaissance__",
-      "title": "Will AI spark a scientific renaissance \u2014 or a diffuse monoculture?",
-      "url": "https://www.nature.com/articles/d41586-026-01954-2",
-      "journal": "Nature",
-      "pub_date": "2026-06-22T00:00:00+00:00",
-      "fetched_date": "2026-06-22T12:53:48.290409+00:00",
-      "headline": "AI could transform science\u2014but only if we reward creative thinking over rushing results.",
-      "cancer_types": [],
-      "tags": [
-        "artificial-intelligence",
-        "scientific-innovation",
-        "research-incentives",
-        "funding-policy",
-        "peer-review",
-        "drug-discovery",
-        "computational-research",
-        "scientific-culture"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": "The author argues that AI models are tools that could accelerate cancer research discoveries, but only if scientists use them to explore original questions rather than simply running faster versions of conventional studies."
     }
   ]
 }
