@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-09-23T12:40:21.428450+00:00",
+  "last_updated": "2026-09-24T12:38:36.851599+00:00",
   "papers": [
+    {
+      "id": "20260924_developing_cancer_control_policies_to_ad",
+      "title": "Developing cancer-control policies to address the cancer burden among young adults",
+      "url": "https://www.nature.com/articles/s41591-026-04653-7",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-24T00:00:00+00:00",
+      "fetched_date": "2026-09-24T12:38:36.851347+00:00",
+      "headline": "New policies could better prevent and treat cancer in young adults worldwide.",
+      "cancer_types": [
+        "breast cancer",
+        "colorectal cancer",
+        "cervical cancer",
+        "melanoma",
+        "testicular cancer",
+        "hematologic cancers (blood cancers)",
+        "lung cancer"
+      ],
+      "tags": [
+        "young adults",
+        "cancer policy",
+        "prevention",
+        "healthcare equity",
+        "public health",
+        "global health",
+        "cancer burden"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260923__b_an_antibody_drug_conjugate_for_small_",
       "title": "<b>An antibody\u2013drug conjugate for small-cell lung cancer</b>",
@@ -2166,27 +2196,6 @@
       "study_type": "multi-omics",
       "impact_score": 4,
       "ml_angle": "Machine learning algorithms automatically scanned hundreds of metabolites in the blood to find which ones were most predictive of patient survival, then ranked them by importance \u2014 a task too complex for humans to do manually."
-    },
-    {
-      "id": "20260624_retraction_note__carbon_nano_onion_media",
-      "title": "Retraction Note: Carbon nano-onion-mediated dual targeting of P-selectin and P-glycoprotein to overcome cancer drug resistance",
-      "url": "https://www.nature.com/articles/s41467-026-74646-0",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-24T00:00:00+00:00",
-      "fetched_date": "2026-06-24T10:25:14.577730+00:00",
-      "headline": "Study on nanoparticles to fight drug-resistant cancer is being retracted.",
-      "cancer_types": [],
-      "tags": [
-        "drug resistance",
-        "nanoparticles",
-        "cancer therapy",
-        "retraction",
-        "drug delivery",
-        "chemotherapy"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 1,
-      "ml_angle": null
     }
   ]
 }
