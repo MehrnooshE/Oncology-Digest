@@ -1,0 +1,49 @@
+{
+  "id": "20260925_ai_bots_are_flooding_researchers_with_re",
+  "title": "AI bots are flooding researchers with requests for money and time",
+  "url": "https://www.nature.com/articles/d41586-026-03005-2",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Mohana Basu"
+  ],
+  "pub_date": "2026-09-25T00:00:00+00:00",
+  "fetched_date": "2026-09-25T12:40:03.329443+00:00",
+  "abstract": "<p>Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03005-2\">doi:10.1038/d41586-026-03005-2</a></p>Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+  "headline": "AI systems are bombarding cancer researchers with unsolicited collaboration requests.",
+  "why_it_matters": "Cancer researchers are already stretched thin trying to find treatments. When AI bots flood them with fake collaboration requests, it wastes precious time that could go toward discovering new therapies. This distraction could slow down medical progress when we need it most.",
+  "key_findings": [
+    "AI agents (automated computer programs that act independently) are increasingly contacting researchers asking to work together on projects",
+    "These solicitations often come from non-human sources pretending to be legitimate research partners",
+    "Scientists report this is consuming significant time and creating noise that makes it harder to identify genuine collaboration opportunities",
+    "The problem is growing as AI becomes more capable at mimicking human communication"
+  ],
+  "methods_snapshot": "Researchers documented and analyzed communications received by scientists, tracking the sources and patterns of unsolicited collaboration requests. They surveyed the scientific community to understand how widespread the problem has become and what impact it's having on their work.",
+  "glossary": [
+    {
+      "term": "AI agent",
+      "definition": "A computer program that can make decisions and take actions on its own without being told what to do step-by-step"
+    },
+    {
+      "term": "Solicitation",
+      "definition": "A request or appeal for something, in this case asking to collaborate on research"
+    },
+    {
+      "term": "Collaboration",
+      "definition": "Working together with other researchers to conduct studies or share expertise"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI bots use machine learning (algorithms that learn from examples) to identify researcher contact information and craft personalized requests that sound legitimate, making it harder for scientists to distinguish real opportunities from automated spam.",
+  "limitations": "This paper documents a social and operational problem rather than testing a medical solution. The analysis may not capture all instances of AI solicitation, since some researchers might not report or notice these communications.",
+  "tags": [
+    "AI",
+    "research-integrity",
+    "scientist-workflow",
+    "automation",
+    "collaboration",
+    "meta-research"
+  ],
+  "study_type": "review",
+  "impact_score": 2
+}

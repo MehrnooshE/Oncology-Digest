@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-09-24T12:38:36.851599+00:00",
+  "last_updated": "2026-09-25T12:40:03.329696+00:00",
   "papers": [
+    {
+      "id": "20260925_ai_bots_are_flooding_researchers_with_re",
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "url": "https://www.nature.com/articles/d41586-026-03005-2",
+      "journal": "Nature",
+      "pub_date": "2026-09-25T00:00:00+00:00",
+      "fetched_date": "2026-09-25T12:40:03.329443+00:00",
+      "headline": "AI systems are bombarding cancer researchers with unsolicited collaboration requests.",
+      "cancer_types": [],
+      "tags": [
+        "AI",
+        "research-integrity",
+        "scientist-workflow",
+        "automation",
+        "collaboration",
+        "meta-research"
+      ],
+      "study_type": "review",
+      "impact_score": 2,
+      "ml_angle": "AI bots use machine learning (algorithms that learn from examples) to identify researcher contact information and craft personalized requests that sound legitimate, making it harder for scientists to distinguish real opportunities from automated spam."
+    },
     {
       "id": "20260924_developing_cancer_control_policies_to_ad",
       "title": "Developing cancer-control policies to address the cancer burden among young adults",
@@ -2167,35 +2188,6 @@
       "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260625_metabolic_determinants_of_cancer_immunot",
-      "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling",
-      "url": "https://www.nature.com/articles/s41591-026-04481-9",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-25T00:00:00+00:00",
-      "fetched_date": "2026-06-25T10:17:58.847853+00:00",
-      "headline": "A blood marker called histidine predicts which cancer patients benefit most from immunotherapy.",
-      "cancer_types": [
-        "melanoma",
-        "non-small-cell lung cancer",
-        "renal cell carcinoma",
-        "urothelial carcinoma",
-        "head and neck squamous cell carcinoma"
-      ],
-      "tags": [
-        "immunotherapy",
-        "biomarkers",
-        "metabolism",
-        "machine-learning",
-        "predictive",
-        "blood-test",
-        "cancer",
-        "precision-medicine"
-      ],
-      "study_type": "multi-omics",
-      "impact_score": 4,
-      "ml_angle": "Machine learning algorithms automatically scanned hundreds of metabolites in the blood to find which ones were most predictive of patient survival, then ranked them by importance \u2014 a task too complex for humans to do manually."
     }
   ]
 }
