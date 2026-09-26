@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-09-25T12:40:03.329696+00:00",
+  "last_updated": "2026-09-26T12:08:40.956066+00:00",
   "papers": [
+    {
+      "id": "20260926_spacey_links_spatial_tissue_patterns_to_",
+      "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
+      "url": "https://www.nature.com/articles/s41467-026-77924-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-09-26T00:00:00+00:00",
+      "fetched_date": "2026-09-26T12:08:40.955768+00:00",
+      "headline": "New AI tool predicts cancer survival by mapping where cells sit in tumors.",
+      "cancer_types": [
+        "colorectal",
+        "lung",
+        "breast",
+        "ovarian",
+        "melanoma"
+      ],
+      "tags": [
+        "spatial-biology",
+        "neural-networks",
+        "tumor-microenvironment",
+        "prognostic-biomarker",
+        "explainable-AI",
+        "computational-pathology",
+        "immunotherapy"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI learned to recognize survival-linked patterns from tissue images by understanding how each cell's neighbors influence the outcome, then explained which spatial relationships mattered most."
+    },
     {
       "id": "20260925_ai_bots_are_flooding_researchers_with_re",
       "title": "AI bots are flooding researchers with requests for money and time",
@@ -2163,29 +2191,6 @@
         "biomedical innovation"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260626_re_administration_of_aav_mediated_gene_t",
-      "title": "Re-administration of AAV-mediated gene therapy for <i>OTOF</i>-related deafness: a single-arm trial",
-      "url": "https://www.nature.com/articles/s41591-026-04505-4",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-26T00:00:00+00:00",
-      "fetched_date": "2026-06-26T10:25:35.437489+00:00",
-      "headline": "Deaf patients safely received gene therapy twice, with improved hearing both times.",
-      "cancer_types": [],
-      "tags": [
-        "gene therapy",
-        "deafness",
-        "AAV",
-        "re-treatment",
-        "immune response",
-        "congenital hearing loss",
-        "clinical trial",
-        "genetic medicine"
-      ],
-      "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
     }

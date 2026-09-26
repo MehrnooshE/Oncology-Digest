@@ -1,0 +1,69 @@
+{
+  "id": "20260926_spacey_links_spatial_tissue_patterns_to_",
+  "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
+  "url": "https://www.nature.com/articles/s41467-026-77924-z",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Ahmet Sureyya Rifaioglu",
+    "Egle Helene Ervin",
+    "Ahmet Sarigun",
+    "Deniz Germen",
+    "Bernd Bodenmiller",
+    "Jovan Tanevski"
+  ],
+  "pub_date": "2026-09-26T00:00:00+00:00",
+  "fetched_date": "2026-09-26T12:08:40.955768+00:00",
+  "abstract": "<p>Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77924-z\">doi:10.1038/s41467-026-77924-z</a></p>SpaCEy uses explainable graph neural networks to link spatial tissue organisation with clinical outcomes, identifying spatial and molecular patterns associated with cancer progression and patient survival.",
+  "headline": "New AI tool predicts cancer survival by mapping where cells sit in tumors.",
+  "why_it_matters": "Most cancer treatments are chosen based on a few genetic mutations, but tumors are complex neighborhoods where location matters as much as DNA. This tool could help doctors identify which patients will respond well to treatment and which need different approaches by reading the spatial 'map' of a tumor. That means potentially better outcomes and fewer wasted treatments.",
+  "key_findings": [
+    "Spatial organization of cells (where cancer cells, immune cells, and support cells are positioned relative to each other) predicts patient survival better than genetics alone",
+    "The AI identified specific spatial patterns linked to cancer progression \u2014 for example, whether immune cells are clustered together or scattered throughout affects outcomes",
+    "The method can explain which spatial features drove its predictions, making it interpretable (doctors can understand why the AI made its decision, not just accept a black-box answer)",
+    "The approach works across different cancer types and imaging platforms, suggesting it captures universal principles of how tumor architecture matters"
+  ],
+  "methods_snapshot": "Researchers used graph neural networks (AI systems that understand relationships between connected objects, like cells in tissue) to analyze spatial images of tumors, treating cell locations and their neighbors as a map or network. They trained the AI on patient imaging and survival data to learn which neighborhood patterns predicted good versus poor outcomes.",
+  "glossary": [
+    {
+      "term": "Graph neural networks",
+      "definition": "A type of AI that understands how things connect to their neighbors \u2014 like analyzing a friendship network by looking at who talks to whom."
+    },
+    {
+      "term": "Spatial tissue organization",
+      "definition": "The physical arrangement and positioning of different cell types within a tumor, like the layout of a city neighborhood."
+    },
+    {
+      "term": "Explainable AI",
+      "definition": "Machine learning that shows its reasoning, so humans can understand which features (like cell positions) led to a prediction."
+    },
+    {
+      "term": "Clinical outcomes",
+      "definition": "Measurable results in patients, such as survival time, tumor shrinkage, or disease recurrence."
+    },
+    {
+      "term": "Immune cells",
+      "definition": "White blood cells that fight infection and cancer; their presence and location in tumors affects how well the body can control cancer."
+    }
+  ],
+  "cancer_types": [
+    "colorectal",
+    "lung",
+    "breast",
+    "ovarian",
+    "melanoma"
+  ],
+  "ml_angle": "The AI learned to recognize survival-linked patterns from tissue images by understanding how each cell's neighbors influence the outcome, then explained which spatial relationships mattered most.",
+  "limitations": "The study relied on existing imaging data, so results are only as good as the images available; the method needs testing on new, independent patient cohorts to confirm it works in real clinical practice. Spatial imaging technology remains expensive and not yet routine in most hospitals.",
+  "tags": [
+    "spatial-biology",
+    "neural-networks",
+    "tumor-microenvironment",
+    "prognostic-biomarker",
+    "explainable-AI",
+    "computational-pathology",
+    "immunotherapy"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
