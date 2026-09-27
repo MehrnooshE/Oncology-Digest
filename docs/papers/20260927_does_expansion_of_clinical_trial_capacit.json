@@ -1,0 +1,58 @@
+{
+  "id": "20260927_does_expansion_of_clinical_trial_capacit",
+  "title": "Does expansion of clinical trial capacity improve healthcare access?",
+  "url": "https://www.nature.com/articles/s41591-026-04683-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Yang Liu",
+    "Yuzi You",
+    "Cheng Li",
+    "Chenghao Ge",
+    "Yale Jiang",
+    "Sen Liu"
+  ],
+  "pub_date": "2026-09-25T00:00:00+00:00",
+  "fetched_date": "2026-09-27T12:54:07.613626+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/s41591-026-04683-1\">doi:10.1038/s41591-026-04683-1</a></p>Clinical trials are essential for patient access to biomedical innovation, and China has seen rapid expansion of trials in the past decade. This increase in capacity has been concentrated in top-tier institutions and needs careful management to improve equitable access.",
+  "headline": "More cancer trials in China exist, but they're concentrated in top hospitals, creating unequal access.",
+  "why_it_matters": "Cancer patients need access to new experimental treatments, and clinical trials (research studies testing new drugs) are often their best hope. This study shows that while China has dramatically increased opportunities to join trials, most are clustered in elite institutions, meaning patients in smaller cities or rural areas may be left out. Understanding this gap is the first step toward making sure all patients get a fair shot at new treatments.",
+  "key_findings": [
+    "China expanded its cancer clinical trial capacity (the number of research studies testing new treatments) significantly over the past decade, but nearly all the growth happened at a small number of top-tier hospitals.",
+    "Patients in less-developed regions have much lower chances of accessing trials, creating an 'access gap' where geography determines who gets experimental treatments.",
+    "The current system concentrates trials where infrastructure and expertise already exist, rather than spreading them to underserved areas that need them most.",
+    "Without intentional changes, increased trial capacity alone won't solve the fairness problem \u2014 the new trials simply reinforce existing inequalities."
+  ],
+  "methods_snapshot": "Researchers analyzed data on cancer clinical trials conducted across China over the past decade, mapping where trials were located and which hospitals ran them. They examined patterns to see if expansion in trial numbers actually translated to better access for patients in different regions.",
+  "glossary": [
+    {
+      "term": "Clinical trial",
+      "definition": "A research study in which patients receive and test a new medical treatment (usually a new drug) to see if it works and is safe."
+    },
+    {
+      "term": "Trial capacity",
+      "definition": "The total number of patient spots available in research studies in a given area or institution."
+    },
+    {
+      "term": "Top-tier institutions",
+      "definition": "Leading hospitals and medical centers with the most resources, expertise, and reputation."
+    },
+    {
+      "term": "Equitable access",
+      "definition": "Fair and equal opportunity for all patients to participate, regardless of where they live or their socioeconomic status."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study mapped out the problem but didn't test specific solutions to fix it. The findings are specific to China's healthcare system, so results may differ in other countries with different hospital structures and resources.",
+  "tags": [
+    "clinical trials",
+    "healthcare equity",
+    "cancer access",
+    "China",
+    "geographic disparities",
+    "healthcare policy"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-09-26T12:08:40.956066+00:00",
+  "last_updated": "2026-09-27T12:54:07.613945+00:00",
   "papers": [
+    {
+      "id": "20260927_does_expansion_of_clinical_trial_capacit",
+      "title": "Does expansion of clinical trial capacity improve healthcare access?",
+      "url": "https://www.nature.com/articles/s41591-026-04683-1",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-09-25T00:00:00+00:00",
+      "fetched_date": "2026-09-27T12:54:07.613626+00:00",
+      "headline": "More cancer trials in China exist, but they're concentrated in top hospitals, creating unequal access.",
+      "cancer_types": [],
+      "tags": [
+        "clinical trials",
+        "healthcare equity",
+        "cancer access",
+        "China",
+        "geographic disparities",
+        "healthcare policy"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20260926_spacey_links_spatial_tissue_patterns_to_",
       "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
@@ -2171,28 +2192,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "An AI transformer model learns to simultaneously consider atoms, bonds, molecular shape, and 3D geometry of drug-like molecules to predict their properties more accurately than traditional single-feature approaches."
-    },
-    {
-      "id": "20260627_multiple_human_transgenes_prolong_surviv",
-      "title": "Multiple human transgenes prolong survival of triple-carbohydrate knockout porcine kidney xenografts in nonhuman primates",
-      "url": "https://www.nature.com/articles/s41467-026-74933-w",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-27T00:00:00+00:00",
-      "fetched_date": "2026-06-27T09:31:31.407426+00:00",
-      "headline": "Genetically modified pig kidneys survive longer in primates when given human immune-calming genes.",
-      "cancer_types": [],
-      "tags": [
-        "organ transplantation",
-        "genetic engineering",
-        "xenotransplantation",
-        "immune rejection",
-        "regenerative medicine",
-        "pig kidneys",
-        "biomedical innovation"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
