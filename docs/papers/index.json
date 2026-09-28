@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-09-27T12:54:07.613945+00:00",
+  "last_updated": "2026-09-28T15:12:20.964474+00:00",
   "papers": [
+    {
+      "id": "20260928_china_now_leads_the_world_in_trials_for_",
+      "title": "China now leads the world in trials for next-gen CAR-T therapies",
+      "url": "https://www.nature.com/articles/d41586-026-03004-3",
+      "journal": "Nature",
+      "pub_date": "2026-09-28T00:00:00+00:00",
+      "fetched_date": "2026-09-28T15:12:20.964181+00:00",
+      "headline": "China is testing next-generation cancer-fighting cell therapies faster than any other country.",
+      "cancer_types": [
+        "blood cancers (leukemia, lymphoma)",
+        "solid tumors",
+        "various hematologic malignancies"
+      ],
+      "tags": [
+        "CAR-T immunotherapy",
+        "cancer clinical trials",
+        "China research leadership",
+        "cell therapy",
+        "regulatory policy",
+        "global health"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260927_does_expansion_of_clinical_trial_capacit",
       "title": "Does expansion of clinical trial capacity improve healthcare access?",
@@ -2171,27 +2196,6 @@
       "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260628_enhancing_molecular_property_prediction_",
-      "title": "Enhancing molecular property prediction of transformer models with dual graph representation",
-      "url": "https://www.nature.com/articles/s41467-026-75005-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-06-27T00:00:00+00:00",
-      "fetched_date": "2026-06-28T10:06:29.083865+00:00",
-      "headline": "New AI model predicts how molecules behave by understanding their full 3D structure.",
-      "cancer_types": [],
-      "tags": [
-        "molecular-prediction",
-        "AI-transformer",
-        "drug-discovery",
-        "machine-learning",
-        "computational-chemistry",
-        "graph-neural-networks"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "An AI transformer model learns to simultaneously consider atoms, bonds, molecular shape, and 3D geometry of drug-like molecules to predict their properties more accurately than traditional single-feature approaches."
     }
   ]
 }
