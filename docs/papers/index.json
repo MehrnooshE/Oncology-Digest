@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-09-28T15:12:20.964474+00:00",
+  "last_updated": "2026-09-29T13:54:21.274879+00:00",
   "papers": [
+    {
+      "id": "20260929_a_new_chapter_in_targeting_kinase_enzyme",
+      "title": "A new chapter in targeting kinase enzymes in cancer",
+      "url": "https://www.nature.com/articles/d41586-026-02776-y",
+      "journal": "Nature",
+      "pub_date": "2026-09-29T00:00:00+00:00",
+      "fetched_date": "2026-09-29T13:54:21.274600+00:00",
+      "headline": "New drug approach could replace older cancer treatments by destroying harmful proteins instead of just blocking them.",
+      "cancer_types": [
+        "lung cancer",
+        "breast cancer",
+        "leukemia",
+        "other kinase-driven cancers"
+      ],
+      "tags": [
+        "protein degradation",
+        "kinase inhibitors",
+        "precision medicine",
+        "drug resistance",
+        "targeted therapy",
+        "cancer treatment",
+        "therapeutic innovation"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260928_china_now_leads_the_world_in_trials_for_",
       "title": "China now leads the world in trials for next-gen CAR-T therapies",
@@ -2170,28 +2197,6 @@
         "personalized medicine",
         "CAR-T",
         "oncology"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260629_cliramitug_for_depletion_of_cardiac_amyl",
-      "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial",
-      "url": "https://www.nature.com/articles/s41591-026-04487-3",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-26T00:00:00+00:00",
-      "fetched_date": "2026-06-29T12:03:14.520710+00:00",
-      "headline": "New antibody drug safely shrinks abnormal protein buildup in hearts over two years.",
-      "cancer_types": [],
-      "tags": [
-        "amyloidosis",
-        "monoclonal antibody",
-        "cardiology",
-        "protein misfolding",
-        "long-term follow-up",
-        "rare disease",
-        "immunotherapy"
       ],
       "study_type": "clinical trial",
       "impact_score": 4,

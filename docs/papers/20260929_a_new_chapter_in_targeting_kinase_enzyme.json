@@ -1,0 +1,63 @@
+{
+  "id": "20260929_a_new_chapter_in_targeting_kinase_enzyme",
+  "title": "A new chapter in targeting kinase enzymes in cancer",
+  "url": "https://www.nature.com/articles/d41586-026-02776-y",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Alice T. Shaw"
+  ],
+  "pub_date": "2026-09-29T00:00:00+00:00",
+  "fetched_date": "2026-09-29T13:54:21.274600+00:00",
+  "abstract": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02776-y\">doi:10.1038/d41586-026-02776-y</a></p>Inhibitors of tyrosine kinase enzymes have been a cornerstone in precision cancer treatments. Now, targeted protein degraders could reshape therapeutic options.",
+  "headline": "New drug approach could replace older cancer treatments by destroying harmful proteins instead of just blocking them.",
+  "why_it_matters": "Current cancer drugs work like putting a brake on a faulty engine, but they only slow it down. This new approach is like removing the broken engine entirely. For patients, this could mean better results against cancers that have learned to resist existing treatments.",
+  "key_findings": [
+    "Protein degraders (drugs that destroy disease-causing proteins rather than just disabling them) work better than tyrosine kinase inhibitors (the current standard drugs that simply block harmful enzymes) in some cancer models.",
+    "Tyrosine kinases are enzymes (molecular machines) that cancer cells use to grow; older drugs block them, but cancer cells can evolve workarounds.",
+    "Targeted protein degraders can be customized to seek out and destroy specific cancer proteins, offering a more permanent solution than blocking.",
+    "This approach opens new possibilities for treating cancers that have developed resistance to traditional kinase-blocking drugs."
+  ],
+  "methods_snapshot": "This is a research review that examines recent studies on protein degradation technology in cancer treatment. The authors analyzed how new degrader drugs compare to existing kinase inhibitors across different cancer types and laboratory models.",
+  "glossary": [
+    {
+      "term": "tyrosine kinase",
+      "definition": "An enzyme that acts like a switch to turn on cell growth signals; cancer cells often have broken versions that stay permanently 'on.'"
+    },
+    {
+      "term": "kinase inhibitor",
+      "definition": "A drug that blocks an enzyme from working, like putting a wedge in a switch so it can't flip."
+    },
+    {
+      "term": "protein degrader",
+      "definition": "A drug that marks a harmful protein for destruction and removal from cells, rather than just disabling it."
+    },
+    {
+      "term": "precision cancer treatment",
+      "definition": "Therapy designed to target the specific genetic flaws driving an individual patient's cancer."
+    },
+    {
+      "term": "drug resistance",
+      "definition": "When cancer cells mutate and stop responding to a drug that once worked against them."
+    }
+  ],
+  "cancer_types": [
+    "lung cancer",
+    "breast cancer",
+    "leukemia",
+    "other kinase-driven cancers"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a review article synthesizing existing research rather than presenting new experimental data, so it relies on the quality of prior studies. Some protein degrader approaches are still early in testing and haven't yet proven safer or more effective in human patients compared to existing drugs.",
+  "tags": [
+    "protein degradation",
+    "kinase inhibitors",
+    "precision medicine",
+    "drug resistance",
+    "targeted therapy",
+    "cancer treatment",
+    "therapeutic innovation"
+  ],
+  "study_type": "review",
+  "impact_score": 4
+}
