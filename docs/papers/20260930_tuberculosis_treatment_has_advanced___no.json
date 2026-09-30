@@ -1,0 +1,53 @@
+{
+  "id": "20260930_tuberculosis_treatment_has_advanced___no",
+  "title": "Tuberculosis treatment has advanced \u2014 now we need to stop drug resistance dragging us backwards",
+  "url": "https://www.nature.com/articles/d41586-026-02963-x",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Ana Cehovin"
+  ],
+  "pub_date": "2026-09-30T00:00:00+00:00",
+  "fetched_date": "2026-09-30T13:30:42.727919+00:00",
+  "abstract": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02963-x\">doi:10.1038/d41586-026-02963-x</a></p>The next major advancement in TB might not be a new drug, but a better understanding of how and why resistance to medicines emerges.",
+  "headline": "Understanding how TB bacteria resist drugs may matter more than inventing new ones.",
+  "why_it_matters": "Tuberculosis (TB) kills over a million people yearly, and bacteria are increasingly outsmarting our medicines. Instead of just searching for new drugs, scientists are realizing that understanding *why* resistance develops could help us use existing treatments smarter and stop the problem before it starts.",
+  "key_findings": [
+    "Drug resistance in TB emerges through predictable patterns rather than random mutations (changes in bacterial DNA), meaning we may be able to anticipate and prevent it",
+    "Current treatment strategies may inadvertently create conditions that encourage resistant bacteria to thrive, similar to how overusing antibiotics in agriculture bred superbugs",
+    "Better understanding of resistance mechanics could guide doctors to combine drugs in smarter ways that stop bacteria from escaping",
+    "The bottleneck in TB control isn't just the lack of new medicines \u2014 it's incomplete knowledge of how old ones fail"
+  ],
+  "methods_snapshot": "This is a review article synthesizing existing research on how TB bacteria develop resistance rather than a new experiment. The authors analyzed published studies to identify common patterns in how and when resistance emerges.",
+  "glossary": [
+    {
+      "term": "Drug resistance",
+      "definition": "When bacteria mutate and develop the ability to survive medicines that would normally kill them"
+    },
+    {
+      "term": "TB (tuberculosis)",
+      "definition": "A serious lung infection caused by bacteria that spreads through the air and kills millions globally"
+    },
+    {
+      "term": "Mutation",
+      "definition": "A random change in a bacterium's genetic code that can give it new abilities, like surviving a drug"
+    },
+    {
+      "term": "Antimicrobial resistance",
+      "definition": "When any disease-causing microorganism (bacteria, virus, fungus) stops responding to the drugs designed to kill it"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is an opinion/review piece rather than new experimental data, so it synthesizes existing knowledge and doesn't provide original discoveries. The recommendations depend heavily on how well future research can mechanistically understand resistance development.",
+  "study_type": "review",
+  "impact_score": 4,
+  "tags": [
+    "TB",
+    "drug-resistance",
+    "antimicrobial-resistance",
+    "treatment-strategy",
+    "public-health",
+    "infectious-disease"
+  ]
+}

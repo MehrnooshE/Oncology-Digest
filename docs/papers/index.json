@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-09-29T13:54:21.274879+00:00",
+  "last_updated": "2026-09-30T13:30:42.728190+00:00",
   "papers": [
+    {
+      "id": "20260930_tuberculosis_treatment_has_advanced___no",
+      "title": "Tuberculosis treatment has advanced \u2014 now we need to stop drug resistance dragging us backwards",
+      "url": "https://www.nature.com/articles/d41586-026-02963-x",
+      "journal": "Nature",
+      "pub_date": "2026-09-30T00:00:00+00:00",
+      "fetched_date": "2026-09-30T13:30:42.727919+00:00",
+      "headline": "Understanding how TB bacteria resist drugs may matter more than inventing new ones.",
+      "cancer_types": [],
+      "tags": [
+        "TB",
+        "drug-resistance",
+        "antimicrobial-resistance",
+        "treatment-strategy",
+        "public-health",
+        "infectious-disease"
+      ],
+      "study_type": "review",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260929_a_new_chapter_in_targeting_kinase_enzyme",
       "title": "A new chapter in targeting kinase enzymes in cancer",
@@ -2174,32 +2195,6 @@
       ],
       "study_type": "clinical trial",
       "impact_score": 3,
-      "ml_angle": null
-    },
-    {
-      "id": "20260630_multi_antigen_targeting_t_cells_in_pedia",
-      "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",
-      "url": "https://www.nature.com/articles/s41591-026-04449-9",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-06-30T00:00:00+00:00",
-      "fetched_date": "2026-06-30T10:33:21.501328+00:00",
-      "headline": "New immune cell therapy shows promise in hard-to-treat children's brain tumors.",
-      "cancer_types": [
-        "Pediatric central nervous system tumors",
-        "Pediatric brain tumors"
-      ],
-      "tags": [
-        "immunotherapy",
-        "T-cell therapy",
-        "pediatric cancer",
-        "brain tumors",
-        "clinical trial",
-        "personalized medicine",
-        "CAR-T",
-        "oncology"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
       "ml_angle": null
     }
   ]
