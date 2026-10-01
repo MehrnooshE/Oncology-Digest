@@ -1,0 +1,69 @@
+{
+  "id": "20261001_five_year_survival_with_neoadjuvant_ther",
+  "title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
+  "url": "https://www.nature.com/articles/s41591-026-04677-z",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Georgina V. Long",
+    "In\u00eas Pires da Silva",
+    "Kristen A. Perry",
+    "Jurriaan Romano",
+    "Serigne N. Lo",
+    "Piyush Grover"
+  ],
+  "pub_date": "2026-10-01T00:00:00+00:00",
+  "fetched_date": "2026-10-01T14:21:01.286395+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04677-z\">doi:10.1038/s41591-026-04677-z</a></p>An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors (ICIs), BRAF and MEK inhibitors (BRAF/MEKis), or a combination of ICIs and targeted therapies shows that ICI as monotherapy or in ICI combinations are superior to BRAF/MEKis and patients with major pathological responses have better long-term survival.",
+  "headline": "Immune-boosting drugs outperform targeted drugs for advanced melanoma over five years.",
+  "why_it_matters": "Melanoma is a deadly skin cancer, and this study shows which medicines work best long-term. Doctors can now make better treatment choices, and patients treated with immune-boosting drugs have better chances of surviving five years or more.",
+  "key_findings": [
+    "Immune checkpoint inhibitors (ICIs\u2014drugs that unlock the immune system to fight cancer) work better than BRAF/MEK inhibitors (targeted drugs that block specific cancer mutations) for long-term survival in melanoma.",
+    "Combining ICIs with other drugs is also more effective than using targeted drugs alone.",
+    "Patients whose tumors shrank dramatically after treatment before surgery (called a major pathological response) lived longer overall.",
+    "This analysis tracked over 1,000 melanoma patients for up to five years, making it one of the largest long-term comparisons of these treatment strategies."
+  ],
+  "methods_snapshot": "Researchers combined data from multiple clinical trials (studies testing treatments in patients) involving 1,038 melanoma patients treated with different drug combinations. They tracked how long patients survived and how well their tumors responded to treatment over three and five years.",
+  "glossary": [
+    {
+      "term": "neoadjuvant therapy",
+      "definition": "Treatment given before surgery to shrink the tumor and make it easier to remove."
+    },
+    {
+      "term": "immune checkpoint inhibitor (ICI)",
+      "definition": "A drug that removes the brakes the body's immune system naturally applies, allowing it to attack cancer cells more aggressively."
+    },
+    {
+      "term": "BRAF/MEK inhibitors",
+      "definition": "Targeted drugs that block specific faulty genes (BRAF and MEK) found in melanoma tumor cells, slowing their growth."
+    },
+    {
+      "term": "major pathological response",
+      "definition": "A significant shrinkage of the tumor seen under a microscope after treatment, before the tumor is surgically removed."
+    },
+    {
+      "term": "pooled analysis",
+      "definition": "A study that combines data from multiple previous studies to find larger, more reliable patterns."
+    },
+    {
+      "term": "melanoma",
+      "definition": "An aggressive form of skin cancer that develops in pigment-producing cells."
+    }
+  ],
+  "cancer_types": [
+    "melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This study pools data from different trials that may have used slightly different methods, which could affect comparisons. The results apply mainly to advanced melanoma patients eligible for surgery, so outcomes may differ for patients at other disease stages.",
+  "tags": [
+    "melanoma",
+    "immunotherapy",
+    "targeted-therapy",
+    "neoadjuvant-treatment",
+    "survival",
+    "clinical-trial",
+    "cancer-treatment"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

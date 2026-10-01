@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-30T13:30:42.728190+00:00",
+  "last_updated": "2026-10-01T14:21:01.286686+00:00",
   "papers": [
+    {
+      "id": "20261001_five_year_survival_with_neoadjuvant_ther",
+      "title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
+      "url": "https://www.nature.com/articles/s41591-026-04677-z",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-01T00:00:00+00:00",
+      "fetched_date": "2026-10-01T14:21:01.286395+00:00",
+      "headline": "Immune-boosting drugs outperform targeted drugs for advanced melanoma over five years.",
+      "cancer_types": [
+        "melanoma"
+      ],
+      "tags": [
+        "melanoma",
+        "immunotherapy",
+        "targeted-therapy",
+        "neoadjuvant-treatment",
+        "survival",
+        "clinical-trial",
+        "cancer-treatment"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20260930_tuberculosis_treatment_has_advanced___no",
       "title": "Tuberculosis treatment has advanced \u2014 now we need to stop drug resistance dragging us backwards",
@@ -2173,28 +2197,6 @@
       ],
       "study_type": "multi-omics",
       "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260701_adjunctive_ibuprofen_in_pre_extensively_",
-      "title": "Adjunctive ibuprofen in pre-extensively drug-resistant and extensively drug-resistant tuberculosis: a phase IIA open-label pilot clinical trial",
-      "url": "https://www.nature.com/articles/s41467-026-75148-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-01T00:00:00+00:00",
-      "fetched_date": "2026-07-01T10:45:03.126287+00:00",
-      "headline": "Common painkiller ibuprofen helps reduce inflammation in drug-resistant tuberculosis patients.",
-      "cancer_types": [],
-      "tags": [
-        "tuberculosis",
-        "drug-resistance",
-        "inflammation",
-        "ibuprofen",
-        "adjunctive-therapy",
-        "pilot-trial",
-        "infectious-disease"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 3,
       "ml_angle": null
     }
   ]
