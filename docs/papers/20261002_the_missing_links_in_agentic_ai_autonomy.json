@@ -1,0 +1,59 @@
+{
+  "id": "20261002_the_missing_links_in_agentic_ai_autonomy",
+  "title": "The missing links in agentic AI autonomy",
+  "url": "https://www.nature.com/articles/s41591-026-04658-2",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Mahmud Omar",
+    "Raja-Elie E. Abdulnour",
+    "Girish N. Nadkarni"
+  ],
+  "pub_date": "2026-10-02T00:00:00+00:00",
+  "fetched_date": "2026-10-02T13:43:08.697621+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04658-2\">doi:10.1038/s41591-026-04658-2</a></p>A new study tackles issues around operational and decisional trust of agentic artificial intelligence (AI), using locally deployed, on-premise agents and consistency-based gating to refer uncertain cases \u2014 but what happens after referral remains untested.",
+  "headline": "AI doctors need better safeguards to know when they should ask for human help.",
+  "why_it_matters": "Hospitals are starting to use AI to help diagnose and treat patients, but we need to make sure these AI systems know their limits and ask doctors for help when uncertain. This study identifies gaps in how AI systems hand off tricky cases to humans \u2014 a critical safety issue before AI can be trusted in real patient care.",
+  "key_findings": [
+    "Locally deployed AI agents (AI systems that work on hospital computers rather than the cloud) can be designed to flag uncertain diagnoses and refer cases to human doctors, but the current systems don't guarantee good outcomes after referral happens.",
+    "Consistency-based gating (a technique where the AI only makes confident decisions if its answers stay consistent across multiple checks) helps identify when an AI is unsure, similar to how you'd double-check your math before submitting an exam.",
+    "The study reveals a major gap: we know how to get AI to say 'I'm not sure,' but we don't yet know what happens when that uncertain case reaches a human doctor \u2014 does the handoff improve patient outcomes or just create delays?",
+    "Trust in AI systems depends on two separate things: whether the AI's decisions are actually correct (operational trust) and whether humans believe the AI is being honest about its confidence (decisional trust)."
+  ],
+  "methods_snapshot": "The researchers reviewed how current AI systems deployed directly in hospitals make decisions and hand off uncertain cases, focusing on the technical mechanisms (like consistency-based gating) that flag when an AI is unsure. They then identified what information is missing about whether these handoffs to human doctors actually lead to better patient care.",
+  "glossary": [
+    {
+      "term": "agentic AI",
+      "definition": "An artificial intelligence system that can make decisions and take actions somewhat independently, rather than just answering questions when asked."
+    },
+    {
+      "term": "locally deployed, on-premise",
+      "definition": "AI systems that run on computers inside a hospital rather than sending patient data to the internet or the cloud, for privacy and control."
+    },
+    {
+      "term": "consistency-based gating",
+      "definition": "A safety technique where AI checks its own answers multiple times; if the answers keep matching, the AI is more confident; if they differ, the AI flags uncertainty."
+    },
+    {
+      "term": "operational trust",
+      "definition": "Whether an AI system's decisions are actually correct and reliable."
+    },
+    {
+      "term": "decisional trust",
+      "definition": "Whether humans believe the AI is being honest about how confident it is in its own decisions."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI systems were designed to recognize when they are uncertain about a diagnosis and automatically refer those cases to human doctors, using consistency checks to measure confidence levels.",
+  "limitations": "This study identifies problems but doesn't test whether AI referrals actually improve patient outcomes \u2014 it's unclear whether flagging uncertainty helps or just shifts the burden to busy doctors. Real-world validation in actual hospitals with real patients is still needed.",
+  "tags": [
+    "AI safety",
+    "clinical AI",
+    "human-AI collaboration",
+    "diagnostic trust",
+    "healthcare technology",
+    "decision support"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

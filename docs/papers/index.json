@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-10-01T14:21:01.286686+00:00",
+  "last_updated": "2026-10-02T13:43:08.697891+00:00",
   "papers": [
+    {
+      "id": "20261002_the_missing_links_in_agentic_ai_autonomy",
+      "title": "The missing links in agentic AI autonomy",
+      "url": "https://www.nature.com/articles/s41591-026-04658-2",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-02T00:00:00+00:00",
+      "fetched_date": "2026-10-02T13:43:08.697621+00:00",
+      "headline": "AI doctors need better safeguards to know when they should ask for human help.",
+      "cancer_types": [],
+      "tags": [
+        "AI safety",
+        "clinical AI",
+        "human-AI collaboration",
+        "diagnostic trust",
+        "healthcare technology",
+        "decision support"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "AI systems were designed to recognize when they are uncertain about a diagnosis and automatically refer those cases to human doctors, using consistency checks to measure confidence levels."
+    },
     {
       "id": "20261001_five_year_survival_with_neoadjuvant_ther",
       "title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
@@ -2175,27 +2196,6 @@
         "public health"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260702_an_atlas_of_primate_insular_cortex_revea",
-      "title": "An atlas of primate insular cortex reveals a signal-processing strategy in von Economo neurons",
-      "url": "https://www.nature.com/articles/s41556-026-02009-4",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-07-02T00:00:00+00:00",
-      "fetched_date": "2026-07-02T10:12:45.304469+00:00",
-      "headline": "Scientists map special brain cells that may help primates process emotions and social signals.",
-      "cancer_types": [],
-      "tags": [
-        "neuroscience",
-        "brain-cells",
-        "emotion",
-        "single-cell-biology",
-        "primates",
-        "cell-mapping"
-      ],
-      "study_type": "multi-omics",
       "impact_score": 4,
       "ml_angle": null
     }
