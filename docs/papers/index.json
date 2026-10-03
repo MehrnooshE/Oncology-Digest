@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-02T13:43:08.697891+00:00",
+  "last_updated": "2026-10-03T12:23:09.679447+00:00",
   "papers": [
+    {
+      "id": "20261003_urine_cell_free_rna_for_bladder_cancer_d",
+      "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
+      "url": "https://www.nature.com/articles/s41591-026-04673-3",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-02T00:00:00+00:00",
+      "fetched_date": "2026-10-03T12:23:09.679262+00:00",
+      "headline": "A urine test can detect bladder cancer and predict how well treatment will work.",
+      "cancer_types": [
+        "bladder cancer"
+      ],
+      "tags": [
+        "bladder cancer",
+        "liquid biopsy",
+        "early detection",
+        "treatment response",
+        "non-invasive",
+        "urine biomarker",
+        "RNA",
+        "personalized medicine"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": "Likely used machine learning algorithms to identify which RNA patterns best separate cancer patients from healthy controls and predict treatment response, though specifics are not detailed in the abstract."
+    },
     {
       "id": "20261002_the_missing_links_in_agentic_ai_autonomy",
       "title": "The missing links in agentic AI autonomy",
@@ -2175,29 +2200,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The AI model learned shared patterns in gene expression across many cancers, then used those patterns to predict which new patients would respond to immunotherapy \u2014 generalizing beyond the specific cancers it trained on."
-    },
-    {
-      "id": "20260703_lassa_fever_countermeasures_gather_pace",
-      "title": "Lassa fever countermeasures gather pace",
-      "url": "https://www.nature.com/articles/s41591-026-04478-4",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-03T00:00:00+00:00",
-      "fetched_date": "2026-07-03T10:08:24.571447+00:00",
-      "headline": "Scientists test new weapons against deadly Lassa fever virus in human patients.",
-      "cancer_types": [],
-      "tags": [
-        "Lassa fever",
-        "vaccine development",
-        "therapeutic treatment",
-        "clinical trial",
-        "viral disease",
-        "infectious disease",
-        "drug development",
-        "public health"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
