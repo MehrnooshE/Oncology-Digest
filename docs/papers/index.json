@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-03T12:23:09.679447+00:00",
+  "last_updated": "2026-10-04T13:06:24.877916+00:00",
   "papers": [
+    {
+      "id": "20261004_a__i_ccl21__i___xa0_gene_modified_dendri",
+      "title": "A <i>CCL21</i>&#xa0;gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "url": "https://www.nature.com/articles/s41467-026-78130-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-04T00:00:00+00:00",
+      "fetched_date": "2026-10-04T13:06:24.877620+00:00",
+      "headline": "Modified immune cells combined with cancer drug show promise against advanced lung cancer.",
+      "cancer_types": [
+        "Non-small cell lung cancer (NSCLC)"
+      ],
+      "tags": [
+        "immunotherapy",
+        "dendritic cell vaccine",
+        "lung cancer",
+        "combination therapy",
+        "checkpoint inhibitor",
+        "clinical trial",
+        "CCL21",
+        "pembrolizumab"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261003_urine_cell_free_rna_for_bladder_cancer_d",
       "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
@@ -2170,36 +2195,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260704_generalizable_ai_predicts_immunotherapy_",
-      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
-      "url": "https://www.nature.com/articles/s41591-026-04502-7",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-03T00:00:00+00:00",
-      "fetched_date": "2026-07-04T09:26:58.360175+00:00",
-      "headline": "AI model predicts which cancer patients will respond to immunotherapy across multiple cancer types.",
-      "cancer_types": [
-        "melanoma",
-        "non-small-cell lung cancer",
-        "renal cell carcinoma",
-        "gastric cancer",
-        "bladder cancer",
-        "other solid tumors"
-      ],
-      "tags": [
-        "immunotherapy",
-        "AI prediction",
-        "cancer",
-        "personalized medicine",
-        "gene expression",
-        "foundation model",
-        "treatment response",
-        "precision oncology"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The AI model learned shared patterns in gene expression across many cancers, then used those patterns to predict which new patients would respond to immunotherapy \u2014 generalizing beyond the specific cancers it trained on."
     }
   ]
 }

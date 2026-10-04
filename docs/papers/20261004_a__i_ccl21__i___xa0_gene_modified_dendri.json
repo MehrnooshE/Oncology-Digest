@@ -1,0 +1,79 @@
+{
+  "id": "20261004_a__i_ccl21__i___xa0_gene_modified_dendri",
+  "title": "A <i>CCL21</i>&#xa0;gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+  "url": "https://www.nature.com/articles/s41467-026-78130-7",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Michael S. Oh",
+    "Aaron E. Lisberg",
+    "Camelia Dumitras",
+    "Linh M. Tran",
+    "Ramin Salehi-Rad",
+    "Kostyantyn Krysan"
+  ],
+  "pub_date": "2026-10-04T00:00:00+00:00",
+  "fetched_date": "2026-10-04T13:06:24.877620+00:00",
+  "abstract": "<p>Nature Communications, Published online: 04 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78130-7\">doi:10.1038/s41467-026-78130-7</a></p>Feasibility and safety profile of intratumoral administration of a DC vaccine overexpressing CCL21 (CCL21-DC) have been previously reported in patients with non-small cell lung cancer (NSCLC). Here the authors report safety, clinical outcomes and immunological correlates of a phase I trial of CCL21-DC in combination with anti-PD1 pembrolizumab in patients with advanced NSCLC.",
+  "headline": "Modified immune cells combined with cancer drug show promise against advanced lung cancer.",
+  "why_it_matters": "Advanced lung cancer is hard to treat and often fatal. This study tests a new approach that teaches the immune system to recognize and attack cancer cells more effectively. If successful, it could offer hope to patients who don't respond well to current treatments.",
+  "key_findings": [
+    "Researchers gave patients a vaccine made from their own dendritic cells (immune cells trained to recognize cancer) combined with pembrolizumab (a drug that removes brakes on the immune system).",
+    "The combination was safe and tolerable\u2014patients experienced manageable side effects without serious unexpected problems.",
+    "The modified dendritic cells were enhanced with a gene called CCL21 that acts like a 'recruitment signal' to draw more cancer-fighting immune cells to the tumor.",
+    "Early clinical responses were observed, suggesting the approach can work in real patients with advanced non-small cell lung cancer (the most common type of lung cancer).",
+    "The study measured immune changes in patient blood and tumors, showing the treatment successfully activated cancer-fighting immune responses."
+  ],
+  "methods_snapshot": "Researchers enrolled advanced lung cancer patients and injected the modified dendritic cell vaccine directly into their tumors, then gave them pembrolizumab (a checkpoint inhibitor that helps immune cells attack cancer). They tracked safety, tumor response, and immune activity over time to understand how the combination works.",
+  "glossary": [
+    {
+      "term": "Dendritic cells",
+      "definition": "A type of immune cell that acts like a scout, recognizing dangerous invaders and alerting other immune cells to attack."
+    },
+    {
+      "term": "CCL21 gene",
+      "definition": "A gene that produces a chemical signal that attracts immune cells to a specific location, like a flare signaling for help."
+    },
+    {
+      "term": "Pembrolizumab",
+      "definition": "A drug that blocks a 'stop signal' cancer cells use to hide from the immune system, allowing immune cells to attack again."
+    },
+    {
+      "term": "Checkpoint inhibitor",
+      "definition": "A drug that removes the brakes cancer cells put on the immune system, freeing immune cells to fight back."
+    },
+    {
+      "term": "Non-small cell lung cancer (NSCLC)",
+      "definition": "The most common type of lung cancer, named for the size of the cancer cells under a microscope."
+    },
+    {
+      "term": "Intratumoral administration",
+      "definition": "Injecting a treatment directly into the tumor rather than into the bloodstream."
+    },
+    {
+      "term": "Immunological correlates",
+      "definition": "Measurable signs that the immune system is responding to treatment, like changes in immune cell numbers or activity."
+    },
+    {
+      "term": "Phase I trial",
+      "definition": "An early-stage clinical study focused on testing safety and finding the right dose, usually in 20-100 patients."
+    }
+  ],
+  "cancer_types": [
+    "Non-small cell lung cancer (NSCLC)"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a Phase I study, meaning it focuses on safety in a small group of patients rather than proving the treatment works better than standard options. Larger Phase II and III studies are needed to confirm effectiveness and compare the combination directly to current treatments.",
+  "tags": [
+    "immunotherapy",
+    "dendritic cell vaccine",
+    "lung cancer",
+    "combination therapy",
+    "checkpoint inhibitor",
+    "clinical trial",
+    "CCL21",
+    "pembrolizumab"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
