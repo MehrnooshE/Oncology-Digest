@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-04T13:06:24.877916+00:00",
+  "last_updated": "2026-10-05T15:45:46.281625+00:00",
   "papers": [
+    {
+      "id": "20261005_global_and_specific_mechanisms_stimulate",
+      "title": "Global and specific mechanisms stimulate mistranslation in cancer",
+      "url": "https://www.nature.com/articles/s41556-026-02088-3",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-10-05T00:00:00+00:00",
+      "fetched_date": "2026-10-05T15:45:46.281349+00:00",
+      "headline": "Cancer cells trick their protein-making machinery by swapping amino acids to survive.",
+      "cancer_types": [
+        "Not specified in abstract\u2014likely multiple solid tumors based on methodology"
+      ],
+      "tags": [
+        "protein synthesis",
+        "cancer adaptation",
+        "ADAR1",
+        "FTSJ1",
+        "amino acid substitution",
+        "therapeutic target",
+        "cell biology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261004_a__i_ccl21__i___xa0_gene_modified_dendri",
       "title": "A <i>CCL21</i>&#xa0;gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
@@ -2164,33 +2188,6 @@
         "engineered E. coli",
         "immune checkpoint",
         "combination therapy"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260705_the_brca1_a_complex_restricts_replicatio",
-      "title": "The BRCA1-A complex restricts replication fork reversal-dependent DNA repair in ATM deficient cells",
-      "url": "https://www.nature.com/articles/s41467-026-75271-7",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-04T00:00:00+00:00",
-      "fetched_date": "2026-07-05T09:44:45.333752+00:00",
-      "headline": "Disabling a DNA repair protein makes cancer cells with broken ATM more resistant to chemotherapy.",
-      "cancer_types": [
-        "breast cancer",
-        "ovarian cancer",
-        "ATM-mutated cancers (various types)"
-      ],
-      "tags": [
-        "DNA repair",
-        "ATM deficiency",
-        "BRCA1",
-        "chemotherapy resistance",
-        "fork reversal",
-        "homologous recombination",
-        "synthetic lethality",
-        "precision oncology"
       ],
       "study_type": "preclinical",
       "impact_score": 4,

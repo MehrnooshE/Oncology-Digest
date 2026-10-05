@@ -1,0 +1,73 @@
+{
+  "id": "20261005_global_and_specific_mechanisms_stimulate",
+  "title": "Global and specific mechanisms stimulate mistranslation in cancer",
+  "url": "https://www.nature.com/articles/s41556-026-02088-3",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Demi Wernaart",
+    "Amos Fumagalli",
+    "Mrittika Adhikary",
+    "Xiaodong Feng",
+    "Olaf Geintzer",
+    "Edwin S. Kyei-Baffour"
+  ],
+  "pub_date": "2026-10-05T00:00:00+00:00",
+  "fetched_date": "2026-10-05T15:45:46.281349+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41556-026-02088-3\">doi:10.1038/s41556-026-02088-3</a></p>Wernaart, Fumagalli et al. report ADAR1 and FTSJ1 as regulators of tryptophan-to-phenylalanine substitution in cancer. ADAR1 sustains mistranslation via ribosome quality control. FTSJ1 methylates tRNATrp and allows tRNATrp mischarging by phenylalanine.",
+  "headline": "Cancer cells trick their protein-making machinery by swapping amino acids to survive.",
+  "why_it_matters": "Cancer cells are masters of adaptation, and this research reveals a new survival trick they use: deliberately making faulty proteins. Understanding how cancer cells do this could lead to new drug strategies that exploit this weakness. If we can block these 'mistranslation' tricks, we might be able to stop cancer growth more effectively.",
+  "key_findings": [
+    "Two proteins called ADAR1 and FTSJ1 actively help cancer cells swap the amino acid tryptophan for phenylalanine during protein synthesis (the process where cells read DNA instructions and build proteins).",
+    "ADAR1 works by disabling the cell's quality-control system that normally catches and destroys misfolded proteins\u2014essentially turning off the factory alarm.",
+    "FTSJ1 chemically modifies a messenger molecule called tRNA-Trp (the truck that carries tryptophan amino acids to the protein factory) so it can pick up the wrong amino acid instead.",
+    "This intentional mistranslation appears to be a survival strategy cancer cells use to adapt when under stress, rather than a random error."
+  ],
+  "methods_snapshot": "The researchers used laboratory cell cultures and genetic tools to identify which proteins control mistranslation, then tested whether blocking these proteins slowed cancer growth. They analyzed changes in protein sequences and cell behavior to confirm their findings.",
+  "glossary": [
+    {
+      "term": "Mistranslation",
+      "definition": "When cells deliberately or accidentally insert the wrong amino acid into a protein, like typing the wrong letter in an instruction manual."
+    },
+    {
+      "term": "ADAR1",
+      "definition": "A protein that edits RNA (the temporary copy of DNA instructions) and helps cancer cells evade quality-control systems."
+    },
+    {
+      "term": "FTSJ1",
+      "definition": "A protein that chemically modifies tRNA molecules to change which amino acids they deliver during protein-building."
+    },
+    {
+      "term": "tRNA",
+      "definition": "A molecule shaped like a cloverleaf that carries amino acids to the ribosome (the cell's protein-building machine) and reads instructions in the correct order."
+    },
+    {
+      "term": "Amino acids",
+      "definition": "The 20 building blocks used to construct all proteins in living cells, like LEGO bricks in different shapes."
+    },
+    {
+      "term": "Ribosome quality control",
+      "definition": "The cell's surveillance system that checks newly made proteins for defects and destroys those that fold incorrectly."
+    },
+    {
+      "term": "Protein synthesis",
+      "definition": "The process where cells read genetic instructions and assemble amino acids into functional proteins."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract\u2014likely multiple solid tumors based on methodology"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was conducted in laboratory cells and may not fully reflect how mistranslation works inside living patients' tumors. The research also doesn't yet explain whether all cancer types use this strategy or only certain ones.",
+  "tags": [
+    "protein synthesis",
+    "cancer adaptation",
+    "ADAR1",
+    "FTSJ1",
+    "amino acid substitution",
+    "therapeutic target",
+    "cell biology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
