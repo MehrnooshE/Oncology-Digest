@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-05T15:45:46.281625+00:00",
+  "last_updated": "2026-10-06T14:03:18.383018+00:00",
   "papers": [
+    {
+      "id": "20261006_circular_dna_exposes_a_weakness_in_cance",
+      "title": "Circular DNA exposes a weakness in cancer cells",
+      "url": "https://www.nature.com/articles/d41586-026-02966-8",
+      "journal": "Nature",
+      "pub_date": "2026-10-06T00:00:00+00:00",
+      "fetched_date": "2026-10-06T14:03:18.382783+00:00",
+      "headline": "Cancer cells' extra DNA loops have a hidden weakness researchers can exploit.",
+      "cancer_types": [
+        "Multiple cancer types studied (specific types not detailed in abstract)"
+      ],
+      "tags": [
+        "extrachromosomal-DNA",
+        "cancer-vulnerability",
+        "circular-DNA",
+        "therapeutic-target",
+        "tumor-evolution",
+        "DNA-repair",
+        "cancer-resistance"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261005_global_and_specific_mechanisms_stimulate",
       "title": "Global and specific mechanisms stimulate mistranslation in cancer",
@@ -2164,32 +2188,6 @@
         "translational research"
       ],
       "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260706_author_correction__sustained_nitric_oxid",
-      "title": "Author Correction: Sustained nitric oxide production by engineered <i>E. coli</i> remodels the tumor microenvironment and potentiates immunotherapy",
-      "url": "https://www.nature.com/articles/s41587-026-03247-5",
-      "journal": "Nature Biotechnology",
-      "pub_date": "2026-07-06T00:00:00+00:00",
-      "fetched_date": "2026-07-06T11:40:36.237102+00:00",
-      "headline": "Engineered bacteria produce a gas that helps immune cells fight tumors better.",
-      "cancer_types": [
-        "melanoma",
-        "colorectal cancer",
-        "breast cancer"
-      ],
-      "tags": [
-        "bacterial therapy",
-        "immunotherapy",
-        "nitric oxide",
-        "tumor microenvironment",
-        "engineered E. coli",
-        "immune checkpoint",
-        "combination therapy"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
