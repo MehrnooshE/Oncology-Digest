@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-06T14:03:18.383018+00:00",
+  "last_updated": "2026-10-07T14:21:05.257409+00:00",
   "papers": [
+    {
+      "id": "20261007_a_cytidine_deaminase_biodegrader_sensiti",
+      "title": "A cytidine deaminase biodegrader sensitises multiple cancer types to deoxycytidine analogue-based chemotherapies",
+      "url": "https://www.nature.com/articles/s41467-026-78315-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-07T00:00:00+00:00",
+      "fetched_date": "2026-10-07T14:21:05.257124+00:00",
+      "headline": "Scientists disable a cancer cell's defense against chemotherapy drugs, making treatments work better.",
+      "cancer_types": [
+        "multiple cancer types tested",
+        "specific types not detailed in abstract"
+      ],
+      "tags": [
+        "chemotherapy resistance",
+        "drug sensitization",
+        "protein engineering",
+        "cancer treatment",
+        "enzyme inhibition",
+        "preclinical research"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261006_circular_dna_exposes_a_weakness_in_cance",
       "title": "Circular DNA exposes a weakness in cancer cells",
@@ -2165,29 +2189,6 @@
         "therapeutic-target"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260707_immune_aging_biomarkers_for_clinical_tri",
-      "title": "Immune aging biomarkers for clinical trials",
-      "url": "https://www.nature.com/articles/s41591-026-04493-5",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-03T00:00:00+00:00",
-      "fetched_date": "2026-07-07T10:28:45.589046+00:00",
-      "headline": "Scientists create a roadmap to measure how the immune system ages in clinical trials.",
-      "cancer_types": [],
-      "tags": [
-        "immune aging",
-        "biomarkers",
-        "clinical trials",
-        "geroscience",
-        "aging",
-        "immunology",
-        "framework",
-        "translational research"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }

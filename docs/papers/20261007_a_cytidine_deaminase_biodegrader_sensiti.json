@@ -1,0 +1,69 @@
+{
+  "id": "20261007_a_cytidine_deaminase_biodegrader_sensiti",
+  "title": "A cytidine deaminase biodegrader sensitises multiple cancer types to deoxycytidine analogue-based chemotherapies",
+  "url": "https://www.nature.com/articles/s41467-026-78315-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Marie Sorbara",
+    "Margot Cristol",
+    "Charl\u00e8ne Lopez",
+    "Ben Allal",
+    "Manon Gervais",
+    "Ana\u00efs Faihy"
+  ],
+  "pub_date": "2026-10-07T00:00:00+00:00",
+  "fetched_date": "2026-10-07T14:21:05.257124+00:00",
+  "abstract": "<p>Nature Communications, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78315-0\">doi:10.1038/s41467-026-78315-0</a></p>Deoxycytidine (dC) analogues form the basis of many chemotherapeutic agents but their efficacy is limited by cytidine deaminase-mediated inactivation. Here, the authors develop an intracellular biodegrader targeting cytidine deaminase, capable of sensitising multiple cancer types to dC analogues.",
+  "headline": "Scientists disable a cancer cell's defense against chemotherapy drugs, making treatments work better.",
+  "why_it_matters": "Many cancer drugs are currently weakened by a protein inside cancer cells that destroys them before they can work. By neutralizing this protein, doctors could potentially use lower drug doses with fewer side effects while still killing tumors more effectively. This could improve survival and quality of life for patients with several common cancer types.",
+  "key_findings": [
+    "Researchers created a molecular tool (a 'biodegrader' \u2014 essentially a custom-designed protein that hunts down and destroys other proteins) that targets cytidine deaminase, an enzyme cancer cells use to inactivate chemotherapy drugs.",
+    "The biodegrader successfully disabled cytidine deaminase in multiple cancer cell types grown in the lab, allowing chemotherapy drugs called deoxycytidine analogues (synthetic copies of a natural DNA building block) to work much more effectively.",
+    "Cancer cells treated with both the biodegrader and the chemotherapy drug died far more readily than cells exposed to the drug alone, even at lower drug concentrations.",
+    "The approach works against diverse cancer types, suggesting it could potentially be used across many different malignancies rather than just one specific cancer."
+  ],
+  "methods_snapshot": "The team designed a protein-based biodegrader using biotechnology techniques to specifically target and break down cytidine deaminase. They then tested this tool in cancer cells grown in laboratory dishes, measuring whether it improved how well standard chemotherapy drugs killed the cancer cells.",
+  "glossary": [
+    {
+      "term": "cytidine deaminase",
+      "definition": "An enzyme (protein that speeds up chemical reactions) found in cancer cells that inactivates certain chemotherapy drugs, making them useless."
+    },
+    {
+      "term": "biodegrader",
+      "definition": "A custom-designed protein that seeks out and destroys specific target proteins inside cells."
+    },
+    {
+      "term": "deoxycytidine (dC) analogues",
+      "definition": "Synthetic drugs that mimic a natural building block of DNA; they trick cancer cells into incorporating them, causing cell death."
+    },
+    {
+      "term": "chemotherapy",
+      "definition": "Cancer treatment using drugs designed to kill rapidly dividing cells, especially cancer cells."
+    },
+    {
+      "term": "inactivation",
+      "definition": "The process of making something non-functional or powerless."
+    },
+    {
+      "term": "intracellular",
+      "definition": "Inside a cell, as opposed to outside or on its surface."
+    }
+  ],
+  "cancer_types": [
+    "multiple cancer types tested",
+    "specific types not detailed in abstract"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted in cancer cells grown in laboratory dishes, not yet in living patients or even animal models, so real-world effectiveness remains unknown. The long-term safety of the biodegrader tool and potential side effects in human patients have not yet been evaluated.",
+  "tags": [
+    "chemotherapy resistance",
+    "drug sensitization",
+    "protein engineering",
+    "cancer treatment",
+    "enzyme inhibition",
+    "preclinical research"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
