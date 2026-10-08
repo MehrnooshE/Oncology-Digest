@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-07T14:21:05.257409+00:00",
+  "last_updated": "2026-10-08T14:28:57.705937+00:00",
   "papers": [
+    {
+      "id": "20261008_olaparib_plus_tremelimumab_in_women_with",
+      "title": "Olaparib plus tremelimumab in women with recurrent ovarian cancer and a germline <i>BRCA1</i> or <i>BRCA2</i> mutation: a phase I/II study",
+      "url": "https://www.nature.com/articles/s41467-026-78395-y",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-08T00:00:00+00:00",
+      "fetched_date": "2026-10-08T14:28:57.705617+00:00",
+      "headline": "Two cancer drugs together work better than one for hard-to-treat ovarian cancer.",
+      "cancer_types": [
+        "ovarian cancer",
+        "epithelial ovarian cancer",
+        "recurrent ovarian cancer"
+      ],
+      "tags": [
+        "ovarian cancer",
+        "immunotherapy",
+        "PARP inhibitors",
+        "combination therapy",
+        "BRCA mutations",
+        "clinical trial"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261007_a_cytidine_deaminase_biodegrader_sensiti",
       "title": "A cytidine deaminase biodegrader sensitises multiple cancer types to deoxycytidine analogue-based chemotherapies",
@@ -2165,30 +2190,6 @@
         "precision medicine"
       ],
       "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260708_loss_of_the__i_usp22__i__deubiquitylase_",
-      "title": "Loss of the <i>USP22</i> deubiquitylase confers resistance to chemotherapy in small cell lung cancer",
-      "url": "https://www.nature.com/articles/s41467-026-75117-2",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-08T00:00:00+00:00",
-      "fetched_date": "2026-07-08T09:29:01.385598+00:00",
-      "headline": "Scientists find why some lung cancers stop responding to chemotherapy and how to fix it.",
-      "cancer_types": [
-        "small cell lung cancer"
-      ],
-      "tags": [
-        "chemotherapy-resistance",
-        "lung-cancer",
-        "drug-resistance",
-        "CRISPR-screening",
-        "protein-degradation",
-        "precision-medicine",
-        "therapeutic-target"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }

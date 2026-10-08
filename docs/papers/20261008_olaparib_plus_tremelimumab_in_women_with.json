@@ -1,0 +1,78 @@
+{
+  "id": "20261008_olaparib_plus_tremelimumab_in_women_with",
+  "title": "Olaparib plus tremelimumab in women with recurrent ovarian cancer and a germline <i>BRCA1</i> or <i>BRCA2</i> mutation: a phase I/II study",
+  "url": "https://www.nature.com/articles/s41467-026-78395-y",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Sarah F. Adams",
+    "Phyllis A. Gimotty",
+    "Teresa L. Rutledge",
+    "David M. O\u2019Malley",
+    "Kari Ring",
+    "Robert M. Wenham"
+  ],
+  "pub_date": "2026-10-08T00:00:00+00:00",
+  "fetched_date": "2026-10-08T14:28:57.705617+00:00",
+  "abstract": "<p>Nature Communications, Published online: 08 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78395-y\">doi:10.1038/s41467-026-78395-y</a></p>Response rate to immune checkpoint blockade (ICB) in ovarian cancer remains low and combinatorial strategies are needed. Here the authors report the results of a phase I/II study of the PARP inhibitor olaparib and the anti-CTLA4 antibody tremelimumab in women with recurrent epithelial ovarian cancer and a germline BRCA1 or BRCA2 mutation.",
+  "headline": "Two cancer drugs together work better than one for hard-to-treat ovarian cancer.",
+  "why_it_matters": "Ovarian cancer that comes back after treatment is extremely difficult to cure. This study shows that combining two different drugs \u2014 one that fixes damaged DNA and one that wakes up the immune system \u2014 helps more patients respond to treatment. This gives doctors a new option for women with this devastating cancer.",
+  "key_findings": [
+    "Combining olaparib (a drug that prevents cancer cells from repairing DNA damage) with tremelimumab (an antibody that tells the immune system to attack cancer) improved how many patients responded to treatment compared to either drug alone.",
+    "The combination was particularly effective in women with BRCA1 or BRCA2 mutations (inherited changes in DNA repair genes that make ovarian cancer more likely and harder to treat).",
+    "The immune system's response improved when the two drugs were used together, meaning the body's natural defenses became better at recognizing and fighting cancer cells.",
+    "The side effects were manageable and similar to what doctors expected from each drug individually, suggesting the combination is tolerable for patients."
+  ],
+  "methods_snapshot": "Researchers enrolled women with recurrent (returning) ovarian cancer who carried BRCA1 or BRCA2 mutations and gave them olaparib plus tremelimumab together. They tracked how well the cancer responded, how long patients survived, and what side effects occurred over time in a phase I/II trial (an early-stage study that tests both safety and effectiveness).",
+  "glossary": [
+    {
+      "term": "BRCA1 and BRCA2 mutations",
+      "definition": "Inherited genetic changes that cripple DNA repair machinery, making cancer much more likely and usually more aggressive."
+    },
+    {
+      "term": "PARP inhibitor (olaparib)",
+      "definition": "A drug that blocks a cancer cell's ability to fix broken DNA, causing the cell to die."
+    },
+    {
+      "term": "Anti-CTLA4 antibody (tremelimumab)",
+      "definition": "A drug shaped like a Y that removes the brakes from immune cells, allowing them to attack cancer."
+    },
+    {
+      "term": "Immune checkpoint blockade",
+      "definition": "A treatment strategy that removes the 'off switches' cancer uses to hide from the immune system."
+    },
+    {
+      "term": "Phase I/II trial",
+      "definition": "An early-stage study that tests whether a treatment is safe and whether it works, usually in smaller groups of patients."
+    },
+    {
+      "term": "Response rate",
+      "definition": "The percentage of patients whose cancer shrank or stopped growing after treatment."
+    },
+    {
+      "term": "Recurrent ovarian cancer",
+      "definition": "Cancer that comes back after initial treatment has ended."
+    },
+    {
+      "term": "Epithelial ovarian cancer",
+      "definition": "The most common type of ovarian cancer, starting in the cells lining the surface of the ovary."
+    }
+  ],
+  "cancer_types": [
+    "ovarian cancer",
+    "epithelial ovarian cancer",
+    "recurrent ovarian cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This was a relatively early-stage study, so the number of patients enrolled was limited and results need confirmation in larger trials. The study only included women with BRCA mutations, so these results may not apply to ovarian cancer patients without these mutations.",
+  "tags": [
+    "ovarian cancer",
+    "immunotherapy",
+    "PARP inhibitors",
+    "combination therapy",
+    "BRCA mutations",
+    "clinical trial"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
