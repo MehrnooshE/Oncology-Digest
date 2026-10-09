@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-08T14:28:57.705937+00:00",
+  "last_updated": "2026-10-09T14:15:55.856525+00:00",
   "papers": [
+    {
+      "id": "20261009_the_urgent_challenge_of_gastroesophageal",
+      "title": "The urgent challenge of gastroesophageal cancer",
+      "url": "https://www.nature.com/articles/s41568-026-00990-4",
+      "journal": "Nature Reviews Cancer",
+      "pub_date": "2026-10-09T00:00:00+00:00",
+      "fetched_date": "2026-10-09T14:15:55.856253+00:00",
+      "headline": "Global research initiative launches $34 million effort to prevent stomach and esophageal cancers.",
+      "cancer_types": [
+        "Gastric cancer (stomach cancer)",
+        "Esophageal cancer (food pipe cancer)",
+        "Gastroesophageal cancer (both types combined)"
+      ],
+      "tags": [
+        "cancer prevention",
+        "stomach cancer",
+        "esophageal cancer",
+        "research funding",
+        "global health",
+        "early detection",
+        "cancer research"
+      ],
+      "study_type": "other",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261008_olaparib_plus_tremelimumab_in_women_with",
       "title": "Olaparib plus tremelimumab in women with recurrent ovarian cancer and a germline <i>BRCA1</i> or <i>BRCA2</i> mutation: a phase I/II study",
@@ -2169,29 +2195,6 @@
       "study_type": "computational",
       "impact_score": 3,
       "ml_angle": "Machine learning algorithms screened thousands of possible metal compositions and predicted which ones would combine strength with toughness, letting researchers test only the most promising candidates instead of trying random combinations."
-    },
-    {
-      "id": "20260709_challenges_and_future_directions_for_mul",
-      "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
-      "url": "https://www.nature.com/articles/s41591-026-04490-8",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-09T00:00:00+00:00",
-      "fetched_date": "2026-07-09T10:27:52.134706+00:00",
-      "headline": "New diagnostic guidelines make multiple sclerosis easier to identify earlier in patients.",
-      "cancer_types": [],
-      "tags": [
-        "multiple sclerosis",
-        "diagnostic criteria",
-        "early diagnosis",
-        "biomarkers",
-        "clinical guidelines",
-        "neuroinflammation",
-        "disease stratification",
-        "precision medicine"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
