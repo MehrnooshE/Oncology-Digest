@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-09T14:15:55.856525+00:00",
+  "last_updated": "2026-10-10T13:28:44.957422+00:00",
   "papers": [
+    {
+      "id": "20261010_addendum__aberrant_epithelial__i_grem1__",
+      "title": "Addendum: Aberrant epithelial <i>GREM1</i> expression initiates colonic tumorigenesis from cells outside the stem cell niche",
+      "url": "https://www.nature.com/articles/s41591-026-04736-5",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-09T00:00:00+00:00",
+      "fetched_date": "2026-10-10T13:28:44.957112+00:00",
+      "headline": "A protein called GREM1 can trigger colon cancer from unexpected cell locations, not just stem cells.",
+      "cancer_types": [
+        "colorectal cancer",
+        "colon cancer"
+      ],
+      "tags": [
+        "colon cancer",
+        "GREM1",
+        "tumor origin",
+        "stem cells",
+        "early detection",
+        "cell signaling",
+        "epithelial cells",
+        "cancer prevention"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261009_the_urgent_challenge_of_gastroesophageal",
       "title": "The urgent challenge of gastroesophageal cancer",
@@ -2172,29 +2198,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260710_high_temperature_nb_si_alloys_using_data",
-      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
-      "url": "https://www.nature.com/articles/s41467-026-75353-6",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-10T00:00:00+00:00",
-      "fetched_date": "2026-07-10T10:26:17.819199+00:00",
-      "headline": "AI helps design super-strong heat-resistant metal alloys for extreme conditions.",
-      "cancer_types": [],
-      "tags": [
-        "materials science",
-        "machine learning",
-        "alloy design",
-        "high-temperature materials",
-        "computational materials",
-        "engineering optimization",
-        "AI applications",
-        "metals"
-      ],
-      "study_type": "computational",
-      "impact_score": 3,
-      "ml_angle": "Machine learning algorithms screened thousands of possible metal compositions and predicted which ones would combine strength with toughness, letting researchers test only the most promising candidates instead of trying random combinations."
     }
   ]
 }

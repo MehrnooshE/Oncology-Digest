@@ -1,0 +1,67 @@
+{
+  "id": "20261010_addendum__aberrant_epithelial__i_grem1__",
+  "title": "Addendum: Aberrant epithelial <i>GREM1</i> expression initiates colonic tumorigenesis from cells outside the stem cell niche",
+  "url": "https://www.nature.com/articles/s41591-026-04736-5",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Hayley Davis",
+    "Shazia Irshad",
+    "Mukesh Bansal",
+    "Hannah Rafferty",
+    "Tatjana Boitsova",
+    "Chiara Bardella"
+  ],
+  "pub_date": "2026-10-09T00:00:00+00:00",
+  "fetched_date": "2026-10-10T13:28:44.957112+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04736-5\">doi:10.1038/s41591-026-04736-5</a></p>Addendum: Aberrant epithelial <i>GREM1</i> expression initiates colonic tumorigenesis from cells outside the stem cell niche",
+  "headline": "A protein called GREM1 can trigger colon cancer from unexpected cell locations, not just stem cells.",
+  "why_it_matters": "Scientists thought colon cancer always started in stem cells (cells that constantly renew tissue). This discovery shows cancer can begin elsewhere, which changes how we might prevent or catch it early. Understanding where tumors actually start could lead to better screening and new treatment targets.",
+  "key_findings": [
+    "GREM1 (a protein that normally helps control cell growth) becomes abnormally active in the lining of the colon and launches tumor formation",
+    "Cancer can originate from regular intestinal cells outside the 'stem cell niche' \u2014 the specialized area where stem cells live and divide",
+    "This challenges the long-held assumption that all colon cancers must begin in stem cells",
+    "The research reveals a new pathway for how colon tissue transforms from healthy to cancerous"
+  ],
+  "methods_snapshot": "The team studied how GREM1 behaves in colon tissue using laboratory models and cellular analysis. They tracked which cells expressed abnormal levels of GREM1 and followed how those cells evolved into tumors.",
+  "glossary": [
+    {
+      "term": "GREM1",
+      "definition": "A protein that acts like a growth regulator, normally telling cells when to divide or stop; when malfunctioning, it can trigger cancer."
+    },
+    {
+      "term": "Epithelial cells",
+      "definition": "The cells that form the lining of your intestines and other body surfaces; the first cells to contact food and germs."
+    },
+    {
+      "term": "Stem cell niche",
+      "definition": "A specialized micro-environment deep in intestinal crypts (tiny pits) where stem cells live and constantly produce new intestinal cells."
+    },
+    {
+      "term": "Tumorigenesis",
+      "definition": "The process by which normal cells transform into cancer cells and form a tumor."
+    },
+    {
+      "term": "Aberrant expression",
+      "definition": "When a gene or protein is turned on or off in an abnormal way, producing too much or too little of it."
+    }
+  ],
+  "cancer_types": [
+    "colorectal cancer",
+    "colon cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This is an addendum to earlier work, so it refines rather than establishes findings from scratch. The research was primarily done in laboratory models, so results may not perfectly match what happens in real patients' bodies.",
+  "tags": [
+    "colon cancer",
+    "GREM1",
+    "tumor origin",
+    "stem cells",
+    "early detection",
+    "cell signaling",
+    "epithelial cells",
+    "cancer prevention"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
