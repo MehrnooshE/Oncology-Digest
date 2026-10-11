@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-10-10T13:28:44.957422+00:00",
+  "last_updated": "2026-10-11T13:53:01.543939+00:00",
   "papers": [
+    {
+      "id": "20261011_time_lapse_resolft_nanoscopy_empowered_b",
+      "title": "Time-lapse RESOLFT nanoscopy empowered by deep learning",
+      "url": "https://www.nature.com/articles/s41467-026-78580-z",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-11T00:00:00+00:00",
+      "fetched_date": "2026-10-11T13:53:01.543658+00:00",
+      "headline": "AI helps scientists see living cancer cells in sharper detail for much longer.",
+      "cancer_types": [],
+      "tags": [
+        "super-resolution microscopy",
+        "deep learning",
+        "live-cell imaging",
+        "cell biology",
+        "image denoising",
+        "cancer research tools",
+        "AI for science",
+        "nanoscopy"
+      ],
+      "study_type": "imaging",
+      "impact_score": 4,
+      "ml_angle": "Artificial intelligence trained on thousands of microscopy images learned to remove noise and reconstruct missing video frames, allowing scientists to see living cells clearer and faster than before."
+    },
     {
       "id": "20261010_addendum__aberrant_epithelial__i_grem1__",
       "title": "Addendum: Aberrant epithelial <i>GREM1</i> expression initiates colonic tumorigenesis from cells outside the stem cell niche",
@@ -2173,30 +2196,6 @@
       ],
       "study_type": "preclinical",
       "impact_score": 3,
-      "ml_angle": null
-    },
-    {
-      "id": "20260711_colorectal_cancer_co_opts_an_epidermal_w",
-      "title": "Colorectal cancer co-opts an epidermal wound healing program during metastasis to generate disseminated tumor cells",
-      "url": "https://www.nature.com/articles/s41467-026-75296-y",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-11T00:00:00+00:00",
-      "fetched_date": "2026-07-11T08:51:25.882776+00:00",
-      "headline": "Cancer cells borrow a skin-healing trick to spread through the body.",
-      "cancer_types": [
-        "colorectal cancer"
-      ],
-      "tags": [
-        "metastasis",
-        "cell plasticity",
-        "colorectal cancer",
-        "tumor cells",
-        "wound healing",
-        "cancer spread",
-        "patient-derived organoids"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
       "ml_angle": null
     }
   ]
