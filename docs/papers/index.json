@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-12T16:37:43.376600+00:00",
+  "last_updated": "2026-10-13T14:54:32.474028+00:00",
   "papers": [
+    {
+      "id": "20261013_characterizing_the_onset_and_progression",
+      "title": "Characterizing the onset and progression of cancer cachexia using routine clinical data",
+      "url": "https://www.nature.com/articles/s41591-026-04720-z",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-13T00:00:00+00:00",
+      "fetched_date": "2026-10-13T14:54:32.473756+00:00",
+      "headline": "Doctors can now predict dangerous weight loss in cancer patients using blood tests.",
+      "cancer_types": [
+        "multiple cancer types included in cohort",
+        "specific types not individually listed in abstract"
+      ],
+      "tags": [
+        "cancer-cachexia",
+        "weight-loss",
+        "early-detection",
+        "machine-learning",
+        "prognosis",
+        "blood-biomarkers",
+        "survival",
+        "personalized-medicine"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Researchers trained machine learning algorithms on blood test and genetic data to predict which patients would soon enter a cachexia episode, effectively creating an early warning system."
+    },
     {
       "id": "20261012_award_winning_microscopy_image_disqualif",
       "title": "Award-winning microscopy image disqualified over AI use",
@@ -2174,27 +2200,6 @@
         "cancer treatment"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260713_the_rise_of_evidence_based_medicine_and_",
-      "title": "The rise of evidence-based medicine and the \u2018mavericks\u2019 who championed it",
-      "url": "https://www.nature.com/articles/d41586-026-02153-9",
-      "journal": "Nature",
-      "pub_date": "2026-07-13T00:00:00+00:00",
-      "fetched_date": "2026-07-13T10:31:40.454732+00:00",
-      "headline": "How rigorous medical testing transformed healthcare by replacing guesswork with proven facts.",
-      "cancer_types": [],
-      "tags": [
-        "clinical-trials",
-        "evidence-based-medicine",
-        "medical-history",
-        "drug-approval",
-        "healthcare-policy",
-        "scientific-rigor"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }

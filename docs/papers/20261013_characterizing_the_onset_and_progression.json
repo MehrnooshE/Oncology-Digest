@@ -1,0 +1,61 @@
+{
+  "id": "20261013_characterizing_the_onset_and_progression",
+  "title": "Characterizing the onset and progression of cancer cachexia using routine clinical data",
+  "url": "https://www.nature.com/articles/s41591-026-04720-z",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-10-13T00:00:00+00:00",
+  "fetched_date": "2026-10-13T14:54:32.473756+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 13 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04720-z\">doi:10.1038/s41591-026-04720-z</a></p>In 52,236 patients with cancer, cachectic weight loss episodes were linked to lower survival rates, occurred at times of disease progression, and carried a consistent serological signature across routine laboratory markers. Specific tumor genotypes, including TP53 mutations, were also positively associated with cachexia risk. Statistical models were trained to predict a patient\u2019s impending risk of cachexia.",
+  "headline": "Doctors can now predict dangerous weight loss in cancer patients using blood tests.",
+  "why_it_matters": "Cancer cachexia\u2014severe, dangerous weight loss\u2014is a leading cause of death in cancer patients, yet doctors often don't see it coming. This study shows we can spot warning signs in routine blood work before patients lose dangerous amounts of weight. Early detection could let doctors intervene faster and potentially save lives.",
+  "key_findings": [
+    "Patients who experienced sudden weight loss had significantly worse survival rates, suggesting cachexia is a critical danger sign in cancer progression (cachexia: the medical term for dangerous muscle and fat wasting that happens in advanced illness)",
+    "Weight loss episodes clustered at times when the cancer was actively growing or spreading, not randomly throughout treatment",
+    "Patients showed consistent changes in routine blood markers (proteins, inflammation signals, and other measurable substances) before and during weight loss, creating a recognizable 'signature'",
+    "Certain genetic mutations in tumors\u2014especially TP53 (a gene that normally prevents cancer)\u2014made patients significantly more likely to develop cachexia",
+    "Machine learning models trained on this data could predict which patients were about to enter a cachexia episode, offering a window for early intervention (machine learning: computer algorithms that learn patterns from data to make predictions)"
+  ],
+  "methods_snapshot": "Researchers analyzed medical records and blood test results from over 52,000 cancer patients, tracking weight changes and lab values over time. They used machine learning\u2014computer algorithms that recognize patterns\u2014to identify which blood markers and tumor genetics predicted cachexia before it became severe.",
+  "glossary": [
+    {
+      "term": "cachexia",
+      "definition": "Severe, unintentional weight loss and muscle wasting caused by illness, especially cancer; different from normal weight loss because the body breaks down muscle tissue even when nutrition is adequate."
+    },
+    {
+      "term": "serological signature",
+      "definition": "A distinctive pattern of changes in blood markers (proteins and other substances) that acts like a fingerprint for a particular condition."
+    },
+    {
+      "term": "TP53 mutation",
+      "definition": "A change in a gene that normally acts as a 'brake' on cancer growth; when mutated, this brake fails and cancer is more likely to develop and progress aggressively."
+    },
+    {
+      "term": "genotype",
+      "definition": "The genetic makeup of a tumor\u2014the specific DNA mutations and variations it carries."
+    },
+    {
+      "term": "machine learning model",
+      "definition": "A computer system trained on existing patient data to recognize patterns and make predictions about future patients."
+    }
+  ],
+  "cancer_types": [
+    "multiple cancer types included in cohort",
+    "specific types not individually listed in abstract"
+  ],
+  "ml_angle": "Researchers trained machine learning algorithms on blood test and genetic data to predict which patients would soon enter a cachexia episode, effectively creating an early warning system.",
+  "limitations": "The study used routine clinical data, which is messier and less detailed than data collected specifically for research; results may not apply equally to all cancer types or patient populations. The model's predictions would need testing in new patient groups before doctors rely on it in daily practice.",
+  "tags": [
+    "cancer-cachexia",
+    "weight-loss",
+    "early-detection",
+    "machine-learning",
+    "prognosis",
+    "blood-biomarkers",
+    "survival",
+    "personalized-medicine"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
