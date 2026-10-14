@@ -1,0 +1,71 @@
+{
+  "id": "20261014_personalized_neoantigen_targeting_cancer",
+  "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
+  "url": "https://www.nature.com/articles/s41591-026-04717-8",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "MacLean C. Sellars",
+    "Jessica A. Frank",
+    "Bohoon Shim",
+    "Allison Vanasse",
+    "Ruolin Liu",
+    "Cleo Forman"
+  ],
+  "pub_date": "2026-10-14T00:00:00+00:00",
+  "fetched_date": "2026-10-14T12:46:09.314693+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04717-8\">doi:10.1038/s41591-026-04717-8</a></p>A phase 1 trial shows that treatment of patients with high-grade serous ovarian cancer with personalized neoantigen vaccines combined with PD-1 blockade was feasible and led to tumor-specific immune responses in many patients and putative mechanisms of resistance related to antigen presentation were identified via cell-free DNA analysis.",
+  "headline": "Custom cancer vaccines trained on tumors show promise against ovarian cancer.",
+  "why_it_matters": "Ovarian cancer is often deadly because tumors hide from the immune system. This study shows we can teach patients' own immune systems to recognize and attack ovarian cancer by creating personalized vaccines based on each tumor's unique mutations. If this approach works in larger trials, it could offer a new treatment option for a hard-to-treat disease.",
+  "key_findings": [
+    "Personalized neoantigen vaccines (custom-made shots targeting unique mutations in each patient's tumor) were safe and feasible to create and deliver.",
+    "When combined with PD-1 blockade (drugs that remove brakes on immune cells, allowing them to fight cancer), the vaccine triggered tumor-specific immune responses in most patients tested.",
+    "Researchers identified why some tumors might resist this treatment by analyzing cell-free DNA (DNA fragments floating in the bloodstream that leak from dying cancer cells), pinpointing antigen presentation defects (tumors hiding their mutated proteins from immune detection).",
+    "The trial was conducted only in patients with high-grade serous ovarian cancer, the most common and aggressive form of the disease."
+  ],
+  "methods_snapshot": "Researchers took tumor samples from ovarian cancer patients, sequenced their DNA to identify unique mutations, and created personalized vaccines targeting those mutations. They then gave patients the vaccine alongside immunotherapy drugs (PD-1 blockers) and tracked immune responses using blood tests.",
+  "glossary": [
+    {
+      "term": "neoantigen",
+      "definition": "A new protein created by cancer mutations that the immune system can recognize as foreign."
+    },
+    {
+      "term": "PD-1 blockade",
+      "definition": "A type of immunotherapy drug that removes a 'brake' on immune cells, allowing them to attack cancer more aggressively."
+    },
+    {
+      "term": "cell-free DNA",
+      "definition": "DNA fragments released into the bloodstream when cells die or are damaged, which can be analyzed as a liquid biopsy."
+    },
+    {
+      "term": "antigen presentation",
+      "definition": "The process by which cells display mutated proteins on their surface so the immune system can detect them."
+    },
+    {
+      "term": "phase 1 trial",
+      "definition": "An early-stage human study focused on safety and feasibility, typically involving 20\u2013100 patients."
+    },
+    {
+      "term": "high-grade serous ovarian cancer",
+      "definition": "The most common and aggressive form of ovarian cancer, characterized by rapidly dividing cells with abnormal appearance."
+    }
+  ],
+  "cancer_types": [
+    "ovarian cancer",
+    "high-grade serous ovarian cancer"
+  ],
+  "ml_angle": "Cell-free DNA analysis likely used computational models to identify patterns of antigen presentation defects that predict vaccine resistance.",
+  "limitations": "This was a small phase 1 trial focused on safety, so long-term survival benefits and effectiveness are not yet known. Results need confirmation in larger phase 2 and 3 trials before this approach can become standard treatment.",
+  "tags": [
+    "personalized medicine",
+    "cancer immunotherapy",
+    "vaccine",
+    "ovarian cancer",
+    "neoantigen",
+    "PD-1 blockade",
+    "phase 1 trial",
+    "immune resistance"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

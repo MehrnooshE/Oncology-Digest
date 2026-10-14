@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-13T14:54:32.474028+00:00",
+  "last_updated": "2026-10-14T12:46:09.314909+00:00",
   "papers": [
+    {
+      "id": "20261014_personalized_neoantigen_targeting_cancer",
+      "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
+      "url": "https://www.nature.com/articles/s41591-026-04717-8",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-14T00:00:00+00:00",
+      "fetched_date": "2026-10-14T12:46:09.314693+00:00",
+      "headline": "Custom cancer vaccines trained on tumors show promise against ovarian cancer.",
+      "cancer_types": [
+        "ovarian cancer",
+        "high-grade serous ovarian cancer"
+      ],
+      "tags": [
+        "personalized medicine",
+        "cancer immunotherapy",
+        "vaccine",
+        "ovarian cancer",
+        "neoantigen",
+        "PD-1 blockade",
+        "phase 1 trial",
+        "immune resistance"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": "Cell-free DNA analysis likely used computational models to identify patterns of antigen presentation defects that predict vaccine resistance."
+    },
     {
       "id": "20261013_characterizing_the_onset_and_progression",
       "title": "Characterizing the onset and progression of cancer cachexia using routine clinical data",
@@ -2172,32 +2198,6 @@
         "cancer progression",
         "therapeutic target",
         "preclinical research"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260714_author_correction__or7a10_gpcr_engineeri",
-      "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
-      "url": "https://www.nature.com/articles/s41586-026-10855-3",
-      "journal": "Nature",
-      "pub_date": "2026-07-13T00:00:00+00:00",
-      "fetched_date": "2026-07-14T09:08:11.181296+00:00",
-      "headline": "Scientists engineered immune cells to find and destroy solid tumors more effectively.",
-      "cancer_types": [
-        "solid tumors (general category)",
-        "pancreatic cancer",
-        "lung cancer",
-        "breast cancer"
-      ],
-      "tags": [
-        "CAR-NK therapy",
-        "immunotherapy",
-        "solid tumors",
-        "genetic engineering",
-        "cell therapy",
-        "cancer treatment"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
