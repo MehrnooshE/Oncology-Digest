@@ -1,0 +1,64 @@
+{
+  "id": "20261015__b_hidden_race_disparities_in_cancer_tre",
+  "title": "<b>Hidden race disparities in cancer treatment toxicity</b>",
+  "url": "https://www.nature.com/articles/d41591-026-00050-2",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Karen O\u2019Leary"
+  ],
+  "pub_date": "2026-10-15T00:00:00+00:00",
+  "fetched_date": "2026-10-15T12:33:18.432129+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41591-026-00050-2\">doi:10.1038/d41591-026-00050-2</a></p>Large-scale analysis of real-world data reveals racial disparities in the occurrence of immune-related adverse events during cancer immunotherapy \u2014 which were not evident in trial data, owing to the enrollment of mostly white patients.",
+  "headline": "Cancer drug side effects hit different racial groups harder than clinical trials showed",
+  "why_it_matters": "Cancer immunotherapy drugs work by training the immune system to attack cancer, but sometimes the immune system goes overboard and attacks the body itself \u2014 causing serious side effects. This study found that Black and Hispanic patients experience these harmful side effects more often than white patients, but this was hidden because drug trials mostly enrolled white people. Doctors need to know this to better prepare and monitor all patients for these risks.",
+  "key_findings": [
+    "Racial disparities in immune-related adverse events (unwanted immune system reactions) appeared in real-world patient data but were invisible in the original clinical trials used to approve these drugs",
+    "The trials enrolled mostly white patients, so they missed safety problems that occur more frequently in other racial groups",
+    "Patients from different racial backgrounds metabolize (break down and process) cancer drugs differently, which can affect both how well the drug works and what side effects occur",
+    "Real-world data \u2014 information collected from actual hospital records and patient outcomes \u2014 revealed hidden safety patterns that controlled clinical trials had missed"
+  ],
+  "methods_snapshot": "Researchers analyzed large databases of real-world patient records from many hospitals and compared side effect rates across racial groups. They looked for patterns that weren't caught during the original clinical trials (carefully controlled studies done before a drug is approved), then investigated why those patterns were missed.",
+  "glossary": [
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer drugs that work by boosting or reprogramming your immune system to recognize and destroy cancer cells"
+    },
+    {
+      "term": "Immune-related adverse events",
+      "definition": "Serious side effects that happen when the immune system becomes overactive and damages healthy tissues and organs"
+    },
+    {
+      "term": "Clinical trial",
+      "definition": "A carefully controlled study where new drugs are tested on volunteers, usually before the drug is approved for general use"
+    },
+    {
+      "term": "Real-world data",
+      "definition": "Health information collected from actual patients in hospitals and clinics, outside of formal research studies"
+    },
+    {
+      "term": "Enrollment bias",
+      "definition": "When a research study includes too many people from one group and not enough from others, skewing the results"
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "lung cancer",
+    "renal cell carcinoma",
+    "colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study analyzed past data, so it cannot prove *why* racial differences exist \u2014 only that they do. The data may not capture all racial groups equally, and differences in how patients access healthcare or report side effects could partly explain the disparities.",
+  "tags": [
+    "health equity",
+    "immunotherapy safety",
+    "racial disparities",
+    "adverse events",
+    "clinical trials",
+    "precision medicine",
+    "real-world evidence",
+    "cancer treatment"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}

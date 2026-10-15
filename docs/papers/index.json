@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-10-14T12:46:09.314909+00:00",
+  "last_updated": "2026-10-15T12:33:18.432455+00:00",
   "papers": [
+    {
+      "id": "20261015__b_hidden_race_disparities_in_cancer_tre",
+      "title": "<b>Hidden race disparities in cancer treatment toxicity</b>",
+      "url": "https://www.nature.com/articles/d41591-026-00050-2",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-15T00:00:00+00:00",
+      "fetched_date": "2026-10-15T12:33:18.432129+00:00",
+      "headline": "Cancer drug side effects hit different racial groups harder than clinical trials showed",
+      "cancer_types": [
+        "melanoma",
+        "lung cancer",
+        "renal cell carcinoma",
+        "colorectal cancer"
+      ],
+      "tags": [
+        "health equity",
+        "immunotherapy safety",
+        "racial disparities",
+        "adverse events",
+        "clinical trials",
+        "precision medicine",
+        "real-world evidence",
+        "cancer treatment"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261014_personalized_neoantigen_targeting_cancer",
       "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
@@ -2172,32 +2200,6 @@
         "tumor-heterogeneity",
         "combination-therapy",
         "bioorthogonal-chemistry"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260715_exogenous_creatine_supplementation_promo",
-      "title": "Exogenous creatine supplementation promotes tumor metastasis via megakaryocyte creatine kinase B-STAT5B signaling",
-      "url": "https://www.nature.com/articles/s41467-026-74639-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-15T00:00:00+00:00",
-      "fetched_date": "2026-07-15T09:12:37.298437+00:00",
-      "headline": "A popular fitness supplement may help cancer spread by making blood cells hyperactive.",
-      "cancer_types": [
-        "Not specified in abstract",
-        "Likely multiple solid tumors based on metastasis focus"
-      ],
-      "tags": [
-        "creatine supplementation",
-        "tumor metastasis",
-        "platelets",
-        "diet and cancer",
-        "signaling pathways",
-        "cancer progression",
-        "therapeutic target",
-        "preclinical research"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
