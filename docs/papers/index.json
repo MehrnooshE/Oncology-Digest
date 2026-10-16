@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-10-15T12:33:18.432455+00:00",
+  "last_updated": "2026-10-16T12:12:36.143196+00:00",
   "papers": [
+    {
+      "id": "20261016_phd_students_who_write_dissertation_with",
+      "title": "PhD students who write dissertation with AI less likely to stay in academia",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "journal": "Nature",
+      "pub_date": "2026-10-16T00:00:00+00:00",
+      "fetched_date": "2026-10-16T12:12:36.142939+00:00",
+      "headline": "PhD students using AI to write dissertations are choosing industry jobs over academia.",
+      "cancer_types": [],
+      "tags": [
+        "AI-in-science",
+        "career-paths",
+        "academia-industry",
+        "PhD-training",
+        "research-culture",
+        "workforce-trends"
+      ],
+      "study_type": "other",
+      "impact_score": 3,
+      "ml_angle": "The study examines how AI writing assistants influence human career decisions by analyzing patterns in dissertation authorship and subsequent employment choices."
+    },
     {
       "id": "20261015__b_hidden_race_disparities_in_cancer_tre",
       "title": "<b>Hidden race disparities in cancer treatment toxicity</b>",
@@ -2177,31 +2198,6 @@
         "CAR-T cells"
       ],
       "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260716_modular_in_vivo_antibody_adc_click_to_re",
-      "title": "Modular in vivo antibody\u2013ADC click to reverse drug resistance in tumours",
-      "url": "https://www.nature.com/articles/s41586-026-10789-w",
-      "journal": "Nature",
-      "pub_date": "2026-07-15T00:00:00+00:00",
-      "fetched_date": "2026-07-16T09:19:01.870147+00:00",
-      "headline": "Doctors can now combine cancer-fighting antibodies with drug-loaded particles to beat resistant tumors.",
-      "cancer_types": [
-        "not specified in abstract"
-      ],
-      "tags": [
-        "immunotherapy",
-        "drug-resistance",
-        "antibody-drug-conjugates",
-        "click-chemistry",
-        "precision-medicine",
-        "tumor-heterogeneity",
-        "combination-therapy",
-        "bioorthogonal-chemistry"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }

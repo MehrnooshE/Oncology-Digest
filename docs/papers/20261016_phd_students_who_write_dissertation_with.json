@@ -1,0 +1,57 @@
+{
+  "id": "20261016_phd_students_who_write_dissertation_with",
+  "title": "PhD students who write dissertation with AI less likely to stay in academia",
+  "url": "https://www.nature.com/articles/d41586-026-03253-2",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Mohana Basu"
+  ],
+  "pub_date": "2026-10-16T00:00:00+00:00",
+  "fetched_date": "2026-10-16T12:12:36.142939+00:00",
+  "abstract": "<p>Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03253-2\">doi:10.1038/d41586-026-03253-2</a></p>US PhD graduates who used artificial intelligence were more likely to work in industry.",
+  "headline": "PhD students using AI to write dissertations are choosing industry jobs over academia.",
+  "why_it_matters": "This finding doesn't directly affect cancer patients today, but it raises questions about the future of scientific research. If talented researchers leave academia for industry, it could change how discoveries are made and shared with the medical community. Understanding these career shifts helps universities and research institutions adapt to keep top talent focused on advancing treatments.",
+  "key_findings": [
+    "US PhD graduates who used artificial intelligence (computer programs that can write and analyze text) while writing their dissertations were more likely to pursue jobs in industry (private companies) rather than stay in academia (universities and research institutions).",
+    "This suggests AI tools may be changing career aspirations or job prospects for early-career researchers at a critical moment in their development.",
+    "The trend highlights a potential brain drain from academic institutions to private sector companies, which could reshape how fundamental research is conducted.",
+    "Career choices made during PhD training can have long-term effects on the types of research that get pursued and published."
+  ],
+  "methods_snapshot": "Researchers tracked US PhD graduates and compared career outcomes between those who used AI writing tools and those who did not. The study examined employment data and dissertation patterns to identify correlations between AI use and eventual job choices in industry versus academia.",
+  "glossary": [
+    {
+      "term": "PhD",
+      "definition": "Doctor of Philosophy; an advanced research degree earned after completing original research and a dissertation (long written thesis) in a specific field."
+    },
+    {
+      "term": "Dissertation",
+      "definition": "A long, detailed written research report that PhD students must complete to demonstrate their original scientific contributions."
+    },
+    {
+      "term": "Artificial Intelligence (AI)",
+      "definition": "Computer software trained to perform tasks that normally require human thinking, such as writing, analyzing data, or solving problems."
+    },
+    {
+      "term": "Academia",
+      "definition": "Universities, colleges, and research institutions focused on teaching and conducting scientific research."
+    },
+    {
+      "term": "Industry",
+      "definition": "Private companies and corporations that develop and sell products or services, including biotech and pharmaceutical firms."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The study examines how AI writing assistants influence human career decisions by analyzing patterns in dissertation authorship and subsequent employment choices.",
+  "limitations": "The study shows a correlation (two things happening together) but does not prove that AI use directly causes researchers to leave academia\u2014other factors like job market conditions, salary, or personal preference may also play a role. Long-term follow-up data would be needed to confirm whether this trend persists and affects research productivity.",
+  "tags": [
+    "AI-in-science",
+    "career-paths",
+    "academia-industry",
+    "PhD-training",
+    "research-culture",
+    "workforce-trends"
+  ],
+  "study_type": "other",
+  "impact_score": 3
+}
