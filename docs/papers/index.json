@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-10-16T12:12:36.143196+00:00",
+  "last_updated": "2026-10-17T11:30:04.919939+00:00",
   "papers": [
+    {
+      "id": "20261017_metabolic_reprogramming_of_macrophage_sp",
+      "title": "Metabolic reprogramming of macrophage-specific transketolase orchestrates angiogenesis in diabetic wounds",
+      "url": "https://www.nature.com/articles/s41467-026-78765-6",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-17T00:00:00+00:00",
+      "fetched_date": "2026-10-17T11:30:04.919710+00:00",
+      "headline": "Researchers find a metabolic switch in immune cells that could heal diabetic wounds faster.",
+      "cancer_types": [],
+      "tags": [
+        "diabetic wound healing",
+        "macrophage metabolism",
+        "angiogenesis",
+        "nanozyme therapy",
+        "immunometabolism",
+        "regenerative medicine",
+        "metabolic checkpoint",
+        "diabetes complications"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261016_phd_students_who_write_dissertation_with",
       "title": "PhD students who write dissertation with AI less likely to stay in academia",
@@ -2171,33 +2194,6 @@
         "regenerative medicine"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260717_author_correction__evolution_of_claudin1",
-      "title": "Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers",
-      "url": "https://www.nature.com/articles/s41591-026-04569-2",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-16T00:00:00+00:00",
-      "fetched_date": "2026-07-17T09:13:00.927394+00:00",
-      "headline": "New treatment approach targets a specific protein in stomach and esophageal cancers.",
-      "cancer_types": [
-        "gastric cancer (stomach)",
-        "esophageal cancer",
-        "gastroesophageal junction cancer"
-      ],
-      "tags": [
-        "claudin18.2",
-        "gastric cancer",
-        "immunotherapy",
-        "targeted therapy",
-        "esophageal cancer",
-        "precision medicine",
-        "antibody therapy",
-        "CAR-T cells"
-      ],
-      "study_type": "review",
       "impact_score": 4,
       "ml_angle": null
     }

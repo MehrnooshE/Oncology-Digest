@@ -1,0 +1,68 @@
+{
+  "id": "20261017_metabolic_reprogramming_of_macrophage_sp",
+  "title": "Metabolic reprogramming of macrophage-specific transketolase orchestrates angiogenesis in diabetic wounds",
+  "url": "https://www.nature.com/articles/s41467-026-78765-6",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yuan Xiong",
+    "Li Lu",
+    "Qipeng Wu",
+    "Han Wang",
+    "Hui Hu",
+    "Huangxuan Zhao"
+  ],
+  "pub_date": "2026-10-17T00:00:00+00:00",
+  "fetched_date": "2026-10-17T11:30:04.919710+00:00",
+  "abstract": "<p>Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78765-6\">doi:10.1038/s41467-026-78765-6</a></p>Diabetes impairs wound healing by disrupting macrophage metabolism and angiogenesis. Here, authors identify macrophage-specific transketolase (TKT) as a metabolic checkpoint and develop a nanozyme hydrogel that restores macrophage TKT to promote vascular repair in diabetic wounds.",
+  "headline": "Researchers find a metabolic switch in immune cells that could heal diabetic wounds faster.",
+  "why_it_matters": "Diabetes makes wounds heal slowly and poorly, often leading to serious complications like amputations. This research identifies a new biological target and a potential treatment that could help millions of diabetic patients recover from injuries more effectively.",
+  "key_findings": [
+    "Transketolase (TKT) \u2014 an enzyme that helps cells process sugar \u2014 acts as a metabolic checkpoint in macrophages (immune cells that clean up debris and coordinate healing) and is impaired in diabetic wounds.",
+    "When TKT function is restored in these immune cells, they switch into a mode that promotes angiogenesis (formation of new blood vessels needed to deliver oxygen and nutrients to healing tissue).",
+    "The researchers developed a nanozyme hydrogel (a gel-like material containing tiny engineered particles that mimic enzyme function) that can be applied to wounds to boost TKT activity locally.",
+    "This treatment restored blood vessel growth and improved wound healing in a diabetic wound model, suggesting a new therapeutic strategy."
+  ],
+  "methods_snapshot": "The team studied how macrophage metabolism changes in diabetic wounds, identified TKT's role through molecular and cellular experiments, then engineered a nanozyme hydrogel to restore TKT function and tested it on diabetic wound models in the laboratory.",
+  "glossary": [
+    {
+      "term": "Transketolase (TKT)",
+      "definition": "An enzyme that helps cells break down and recycle sugars to generate building blocks and energy."
+    },
+    {
+      "term": "Macrophage",
+      "definition": "A type of white blood cell that cleans up dead cells and debris, and coordinates the body's immune and healing responses."
+    },
+    {
+      "term": "Angiogenesis",
+      "definition": "The biological process of forming new blood vessels."
+    },
+    {
+      "term": "Metabolic reprogramming",
+      "definition": "A shift in how cells process nutrients and generate energy, usually in response to disease or injury."
+    },
+    {
+      "term": "Nanozyme",
+      "definition": "An engineered nanoparticle (extremely tiny particle) designed to perform chemical reactions like natural enzymes."
+    },
+    {
+      "term": "Hydrogel",
+      "definition": "A gel-like material that absorbs water and can be applied topically to deliver medicines or therapeutic agents."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This study was performed in laboratory models of diabetic wounds rather than in human patients, so results may not translate directly to clinical use. The long-term safety and effectiveness of the nanozyme hydrogel in living organisms remain to be tested.",
+  "tags": [
+    "diabetic wound healing",
+    "macrophage metabolism",
+    "angiogenesis",
+    "nanozyme therapy",
+    "immunometabolism",
+    "regenerative medicine",
+    "metabolic checkpoint",
+    "diabetes complications"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
