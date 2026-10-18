@@ -1,0 +1,53 @@
+{
+  "id": "20261018_only_time_will_tell",
+  "title": "Only time will tell",
+  "url": "https://www.nature.com/articles/s41591-026-04699-7",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Natalie Healey"
+  ],
+  "pub_date": "2026-10-16T00:00:00+00:00",
+  "fetched_date": "2026-10-18T11:59:41.663990+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04699-7\">doi:10.1038/s41591-026-04699-7</a></p>Chronotherapy promises to improve medicine by aligning treatment with the body\u2019s internal clock. As this idea moves into clinical trials, a high-profile retraction reveals the ups and downs of circadian medicine.",
+  "headline": "Timing cancer treatment with your body's natural rhythms could boost effectiveness.",
+  "why_it_matters": "Your body runs on a 24-hour internal clock that affects how well drugs work and how toxic they are. If doctors can time chemotherapy and other cancer treatments to match this rhythm, patients might get better results with fewer side effects. This commentary highlights both the promise of this approach and recent setbacks as scientists test these ideas in real patients.",
+  "key_findings": [
+    "Chronotherapy (timing medicine to match your body's daily rhythms) is moving from lab studies into human clinical trials",
+    "A major published study on circadian medicine was retracted, revealing challenges in this emerging field",
+    "The body's internal clock affects how cells process drugs and respond to cancer treatment",
+    "Aligning treatment timing with circadian rhythms (your natural wake-sleep cycle) may reduce side effects while improving drug effectiveness"
+  ],
+  "methods_snapshot": "This is a commentary article reviewing the state of chronotherapy research rather than reporting new experimental data. The author examines published studies and discusses what a recent high-profile retraction teaches us about the scientific process and the current evidence for timing-based cancer treatment.",
+  "glossary": [
+    {
+      "term": "Chronotherapy",
+      "definition": "Medical treatment timed to match your body's natural 24-hour internal clock for maximum effectiveness."
+    },
+    {
+      "term": "Circadian rhythm",
+      "definition": "Your body's built-in daily cycle that controls sleep, hormone release, and how your cells work over 24 hours."
+    },
+    {
+      "term": "Clinical trial",
+      "definition": "A test of a new medical treatment in real patients to see if it is safe and works."
+    },
+    {
+      "term": "Retraction",
+      "definition": "When scientists officially withdraw a published paper because they found serious errors or problems with the research."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a commentary reflecting on the field rather than presenting original research findings. The retraction discussed underscores that chronotherapy research is still in early stages, and many questions remain unanswered about which cancer types, drugs, and patient groups would benefit most from timing-based treatment.",
+  "tags": [
+    "chronotherapy",
+    "circadian rhythm",
+    "cancer treatment timing",
+    "clinical trials",
+    "drug efficacy",
+    "side effects"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

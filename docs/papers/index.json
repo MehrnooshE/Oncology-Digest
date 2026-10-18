@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-10-17T11:30:04.919939+00:00",
+  "last_updated": "2026-10-18T11:59:41.664207+00:00",
   "papers": [
+    {
+      "id": "20261018_only_time_will_tell",
+      "title": "Only time will tell",
+      "url": "https://www.nature.com/articles/s41591-026-04699-7",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-16T00:00:00+00:00",
+      "fetched_date": "2026-10-18T11:59:41.663990+00:00",
+      "headline": "Timing cancer treatment with your body's natural rhythms could boost effectiveness.",
+      "cancer_types": [],
+      "tags": [
+        "chronotherapy",
+        "circadian rhythm",
+        "cancer treatment timing",
+        "clinical trials",
+        "drug efficacy",
+        "side effects"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20261017_metabolic_reprogramming_of_macrophage_sp",
       "title": "Metabolic reprogramming of macrophage-specific transketolase orchestrates angiogenesis in diabetic wounds",
@@ -2171,31 +2192,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "AI algorithms analyzed the structure of natural CRISPR enzymes and learned the patterns that make them work, then designed completely new versions that maintain or improve those functions."
-    },
-    {
-      "id": "20260718_man_s_ability_to_make_sperm_restored_aft",
-      "title": "Man\u2019s ability to make sperm restored after testicular tissue transplant: what scientists think",
-      "url": "https://www.nature.com/articles/d41586-026-02191-3",
-      "journal": "Nature",
-      "pub_date": "2026-07-17T00:00:00+00:00",
-      "fetched_date": "2026-07-18T08:51:43.519535+00:00",
-      "headline": "Frozen sperm-producing tissue from a child's testicle worked 16 years later.",
-      "cancer_types": [
-        "various childhood cancers treated with chemotherapy"
-      ],
-      "tags": [
-        "fertility preservation",
-        "cancer survivors",
-        "testicular tissue",
-        "transplantation",
-        "chemotherapy",
-        "sperm production",
-        "pediatric oncology",
-        "regenerative medicine"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
