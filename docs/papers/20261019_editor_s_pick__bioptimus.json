@@ -1,0 +1,63 @@
+{
+  "id": "20261019_editor_s_pick__bioptimus",
+  "title": "Editor\u2019s pick: Bioptimus",
+  "url": "https://www.nature.com/articles/s41587-026-03345-4",
+  "journal": "Nature Biotechnology",
+  "journal_group": "Nature",
+  "authors": [
+    "Michael Eisenstein"
+  ],
+  "pub_date": "2026-10-19T00:00:00+00:00",
+  "fetched_date": "2026-10-19T14:30:24.510354+00:00",
+  "abstract": "<p>Nature Biotechnology, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03345-4\">doi:10.1038/s41587-026-03345-4</a></p>Each year, Nature Biotechnology highlights companies that received sizeable early-stage funding in the previous year. Bioptimus is developing multimodal and multiscale AI pathology models for biomarker and drug treatment prediction.",
+  "headline": "AI system learns to predict cancer treatment response from tissue images",
+  "why_it_matters": "Doctors currently struggle to predict which patients will respond to which cancer drugs, often requiring trial-and-error treatment. An AI trained on patterns in tissue images could help oncologists choose the most effective therapy upfront, potentially sparing patients from ineffective treatments and side effects. This approach could personalize cancer care and improve survival rates.",
+  "key_findings": [
+    "Bioptimus is building artificial intelligence (AI) models that analyze cancer tissue samples at multiple scales \u2014 from large tissue regions down to individual cells \u2014 to spot patterns humans might miss",
+    "The AI integrates multimodal data, meaning it combines different types of information (like texture, cell structure, and molecular markers visible in images) to make predictions",
+    "The system aims to predict which drugs will work best for a specific patient's cancer and identify biomarkers (biological signs that indicate how a cancer will behave or respond to treatment)",
+    "This represents a shift from one-size-fits-all cancer treatment toward precision medicine (tailored treatment based on each patient's unique tumor characteristics)"
+  ],
+  "methods_snapshot": "Bioptimus is developing deep learning models \u2014 AI systems trained on large datasets of cancer tissue images to recognize patterns \u2014 that work across different magnification levels and imaging types. The company combines insights from pathology (the study of disease in tissue samples) with machine learning to create tools that pathologists and oncologists can use in clinical practice.",
+  "glossary": [
+    {
+      "term": "Biomarker",
+      "definition": "A measurable sign in the body (like a protein or genetic change) that indicates disease presence, severity, or how well a treatment will work"
+    },
+    {
+      "term": "Multimodal",
+      "definition": "Using multiple types of data or information sources together \u2014 like combining different imaging techniques or data types"
+    },
+    {
+      "term": "Multiscale",
+      "definition": "Analyzing information at different levels of detail, from zoomed-out views of entire tissue down to close-up views of individual cells"
+    },
+    {
+      "term": "Precision medicine",
+      "definition": "Medical treatment customized to each patient's unique genetic makeup and disease characteristics rather than using standard treatments for everyone"
+    },
+    {
+      "term": "Pathology",
+      "definition": "The medical field that studies disease by examining tissues and cells under microscopes"
+    },
+    {
+      "term": "Deep learning",
+      "definition": "A type of artificial intelligence inspired by how brains work, using layers of connected mathematical functions to recognize complex patterns in data"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The AI learns patterns from thousands of tissue images to predict which drugs will work for a patient's cancer and identify predictive biomarkers without being explicitly programmed for each scenario.",
+  "limitations": "This is an early-stage company announcement rather than published research results, so we don't yet know how well the AI performs in real patient care or whether it outperforms current methods. The actual effectiveness will only become clear once the system is tested in clinical trials with real patients.",
+  "tags": [
+    "AI",
+    "pathology",
+    "cancer",
+    "precision-medicine",
+    "biomarkers",
+    "drug-prediction",
+    "machine-learning",
+    "personalized-treatment"
+  ],
+  "study_type": "computational",
+  "impact_score": 3
+}

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-10-18T11:59:41.664207+00:00",
+  "last_updated": "2026-10-19T14:30:24.510683+00:00",
   "papers": [
+    {
+      "id": "20261019_editor_s_pick__bioptimus",
+      "title": "Editor\u2019s pick: Bioptimus",
+      "url": "https://www.nature.com/articles/s41587-026-03345-4",
+      "journal": "Nature Biotechnology",
+      "pub_date": "2026-10-19T00:00:00+00:00",
+      "fetched_date": "2026-10-19T14:30:24.510354+00:00",
+      "headline": "AI system learns to predict cancer treatment response from tissue images",
+      "cancer_types": [],
+      "tags": [
+        "AI",
+        "pathology",
+        "cancer",
+        "precision-medicine",
+        "biomarkers",
+        "drug-prediction",
+        "machine-learning",
+        "personalized-treatment"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "The AI learns patterns from thousands of tissue images to predict which drugs will work for a patient's cancer and identify predictive biomarkers without being explicitly programmed for each scenario."
+    },
     {
       "id": "20261018_only_time_will_tell",
       "title": "Only time will tell",
@@ -2170,28 +2193,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260719_crispr_gets_a_power_boost_from_ai_design",
-      "title": "CRISPR gets a power boost from AI-designed \u2018molecular scissors\u2019",
-      "url": "https://www.nature.com/articles/d41586-026-02217-w",
-      "journal": "Nature",
-      "pub_date": "2026-07-16T00:00:00+00:00",
-      "fetched_date": "2026-07-19T09:08:03.791757+00:00",
-      "headline": "AI designs new CRISPR tools that work better than nature's originals",
-      "cancer_types": [],
-      "tags": [
-        "CRISPR",
-        "gene editing",
-        "AI design",
-        "synthetic biology",
-        "precision medicine",
-        "molecular engineering",
-        "breakthrough"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "AI algorithms analyzed the structure of natural CRISPR enzymes and learned the patterns that make them work, then designed completely new versions that maintain or improve those functions."
     }
   ]
 }
