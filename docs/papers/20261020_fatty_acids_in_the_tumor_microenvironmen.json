@@ -1,0 +1,79 @@
+{
+  "id": "20261020_fatty_acids_in_the_tumor_microenvironmen",
+  "title": "Fatty acids in the tumor microenvironment reprogram neutrophils to induce adenosine-mediated immunosuppression in mice",
+  "url": "https://www.nature.com/articles/s41467-026-78771-8",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Rashi Singhal",
+    "Nina W. Zhang",
+    "Zheng Hong Lee",
+    "Hannah N. Bell",
+    "Prarthana J. Dalal",
+    "Sumeet Solanki"
+  ],
+  "pub_date": "2026-10-20T00:00:00+00:00",
+  "fetched_date": "2026-10-20T12:37:45.080452+00:00",
+  "abstract": "<p>Nature Communications, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78771-8\">doi:10.1038/s41467-026-78771-8</a></p>Lipid accumulation in solid tumors supports tumor progression by promoting immune evasion. Yet the molecular basis of this lipid-mediated immunosuppression remains unclear. Here, using murine models of advanced colorectal cancer, the authors uncover a metabolic-immune axis whereby tumor-derived fatty acids activate neutrophil PPAR\u03b1, resulting in adenosine generation and T cell suppression. Importantly, treatment with a dual adenosine receptor antagonist restores T cell-mediated antitumor immunity and synergizes with anti-PD-1 therapy to enhance animal survival.",
+  "headline": "Tumors use fatty acids to disable immune cells that would otherwise kill cancer.",
+  "why_it_matters": "Cancer cells hide from the immune system by coating themselves in fat, which tricks immune cells into standing down. This study reveals exactly how that trick works, opening the door to new treatments that could wake up the immune system and make existing cancer drugs work better.",
+  "key_findings": [
+    "Tumors accumulate fatty acids (lipids \u2014 oily molecules) that reprogram neutrophils (a type of white blood cell that normally fights infection and cancer) to become immunosuppressive (turn off the immune response).",
+    "Tumor fatty acids activate a protein called PPAR\u03b1 inside neutrophils, which causes those neutrophils to produce adenosine (a chemical messenger that silences immune cells).",
+    "Adenosine then suppresses T cells (another crucial immune cell type that kills cancer cells), preventing them from attacking the tumor.",
+    "Blocking adenosine receptors (the 'locks' where adenosine attaches) with a dual antagonist drug restored T cell activity and enhanced survival in mice with colorectal cancer.",
+    "The adenosine-blocking treatment worked synergistically (better together) with anti-PD-1 immunotherapy (a checkpoint inhibitor \u2014 a drug that removes the brakes on immune cells), suggesting a powerful combination approach."
+  ],
+  "methods_snapshot": "Researchers used mouse models of advanced colorectal cancer to trace how tumor fatty acids affect immune cells, using molecular biology techniques to track protein activation and immune cell behavior. They tested whether blocking adenosine receptors could restore immune function and improve survival alone and combined with existing immunotherapy.",
+  "glossary": [
+    {
+      "term": "Tumor microenvironment",
+      "definition": "The ecosystem of cells, molecules, and tissue surrounding a cancer that helps tumors survive and grow."
+    },
+    {
+      "term": "Neutrophils",
+      "definition": "White blood cells that normally help fight infection and cancer by attacking pathogens and abnormal cells."
+    },
+    {
+      "term": "Immunosuppression",
+      "definition": "Weakening or shutting down the immune system's ability to recognize and fight threats like cancer."
+    },
+    {
+      "term": "PPAR\u03b1",
+      "definition": "A protein switch inside cells that controls how cells use fats and can change immune cell behavior."
+    },
+    {
+      "term": "Adenosine",
+      "definition": "A chemical messenger in the body that acts like a 'calm down' signal and can suppress immune activity."
+    },
+    {
+      "term": "T cells",
+      "definition": "White blood cells trained to recognize and kill cancer cells and infected cells."
+    },
+    {
+      "term": "Checkpoint inhibitor",
+      "definition": "A drug that removes brakes on immune cells so they can attack cancer more aggressively."
+    },
+    {
+      "term": "Adenosine receptor antagonist",
+      "definition": "A drug that blocks the 'locks' where adenosine attaches, preventing the immune shutdown signal."
+    }
+  ],
+  "cancer_types": [
+    "colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was performed in mouse models, not humans, so results may not translate directly to human cancer patients. The findings focus on colorectal cancer, so it remains unclear whether this same fatty acid mechanism operates the same way in other cancer types.",
+  "tags": [
+    "immunotherapy",
+    "tumor metabolism",
+    "neutrophils",
+    "adenosine",
+    "immune evasion",
+    "colorectal cancer",
+    "combination therapy",
+    "fatty acids"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
