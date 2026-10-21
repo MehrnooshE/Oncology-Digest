@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-20T12:37:45.080742+00:00",
+  "last_updated": "2026-10-21T12:49:30.847072+00:00",
   "papers": [
+    {
+      "id": "20261021_tumor_intrinsic_ptpn12_suppresses_anti_t",
+      "title": "Tumor-intrinsic PTPN12 suppresses anti-tumor immunity in colorectal cancer by restraining a dual epigenetic and cytoskeletal dsRNA sensing program",
+      "url": "https://www.nature.com/articles/s41467-026-78487-9",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "fetched_date": "2026-10-21T12:49:30.846745+00:00",
+      "headline": "A protein called PTPN12 acts as a brake on cancer-fighting immunity in bowel cancer.",
+      "cancer_types": [
+        "colorectal cancer",
+        "microsatellite-stable (MSS) colorectal cancer"
+      ],
+      "tags": [
+        "immunotherapy",
+        "colorectal cancer",
+        "PTPN12",
+        "innate immunity",
+        "dsRNA sensing",
+        "checkpoint inhibitor",
+        "cancer resistance",
+        "therapeutic target"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261020_fatty_acids_in_the_tumor_microenvironmen",
       "title": "Fatty acids in the tumor microenvironment reprogram neutrophils to induce adenosine-mediated immunosuppression in mice",
@@ -2166,34 +2192,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": "Computational analysis likely helped organize and classify the thousands of individual cell measurements, though the abstract does not explicitly mention machine learning algorithms."
-    },
-    {
-      "id": "20260721_englumafusp_alfa_plus_glofitamab_in_b_ce",
-      "title": "Englumafusp alfa plus glofitamab in B\u2009cell non-Hodgkin lymphoma: a phase 1 trial",
-      "url": "https://www.nature.com/articles/s41591-026-04533-0",
-      "journal": "Nature Medicine",
-      "pub_date": "2026-07-16T00:00:00+00:00",
-      "fetched_date": "2026-07-21T09:31:23.821650+00:00",
-      "headline": "Two new cancer-fighting drugs work better together against aggressive lymphoma.",
-      "cancer_types": [
-        "B cell non-Hodgkin lymphoma",
-        "Aggressive lymphoma",
-        "Relapsed lymphoma",
-        "Refractory lymphoma"
-      ],
-      "tags": [
-        "immunotherapy",
-        "lymphoma",
-        "bispecific antibody",
-        "co-stimulation",
-        "clinical trial",
-        "combination therapy",
-        "hematologic cancer",
-        "immune activation"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
