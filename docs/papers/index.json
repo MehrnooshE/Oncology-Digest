@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-10-21T12:49:30.847072+00:00",
+  "last_updated": "2026-10-22T12:52:23.313613+00:00",
   "papers": [
+    {
+      "id": "20261022__b_milk_multi_omics_links_maternal_healt",
+      "title": "<b>Milk multi-omics links maternal health to infant growth</b>",
+      "url": "https://www.nature.com/articles/d41591-026-00053-z",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-22T00:00:00+00:00",
+      "fetched_date": "2026-10-22T12:52:23.313329+00:00",
+      "headline": "A mother's health directly shapes breast milk quality and her baby's growth.",
+      "cancer_types": [],
+      "tags": [
+        "breast milk",
+        "maternal nutrition",
+        "infant health",
+        "multi-omics",
+        "biomarkers",
+        "public health",
+        "pregnancy",
+        "lactation"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261021_tumor_intrinsic_ptpn12_suppresses_anti_t",
       "title": "Tumor-intrinsic PTPN12 suppresses anti-tumor immunity in colorectal cancer by restraining a dual epigenetic and cytoskeletal dsRNA sensing program",
@@ -2166,32 +2189,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260722_mapping_mesenchymal_diversity_in_the_hum",
-      "title": "Mapping mesenchymal diversity in the human small intestine and organoids",
-      "url": "https://www.nature.com/articles/s41556-026-02027-2",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-07-22T00:00:00+00:00",
-      "fetched_date": "2026-07-22T09:30:33.856471+00:00",
-      "headline": "Scientists map the hidden cell diversity in the intestines and lab-grown intestinal models.",
-      "cancer_types": [
-        "intestinal cancer (colorectal cancer)",
-        "gastric cancer"
-      ],
-      "tags": [
-        "intestinal-biology",
-        "fibroblasts",
-        "single-cell-transcriptomics",
-        "organoids",
-        "tissue-mapping",
-        "cell-diversity",
-        "spatial-transcriptomics",
-        "gut-health"
-      ],
-      "study_type": "single-cell",
-      "impact_score": 4,
-      "ml_angle": "Computational analysis likely helped organize and classify the thousands of individual cell measurements, though the abstract does not explicitly mention machine learning algorithms."
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "id": "20261022__b_milk_multi_omics_links_maternal_healt",
+  "title": "<b>Milk multi-omics links maternal health to infant growth</b>",
+  "url": "https://www.nature.com/articles/d41591-026-00053-z",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Karen O\u2019Leary"
+  ],
+  "pub_date": "2026-10-22T00:00:00+00:00",
+  "fetched_date": "2026-10-22T12:52:23.313329+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/d41591-026-00053-z\">doi:10.1038/d41591-026-00053-z</a></p>Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.",
+  "headline": "A mother's health directly shapes breast milk quality and her baby's growth.",
+  "why_it_matters": "Breast milk is a baby's first food and medicine combined. This research reveals that a mother's own nutrition and health directly affect what goes into her milk, which then affects how well her baby grows. Understanding this link could help doctors identify at-risk mothers and babies early, and guide better nutrition advice during pregnancy and breastfeeding.",
+  "key_findings": [
+    "Researchers found specific molecular markers (measurable signs in the blood or milk showing a person's health status) that connect a mother's nutritional state to the composition of her breast milk.",
+    "Breast milk from healthier mothers contains different beneficial compounds that support infant growth better than milk from mothers with poor nutrition.",
+    "The study identified which maternal nutrients (like proteins, fats, and vitamins) most directly influence milk quality and baby outcomes.",
+    "Maternal malnutrition creates detectable changes in mammary gland function (the biological processes in breast tissue that produce milk), visible through molecular analysis."
+  ],
+  "methods_snapshot": "Researchers used multi-omics analysis\u2014a technique that simultaneously measures thousands of different molecules (proteins, fats, genetic signals) in breast milk and maternal blood\u2014to map connections between mother and baby. They compared milk composition from mothers with different nutrition levels and tracked how this related to infant growth measurements.",
+  "glossary": [
+    {
+      "term": "biomarkers",
+      "definition": "Measurable biological signs in blood, milk, or tissue that indicate health status or disease."
+    },
+    {
+      "term": "multi-omics",
+      "definition": "A scientific approach that measures many different types of molecules (proteins, fats, genetic material) at once to get a complete picture of biology."
+    },
+    {
+      "term": "mammary gland",
+      "definition": "The breast tissue that produces and releases milk."
+    },
+    {
+      "term": "infant growth",
+      "definition": "Measurements of how quickly and healthily a baby is developing, including weight and size gains."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This research is based on observations linking maternal health to milk composition; it doesn't yet prove exactly how each nutrient affects baby growth in real-world settings. The study may not apply equally to all populations or feeding situations, and more research is needed to turn these biomarkers into practical tools doctors can use.",
+  "tags": [
+    "breast milk",
+    "maternal nutrition",
+    "infant health",
+    "multi-omics",
+    "biomarkers",
+    "public health",
+    "pregnancy",
+    "lactation"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
