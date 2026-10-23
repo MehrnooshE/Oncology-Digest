@@ -1,0 +1,65 @@
+{
+  "id": "20261023_moderna_mrna_vaccine_almost_halves_the_r",
+  "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+  "url": "https://www.nature.com/articles/d41586-026-03417-0",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Mohana Basu"
+  ],
+  "pub_date": "2026-10-23T00:00:00+00:00",
+  "fetched_date": "2026-10-23T12:31:00.934057+00:00",
+  "abstract": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03417-0\">doi:10.1038/d41586-026-03417-0</a></p>Long-awaited results from phase III trial show a huge benefit in treating treatment-resistant melanoma.",
+  "headline": "New mRNA vaccine cuts melanoma recurrence risk in half for hard-to-treat patients.",
+  "why_it_matters": "Melanoma is a deadly skin cancer that often returns even after surgery. This vaccine trains the immune system to recognize and attack cancer cells before they come back, offering hope to patients whose tumors don't respond to standard treatments. If confirmed, this could extend lives and reduce the need for harsh follow-up therapies.",
+  "key_findings": [
+    "The mRNA vaccine (a genetic instruction that teaches immune cells to fight cancer) reduced the risk of melanoma returning or worsening by roughly 50% compared to placebo",
+    "The vaccine worked in patients with treatment-resistant melanoma (tumors that didn't respond well to existing drugs like checkpoint inhibitors)",
+    "This is a Phase III trial result (the final major testing stage before possible approval), making it the first large-scale proof this approach works in real patients",
+    "The vaccine was personalized\u2014tailored to each patient's unique cancer mutations\u2014rather than one-size-fits-all"
+  ],
+  "methods_snapshot": "Researchers enrolled hundreds of melanoma patients and randomly assigned them to receive either the personalized mRNA vaccine or a placebo (dummy treatment) after surgery. They then tracked who experienced cancer recurrence over time to measure the vaccine's protective effect.",
+  "glossary": [
+    {
+      "term": "mRNA vaccine",
+      "definition": "A medicine containing genetic instructions that tell your immune cells how to recognize and attack specific cancer cells."
+    },
+    {
+      "term": "Melanoma",
+      "definition": "A serious type of skin cancer that starts in pigment-producing cells and can spread to other parts of the body."
+    },
+    {
+      "term": "Phase III trial",
+      "definition": "A large-scale clinical test in hundreds or thousands of patients to confirm a treatment works before seeking approval for widespread use."
+    },
+    {
+      "term": "Treatment-resistant",
+      "definition": "Cancer that doesn't shrink or improve when treated with standard drugs."
+    },
+    {
+      "term": "Recurrence",
+      "definition": "When cancer comes back after initial treatment, either in the same place or elsewhere in the body."
+    },
+    {
+      "term": "Personalized medicine",
+      "definition": "Treatment customized to each individual patient's specific disease characteristics, rather than a standard one-fits-all approach."
+    }
+  ],
+  "cancer_types": [
+    "melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "The trial enrolled a specific subset of melanoma patients, so results may not apply equally to all skin cancers or earlier disease stages. Long-term follow-up data beyond the trial period are still needed to confirm the vaccine's lasting benefit.",
+  "tags": [
+    "immunotherapy",
+    "mRNA",
+    "personalized-medicine",
+    "skin-cancer",
+    "vaccine",
+    "clinical-trial",
+    "recurrence-prevention",
+    "oncology"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

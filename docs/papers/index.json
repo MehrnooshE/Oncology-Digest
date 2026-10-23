@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-22T12:52:23.313613+00:00",
+  "last_updated": "2026-10-23T12:31:00.934354+00:00",
   "papers": [
+    {
+      "id": "20261023_moderna_mrna_vaccine_almost_halves_the_r",
+      "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+      "url": "https://www.nature.com/articles/d41586-026-03417-0",
+      "journal": "Nature",
+      "pub_date": "2026-10-23T00:00:00+00:00",
+      "fetched_date": "2026-10-23T12:31:00.934057+00:00",
+      "headline": "New mRNA vaccine cuts melanoma recurrence risk in half for hard-to-treat patients.",
+      "cancer_types": [
+        "melanoma"
+      ],
+      "tags": [
+        "immunotherapy",
+        "mRNA",
+        "personalized-medicine",
+        "skin-cancer",
+        "vaccine",
+        "clinical-trial",
+        "recurrence-prevention",
+        "oncology"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261022__b_milk_multi_omics_links_maternal_healt",
       "title": "<b>Milk multi-omics links maternal health to infant growth</b>",
@@ -2166,29 +2191,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "Artificial intelligence models learned to recognize cancer patterns in tissue images, but the study showed that different AI models excel at different tasks, and combining multiple models produces more reliable diagnoses than trusting any single AI."
-    },
-    {
-      "id": "20260723_spatial_transcriptomics_reveals_distinct",
-      "title": "Spatial transcriptomics reveals distinct cell type dynamics following opioid dependence in female mice with the common human \u03bc-opioid receptor variant <i>Oprm1</i> A118G",
-      "url": "https://www.nature.com/articles/s41467-026-75723-0",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-23T00:00:00+00:00",
-      "fetched_date": "2026-07-23T09:27:52.691359+00:00",
-      "headline": "A genetic variant linked to opioid addiction works by changing brain immune cells, not just neurons.",
-      "cancer_types": [],
-      "tags": [
-        "opioid-addiction",
-        "genetics",
-        "OPRM1",
-        "spatial-transcriptomics",
-        "glial-cells",
-        "sex-differences",
-        "neurogenomics",
-        "precision-medicine"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
