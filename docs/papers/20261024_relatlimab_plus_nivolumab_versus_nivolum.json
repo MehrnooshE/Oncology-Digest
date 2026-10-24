@@ -1,0 +1,80 @@
+{
+  "id": "20261024_relatlimab_plus_nivolumab_versus_nivolum",
+  "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
+  "url": "https://www.nature.com/articles/s41591-026-04756-1",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Georgina V. Long",
+    "Sonia Dolfi",
+    "F. Stephen Hodi",
+    "Evan J. Lipson",
+    "Dirk Schadendorf",
+    "Paolo A. Ascierto"
+  ],
+  "pub_date": "2026-10-24T00:00:00+00:00",
+  "fetched_date": "2026-10-24T11:55:08.307202+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04756-1\">doi:10.1038/s41591-026-04756-1</a></p>As presented at the ESMO Congress 2026: In a 5 year follow-up of survival and correlative data from the pivotal phase 3 RELATIVITY-047 trial comparing relatlimab plus nivolumab versus nivolumab alone in patients with metastatic or unresectable melanoma, statistically significant differences in progression-free survival, overall survival and melanoma-specific survival were seen with high baseline levels of LAG3 high CD8+ T cells associated with improved response in the combination arm.",
+  "headline": "Adding a second immune-boosting drug to melanoma treatment improves survival for patients with specific immune markers.",
+  "why_it_matters": "Melanoma is one of the deadliest cancers, and this 5-year study shows a combination therapy works better than a single drug for some patients. More importantly, researchers identified a biological marker (LAG3 high CD8+ T cells) that predicts who will benefit most, moving us toward personalized cancer treatment.",
+  "key_findings": [
+    "The combination of relatlimab (a new drug) plus nivolumab (an existing immunotherapy) outperformed nivolumab alone in extending both progression-free survival (time before cancer worsens) and overall survival (time until death).",
+    "Patients whose tumors had high baseline levels of LAG3 high CD8+ T cells (immune cells with a specific marker) responded best to the combination therapy, suggesting this biomarker (biological sign) could help doctors choose which patients benefit most.",
+    "These survival benefits held up over 5 years of follow-up, indicating the improvement was durable and not just a short-term effect.",
+    "Melanoma-specific survival (time until death from melanoma specifically) also improved with the combination, showing the drugs were actually controlling the cancer, not just other health factors."
+  ],
+  "methods_snapshot": "Researchers followed melanoma patients from a large phase 3 clinical trial (the gold standard for testing new drugs) who received either nivolumab alone or nivolumab plus relatlimab, tracking their survival and analyzing their immune cells over 5 years. They looked for biological markers in tumor samples that predicted which patients would respond best to each treatment.",
+  "glossary": [
+    {
+      "term": "Melanoma",
+      "definition": "A deadly form of skin cancer that starts in pigment-producing cells and can spread throughout the body."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer treatment that harnesses the body's own immune system to find and kill cancer cells."
+    },
+    {
+      "term": "Nivolumab",
+      "definition": "An FDA-approved immunotherapy drug that blocks a protein cancer cells use to hide from the immune system."
+    },
+    {
+      "term": "Relatlimab",
+      "definition": "A newer immunotherapy drug that removes a different 'brake' on immune cells, allowing them to fight cancer more effectively."
+    },
+    {
+      "term": "LAG3 high CD8+ T cells",
+      "definition": "A specific type of immune fighter cell with a marker called LAG3; high numbers of these cells suggest the patient's immune system is primed to respond to the combination therapy."
+    },
+    {
+      "term": "Biomarker",
+      "definition": "A measurable biological sign (like a protein or cell type) in the body or tumor that helps predict treatment response or disease prognosis."
+    },
+    {
+      "term": "Progression-free survival",
+      "definition": "The length of time a patient lives without their cancer getting worse."
+    },
+    {
+      "term": "Overall survival",
+      "definition": "The length of time a patient lives from the start of treatment, regardless of cause of death."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "metastatic melanoma",
+    "unresectable melanoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This study enrolled patients who met specific criteria, so results may not apply equally to all melanoma patients; additionally, the biomarker analysis (LAG3 high CD8+ T cells) requires validation in independent patient populations to confirm its predictive power.",
+  "tags": [
+    "immunotherapy",
+    "combination therapy",
+    "biomarker-driven treatment",
+    "melanoma",
+    "personalized medicine",
+    "clinical trial",
+    "5-year follow-up",
+    "LAG3"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
