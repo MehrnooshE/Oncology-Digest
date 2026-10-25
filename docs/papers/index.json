@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-24T11:55:08.307484+00:00",
+  "last_updated": "2026-10-25T12:26:07.567156+00:00",
   "papers": [
+    {
+      "id": "20261025_ctdna_clearance_and_outcomes_for_resecta",
+      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+      "url": "https://www.nature.com/articles/s41586-026-11328-3",
+      "journal": "Nature",
+      "pub_date": "2026-10-25T00:00:00+00:00",
+      "fetched_date": "2026-10-25T12:26:07.566898+00:00",
+      "headline": "A blood test predicting lung cancer survival guides treatment decisions after surgery.",
+      "cancer_types": [
+        "lung cancer (resectable, likely non-small cell)"
+      ],
+      "tags": [
+        "liquid biopsy",
+        "precision medicine",
+        "prognostic biomarker",
+        "ctDNA",
+        "lung cancer",
+        "post-surgical monitoring",
+        "cancer recurrence",
+        "personalized treatment"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261024_relatlimab_plus_nivolumab_versus_nivolum",
       "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
@@ -2159,31 +2184,6 @@
         "genetic mutation",
         "childhood cancer",
         "precision medicine"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260725_bizarre_crispr_enzyme_kills_cancer_cells",
-      "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-      "url": "https://www.nature.com/articles/d41586-026-02268-z",
-      "journal": "Nature",
-      "pub_date": "2026-07-24T00:00:00+00:00",
-      "fetched_date": "2026-07-25T09:03:17.658290+00:00",
-      "headline": "New CRISPR tool precisely destroys cancer cells by targeting their mutated DNA.",
-      "cancer_types": [
-        "Study focused on laboratory models; specific human cancer types to be determined in future trials"
-      ],
-      "tags": [
-        "CRISPR",
-        "gene-editing",
-        "precision-medicine",
-        "cancer-treatment",
-        "DNA-targeting",
-        "molecular-tool",
-        "immunotherapy-adjacent",
-        "early-stage-research"
       ],
       "study_type": "preclinical",
       "impact_score": 4,

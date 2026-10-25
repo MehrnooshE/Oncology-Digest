@@ -1,0 +1,70 @@
+{
+  "id": "20261025_ctdna_clearance_and_outcomes_for_resecta",
+  "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "url": "https://www.nature.com/articles/s41586-026-11328-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Lara McGrath",
+    "Gozde Kar",
+    "Laura Bonanno",
+    "Florian Guisier",
+    "Amelia Insa",
+    "Moishe Liberman"
+  ],
+  "pub_date": "2026-10-25T00:00:00+00:00",
+  "fetched_date": "2026-10-25T12:26:07.566898+00:00",
+  "abstract": "<p>Nature, Published online: 25 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11328-3\">doi:10.1038/s41586-026-11328-3</a></p>ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "headline": "A blood test predicting lung cancer survival guides treatment decisions after surgery.",
+  "why_it_matters": "Currently, doctors can't reliably predict which lung cancer patients will relapse after surgery. This study shows that measuring traces of cancer DNA in the blood\u2014like checking for a burglar alarm that's still going off\u2014can identify high-risk patients early, allowing doctors to intensify treatment before cancer returns. For patients, this means more personalized care and potentially better survival odds.",
+  "key_findings": [
+    "Cancer DNA (ctDNA) remaining in the bloodstream after surgery predicts which patients will have cancer return, even when surgery appeared successful.",
+    "Patients whose cancer DNA fully cleared from their blood had significantly better survival outcomes than those with detectable ctDNA remaining.",
+    "The presence of ctDNA after surgery is a stronger predictor of recurrence risk than traditional tumor staging (the conventional way doctors grade cancer severity).",
+    "This blood test could help doctors decide which patients need more aggressive follow-up treatment to prevent cancer from coming back."
+  ],
+  "methods_snapshot": "Researchers enrolled lung cancer patients in the NeoCOAST-2 trial who received surgery to remove their tumors, then measured ctDNA (circulating tumor DNA\u2014fragments of cancer genetic material floating in the bloodstream) before and after treatment. They tracked these patients over time to see who remained cancer-free and compared outcomes between those whose ctDNA disappeared versus those with detectable ctDNA remaining.",
+  "glossary": [
+    {
+      "term": "ctDNA",
+      "definition": "Circulating tumor DNA; tiny fragments of cancer genetic code found in the bloodstream that leak from tumors, detectable by sensitive blood tests."
+    },
+    {
+      "term": "Resectable lung cancer",
+      "definition": "Lung cancer that can be surgically removed because it hasn't spread too far in the body."
+    },
+    {
+      "term": "Recurrence",
+      "definition": "Cancer coming back or reappearing after treatment, either in the same location or elsewhere in the body."
+    },
+    {
+      "term": "Clearance",
+      "definition": "Complete removal or disappearance of a substance (in this case, cancer DNA) from the body or bloodstream."
+    },
+    {
+      "term": "Staging",
+      "definition": "A system doctors use to classify how advanced a cancer is based on tumor size, location, and spread."
+    },
+    {
+      "term": "Neoadjuvant",
+      "definition": "Treatment given before surgery to shrink the tumor and make it easier to remove."
+    }
+  ],
+  "cancer_types": [
+    "lung cancer (resectable, likely non-small cell)"
+  ],
+  "ml_angle": null,
+  "limitations": "The study focused on patients who had surgery for lung cancer, so results may not apply to patients with advanced or inoperable tumors. The clinical trial setting may not perfectly reflect real-world outcomes, and the optimal ctDNA threshold for guiding treatment decisions needs further validation.",
+  "tags": [
+    "liquid biopsy",
+    "precision medicine",
+    "prognostic biomarker",
+    "ctDNA",
+    "lung cancer",
+    "post-surgical monitoring",
+    "cancer recurrence",
+    "personalized treatment"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
