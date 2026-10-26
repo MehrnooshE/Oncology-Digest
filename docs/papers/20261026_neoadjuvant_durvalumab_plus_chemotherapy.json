@@ -1,0 +1,77 @@
+{
+  "id": "20261026_neoadjuvant_durvalumab_plus_chemotherapy",
+  "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
+  "url": "https://www.nature.com/articles/s41591-026-04742-7",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Martin Reck",
+    "Ernest Nadal",
+    "Carl M. Gay",
+    "Nicolas Girard",
+    "Andrea Riccardo Filippi",
+    "Linda W. Martin"
+  ],
+  "pub_date": "2026-10-26T00:00:00+00:00",
+  "fetched_date": "2026-10-26T14:03:15.090216+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 26 October 2026; <a href=\"https://www.nature.com/articles/s41591-026-04742-7\">doi:10.1038/s41591-026-04742-7</a></p>As presented at the ESMO Congress 2026: In the global phase 2 MDT-BRIDGE trial, neoadjuvant durvalumab plus chemotherapy in patients with resectable and borderline resectable non-small-cell lung cancer, followed by multidisciplinary reassessment, enabled surgery in most patients, leading to encouraging pathological complete response rates, and no additional safety concerns were reported when patients with unresectable tumors continued with chemoradiotherapy and consolidative durvalumab.",
+  "headline": "Combining immunotherapy with chemotherapy before surgery helps lung cancer patients avoid inoperable status.",
+  "why_it_matters": "Lung cancer is often caught too late for surgery. This study shows that giving patients drugs to boost their immune system plus standard chemotherapy *before* surgery can shrink tumors enough to make surgery possible. Even patients whose tumors seemed impossible to remove initially could often have surgery, which gives them a real shot at being cancer-free.",
+  "key_findings": [
+    "Most patients treated with durvalumab (a drug that helps the immune system attack cancer) plus chemotherapy before surgery were actually able to undergo surgery, even those whose tumors initially seemed too large or risky to remove",
+    "A substantial number of patients achieved pathological complete response (meaning doctors found no remaining cancer cells when examining tissue under the microscope after surgery)",
+    "When some patients' tumors did not shrink enough for surgery, they could safely switch to chemoradiotherapy (chemotherapy combined with radiation) instead, with no unexpected side effects",
+    "The combination treatment was safe and did not cause additional complications beyond what doctors already expect from these drugs separately"
+  ],
+  "methods_snapshot": "Researchers enrolled patients with non-small-cell lung cancer (a common type of lung cancer) whose tumors were either removable or borderline removable. Everyone received durvalumab plus chemotherapy as a pretreatment, then doctors reassessed whether surgery was now possible. Those who could have surgery did; those who couldn't proceeded to radiation therapy combined with chemoimmunotherapy.",
+  "glossary": [
+    {
+      "term": "Neoadjuvant",
+      "definition": "Treatment given before the main treatment (in this case, before surgery) to shrink the tumor and improve outcomes."
+    },
+    {
+      "term": "Durvalumab",
+      "definition": "A drug that removes the brakes on the immune system, allowing it to recognize and attack cancer cells more effectively."
+    },
+    {
+      "term": "Resectable",
+      "definition": "Able to be surgically removed; the tumor is small or positioned in a way that makes safe removal feasible."
+    },
+    {
+      "term": "Borderline resectable",
+      "definition": "A tumor that is very close to major blood vessels or organs, making surgery risky but potentially possible."
+    },
+    {
+      "term": "Non-small-cell lung cancer",
+      "definition": "The most common type of lung cancer, making up about 85% of cases; named for how the cancer cells look under a microscope."
+    },
+    {
+      "term": "Pathological complete response",
+      "definition": "When doctors examine removed tissue and find no cancer cells remaining, indicating the tumor was completely destroyed."
+    },
+    {
+      "term": "Chemoradiotherapy",
+      "definition": "Treatment combining chemotherapy drugs with radiation therapy, used together to kill cancer cells."
+    },
+    {
+      "term": "Consolidative durvalumab",
+      "definition": "Continuing durvalumab therapy after other treatments are finished to maintain the immune system's attack on remaining cancer."
+    }
+  ],
+  "cancer_types": [
+    "Non-small-cell lung cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "This was a phase 2 trial, which is an early-stage study designed primarily to test whether an approach is promising and safe rather than to prove it's better than alternatives\u2014so larger confirmatory trials are needed before this becomes standard care. The study enrolled patients at multiple centers worldwide, but long-term survival data (whether patients actually live longer) were not yet available at publication.",
+  "tags": [
+    "lung cancer",
+    "immunotherapy",
+    "neoadjuvant treatment",
+    "surgery",
+    "clinical trial",
+    "chemotherapy",
+    "resectable tumors"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}

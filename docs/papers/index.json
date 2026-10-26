@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-25T12:26:07.567156+00:00",
+  "last_updated": "2026-10-26T14:03:15.090562+00:00",
   "papers": [
+    {
+      "id": "20261026_neoadjuvant_durvalumab_plus_chemotherapy",
+      "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
+      "url": "https://www.nature.com/articles/s41591-026-04742-7",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-26T00:00:00+00:00",
+      "fetched_date": "2026-10-26T14:03:15.090216+00:00",
+      "headline": "Combining immunotherapy with chemotherapy before surgery helps lung cancer patients avoid inoperable status.",
+      "cancer_types": [
+        "Non-small-cell lung cancer"
+      ],
+      "tags": [
+        "lung cancer",
+        "immunotherapy",
+        "neoadjuvant treatment",
+        "surgery",
+        "clinical trial",
+        "chemotherapy",
+        "resectable tumors"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261025_ctdna_clearance_and_outcomes_for_resecta",
       "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
@@ -2157,35 +2181,6 @@
         "systemic change"
       ],
       "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260726__i_dicer1__i__related_tumour_predisposit",
-      "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
-      "url": "https://www.nature.com/articles/s41467-026-76094-2",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-25T00:00:00+00:00",
-      "fetched_date": "2026-07-26T09:18:52.317939+00:00",
-      "headline": "Cancer mutations in DICER1 protein accidentally boost dangerous viral elements in cells.",
-      "cancer_types": [
-        "Wilms tumour (kidney cancer in children)",
-        "Pleuropulmonary blastoma (lung cancer in children)",
-        "Ovarian cancer",
-        "Breast cancer",
-        "Other solid tumours in DICER1 syndrome"
-      ],
-      "tags": [
-        "DICER1",
-        "microRNA",
-        "tumour predisposition",
-        "endogenous retrovirus",
-        "cancer mechanism",
-        "genetic mutation",
-        "childhood cancer",
-        "precision medicine"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }
