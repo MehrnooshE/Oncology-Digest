@@ -1,0 +1,67 @@
+{
+  "id": "20261027_degs1_mtorc1_driven_lipid_metabolic_repr",
+  "title": "DEGS1-mTORC1-driven lipid metabolic reprogramming fuels rhabdomyosarcoma progression and unveils a therapeutic vulnerability",
+  "url": "https://www.nature.com/articles/s41467-026-79206-0",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Priya D Gopal Krishnan",
+    "Kah Yong Goh",
+    "Kai Hung Chen",
+    "Chi Peng",
+    "Wen Xing Lee",
+    "Elizabeth A. Mendes"
+  ],
+  "pub_date": "2026-10-27T00:00:00+00:00",
+  "fetched_date": "2026-10-27T13:04:53.974678+00:00",
+  "abstract": "<p>Nature Communications, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79206-0\">doi:10.1038/s41467-026-79206-0</a></p>Rhabdomyosarcoma is an aggressive childhood cancer with limited treatment options for advanced disease. Here, the authors show that the ceramide-pathway associated enzyme DEGS1 regulates muscle stem cells inducing tumor progression through mTORC1 and lipid metabolism, revealing a target for rhabdomyosarcoma.",
+  "headline": "A muscle cancer's hidden fuel source opens a new path to treatment.",
+  "why_it_matters": "Rhabdomyosarcoma is a dangerous muscle cancer that strikes children and doesn't respond well to current treatments when advanced. This research identifies a specific weakness in how cancer cells fuel themselves \u2014 a weakness that could be exploited with new drugs to stop the disease.",
+  "key_findings": [
+    "An enzyme called DEGS1 acts like a master switch that reprograms how rhabdomyosarcoma cells build and use fats (lipids), fueling tumor growth.",
+    "This enzyme works by activating a cellular control system called mTORC1 (a protein that tells cells to grow and divide), which then changes how the cancer cells handle lipids.",
+    "When researchers blocked DEGS1 or stopped the lipid reprogramming, tumors slowed or stopped growing in laboratory and animal models.",
+    "The cancer cells become dependent on this lipid-rewiring process, making it a potential drug target \u2014 a specific weak point that could be exploited with new medicines.",
+    "This represents a new understanding of how muscle stem cells transform into cancer cells, opening doors to therapies that work differently from conventional chemotherapy."
+  ],
+  "methods_snapshot": "The team used cell cultures and mouse models of rhabdomyosarcoma to study how DEGS1 and lipid metabolism control tumor growth. They used molecular techniques to track which genes and proteins were active, and tested whether blocking DEGS1 could slow cancer progression.",
+  "glossary": [
+    {
+      "term": "DEGS1",
+      "definition": "An enzyme (a cellular worker) that modifies fatty molecules called ceramides, enabling cells to change how they use fats for energy and growth."
+    },
+    {
+      "term": "mTORC1",
+      "definition": "A cellular control hub that acts like a gas pedal for cell growth and division; when activated, it tells cells to grow bigger and reproduce."
+    },
+    {
+      "term": "Lipid metabolic reprogramming",
+      "definition": "When cancer cells rewire their internal machinery to build and burn fats in a new way to fuel their abnormal growth."
+    },
+    {
+      "term": "Rhabdomyosarcoma",
+      "definition": "An aggressive cancer that grows in muscle cells, most common in children."
+    },
+    {
+      "term": "Ceramide",
+      "definition": "A type of fatty molecule found in cell membranes that plays roles in cell signaling and survival."
+    }
+  ],
+  "cancer_types": [
+    "rhabdomyosarcoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This work was done mainly in cell cultures and mouse models; it's not yet clear whether the same vulnerabilities exist in human patients or how well drug candidates would work in people. Additional research is needed to develop medicines that safely block DEGS1 without harming normal muscle cells.",
+  "tags": [
+    "childhood-cancer",
+    "lipid-metabolism",
+    "enzyme-inhibition",
+    "precision-oncology",
+    "metabolic-reprogramming",
+    "therapeutic-target",
+    "muscle-cancer",
+    "drug-development"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

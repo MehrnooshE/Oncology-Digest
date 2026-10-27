@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-26T14:03:15.090562+00:00",
+  "last_updated": "2026-10-27T13:04:53.974985+00:00",
   "papers": [
+    {
+      "id": "20261027_degs1_mtorc1_driven_lipid_metabolic_repr",
+      "title": "DEGS1-mTORC1-driven lipid metabolic reprogramming fuels rhabdomyosarcoma progression and unveils a therapeutic vulnerability",
+      "url": "https://www.nature.com/articles/s41467-026-79206-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-27T00:00:00+00:00",
+      "fetched_date": "2026-10-27T13:04:53.974678+00:00",
+      "headline": "A muscle cancer's hidden fuel source opens a new path to treatment.",
+      "cancer_types": [
+        "rhabdomyosarcoma"
+      ],
+      "tags": [
+        "childhood-cancer",
+        "lipid-metabolism",
+        "enzyme-inhibition",
+        "precision-oncology",
+        "metabolic-reprogramming",
+        "therapeutic-target",
+        "muscle-cancer",
+        "drug-development"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261026_neoadjuvant_durvalumab_plus_chemotherapy",
       "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
@@ -2160,29 +2185,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "Machine learning (artificial intelligence) was used implicitly through the training of neural networks studied, and the method itself provides a systematic way to distill what those AI systems actually 'learned' about decision-making."
-    },
-    {
-      "id": "20260727_who_gets_told_what_is_impossible_",
-      "title": "Who gets told what is impossible?",
-      "url": "https://www.nature.com/articles/s41568-026-00961-9",
-      "journal": "Nature Reviews Cancer",
-      "pub_date": "2026-07-27T00:00:00+00:00",
-      "fetched_date": "2026-07-27T10:47:53.296410+00:00",
-      "headline": "Women in cancer research have made progress but still face hidden barriers to advancement.",
-      "cancer_types": [],
-      "tags": [
-        "women in science",
-        "equity",
-        "cancer research",
-        "structural barriers",
-        "gender",
-        "representation",
-        "career advancement",
-        "systemic change"
-      ],
-      "study_type": "review",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
