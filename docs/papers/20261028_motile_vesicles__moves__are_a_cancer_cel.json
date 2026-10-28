@@ -1,0 +1,70 @@
+{
+  "id": "20261028_motile_vesicles__moves__are_a_cancer_cel",
+  "title": "Motile vesicles (MoVes) are a cancer cell migration-associated extracellular vesicle population",
+  "url": "https://www.nature.com/articles/s41556-026-02097-2",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [
+    "Thupten Tsering",
+    "Am\u00e9lie Nadeau",
+    "Masoud Ghasemi",
+    "Felippe Mousovich-Neto",
+    "Gabriel Tobias",
+    "Yunxi Chen"
+  ],
+  "pub_date": "2026-10-28T00:00:00+00:00",
+  "fetched_date": "2026-10-28T13:55:08.944734+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/s41556-026-02097-2\">doi:10.1038/s41556-026-02097-2</a></p>Tsering et al. describe a class of extracellular vesicles called motile vesicles (MoVes) that is produced by migrating cancer cells, contains genomic DNA and includes organelles that can be transferred to recipient cells.",
+  "headline": "Cancer cells release tiny packages of DNA that help them spread and change other cells.",
+  "why_it_matters": "Understanding how cancer cells communicate and share material could help doctors stop tumors from spreading. These newly discovered packages (called MoVes) may explain why some cancer treatments fail and could open new ways to detect or treat advanced cancers.",
+  "key_findings": [
+    "Cancer cells that are actively moving release a special type of tiny bubble called motile vesicles (MoVes) \u2014 like little postal packages that cells send out.",
+    "These MoVes contain actual DNA from the cancer cell's nucleus (the cell's control center), not just scraps of genetic material.",
+    "MoVes also carry working organelles (tiny structures that do jobs inside cells, like mitochondria which power cells), which can actually function when transferred to other cells.",
+    "When MoVes are taken in by other cells, they can change how those cells behave \u2014 potentially spreading cancer traits to previously normal cells.",
+    "The production of MoVes is linked to cancer cell migration, meaning cells that are actively spreading make more of these packages."
+  ],
+  "methods_snapshot": "Researchers studied cancer cells grown in lab dishes and in mice, tracking how they produce and release MoVes using imaging techniques (watching cells through microscopes) and molecular analysis (breaking down the contents of the vesicles). They tested whether MoVes from one cancer cell could change the behavior of other cells when transferred.",
+  "glossary": [
+    {
+      "term": "Extracellular vesicles",
+      "definition": "Tiny bubble-like structures released by cells that float outside and can carry messages or materials to other cells."
+    },
+    {
+      "term": "Motile vesicles (MoVes)",
+      "definition": "A newly identified type of tiny packet released by moving cancer cells that contains DNA and working cell structures."
+    },
+    {
+      "term": "Genomic DNA",
+      "definition": "The complete genetic instruction manual stored in a cell's nucleus that controls what the cell does."
+    },
+    {
+      "term": "Organelles",
+      "definition": "Tiny specialized structures inside cells that perform specific jobs, like mitochondria that generate energy."
+    },
+    {
+      "term": "Migration",
+      "definition": "When cancer cells move from one location to another, spreading through the body."
+    },
+    {
+      "term": "Recipient cells",
+      "definition": "Cells that receive materials from vesicles, which can then be changed by what they receive."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract \u2014 likely multiple types tested"
+  ],
+  "ml_angle": null,
+  "limitations": "This research was conducted mainly in lab and mouse models, so results may not directly translate to human cancers yet. The full study would need to confirm these findings work the same way in actual patient tumors and explore whether blocking MoVes could slow cancer spread.",
+  "tags": [
+    "cancer-communication",
+    "cell-migration",
+    "vesicles",
+    "DNA-transfer",
+    "metastasis",
+    "drug-resistance",
+    "cell-biology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

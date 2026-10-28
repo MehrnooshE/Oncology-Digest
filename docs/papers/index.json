@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-27T13:04:53.974985+00:00",
+  "last_updated": "2026-10-28T13:55:08.944998+00:00",
   "papers": [
+    {
+      "id": "20261028_motile_vesicles__moves__are_a_cancer_cel",
+      "title": "Motile vesicles (MoVes) are a cancer cell migration-associated extracellular vesicle population",
+      "url": "https://www.nature.com/articles/s41556-026-02097-2",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-10-28T00:00:00+00:00",
+      "fetched_date": "2026-10-28T13:55:08.944734+00:00",
+      "headline": "Cancer cells release tiny packages of DNA that help them spread and change other cells.",
+      "cancer_types": [
+        "Not specified in abstract \u2014 likely multiple types tested"
+      ],
+      "tags": [
+        "cancer-communication",
+        "cell-migration",
+        "vesicles",
+        "DNA-transfer",
+        "metastasis",
+        "drug-resistance",
+        "cell-biology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261027_degs1_mtorc1_driven_lipid_metabolic_repr",
       "title": "DEGS1-mTORC1-driven lipid metabolic reprogramming fuels rhabdomyosarcoma progression and unveils a therapeutic vulnerability",
@@ -2162,29 +2186,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": "Machine learning likely identified patterns across thousands of genes in individual cells to group them into the four distinct 'programs' and predict which patients would respond to therapy."
-    },
-    {
-      "id": "20260728_data_driven_reduced_modeling_of_neural_d",
-      "title": "Data-driven reduced modeling of neural dynamics",
-      "url": "https://www.nature.com/articles/s41467-026-75924-7",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-28T00:00:00+00:00",
-      "fetched_date": "2026-07-28T09:38:55.036788+00:00",
-      "headline": "Scientists simplify brain models to reveal how minds make decisions.",
-      "cancer_types": [],
-      "tags": [
-        "neural dynamics",
-        "brain computation",
-        "decision-making",
-        "computational neuroscience",
-        "model reduction",
-        "working memory",
-        "network simplification",
-        "machine learning"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "Machine learning (artificial intelligence) was used implicitly through the training of neural networks studied, and the method itself provides a systematic way to distill what those AI systems actually 'learned' about decision-making."
     }
   ]
 }
