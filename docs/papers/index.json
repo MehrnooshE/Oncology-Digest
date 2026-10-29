@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-28T13:55:08.944998+00:00",
+  "last_updated": "2026-10-29T14:01:30.196383+00:00",
   "papers": [
+    {
+      "id": "20261029_5_year_outcomes_of_chemotherapy_de_escal",
+      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
+      "url": "https://www.nature.com/articles/s41591-026-04723-w",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-10-29T00:00:00+00:00",
+      "fetched_date": "2026-10-29T14:01:30.196088+00:00",
+      "headline": "Doctors can safely give less chemotherapy to some breast cancer patients using imaging guidance.",
+      "cancer_types": [
+        "HER2-positive early breast cancer"
+      ],
+      "tags": [
+        "breast cancer",
+        "treatment de-escalation",
+        "HER2-positive",
+        "personalized medicine",
+        "circulating tumor DNA",
+        "PET imaging",
+        "reduced toxicity",
+        "5-year outcomes"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261028_motile_vesicles__moves__are_a_cancer_cel",
       "title": "Motile vesicles (MoVes) are a cancer cell migration-associated extracellular vesicle population",
@@ -2161,31 +2186,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260729_single_cell_profiling_of_natural_killer_",
-      "title": "Single-cell profiling of natural killer/T-cell lymphoma reveals stratified immune features and potential therapeutic implications",
-      "url": "https://www.nature.com/articles/s41467-026-76152-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-29T00:00:00+00:00",
-      "fetched_date": "2026-07-29T09:40:57.729677+00:00",
-      "headline": "Scientists map the hidden diversity within a rare blood cancer to predict which treatments will work.",
-      "cancer_types": [
-        "Natural killer/T-cell lymphoma (NKTCL)"
-      ],
-      "tags": [
-        "single-cell",
-        "lymphoma",
-        "immunotherapy",
-        "precision-medicine",
-        "tumor-heterogeneity",
-        "biomarkers",
-        "treatment-resistance",
-        "immune-profiling"
-      ],
-      "study_type": "single-cell",
-      "impact_score": 4,
-      "ml_angle": "Machine learning likely identified patterns across thousands of genes in individual cells to group them into the four distinct 'programs' and predict which patients would respond to therapy."
     }
   ]
 }
