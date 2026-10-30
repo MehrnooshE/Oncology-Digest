@@ -1,0 +1,72 @@
+{
+  "id": "20261030_rewired_decoding_fuels_kras_driven_cance",
+  "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
+  "url": "https://www.nature.com/articles/s41556-026-02089-2",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-10-30T00:00:00+00:00",
+  "fetched_date": "2026-10-30T13:56:16.032383+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s41556-026-02089-2\">doi:10.1038/s41556-026-02089-2</a></p>Dimethylation of the translation elongation factor eEF1A at lysine 55 by the dual methyltransferase METTL13 enhances decoding of a discrete set of low-frequency codons with weak wobble-position base pairing. This process selectively sustains synthesis of oncoproteins, including KRAS. METTL13 ablation restores sensitivity to inhibitors of the KRAS-G12C mutant and prolongs survival in models of lung adenocarcinoma.",
+  "headline": "Cancer cells hijack a protein-building system to survive drug treatment and grow faster.",
+  "why_it_matters": "Many lung cancers develop resistance to new drugs that target a mutated gene called KRAS. This research reveals how cancer cells rewire their protein-building machinery to overcome these drugs, suggesting a new target that could make treatments work better and help more patients survive longer.",
+  "key_findings": [
+    "An enzyme called METTL13 adds chemical tags (dimethylation at lysine 55) to a protein called eEF1A that helps cells build new proteins.",
+    "This tagging helps cancer cells preferentially build tumor-promoting proteins (oncoproteins) like KRAS, especially the mutated form that drives lung cancer growth.",
+    "The tagging system exploits wobble base pairing \u2014 a quirk in the genetic code where certain instructions can be read slightly loosely \u2014 to build these cancer proteins more efficiently.",
+    "Blocking METTL13 restores cancer cells' vulnerability to existing KRAS-targeting drugs (KRAS-G12C inhibitors) that normally stop working.",
+    "In mouse models of lung cancer, removing METTL13 extended survival, suggesting this approach could improve patient outcomes."
+  ],
+  "methods_snapshot": "Researchers used molecular and cellular studies to identify how METTL13 modifies eEF1A and tested whether removing METTL13 restored drug sensitivity in cancer cells grown in the lab. They also tested this in mouse models of lung adenocarcinoma to measure survival benefits.",
+  "glossary": [
+    {
+      "term": "KRAS",
+      "definition": "A gene that normally helps cells grow; when mutated, it drives uncontrolled cancer growth."
+    },
+    {
+      "term": "METTL13",
+      "definition": "An enzyme that adds chemical modifications to other proteins, acting like a molecular label-maker."
+    },
+    {
+      "term": "eEF1A",
+      "definition": "A protein that reads genetic instructions and helps build new proteins inside cells, like a worker following a blueprint."
+    },
+    {
+      "term": "Dimethylation",
+      "definition": "Adding two identical small chemical groups to a protein, which changes how it functions."
+    },
+    {
+      "term": "Wobble base pairing",
+      "definition": "A flexible rule in genetic code where some instructions can be read in slightly different ways, like a word with multiple pronunciations."
+    },
+    {
+      "term": "Oncoprotein",
+      "definition": "A protein that promotes cancer growth; often produced from mutated genes."
+    },
+    {
+      "term": "KRAS-G12C inhibitor",
+      "definition": "A drug designed to block a specific type of mutated KRAS protein; currently used to treat some lung cancers."
+    },
+    {
+      "term": "Drug resistance",
+      "definition": "When cancer cells evolve or adapt to survive treatment that previously killed them."
+    }
+  ],
+  "cancer_types": [
+    "Lung adenocarcinoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This study was performed in lab cells and mouse models, not yet in patients, so the clinical benefit remains to be proven. It's also unclear whether this approach works against other types of cancer beyond lung adenocarcinoma or other KRAS mutations.",
+  "tags": [
+    "KRAS",
+    "drug-resistance",
+    "protein-synthesis",
+    "epigenetics",
+    "lung-cancer",
+    "precision-medicine",
+    "combination-therapy",
+    "therapeutic-target"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

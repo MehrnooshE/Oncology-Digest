@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-10-29T14:01:30.196383+00:00",
+  "last_updated": "2026-10-30T13:56:16.032719+00:00",
   "papers": [
+    {
+      "id": "20261030_rewired_decoding_fuels_kras_driven_cance",
+      "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
+      "url": "https://www.nature.com/articles/s41556-026-02089-2",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-10-30T00:00:00+00:00",
+      "fetched_date": "2026-10-30T13:56:16.032383+00:00",
+      "headline": "Cancer cells hijack a protein-building system to survive drug treatment and grow faster.",
+      "cancer_types": [
+        "Lung adenocarcinoma"
+      ],
+      "tags": [
+        "KRAS",
+        "drug-resistance",
+        "protein-synthesis",
+        "epigenetics",
+        "lung-cancer",
+        "precision-medicine",
+        "combination-therapy",
+        "therapeutic-target"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261029_5_year_outcomes_of_chemotherapy_de_escal",
       "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial",
@@ -2163,29 +2188,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The AI model learned to 'read' the electrical squiggles of an ECG like a fingerprint\u2014recognizing subtle patterns invisible to human doctors\u2014and translate them into accurate predictions of heart chamber size, function, and stroke risk."
-    },
-    {
-      "id": "20260730_a_global_view_of_human_centromere_variat",
-      "title": "A global view of human centromere variation and evolution",
-      "url": "https://www.nature.com/articles/s41586-026-10841-9",
-      "journal": "Nature",
-      "pub_date": "2026-07-29T00:00:00+00:00",
-      "fetched_date": "2026-07-30T09:33:25.963192+00:00",
-      "headline": "Scientists map how centromeres vary and mutate across human populations worldwide.",
-      "cancer_types": [],
-      "tags": [
-        "centromere",
-        "genomics",
-        "human-variation",
-        "evolution",
-        "chromosome-biology",
-        "population-genetics",
-        "structural-variants",
-        "sequencing"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
