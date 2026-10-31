@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-30T13:56:16.032719+00:00",
+  "last_updated": "2026-10-31T13:28:57.575771+00:00",
   "papers": [
+    {
+      "id": "20261031_cell_spreading_enhanced_electron_transfe",
+      "title": "Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection",
+      "url": "https://www.nature.com/articles/s41467-026-79183-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-10-31T00:00:00+00:00",
+      "fetched_date": "2026-10-31T13:28:57.575504+00:00",
+      "headline": "New sensor detects individual cancer cells in blood with high accuracy using electrical signals.",
+      "cancer_types": [
+        "circulating tumor cells (multiple cancer types, patient-derived)"
+      ],
+      "tags": [
+        "circulating tumor cells",
+        "single-cell detection",
+        "electrochemistry",
+        "liquid biopsy",
+        "cancer diagnostics",
+        "biosensor",
+        "cell spreading"
+      ],
+      "study_type": "clinical trial",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261030_rewired_decoding_fuels_kras_driven_cance",
       "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
@@ -2165,29 +2189,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260731_deep_learning_prediction_of_left_atrial_",
-      "title": "Deep learning prediction of left atrial structure and function from 12-lead electrocardiograms",
-      "url": "https://www.nature.com/articles/s41467-026-76155-6",
-      "journal": "Nature Communications",
-      "pub_date": "2026-07-31T00:00:00+00:00",
-      "fetched_date": "2026-07-31T09:48:52.651745+00:00",
-      "headline": "AI reads heart electrical patterns to spot atrial disease before it causes strokes.",
-      "cancer_types": [],
-      "tags": [
-        "AI",
-        "cardiology",
-        "atrial fibrillation",
-        "stroke prevention",
-        "ECG",
-        "deep learning",
-        "early detection",
-        "accessible screening"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The AI model learned to 'read' the electrical squiggles of an ECG like a fingerprint\u2014recognizing subtle patterns invisible to human doctors\u2014and translate them into accurate predictions of heart chamber size, function, and stroke risk."
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "20261031_cell_spreading_enhanced_electron_transfe",
+  "title": "Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection",
+  "url": "https://www.nature.com/articles/s41467-026-79183-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Yan Qi",
+    "Zhenhua Chao",
+    "Binbin Jian",
+    "Liang Tai",
+    "Qian Guo",
+    "Haiyuan Song"
+  ],
+  "pub_date": "2026-10-31T00:00:00+00:00",
+  "fetched_date": "2026-10-31T13:28:57.575504+00:00",
+  "abstract": "<p>Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79183-4\">doi:10.1038/s41467-026-79183-4</a></p>Electrochemical cytosensors have emerged as powerful tools for single-cell analysis, but generating robust signals from individual cells remains a major challenge. The authors uncover a cell-electrode interfacial electron-transfer effect, in which only redox probes at the cell-electrode interface contribute to measurable currents. Exploiting this mechanism, they develop a cell spreading-enhanced electron-transfer (SEET) cytosensor and apply it to circulating tumor cell detection in 55 patient samples, achieving 96% specificity and 87% sensitivity.",
+  "headline": "New sensor detects individual cancer cells in blood with high accuracy using electrical signals.",
+  "why_it_matters": "Circulating tumor cells (cancer cells floating in the bloodstream) are early signs of cancer spread, but they're extremely rare and hard to find. A faster, more reliable way to spot them could help doctors catch metastatic cancer earlier and monitor treatment response. This technology might eventually become a simple blood test that's cheaper and quicker than current methods.",
+  "key_findings": [
+    "The researchers discovered that when cancer cells land on an electrode (a tiny electrical conductor), only the molecules touching the electrode surface actually transfer electrons and create a measurable electrical signal\u2014like only the bottom of a sponge touching a surface gets wet.",
+    "By making cells spread out more on the electrode, they dramatically increased the contact area and boosted the electrical signal, making it easier to detect individual cells.",
+    "Testing on 55 patient blood samples, the new sensor (called SEET cytosensor) correctly identified cancer cells with 96% specificity (very few false alarms) and 87% sensitivity (catching most real cancer cells present).",
+    "The method works by measuring redox probes\u2014molecular messengers that shuttle electrons\u2014at the cell-electrode interface (the boundary where cells and electrode touch)."
+  ],
+  "methods_snapshot": "The team developed an electrochemical cytosensor\u2014essentially a tiny electrode that detects electrical signals from cancer cells. They engineered it so cells spread out more on the surface, increasing contact and electrical signal strength, then validated the approach by testing blood samples from 55 cancer patients and measuring how often it correctly identified circulating tumor cells.",
+  "glossary": [
+    {
+      "term": "Electrochemical cytosensor",
+      "definition": "A device that detects individual cells by measuring electrical currents generated when molecules exchange electrons at a cell-electrode interface."
+    },
+    {
+      "term": "Circulating tumor cells (CTCs)",
+      "definition": "Cancer cells that break free from a tumor and float in the bloodstream, often a sign that cancer is spreading to other parts of the body."
+    },
+    {
+      "term": "Electron transfer",
+      "definition": "The movement of electrons from one molecule to another, which generates electrical current that a sensor can measure."
+    },
+    {
+      "term": "Redox probe",
+      "definition": "A molecular messenger designed to shuttle electrons between a cell and an electrode, allowing electrical signals to be detected."
+    },
+    {
+      "term": "Specificity",
+      "definition": "How often a test correctly identifies samples that do not have cancer (how few false alarms it produces)."
+    },
+    {
+      "term": "Sensitivity",
+      "definition": "How often a test correctly identifies samples that do have cancer cells (how many true positives it catches)."
+    }
+  ],
+  "cancer_types": [
+    "circulating tumor cells (multiple cancer types, patient-derived)"
+  ],
+  "ml_angle": null,
+  "limitations": "The study tested only 55 patient samples, which is a solid start but relatively small for clinical validation. The real-world performance in diagnosing different cancer types, at various stages, and in different patient populations remains to be determined through larger studies.",
+  "tags": [
+    "circulating tumor cells",
+    "single-cell detection",
+    "electrochemistry",
+    "liquid biopsy",
+    "cancer diagnostics",
+    "biosensor",
+    "cell spreading"
+  ],
+  "study_type": "clinical trial",
+  "impact_score": 4
+}
