@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-10-31T13:28:57.575771+00:00",
+  "last_updated": "2026-11-01T14:10:12.593320+00:00",
   "papers": [
+    {
+      "id": "20261101_cancer_cells_have_got__moves_",
+      "title": "Cancer cells have got \u2018MoVes\u2019",
+      "url": "https://www.nature.com/articles/s41556-026-02108-2",
+      "journal": "Nature Cell Biology",
+      "pub_date": "2026-10-30T00:00:00+00:00",
+      "fetched_date": "2026-11-01T14:10:12.593058+00:00",
+      "headline": "Cancer cells shed packages carrying full genetic blueprints and power-generating structures.",
+      "cancer_types": [
+        "not specified in abstract"
+      ],
+      "tags": [
+        "cancer-metastasis",
+        "extracellular-vesicles",
+        "tumor-biology",
+        "cell-migration",
+        "genetic-transfer",
+        "translational-research"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261031_cell_spreading_enhanced_electron_transfe",
       "title": "Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection",
@@ -2159,32 +2182,6 @@
         "DNA-recombination",
         "cancer-mechanisms",
         "genomic-mutations"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260801_the_transcription_factor_c_ebp__promotes",
-      "title": "The transcription factor C/EBP\u03b2 promotes hyperglycemia-elicited glycolysis and liver cancer progression",
-      "url": "https://www.nature.com/articles/s41467-026-76209-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-01T00:00:00+00:00",
-      "fetched_date": "2026-08-01T09:10:09.511820+00:00",
-      "headline": "High blood sugar wakes up a cancer-promoting switch in liver cells",
-      "cancer_types": [
-        "Hepatocellular carcinoma (liver cancer)",
-        "HRAS-driven liver tumors"
-      ],
-      "tags": [
-        "diabetes",
-        "liver cancer",
-        "glucose metabolism",
-        "C/EBP\u03b2",
-        "cancer progression",
-        "therapeutic target",
-        "glycolysis",
-        "precision medicine"
       ],
       "study_type": "preclinical",
       "impact_score": 4,

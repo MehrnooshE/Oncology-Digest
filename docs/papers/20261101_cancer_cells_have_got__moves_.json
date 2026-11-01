@@ -1,0 +1,61 @@
+{
+  "id": "20261101_cancer_cells_have_got__moves_",
+  "title": "Cancer cells have got \u2018MoVes\u2019",
+  "url": "https://www.nature.com/articles/s41556-026-02108-2",
+  "journal": "Nature Cell Biology",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-10-30T00:00:00+00:00",
+  "fetched_date": "2026-11-01T14:10:12.593058+00:00",
+  "abstract": "<p>Nature Cell Biology, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s41556-026-02108-2\">doi:10.1038/s41556-026-02108-2</a></p>Motile vesicles (MoVes) are a previously undescribed population of large extracellular vesicles released from the trailing edge of actively migrating cancer cells. MoVes carry the entire genome and mutational landscape of the parental tumour cell, together with intracellular organelles, including mitochondria, and proteins associated with epithelial-to-mesenchymal transition and organelle biology.",
+  "headline": "Cancer cells shed packages carrying full genetic blueprints and power-generating structures.",
+  "why_it_matters": "This discovery reveals a previously unknown way cancer cells spread genetic material and potentially seed new tumors. Understanding this mechanism could help doctors predict which cancers will spread aggressively and develop new ways to stop that spread. It opens a new avenue for early cancer detection and treatment.",
+  "key_findings": [
+    "Cancer cells release large packages called MoVes (motile vesicles) \u2014 bubble-like structures filled with cellular contents \u2014 from their trailing edge as they move through tissue",
+    "These vesicles carry the complete genome (the cell's entire genetic instruction manual) and copies of mutations (genetic errors) from the original tumor cell",
+    "MoVes contain mitochondria (cellular power plants that produce energy) and other working parts of the cell, making them more complex than previously known vesicles",
+    "The vesicles also carry proteins linked to epithelial-to-mesenchymal transition (EMT \u2014 a process where cancer cells become more mobile and invasive), suggesting they may help tumors spread"
+  ],
+  "methods_snapshot": "Researchers studied actively migrating cancer cells in culture and examined what structures they released. They analyzed the contents of these vesicles using molecular techniques to identify their genetic and protein cargo.",
+  "glossary": [
+    {
+      "term": "Motile vesicles (MoVes)",
+      "definition": "Large bubble-like packages released by moving cancer cells that contain genetic material, energy-producing structures, and proteins."
+    },
+    {
+      "term": "Genome",
+      "definition": "The complete set of genetic instructions (DNA) that a cell uses to function and reproduce."
+    },
+    {
+      "term": "Mitochondria",
+      "definition": "Cellular structures that act like power plants, producing energy that cells need to survive and move."
+    },
+    {
+      "term": "Epithelial-to-mesenchymal transition (EMT)",
+      "definition": "A process where cancer cells lose their fixed position and gain the ability to move and invade neighboring tissue."
+    },
+    {
+      "term": "Extracellular vesicles",
+      "definition": "Tiny packages released by cells that float outside the cell and carry biological material between cells."
+    },
+    {
+      "term": "Mutational landscape",
+      "definition": "The specific collection of genetic errors that have accumulated in a particular cancer cell."
+    }
+  ],
+  "cancer_types": [
+    "not specified in abstract"
+  ],
+  "ml_angle": null,
+  "limitations": "The study appears to be based on cancer cells grown in laboratory conditions, which may not fully reflect how these vesicles behave inside a living organism. More research is needed to understand whether MoVes actually contribute to tumor spread in real patients.",
+  "tags": [
+    "cancer-metastasis",
+    "extracellular-vesicles",
+    "tumor-biology",
+    "cell-migration",
+    "genetic-transfer",
+    "translational-research"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
