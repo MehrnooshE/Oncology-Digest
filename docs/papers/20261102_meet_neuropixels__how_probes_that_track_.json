@@ -1,0 +1,59 @@
+{
+  "id": "20261102_meet_neuropixels__how_probes_that_track_",
+  "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+  "url": "https://www.nature.com/articles/d41586-026-03511-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Diana Kwon"
+  ],
+  "pub_date": "2026-11-02T00:00:00+00:00",
+  "fetched_date": "2026-11-02T16:56:19.578147+00:00",
+  "abstract": "<p>Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03511-3\">doi:10.1038/d41586-026-03511-3</a></p>From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain.",
+  "headline": "New brain probes let scientists watch hundreds of individual brain cells work simultaneously.",
+  "why_it_matters": "Understanding how brain cells communicate could unlock new treatments for neurological diseases like Parkinson's, epilepsy, and brain tumors. By seeing the brain's activity in unprecedented detail, researchers can identify what goes wrong in disease and design better therapies. This technology bridges the gap between studying single cells in a dish and observing whole brains in living animals and humans.",
+  "key_findings": [
+    "Neuropixels probes (ultra-thin silicon electrodes about the width of a human hair) can simultaneously record electrical signals from hundreds of individual neurons (brain cells that send messages) in living brains",
+    "These probes work across species, from mice to primates to humans, revealing how brain circuits are organized and function in health and disease",
+    "Researchers can now observe coordinated activity patterns across distant brain regions, showing how different areas work together like an orchestra rather than solo instruments",
+    "The technology reveals previously hidden details about how neurons communicate during behavior, learning, and sleep \u2014 information impossible to get with older single-cell recording methods"
+  ],
+  "methods_snapshot": "Scientists used Neuropixels probes \u2014 thin electrode arrays that detect electrical signals from many neurons simultaneously \u2014 inserted into brain tissue of living animals and human patients during surgery. The probes send real-time data to computers that record which neurons fire and when, creating a detailed map of brain activity.",
+  "glossary": [
+    {
+      "term": "Neuropixels probe",
+      "definition": "A microscopic silicon electrode device that can record electrical activity from hundreds of brain cells at the same time."
+    },
+    {
+      "term": "Neuron",
+      "definition": "A brain cell that processes and transmits information using electrical and chemical signals."
+    },
+    {
+      "term": "Single-cell recording",
+      "definition": "A technique that measures the electrical activity of individual cells rather than groups of cells."
+    },
+    {
+      "term": "Neural circuit",
+      "definition": "A network of interconnected brain cells that work together to produce thoughts, emotions, or behaviors."
+    },
+    {
+      "term": "Electrode",
+      "definition": "A tiny conductor that picks up electrical signals, like how a microphone picks up sound."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "Machine learning algorithms help researchers automatically identify and classify patterns in thousands of simultaneous neural signals that would be impossible for humans to analyze manually.",
+  "limitations": "The probes are invasive, requiring surgical insertion into the brain, which limits use in healthy volunteers; long-term effects of the implants are still being studied. Translating findings from animal brains to human brains remains challenging, though human recordings are beginning to bridge this gap.",
+  "tags": [
+    "brain-imaging",
+    "neurotechnology",
+    "neural-recording",
+    "single-cell",
+    "neurological-disease",
+    "brain-circuits",
+    "machine-learning",
+    "translational-research"
+  ],
+  "study_type": "review",
+  "impact_score": 5
+}
