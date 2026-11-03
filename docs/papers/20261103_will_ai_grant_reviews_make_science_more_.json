@@ -1,0 +1,57 @@
+{
+  "id": "20261103_will_ai_grant_reviews_make_science_more_",
+  "title": "Will AI grant reviews make science more conservative?",
+  "url": "https://www.nature.com/articles/d41586-026-03340-4",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Elliot Yates"
+  ],
+  "pub_date": "2026-11-03T00:00:00+00:00",
+  "fetched_date": "2026-11-03T14:55:48.848019+00:00",
+  "abstract": "<p>Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03340-4\">doi:10.1038/d41586-026-03340-4</a></p>Researchers are questioning whether outsourcing decisions about research funding to artificial intelligence will reduce scientific novelty.",
+  "headline": "AI-powered grant reviewers might accidentally push science toward safer, more predictable ideas.",
+  "why_it_matters": "How we decide which research gets funded shapes what discoveries happen next. If AI funding systems favor familiar, low-risk projects over bold new ideas, we might miss breakthrough treatments for cancer and other diseases. The way we fund science today directly affects which cures exist tomorrow.",
+  "key_findings": [
+    "Researchers worry that using AI to evaluate research proposals could bias the system toward incremental improvements rather than risky, transformative ideas (novelty means genuinely new approaches rather than variations on existing ones).",
+    "AI systems trained on past successful grants may simply replicate old patterns instead of recognizing promising unconventional approaches.",
+    "The efficiency gains from automating grant review could come at the cost of scientific innovation and diversity of research directions.",
+    "Human reviewers, despite being slower and more expensive, may better recognize creative leaps that don't fit standard templates."
+  ],
+  "methods_snapshot": "This is a perspective piece analyzing the potential risks of using artificial intelligence (computer systems that learn from data) to automate the grant-review process. The authors examined how AI decision-making systems work and what could go wrong when applied to evaluating research proposals.",
+  "glossary": [
+    {
+      "term": "AI (artificial intelligence)",
+      "definition": "Computer systems trained on large amounts of data to recognize patterns and make decisions without being explicitly programmed for each task."
+    },
+    {
+      "term": "Grant review",
+      "definition": "The process where expert scientists evaluate research proposals and decide which ones deserve funding."
+    },
+    {
+      "term": "Novelty",
+      "definition": "How new, original, and creative a research idea is, rather than being a minor tweak on existing work."
+    },
+    {
+      "term": "Conservative (in science)",
+      "definition": "Favoring safe, established approaches over risky, experimental ones."
+    },
+    {
+      "term": "Bias",
+      "definition": "When a system systematically favors certain outcomes or types of ideas over others, often unintentionally."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI systems trained on historical grant data might unconsciously favor proposals that resemble past funded projects, potentially filtering out bold new ideas that don't match established patterns.",
+  "limitations": "This is a commentary raising concerns rather than presenting direct experimental evidence. The actual impact of AI on grant reviews will depend on how these systems are specifically designed and implemented\u2014some AI approaches might avoid these pitfalls better than others.",
+  "tags": [
+    "grant funding",
+    "AI bias",
+    "scientific innovation",
+    "research policy",
+    "machine learning governance",
+    "decision-making systems"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

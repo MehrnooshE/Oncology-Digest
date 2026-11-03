@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-11-02T16:56:19.578476+00:00",
+  "last_updated": "2026-11-03T14:55:48.848280+00:00",
   "papers": [
+    {
+      "id": "20261103_will_ai_grant_reviews_make_science_more_",
+      "title": "Will AI grant reviews make science more conservative?",
+      "url": "https://www.nature.com/articles/d41586-026-03340-4",
+      "journal": "Nature",
+      "pub_date": "2026-11-03T00:00:00+00:00",
+      "fetched_date": "2026-11-03T14:55:48.848019+00:00",
+      "headline": "AI-powered grant reviewers might accidentally push science toward safer, more predictable ideas.",
+      "cancer_types": [],
+      "tags": [
+        "grant funding",
+        "AI bias",
+        "scientific innovation",
+        "research policy",
+        "machine learning governance",
+        "decision-making systems"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "AI systems trained on historical grant data might unconsciously favor proposals that resemble past funded projects, potentially filtering out bold new ideas that don't match established patterns."
+    },
     {
       "id": "20261102_meet_neuropixels__how_probes_that_track_",
       "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
@@ -2158,30 +2179,6 @@
         "chemotherapy",
         "translation control",
         "cancer biology"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260803_evolution_of_botulinum_neurotoxin_seroty",
-      "title": "Evolution of botulinum neurotoxin serotype X proteases to induce inflammatory cell death in cancer cells",
-      "url": "https://www.nature.com/articles/s41587-026-03243-9",
-      "journal": "Nature Biotechnology",
-      "pub_date": "2026-08-03T00:00:00+00:00",
-      "fetched_date": "2026-08-03T10:48:21.456200+00:00",
-      "headline": "Scientists engineer toxic proteins to kill cancer cells by triggering inflammatory cell death.",
-      "cancer_types": [
-        "Multiple cancer cell lines tested in vitro (exact cancer types not specified in abstract)"
-      ],
-      "tags": [
-        "immunotherapy",
-        "protein engineering",
-        "cell death",
-        "targeted therapy",
-        "directed evolution",
-        "cancer resistance",
-        "inflammatory response"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
