@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-11-03T14:55:48.848280+00:00",
+  "last_updated": "2026-11-04T15:16:27.653856+00:00",
   "papers": [
+    {
+      "id": "20261104_a_tumor_transcriptomic_atlas_across_eigh",
+      "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
+      "url": "https://www.nature.com/articles/s41591-026-04771-2",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-11-04T00:00:00+00:00",
+      "fetched_date": "2026-11-04T15:16:27.653577+00:00",
+      "headline": "Young adults with colorectal cancer have genetically different tumors than older patients.",
+      "cancer_types": [
+        "Colorectal cancer"
+      ],
+      "tags": [
+        "early-onset-cancer",
+        "colorectal-cancer",
+        "transcriptomics",
+        "precision-medicine",
+        "tumor-biology",
+        "age-disparities",
+        "cancer-genetics",
+        "EMT"
+      ],
+      "study_type": "multi-omics",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261103_will_ai_grant_reviews_make_science_more_",
       "title": "Will AI grant reviews make science more conservative?",
@@ -2160,27 +2185,6 @@
         "polymer physics"
       ],
       "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260804_translational_control_by_rpl22l1_specifi",
-      "title": "Translational control by RPL22L1-specific ribosomes enhances DNA repair and chemoresistance",
-      "url": "https://www.nature.com/articles/s41467-026-76283-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-04T00:00:00+00:00",
-      "fetched_date": "2026-08-04T09:40:54.784820+00:00",
-      "headline": "Cancer cells use a special protein to boost DNA repair, making them resistant to chemotherapy.",
-      "cancer_types": [],
-      "tags": [
-        "drug resistance",
-        "DNA repair",
-        "ribosomal proteins",
-        "chemotherapy",
-        "translation control",
-        "cancer biology"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }

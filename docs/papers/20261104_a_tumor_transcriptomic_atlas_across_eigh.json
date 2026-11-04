@@ -1,0 +1,59 @@
+{
+  "id": "20261104_a_tumor_transcriptomic_atlas_across_eigh",
+  "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
+  "url": "https://www.nature.com/articles/s41591-026-04771-2",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-11-04T00:00:00+00:00",
+  "fetched_date": "2026-11-04T15:16:27.653577+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/s41591-026-04771-2\">doi:10.1038/s41591-026-04771-2</a></p>The incidence of early-onset colorectal cancer is rising, but whether it is biologically distinct from average-onset disease is unclear. Mapping of the transcriptome of colorectal tumors across the age continuum shows that tumors in younger adults contain more stromal cells and have increased expression of long non-coding RNAs and genes associated with epithelial-to-mesenchymal transition.",
+  "headline": "Young adults with colorectal cancer have genetically different tumors than older patients.",
+  "why_it_matters": "Colorectal cancer is rising in younger people, but doctors didn't know if these tumors behave differently. This research shows they do\u2014which means young patients might need different treatment strategies. Understanding these differences could lead to better, more personalized therapies.",
+  "key_findings": [
+    "Tumors in younger adults contain more stromal cells (the normal supporting tissue surrounding cancer cells) compared to tumors in older patients.",
+    "Young-onset colorectal cancers show increased activity of long non-coding RNAs (DNA instructions that don't make proteins but control how other genes work) that older tumors don't have as much of.",
+    "Early-onset tumors have more active epithelial-to-mesenchymal transition (a cellular process where cancer cells lose their tight connections and gain the ability to move and spread more easily).",
+    "The genetic profile of colorectal cancer changes across different age groups, suggesting it's not one disease but potentially several distinct diseases based on patient age."
+  ],
+  "methods_snapshot": "Researchers analyzed the transcriptome (the complete set of active genes and RNA molecules) from colorectal tumors collected from patients across all age groups. They used high-throughput sequencing technology to map which genes were turned on or off in each tumor, then compared patterns across younger and older patients.",
+  "glossary": [
+    {
+      "term": "Transcriptome",
+      "definition": "The collection of all RNA molecules (gene instructions) actively being used in a cell at any given time."
+    },
+    {
+      "term": "Stromal cells",
+      "definition": "Normal, non-cancerous cells that form the structural tissue and scaffolding surrounding a tumor."
+    },
+    {
+      "term": "Long non-coding RNA (lncRNA)",
+      "definition": "A type of RNA that doesn't directly make proteins but acts as a control switch for other genes."
+    },
+    {
+      "term": "Epithelial-to-mesenchymal transition (EMT)",
+      "definition": "A process where cells lose their fixed position in a tissue and gain the ability to migrate and invade\u2014often a step toward cancer spreading."
+    },
+    {
+      "term": "Incidence",
+      "definition": "The rate at which a disease (like cancer) occurs in a population over a set time."
+    }
+  ],
+  "cancer_types": [
+    "Colorectal cancer"
+  ],
+  "ml_angle": null,
+  "limitations": "The study maps gene activity patterns but doesn't prove these differences cause the cancer or determine which differences actually matter for treatment. Follow-up work will be needed to test whether targeting these unique features actually helps younger patients survive longer.",
+  "tags": [
+    "early-onset-cancer",
+    "colorectal-cancer",
+    "transcriptomics",
+    "precision-medicine",
+    "tumor-biology",
+    "age-disparities",
+    "cancer-genetics",
+    "EMT"
+  ],
+  "study_type": "multi-omics",
+  "impact_score": 4
+}
