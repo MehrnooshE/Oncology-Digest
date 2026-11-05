@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-11-04T15:16:27.653856+00:00",
+  "last_updated": "2026-11-05T15:17:05.569308+00:00",
   "papers": [
+    {
+      "id": "20261105_energy_guided_combinatorial_co_optimizat",
+      "title": "Energy-guided combinatorial co-optimization of antibody affinity and stability",
+      "url": "https://www.nature.com/articles/s41467-026-78946-3",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-05T00:00:00+00:00",
+      "fetched_date": "2026-11-05T15:17:05.569015+00:00",
+      "headline": "Researchers design better antibodies that are stronger and more stable at once.",
+      "cancer_types": [],
+      "tags": [
+        "antibody engineering",
+        "protein design",
+        "immunotherapy",
+        "therapeutic antibodies",
+        "structural biology",
+        "drug development",
+        "computational biology"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The LAffAb tool uses machine learning-like energy calculations to predict which mutations will improve antibody binding without breaking the protein's stability, automating a design process that normally requires trial-and-error testing."
+    },
     {
       "id": "20261104_a_tumor_transcriptomic_atlas_across_eigh",
       "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
@@ -2156,35 +2178,6 @@
         "cancer immunology"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260805_phase_separation_of_ecdna_condensates_es",
-      "title": "Phase separation of ecDNA condensates establishes in-trans contact domains that boost selective <i>MYC</i> regulatory interactions",
-      "url": "https://www.nature.com/articles/s41467-026-76447-x",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-05T00:00:00+00:00",
-      "fetched_date": "2026-08-05T09:40:05.442757+00:00",
-      "headline": "Cancer cells use sticky protein clusters to overactivate a growth gene; a drug can dissolve them.",
-      "cancer_types": [
-        "Multiple cancer types with MYC amplification",
-        "Osteosarcoma (bone cancer)",
-        "Neuroblastoma (nerve cell cancer)",
-        "Breast cancer",
-        "Other cancers with ecDNA"
-      ],
-      "tags": [
-        "MYC activation",
-        "ecDNA",
-        "phase separation",
-        "BRD4",
-        "cancer biology",
-        "gene regulation",
-        "JQ1 drug",
-        "polymer physics"
-      ],
-      "study_type": "computational",
       "impact_score": 4,
       "ml_angle": null
     }

@@ -1,0 +1,71 @@
+{
+  "id": "20261105_energy_guided_combinatorial_co_optimizat",
+  "title": "Energy-guided combinatorial co-optimization of antibody affinity and stability",
+  "url": "https://www.nature.com/articles/s41467-026-78946-3",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Ariel Tennenhouse",
+    "Adva Mechaly",
+    "Tony Pham",
+    "Robert J. Oldham",
+    "Jake Y. Henry",
+    "Dorry X. Zhao"
+  ],
+  "pub_date": "2026-11-05T00:00:00+00:00",
+  "fetched_date": "2026-11-05T15:17:05.569015+00:00",
+  "abstract": "<p>Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78946-3\">doi:10.1038/s41467-026-78946-3</a></p>Here, Tennenhouse et al. develop LAffAb, a structure-based method for designing CDR mutations to improve affinity and developability. By filtering mutations predicted to disrupt stability and foldability, LAffAb enables accurate, one-shot design.",
+  "headline": "Researchers design better antibodies that are stronger and more stable at once.",
+  "why_it_matters": "Antibodies are immune proteins used to treat many cancers and diseases by helping the body recognize and destroy cancer cells. Current antibody drugs often have to choose between being very good at sticking to targets or being stable enough to manufacture and store. This method lets scientists do both simultaneously, which could lead to more effective treatments with fewer manufacturing headaches and lower costs.",
+  "key_findings": [
+    "LAffAb (a computer-guided design method) helps scientists improve antibodies by predicting which small changes to make in the antibody's binding region (CDR \u2014 the part that grabs onto cancer cells) while avoiding changes that would break the protein's structure.",
+    "The method filters out mutations (genetic tweaks) that would destabilize the antibody or prevent it from folding correctly, which is like keeping only recipes that make a strong cake rather than one that falls apart.",
+    "The system achieves one-shot design accuracy (getting it right the first time in the lab) by balancing two competing goals \u2014 making the antibody bind tighter to its target while keeping it structurally sound.",
+    "Energy-guided optimization (using physics-based calculations of molecular stability) replaces guesswork, improving the odds that designed mutations will actually work in real experiments."
+  ],
+  "methods_snapshot": "The researchers built a computational tool that uses structure-based prediction (analyzing the 3D shape of proteins) combined with filtering rules to identify antibody mutations worth testing. They validated the method by designing antibodies and testing how well they stuck to targets and held up under stress, comparing results to traditional design approaches.",
+  "glossary": [
+    {
+      "term": "Antibody",
+      "definition": "A Y-shaped immune protein that sticks to specific targets on cancer cells or viruses, marking them for destruction."
+    },
+    {
+      "term": "CDR (Complementarity Determining Region)",
+      "definition": "The tip of an antibody's arms where it grabs and holds onto its target, like the gripper on a claw machine."
+    },
+    {
+      "term": "Affinity",
+      "definition": "How tightly an antibody sticks to its target; stronger affinity means a better grip."
+    },
+    {
+      "term": "Stability",
+      "definition": "How well a protein maintains its shape and function under heat, storage, or manufacturing conditions."
+    },
+    {
+      "term": "Mutation",
+      "definition": "A small change to the genetic code that alters the amino acid building blocks of a protein."
+    },
+    {
+      "term": "Developability",
+      "definition": "How easy and cost-effective it is to manufacture, store, and use a therapeutic protein as a medicine."
+    },
+    {
+      "term": "Foldability",
+      "definition": "The ability of a protein to properly curl and twist into its correct 3D shape without getting tangled or clumped."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The LAffAb tool uses machine learning-like energy calculations to predict which mutations will improve antibody binding without breaking the protein's stability, automating a design process that normally requires trial-and-error testing.",
+  "limitations": "The study is computational and focused on antibody design; real-world testing in animal models and clinical trials would be needed to confirm these antibodies work better in patients. The method may perform differently for antibodies targeting different types of cancer or disease, so additional validation across diverse antibody types would strengthen confidence.",
+  "tags": [
+    "antibody engineering",
+    "protein design",
+    "immunotherapy",
+    "therapeutic antibodies",
+    "structural biology",
+    "drug development",
+    "computational biology"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
