@@ -1,0 +1,53 @@
+{
+  "id": "20261106__mathematics_is_more_than_a_mechanical_p",
+  "title": "\u2018Mathematics is more than a mechanical process\u2019 \u2014 why I think the field will survive OpenAI\u2019s disruption",
+  "url": "https://www.nature.com/articles/d41586-026-03622-x",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Ursula Martin"
+  ],
+  "pub_date": "2026-11-06T00:00:00+00:00",
+  "fetched_date": "2026-11-06T14:53:47.784884+00:00",
+  "abstract": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03622-x\">doi:10.1038/d41586-026-03622-x</a></p>Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.",
+  "headline": "AI won't replace mathematicians\u2014humans must stay in control of the field.",
+  "why_it_matters": "This isn't about cancer directly, but mathematics underpins all of modern medicine, including cancer research and drug discovery. As artificial intelligence (AI) becomes more powerful at solving math problems, we need to make sure humans remain the decision-makers and that AI tools serve human insight, not replace it. Getting this balance right now will shape how AI helps or hinders medical breakthroughs in the years ahead.",
+  "key_findings": [
+    "AI is powerful at mechanical mathematical tasks, but mathematics is more than computation\u2014it requires human creativity, judgment, and understanding of what questions matter",
+    "Without clear rules and institutions guiding AI's role in research, the field risks losing human expertise and wisdom that drive meaningful progress",
+    "Researchers must actively design how AI is used in mathematics to keep humans central, not peripheral, to discovery",
+    "The future of fields like medicine depends on maintaining human oversight and decision-making authority over AI tools"
+  ],
+  "methods_snapshot": "This is a perspective piece\u2014not an experiment, but a thoughtful essay by a leading mathematician discussing the future of her field in the age of AI. The author draws on experience and evidence to argue for maintaining human agency in research.",
+  "glossary": [
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer systems trained to perform tasks that usually require human thinking, like solving problems or recognizing patterns."
+    },
+    {
+      "term": "Mathematics",
+      "definition": "The study of numbers, shapes, and patterns; the language used to describe the physical world and design medicines and treatments."
+    },
+    {
+      "term": "Computational",
+      "definition": "Related to calculations and computer processing."
+    },
+    {
+      "term": "Human agency",
+      "definition": "The power and responsibility of people to make meaningful choices and decisions, rather than being replaced by machines."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "This essay argues that AI can help mathematicians solve complex problems faster, but only if humans design clear boundaries and remain the ultimate decision-makers about which problems matter and how to interpret results.",
+  "limitations": "This is an opinion piece, not a research study with data, so it doesn't prove outcomes empirically. The long-term effects of AI on mathematical research and medicine won't be clear for years.",
+  "tags": [
+    "AI ethics",
+    "mathematics",
+    "human oversight",
+    "research institutions",
+    "future of science",
+    "machine learning governance"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}

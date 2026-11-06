@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-11-05T15:17:05.569308+00:00",
+  "last_updated": "2026-11-06T14:53:47.785196+00:00",
   "papers": [
+    {
+      "id": "20261106__mathematics_is_more_than_a_mechanical_p",
+      "title": "\u2018Mathematics is more than a mechanical process\u2019 \u2014 why I think the field will survive OpenAI\u2019s disruption",
+      "url": "https://www.nature.com/articles/d41586-026-03622-x",
+      "journal": "Nature",
+      "pub_date": "2026-11-06T00:00:00+00:00",
+      "fetched_date": "2026-11-06T14:53:47.784884+00:00",
+      "headline": "AI won't replace mathematicians\u2014humans must stay in control of the field.",
+      "cancer_types": [],
+      "tags": [
+        "AI ethics",
+        "mathematics",
+        "human oversight",
+        "research institutions",
+        "future of science",
+        "machine learning governance"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "This essay argues that AI can help mathematicians solve complex problems faster, but only if humans design clear boundaries and remain the ultimate decision-makers about which problems matter and how to interpret results."
+    },
     {
       "id": "20261105_energy_guided_combinatorial_co_optimizat",
       "title": "Energy-guided combinatorial co-optimization of antibody affinity and stability",
@@ -2150,32 +2171,6 @@
         "STING-pathway",
         "fibroblasts",
         "immune-evasion"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260806_surfaceome_crispr_activation_screening_u",
-      "title": "Surfaceome CRISPR activation screening uncovers ligands regulating tumor sensitivity to NK cell killing",
-      "url": "https://www.nature.com/articles/s41467-026-76374-x",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-06T00:00:00+00:00",
-      "fetched_date": "2026-08-06T09:42:49.358290+00:00",
-      "headline": "Scientists find immune cell triggers that help the body's natural killer cells destroy leukemia.",
-      "cancer_types": [
-        "leukemia",
-        "blood cancers"
-      ],
-      "tags": [
-        "immunotherapy",
-        "NK cells",
-        "CRISPR",
-        "leukemia",
-        "cell surface proteins",
-        "CAR T cells",
-        "immune checkpoint",
-        "cancer immunology"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
