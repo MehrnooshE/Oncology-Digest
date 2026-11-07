@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-06T14:53:47.785196+00:00",
+  "last_updated": "2026-11-07T13:50:02.247389+00:00",
   "papers": [
+    {
+      "id": "20261107_a_gait_foundation_model_for_prediction_o",
+      "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
+      "url": "https://www.nature.com/articles/s41591-026-04724-9",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-11-06T00:00:00+00:00",
+      "fetched_date": "2026-11-07T13:50:02.247082+00:00",
+      "headline": "How you walk reveals your hidden health risks across your whole body.",
+      "cancer_types": [],
+      "tags": [
+        "gait analysis",
+        "AI prediction",
+        "preventive medicine",
+        "wearable technology",
+        "multisystem health",
+        "machine learning",
+        "early detection",
+        "digital health"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "Researchers built an artificial intelligence system that learned to recognize subtle patterns in how people walk, then used those patterns to predict dozens of health conditions \u2014 essentially teaching a computer to read health secrets hidden in human movement."
+    },
     {
       "id": "20261106__mathematics_is_more_than_a_mechanical_p",
       "title": "\u2018Mathematics is more than a mechanical process\u2019 \u2014 why I think the field will survive OpenAI\u2019s disruption",
@@ -2151,30 +2174,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": "Deep mutational scanning uses computational analysis to rapidly process data from thousands of genetic mutations and identify which ones matter most, enabling faster discovery than testing mutations one-by-one."
-    },
-    {
-      "id": "20260807_cafs_shape_the_immunosuppressive_microen",
-      "title": "CAFs shape the immunosuppressive microenvironment of pancreatic cancer through the Lin28b-STING Axis",
-      "url": "https://www.nature.com/articles/s41467-026-76495-3",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-07T00:00:00+00:00",
-      "fetched_date": "2026-08-07T08:17:38.413237+00:00",
-      "headline": "Cancer-supporting cells block immune defenses by silencing a key alarm system",
-      "cancer_types": [
-        "pancreatic cancer"
-      ],
-      "tags": [
-        "pancreatic-cancer",
-        "immunotherapy",
-        "tumor-microenvironment",
-        "Lin28b",
-        "STING-pathway",
-        "fibroblasts",
-        "immune-evasion"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

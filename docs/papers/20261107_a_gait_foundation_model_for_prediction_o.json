@@ -1,0 +1,68 @@
+{
+  "id": "20261107_a_gait_foundation_model_for_prediction_o",
+  "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
+  "url": "https://www.nature.com/articles/s41591-026-04724-9",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Adam Gabet",
+    "Sarah Kohn",
+    "Guy Lutsker",
+    "Shira Gelman",
+    "Anastasia Godneva",
+    "Gil Sasson"
+  ],
+  "pub_date": "2026-11-06T00:00:00+00:00",
+  "fetched_date": "2026-11-07T13:50:02.247082+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/s41591-026-04724-9\">doi:10.1038/s41591-026-04724-9</a></p>A gait foundation model, developed using three-dimensional skeletal motion data from 3,328 adults, predicts a wide array of clinical characteristics and diagnoses, including cardiometabolic, mental health and frailty phenotypes.",
+  "headline": "How you walk reveals your hidden health risks across your whole body.",
+  "why_it_matters": "Walking patterns can reveal whether someone is at risk for heart disease, diabetes, depression, or frailty \u2014 without expensive tests or blood work. This could let doctors spot health problems early just by watching how people move, making prevention faster and cheaper.",
+  "key_findings": [
+    "Researchers trained an AI system on walking videos of over 3,300 people to learn what healthy and unhealthy gaits (walking patterns) look like.",
+    "The AI could predict multiple health conditions at once \u2014 including heart and metabolic disorders (like diabetes), mental health issues, and physical weakness in older adults \u2014 just from how someone walks.",
+    "A single gait pattern (the way someone moves) can hint at problems across many body systems, suggesting walking reflects deep, whole-body health.",
+    "The system worked by learning the positions and movements of skeletal landmarks (joints and bones visible in motion) rather than analyzing faces or identifying individuals."
+  ],
+  "methods_snapshot": "The team collected 3D skeletal motion data (a computer's recording of how bones and joints move during walking) from 3,328 adults and used machine learning to train a 'foundation model' \u2014 a type of AI trained on huge amounts of data that can then predict many different health outcomes. The AI learned patterns invisible to the human eye that link gait (walking style) to dozens of health traits and diagnoses.",
+  "glossary": [
+    {
+      "term": "Gait",
+      "definition": "The way a person walks \u2014 the pattern of movement, stride length, and body posture."
+    },
+    {
+      "term": "3D skeletal motion",
+      "definition": "A computer recording of how the bones and joints of the body move through space during movement."
+    },
+    {
+      "term": "Foundation model",
+      "definition": "A large AI system trained on enormous amounts of data that learns general patterns and can then solve many different prediction tasks."
+    },
+    {
+      "term": "Phenotype",
+      "definition": "Observable characteristics or traits of a person \u2014 like having diabetes or depression \u2014 that result from genes and environment."
+    },
+    {
+      "term": "Cardiometabolic",
+      "definition": "Relating to the heart and metabolism \u2014 the processes that control energy use and blood sugar in the body."
+    },
+    {
+      "term": "Machine learning",
+      "definition": "A type of AI that learns patterns from data rather than following pre-programmed rules."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "Researchers built an artificial intelligence system that learned to recognize subtle patterns in how people walk, then used those patterns to predict dozens of health conditions \u2014 essentially teaching a computer to read health secrets hidden in human movement.",
+  "limitations": "The study only included people from certain populations and settings, so the results may not work equally well for everyone. More research is needed to test whether this works in real-world clinics and whether subtle gait changes are actually caused by these health conditions or just correlated with them.",
+  "tags": [
+    "gait analysis",
+    "AI prediction",
+    "preventive medicine",
+    "wearable technology",
+    "multisystem health",
+    "machine learning",
+    "early detection",
+    "digital health"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
