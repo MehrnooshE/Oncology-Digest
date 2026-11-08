@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-11-07T13:50:02.247389+00:00",
+  "last_updated": "2026-11-08T14:10:54.645036+00:00",
   "papers": [
+    {
+      "id": "20261108_fully_integrated_deep_ocean_flexible_tem",
+      "title": "Fully Integrated Deep-Ocean Flexible Temperature\u2013Depth Sensor with Neural Network Compensation",
+      "url": "https://www.nature.com/articles/s41467-026-78009-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-07T00:00:00+00:00",
+      "fetched_date": "2026-11-08T14:10:54.644767+00:00",
+      "headline": "New flexible underwater sensor accurately measures ocean temperature and pressure for years.",
+      "cancer_types": [],
+      "tags": [
+        "ocean monitoring",
+        "flexible sensors",
+        "marine technology",
+        "machine learning",
+        "neural networks",
+        "environmental sensing",
+        "materials science"
+      ],
+      "study_type": "other",
+      "impact_score": 3,
+      "ml_angle": "Artificial neural networks were trained to recognize and correct measurement errors automatically, allowing the sensor to stay accurate throughout its lifetime without manual recalibration."
+    },
     {
       "id": "20261107_a_gait_foundation_model_for_prediction_o",
       "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion",
@@ -2150,30 +2172,6 @@
       "study_type": "imaging",
       "impact_score": 4,
       "ml_angle": "The AI system learned from thousands of labeled MRI scans to recognize tumor features and automatically perform multiple cancer assessment tasks\u2014segmentation, typing, grading, and staging\u2014without needing separate specialized models for each scan type."
-    },
-    {
-      "id": "20260808_the_rna_helicase_domain_of_nat10_promote",
-      "title": "The RNA helicase domain of NAT10 promotes the biogenesis of hypomodified ribosomes to enhance cancer cell proliferation",
-      "url": "https://www.nature.com/articles/s41467-026-76383-w",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-08T00:00:00+00:00",
-      "fetched_date": "2026-08-08T07:52:29.256883+00:00",
-      "headline": "A cancer-fueling protein's hidden talent for building defective cellular machinery revealed.",
-      "cancer_types": [
-        "Not specified in abstract \u2014 likely tested on common cancer cell lines in the lab"
-      ],
-      "tags": [
-        "cancer",
-        "protein",
-        "ribosome",
-        "NAT10",
-        "drug-target",
-        "RNA-modification",
-        "cell-growth"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": "Deep mutational scanning uses computational analysis to rapidly process data from thousands of genetic mutations and identify which ones matter most, enabling faster discovery than testing mutations one-by-one."
     }
   ]
 }
