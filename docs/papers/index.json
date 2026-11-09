@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-11-08T14:10:54.645036+00:00",
+  "last_updated": "2026-11-09T17:19:11.741213+00:00",
   "papers": [
+    {
+      "id": "20261109_carlo_rovelli_says_fundamental_physics_i",
+      "title": "Carlo Rovelli says fundamental physics is overrated",
+      "url": "https://www.nature.com/articles/d41586-026-03626-7",
+      "journal": "Nature",
+      "pub_date": "2026-11-09T00:00:00+00:00",
+      "fetched_date": "2026-11-09T17:19:11.740946+00:00",
+      "headline": "Renowned physicist argues science needs more humility, questions if AI can think.",
+      "cancer_types": [],
+      "tags": [
+        "physics",
+        "philosophy",
+        "artificial-intelligence",
+        "scientific-humility",
+        "limits-of-knowledge"
+      ],
+      "study_type": "review",
+      "impact_score": 1,
+      "ml_angle": null
+    },
     {
       "id": "20261108_fully_integrated_deep_ocean_flexible_tem",
       "title": "Fully Integrated Deep-Ocean Flexible Temperature\u2013Depth Sensor with Neural Network Compensation",
@@ -2143,35 +2163,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260809_mricombo__a_deep_learning_based_framewor",
-      "title": "MRICombo: a deep-learning-based framework for universal volumetric segmentation grading-staging and malignancy detection across heterogeneous MRI",
-      "url": "https://www.nature.com/articles/s41467-026-76461-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-08T00:00:00+00:00",
-      "fetched_date": "2026-08-09T07:55:44.292587+00:00",
-      "headline": "AI tool reads MRI scans to spot tumors and assess cancer severity across different scan types.",
-      "cancer_types": [
-        "brain tumors",
-        "liver cancer",
-        "kidney cancer",
-        "pancreatic cancer",
-        "prostate cancer"
-      ],
-      "tags": [
-        "cancer imaging",
-        "deep learning",
-        "MRI analysis",
-        "tumor detection",
-        "clinical AI",
-        "automated diagnosis",
-        "radiomics",
-        "precision medicine"
-      ],
-      "study_type": "imaging",
-      "impact_score": 4,
-      "ml_angle": "The AI system learned from thousands of labeled MRI scans to recognize tumor features and automatically perform multiple cancer assessment tasks\u2014segmentation, typing, grading, and staging\u2014without needing separate specialized models for each scan type."
     }
   ]
 }

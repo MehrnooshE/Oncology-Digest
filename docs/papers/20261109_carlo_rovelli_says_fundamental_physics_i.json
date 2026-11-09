@@ -1,0 +1,52 @@
+{
+  "id": "20261109_carlo_rovelli_says_fundamental_physics_i",
+  "title": "Carlo Rovelli says fundamental physics is overrated",
+  "url": "https://www.nature.com/articles/d41586-026-03626-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Chris Stokel-Walker"
+  ],
+  "pub_date": "2026-11-09T00:00:00+00:00",
+  "fetched_date": "2026-11-09T17:19:11.740946+00:00",
+  "abstract": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03626-7\">doi:10.1038/d41586-026-03626-7</a></p>The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.",
+  "headline": "Renowned physicist argues science needs more humility, questions if AI can think.",
+  "why_it_matters": "This is not a cancer research paper. It's a commentary by a theoretical physicist on the limits of fundamental physics and artificial intelligence. It does not directly address patient care or medical treatment.",
+  "key_findings": [
+    "Physics may be overestimating its ability to explain everything about the universe",
+    "Scientists should be more humble about what they can and cannot know",
+    "The question of whether artificial intelligence could ever become conscious remains open and uncertain",
+    "There may be limits to what physics can tell us about reality"
+  ],
+  "methods_snapshot": "This is a perspective article and interview, not a research study with experimental methods. It represents the author's views and philosophical arguments about the scope and limitations of physics and AI.",
+  "glossary": [
+    {
+      "term": "Theoretical physicist",
+      "definition": "A scientist who uses math and logic to explain how the universe works, rather than doing hands-on experiments"
+    },
+    {
+      "term": "Fundamental physics",
+      "definition": "The study of the most basic rules of nature, like gravity and the behavior of tiny particles"
+    },
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer systems designed to perform tasks that normally require human thinking"
+    },
+    {
+      "term": "Consciousness",
+      "definition": "The state of being aware and able to think and feel \u2014 what makes you 'you'"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a commentary piece, not original research. It presents philosophical arguments rather than experimental evidence, so it cannot make specific scientific claims that can be tested.",
+  "tags": [
+    "physics",
+    "philosophy",
+    "artificial-intelligence",
+    "scientific-humility",
+    "limits-of-knowledge"
+  ],
+  "study_type": "review",
+  "impact_score": 1
+}
