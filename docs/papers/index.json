@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-11-09T17:19:11.741213+00:00",
+  "last_updated": "2026-11-10T15:29:15.139454+00:00",
   "papers": [
+    {
+      "id": "20261110_the_public_trusts_scientists_with_ai___m",
+      "title": "The public trusts scientists with AI \u2014 more than it does anyone else",
+      "url": "https://www.nature.com/articles/d41586-026-03578-y",
+      "journal": "Nature",
+      "pub_date": "2026-11-10T00:00:00+00:00",
+      "fetched_date": "2026-11-10T15:29:15.139186+00:00",
+      "headline": "People trust scientists more than others to develop AI responsibly.",
+      "cancer_types": [],
+      "tags": [
+        "AI ethics",
+        "public trust",
+        "science communication",
+        "generative AI",
+        "institutional confidence"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "This study examined public perception of how machine learning and AI are being used by scientists, rather than using AI itself to study cancer."
+    },
     {
       "id": "20261109_carlo_rovelli_says_fundamental_physics_i",
       "title": "Carlo Rovelli says fundamental physics is overrated",
@@ -2135,30 +2155,6 @@
         "side-effects",
         "preclinical-models",
         "nerve-damage"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260811_adipocyte_derived___hydroxybutyrate_conf",
-      "title": "Adipocyte-derived \u03b2-hydroxybutyrate confers metabolic resilience in multiple myeloma",
-      "url": "https://www.nature.com/articles/s41467-026-76595-0",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-11T00:00:00+00:00",
-      "fetched_date": "2026-08-11T08:11:30.252793+00:00",
-      "headline": "Fat cells feed cancer cells a survival molecule when glucose runs low.",
-      "cancer_types": [
-        "Multiple myeloma"
-      ],
-      "tags": [
-        "metabolism",
-        "myeloma",
-        "tumor microenvironment",
-        "ketone bodies",
-        "metabolic adaptation",
-        "bone marrow",
-        "cancer survival"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
