@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-10T15:29:15.139454+00:00",
+  "last_updated": "2026-11-11T14:59:49.416978+00:00",
   "papers": [
+    {
+      "id": "20261111_ai_s_energy_paradox__will_the_ai_boom_st",
+      "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "url": "https://www.nature.com/articles/d41586-026-03412-5",
+      "journal": "Nature",
+      "pub_date": "2026-11-11T00:00:00+00:00",
+      "fetched_date": "2026-11-11T14:59:49.416728+00:00",
+      "headline": "AI could help power itself by solving the energy crisis it creates.",
+      "cancer_types": [],
+      "tags": [
+        "AI energy consumption",
+        "sustainability",
+        "healthcare infrastructure",
+        "machine learning efficiency",
+        "renewable energy",
+        "net-positive systems",
+        "interdisciplinary research",
+        "future of medicine"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "AI could be trained to predict energy demand, optimize power grid operations, and design more efficient renewable energy systems \u2014 essentially using AI to solve the energy problems that AI itself creates."
+    },
     {
       "id": "20261110_the_public_trusts_scientists_with_ai___m",
       "title": "The public trusts scientists with AI \u2014 more than it does anyone else",
@@ -2130,31 +2153,6 @@
         "estrogen-signaling",
         "cell-cycle",
         "therapeutic-strategy"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260812_inflammatory_neuropathy_in_mouse_and_pri",
-      "title": "Inflammatory neuropathy in mouse and primate models of colorectal cancer",
-      "url": "https://www.nature.com/articles/s41467-026-76683-1",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-12T00:00:00+00:00",
-      "fetched_date": "2026-08-12T08:22:25.985900+00:00",
-      "headline": "Colorectal tumors damage nerves before cancer treatment even begins.",
-      "cancer_types": [
-        "colorectal cancer"
-      ],
-      "tags": [
-        "neuropathy",
-        "colorectal-cancer",
-        "inflammation",
-        "peripheral-nerves",
-        "cancer-survivors",
-        "side-effects",
-        "preclinical-models",
-        "nerve-damage"
       ],
       "study_type": "preclinical",
       "impact_score": 4,

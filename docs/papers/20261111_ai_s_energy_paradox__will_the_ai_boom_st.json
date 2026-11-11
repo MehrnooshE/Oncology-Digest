@@ -1,0 +1,55 @@
+{
+  "id": "20261111_ai_s_energy_paradox__will_the_ai_boom_st",
+  "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+  "url": "https://www.nature.com/articles/d41586-026-03412-5",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Melissa Hobson"
+  ],
+  "pub_date": "2026-11-11T00:00:00+00:00",
+  "fetched_date": "2026-11-11T14:59:49.416728+00:00",
+  "abstract": "<p>Nature, Published online: 11 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03412-5\">doi:10.1038/d41586-026-03412-5</a></p>Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positive.",
+  "headline": "AI could help power itself by solving the energy crisis it creates.",
+  "why_it_matters": "This isn't directly about cancer treatment, but the energy systems that power hospitals, research labs, and the computers that help doctors diagnose and treat cancer are at a crossroads. If AI keeps consuming massive amounts of electricity without solutions, hospitals and research facilities could face power shortages. If we can make AI energy-efficient or use it to generate clean energy, we protect the infrastructure that fights disease.",
+  "key_findings": [
+    "AI systems currently demand enormous amounts of electricity \u2014 comparable to small countries \u2014 creating an urgent energy challenge (the power needed to train and run AI models is growing faster than solar and wind can supply it)",
+    "The same AI tools that consume this energy could help design smarter power grids and more efficient renewable energy systems (using machine learning to predict and optimize how electricity flows)",
+    "A community of researchers is working on making AI 'net-positive' for energy \u2014 meaning AI could eventually generate or save more power than it uses (similar to a solar panel that produces more electricity than was needed to manufacture it)",
+    "The paradox: without solving this energy problem, AI's potential to accelerate medical research and drug discovery could be limited by power constraints"
+  ],
+  "methods_snapshot": "This is a perspective piece bringing together experts from energy, computing, and sustainability fields rather than a traditional experiment. The researchers surveyed current AI energy use, identified bottlenecks, and outlined pathways where AI could contribute to solving the energy crisis it creates.",
+  "glossary": [
+    {
+      "term": "Net-positive energy",
+      "definition": "A system that produces or saves more energy than it consumes over its lifetime."
+    },
+    {
+      "term": "Machine learning",
+      "definition": "AI technology that learns patterns from data to make predictions or solve problems without being explicitly programmed for each task."
+    },
+    {
+      "term": "Energy efficiency",
+      "definition": "Getting more useful work done while using less electricity or fuel."
+    },
+    {
+      "term": "Renewable energy",
+      "definition": "Power generated from sources that naturally replenish, like sun, wind, and water."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "AI could be trained to predict energy demand, optimize power grid operations, and design more efficient renewable energy systems \u2014 essentially using AI to solve the energy problems that AI itself creates.",
+  "limitations": "This is a perspective and call-to-action rather than a study with new experimental data, so it identifies the problem and possibilities but doesn't yet prove specific solutions will work. The timeline for achieving net-positive AI energy remains uncertain and depends on technological breakthroughs and policy changes happening together.",
+  "tags": [
+    "AI energy consumption",
+    "sustainability",
+    "healthcare infrastructure",
+    "machine learning efficiency",
+    "renewable energy",
+    "net-positive systems",
+    "interdisciplinary research",
+    "future of medicine"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
