@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-11T14:59:49.416978+00:00",
+  "last_updated": "2026-11-12T15:53:08.485430+00:00",
   "papers": [
+    {
+      "id": "20261112_author_correction__slamf6_as_a_drug_targ",
+      "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+      "url": "https://www.nature.com/articles/s41586-026-11409-3",
+      "journal": "Nature",
+      "pub_date": "2026-11-12T00:00:00+00:00",
+      "fetched_date": "2026-11-12T15:53:08.485160+00:00",
+      "headline": "Scientists find a protein brake that stops immune cells from fighting cancer\u2014and how to release it.",
+      "cancer_types": [
+        "Not specified in abstract; likely multiple solid tumors based on immunotherapy context"
+      ],
+      "tags": [
+        "immunotherapy",
+        "T-cell-therapy",
+        "cancer-immunology",
+        "drug-target",
+        "immune-checkpoint",
+        "precision-medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261111_ai_s_energy_paradox__will_the_ai_boom_st",
       "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
@@ -2130,31 +2153,6 @@
         "personalized medicine"
       ],
       "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260813_rb_driven_transcription_limits_its_tumou",
-      "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
-      "url": "https://www.nature.com/articles/s41586-026-10886-w",
-      "journal": "Nature",
-      "pub_date": "2026-08-12T00:00:00+00:00",
-      "fetched_date": "2026-08-13T08:24:55.035948+00:00",
-      "headline": "A breast cancer drug accidentally activates genes it should shut down, limiting its own effectiveness.",
-      "cancer_types": [
-        "breast cancer"
-      ],
-      "tags": [
-        "CDK4/6-inhibitors",
-        "drug-resistance",
-        "breast-cancer",
-        "Rb-protein",
-        "precision-medicine",
-        "estrogen-signaling",
-        "cell-cycle",
-        "therapeutic-strategy"
-      ],
-      "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
     }

@@ -1,0 +1,64 @@
+{
+  "id": "20261112_author_correction__slamf6_as_a_drug_targ",
+  "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+  "url": "https://www.nature.com/articles/s41586-026-11409-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Bin Li",
+    "Ming-Chao Zhong",
+    "Cristian Camilo Galindo",
+    "Jiayu Dou",
+    "Jin Qian",
+    "Zhenghai Tang"
+  ],
+  "pub_date": "2026-11-12T00:00:00+00:00",
+  "fetched_date": "2026-11-12T15:53:08.485160+00:00",
+  "abstract": "<p>Nature, Published online: 12 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11409-3\">doi:10.1038/s41586-026-11409-3</a></p>Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+  "headline": "Scientists find a protein brake that stops immune cells from fighting cancer\u2014and how to release it.",
+  "why_it_matters": "Cancer cells trick the immune system into ignoring them by activating molecular 'brakes' on immune cells. This research identifies one specific brake protein (SLAMF6) that could be targeted with drugs to unlock immune cells and help them attack tumors more effectively. For patients, this could lead to new treatments that work alongside or instead of current immunotherapies.",
+  "key_findings": [
+    "SLAMF6 is a 'brake protein' on T cells (a type of white blood cell that kills cancer) that prevents them from attacking tumors effectively.",
+    "Blocking or removing SLAMF6 from T cells makes them more aggressive against cancer in laboratory models.",
+    "This protein could be a drug target\u2014meaning companies could develop medicines specifically designed to disable SLAMF6 and boost anti-cancer immunity.",
+    "The findings suggest SLAMF6 suppression could work as a new immunotherapy strategy, potentially improving survival in certain cancers."
+  ],
+  "methods_snapshot": "Researchers used laboratory cell cultures and animal models (likely mice) to study how SLAMF6 affects T cell behavior and tumor growth. They likely tested whether removing or blocking SLAMF6 enhanced the immune system's ability to recognize and destroy cancer cells.",
+  "glossary": [
+    {
+      "term": "SLAMF6",
+      "definition": "A protein found on the surface of immune cells that acts like a molecular brake, preventing the immune system from attacking cancer."
+    },
+    {
+      "term": "T cell",
+      "definition": "A type of white blood cell that patrols the body and kills infected or abnormal cells, including cancer cells."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Cancer treatment that works by boosting or unleashing the body's own immune system to fight tumors."
+    },
+    {
+      "term": "Suppressor",
+      "definition": "Something that holds back or dampens an activity\u2014in this case, a protein that dampens immune responses."
+    },
+    {
+      "term": "Drug-targetable",
+      "definition": "A protein or molecule that can be specifically blocked or activated by a medication designed to bind to it."
+    }
+  ],
+  "cancer_types": [
+    "Not specified in abstract; likely multiple solid tumors based on immunotherapy context"
+  ],
+  "ml_angle": null,
+  "limitations": "This is a correction notice, so the full scope of original limitations is unclear from the abstract alone. Typical preclinical studies require validation in human patients before clinical use; results in lab and animal models do not always translate directly to human effectiveness.",
+  "tags": [
+    "immunotherapy",
+    "T-cell-therapy",
+    "cancer-immunology",
+    "drug-target",
+    "immune-checkpoint",
+    "precision-medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
