@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-12T15:53:08.485430+00:00",
+  "last_updated": "2026-11-13T15:13:44.090765+00:00",
   "papers": [
+    {
+      "id": "20261113_this_ai__mechanic__can_peer_inside_the_b",
+      "title": "This AI \u2018mechanic\u2019 can peer inside the black box of other neural networks",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "journal": "Nature",
+      "pub_date": "2026-11-13T00:00:00+00:00",
+      "fetched_date": "2026-11-13T15:13:44.090468+00:00",
+      "headline": "Scientists create AI tool that explains how other AI systems make decisions.",
+      "cancer_types": [],
+      "tags": [
+        "AI interpretability",
+        "neural networks",
+        "AI safety",
+        "machine learning",
+        "healthcare AI",
+        "diagnostic AI",
+        "transparency",
+        "AI debugging"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "The AI 'mechanic' uses machine learning to reverse-engineer and explain the decision-making processes of other artificial intelligence models, making their reasoning visible and auditable."
+    },
     {
       "id": "20261112_author_correction__slamf6_as_a_drug_targ",
       "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
@@ -2128,31 +2151,6 @@
         "personalized-medicine"
       ],
       "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260814_an_early_shot_at_stopping_pdac",
-      "title": "An early shot at stopping PDAC",
-      "url": "https://www.nature.com/articles/s41568-026-00971-7",
-      "journal": "Nature Reviews Cancer",
-      "pub_date": "2026-08-14T00:00:00+00:00",
-      "fetched_date": "2026-08-14T08:20:20.140305+00:00",
-      "headline": "New vaccine trains the immune system to stop pancreatic cancer before it starts.",
-      "cancer_types": [
-        "pancreatic ductal adenocarcinoma"
-      ],
-      "tags": [
-        "pancreatic cancer",
-        "immunotherapy",
-        "cancer prevention",
-        "vaccine",
-        "early detection",
-        "KRAS",
-        "clinical trial",
-        "personalized medicine"
-      ],
-      "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": null
     }

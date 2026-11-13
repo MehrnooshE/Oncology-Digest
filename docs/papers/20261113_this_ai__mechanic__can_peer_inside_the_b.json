@@ -1,0 +1,55 @@
+{
+  "id": "20261113_this_ai__mechanic__can_peer_inside_the_b",
+  "title": "This AI \u2018mechanic\u2019 can peer inside the black box of other neural networks",
+  "url": "https://www.nature.com/articles/d41586-026-03679-8",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Elizabeth Gibney"
+  ],
+  "pub_date": "2026-11-13T00:00:00+00:00",
+  "fetched_date": "2026-11-13T15:13:44.090468+00:00",
+  "abstract": "<p>Nature, Published online: 13 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03679-8\">doi:10.1038/d41586-026-03679-8</a></p>Being able to target and debug systems could improve artificial-intelligence safety and utility.",
+  "headline": "Scientists create AI tool that explains how other AI systems make decisions.",
+  "why_it_matters": "AI is increasingly used to help diagnose and treat diseases, but doctors and patients often can't understand how these systems reach their conclusions. This new tool works like an X-ray for AI \u2014 it lets researchers see inside the 'black box' and understand what the AI is actually looking at. That makes AI safer to use in medicine and easier to fix when it makes mistakes.",
+  "key_findings": [
+    "Researchers built an AI system that can analyze other AI systems and explain their decision-making process (the logic and patterns the AI used to reach an answer)",
+    "The tool can identify bugs and weaknesses in AI models before they're used on patients",
+    "By making AI reasoning transparent, doctors can verify whether an AI is basing decisions on medically sound patterns or random coincidences",
+    "The 'mechanic' AI can help researchers improve existing AI systems by pinpointing exactly where and why they fail"
+  ],
+  "methods_snapshot": "The team developed an AI system trained to interpret the inner workings of other neural networks (layered mathematical systems loosely inspired by the brain). They tested whether this 'mechanic' could accurately identify what features and patterns other AIs were using to make decisions.",
+  "glossary": [
+    {
+      "term": "neural network",
+      "definition": "A computer system made of layers of interconnected nodes that learn patterns from data, loosely inspired by how brain cells work"
+    },
+    {
+      "term": "black box",
+      "definition": "A system where you can see inputs and outputs but can't see the internal logic or reasoning that connects them"
+    },
+    {
+      "term": "interpretability",
+      "definition": "The ability to understand and explain how an AI system arrives at its answers"
+    },
+    {
+      "term": "debugging",
+      "definition": "Finding and fixing errors or problems in a computer system"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The AI 'mechanic' uses machine learning to reverse-engineer and explain the decision-making processes of other artificial intelligence models, making their reasoning visible and auditable.",
+  "limitations": "The paper focuses on the technical feasibility of the approach but doesn't yet show real-world clinical validation \u2014 we don't know how well this works with the most complex AI systems used in actual patient care. More testing is needed to confirm the explanations are accurate in medical settings.",
+  "tags": [
+    "AI interpretability",
+    "neural networks",
+    "AI safety",
+    "machine learning",
+    "healthcare AI",
+    "diagnostic AI",
+    "transparency",
+    "AI debugging"
+  ],
+  "study_type": "computational",
+  "impact_score": 4
+}
