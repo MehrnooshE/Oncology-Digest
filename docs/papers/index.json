@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-11-13T15:13:44.090765+00:00",
+  "last_updated": "2026-11-14T14:01:03.073121+00:00",
   "papers": [
+    {
+      "id": "20261114_dpi_score__a_deep_learning_based_metric_",
+      "title": "DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies",
+      "url": "https://www.nature.com/articles/s41467-026-79090-8",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-14T00:00:00+00:00",
+      "fetched_date": "2026-11-14T14:01:03.072815+00:00",
+      "headline": "AI tool checks whether protein structures built from microscopy images are correct.",
+      "cancer_types": [],
+      "tags": [
+        "protein-structure",
+        "cryo-EM",
+        "deep-learning",
+        "structural-validation",
+        "quality-assessment",
+        "drug-discovery",
+        "AI-tools"
+      ],
+      "study_type": "computational",
+      "impact_score": 4,
+      "ml_angle": "A deep learning AI system automatically learned what correct protein connection points look like, then uses that knowledge to grade whether new protein structures are built correctly without needing human-designed rules."
+    },
     {
       "id": "20261113_this_ai__mechanic__can_peer_inside_the_b",
       "title": "This AI \u2018mechanic\u2019 can peer inside the black box of other neural networks",
@@ -2125,30 +2147,6 @@
         "cell stress response",
         "glucose starvation",
         "precision oncology"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260815_publisher_correction__targeting_cancer_s",
-      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-      "url": "https://www.nature.com/articles/s41586-026-11022-4",
-      "journal": "Nature",
-      "pub_date": "2026-08-14T00:00:00+00:00",
-      "fetched_date": "2026-08-15T07:35:11.336158+00:00",
-      "headline": "Scientists develop a new way to destroy cancer cells by targeting their unique genetic mutations.",
-      "cancer_types": [
-        "Unknown from abstract\u2014specific cancer types not stated in this correction notice"
-      ],
-      "tags": [
-        "precision-oncology",
-        "RNA-therapy",
-        "targeted-cancer-treatment",
-        "genetic-mutations",
-        "synthetic-biology",
-        "cell-death",
-        "personalized-medicine"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
