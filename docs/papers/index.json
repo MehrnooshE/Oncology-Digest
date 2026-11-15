@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-11-14T14:01:03.073121+00:00",
+  "last_updated": "2026-11-15T14:37:30.842613+00:00",
   "papers": [
+    {
+      "id": "20261115_cytotoxic_drugs_and_bispecific_t_cell_en",
+      "title": "Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses",
+      "url": "https://www.nature.com/articles/s41467-026-79192-3",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-15T00:00:00+00:00",
+      "fetched_date": "2026-11-15T14:37:30.842319+00:00",
+      "headline": "Combining chemotherapy with immune-boosting antibodies makes cancer treatments work better together.",
+      "cancer_types": [
+        "Multiple solid tumors tested in preclinical models"
+      ],
+      "tags": [
+        "immunotherapy",
+        "chemotherapy",
+        "bispecific-antibodies",
+        "T-cell-engagement",
+        "combination-therapy",
+        "tumor-microenvironment",
+        "cancer-treatment",
+        "synergy"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261114_dpi_score__a_deep_learning_based_metric_",
       "title": "DPI-score: a deep learning-based metric for assessing protein-protein interfaces in cryoEM derived assemblies",
@@ -2127,30 +2152,6 @@
       "study_type": "computational",
       "impact_score": 4,
       "ml_angle": "The AI model Melody was trained to recognize DNA sequence patterns that predict where methylation tags appear, then used those learned patterns to forecast methylation in tissues and cell types it had never encountered before."
-    },
-    {
-      "id": "20260816_evading_disulfidptosis_via_nrf2_translat",
-      "title": "Evading disulfidptosis via NRF2 translation",
-      "url": "https://www.nature.com/articles/s41556-026-02036-1",
-      "journal": "Nature Cell Biology",
-      "pub_date": "2026-08-14T00:00:00+00:00",
-      "fetched_date": "2026-08-16T07:35:07.113213+00:00",
-      "headline": "Cancer cells survive starvation by activating a protective protein through a clever metabolic trick.",
-      "cancer_types": [
-        "Not specified in abstract\u2014likely multiple solid tumors"
-      ],
-      "tags": [
-        "metabolic adaptation",
-        "NRF2",
-        "disulfidptosis",
-        "tumor survival",
-        "cell stress response",
-        "glucose starvation",
-        "precision oncology"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
