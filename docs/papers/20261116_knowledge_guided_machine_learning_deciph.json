@@ -1,0 +1,63 @@
+{
+  "id": "20261116_knowledge_guided_machine_learning_deciph",
+  "title": "Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems",
+  "url": "https://www.nature.com/articles/s41467-026-79078-4",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Shiyi Tang",
+    "Zhaoyang Duan",
+    "Zhou Tian",
+    "Wenli Du",
+    "Feng Qian"
+  ],
+  "pub_date": "2026-11-16T00:00:00+00:00",
+  "fetched_date": "2026-11-16T16:53:13.252881+00:00",
+  "abstract": "<p>Nature Communications, Published online: 16 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79078-4\">doi:10.1038/s41467-026-79078-4</a></p>A physics-informed neural network embeds coking and heat transfer knowledge via an output integration layer and region-weighted loss to predict reactor spatiotemporal fields; it matches conventional simulation results, improves peak wall temperature accuracy, and runs about five orders of magnitude faster than conventional simulations.",
+  "headline": "AI learns physics to predict chemical reactor behavior 100,000 times faster.",
+  "why_it_matters": "This research doesn't directly treat cancer, but it demonstrates a powerful new approach: teaching artificial intelligence (AI) about real-world physics laws. The same technique could eventually help design better drug-manufacturing processes, optimize radiation therapy delivery in cancer treatment, or accelerate discovery of new medicines. Speed and accuracy in modeling chemical systems saves time and money in medical research.",
+  "key_findings": [
+    "Researchers created an AI system that combines machine learning (learning patterns from data) with physics knowledge (the laws governing heat and chemical reactions) to predict what happens inside industrial reactors.",
+    "The hybrid AI matched the accuracy of traditional computer simulations but ran about 100,000 times faster\u2014completing in seconds what normally takes hours.",
+    "The system accurately predicted peak wall temperatures (the hottest spots inside the reactor), which is critical for safety and efficiency.",
+    "By embedding physics rules directly into the AI's design, researchers made it more reliable and trustworthy than AI trained on data alone."
+  ],
+  "methods_snapshot": "The team built a physics-informed neural network (a type of AI trained to respect the laws of physics) and tested it on simulating a coking reactor\u2014a vessel where crude oil is heated to break down into useful chemicals. They compared the AI's predictions to conventional simulation software to verify accuracy.",
+  "glossary": [
+    {
+      "term": "physics-informed neural network",
+      "definition": "An AI system taught to solve real-world problems while obeying the laws of physics, not just learning patterns from data."
+    },
+    {
+      "term": "neural network",
+      "definition": "A type of artificial intelligence loosely inspired by how brains work, made of layers of interconnected nodes that learn patterns."
+    },
+    {
+      "term": "coking reactor",
+      "definition": "An industrial vessel where crude oil is heated at high temperatures to break it into smaller, more useful chemicals."
+    },
+    {
+      "term": "spatiotemporal",
+      "definition": "Varying across space (location) and time (moments) simultaneously\u2014like temperature changing at different spots inside a reactor over hours."
+    },
+    {
+      "term": "heat transfer",
+      "definition": "The movement of thermal energy from hot areas to cold areas, like how heat spreads through a vessel wall."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The AI learned to predict reactor behavior by combining real physics equations with pattern-recognition from data, making it faster and more accurate than either approach alone.",
+  "limitations": "This study focused on one type of industrial reactor; the results may not generalize to all reactor designs or chemical processes. Real-world validation in operating chemical plants beyond computer testing would strengthen confidence in the approach.",
+  "tags": [
+    "physics-informed-AI",
+    "machine-learning",
+    "chemical-engineering",
+    "computational-modeling",
+    "reactor-simulation",
+    "neural-networks",
+    "drug-manufacturing",
+    "process-optimization"
+  ],
+  "study_type": "computational",
+  "impact_score": 3
+}

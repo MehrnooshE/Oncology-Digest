@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-15T14:37:30.842613+00:00",
+  "last_updated": "2026-11-16T16:53:13.253164+00:00",
   "papers": [
+    {
+      "id": "20261116_knowledge_guided_machine_learning_deciph",
+      "title": "Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems",
+      "url": "https://www.nature.com/articles/s41467-026-79078-4",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-16T00:00:00+00:00",
+      "fetched_date": "2026-11-16T16:53:13.252881+00:00",
+      "headline": "AI learns physics to predict chemical reactor behavior 100,000 times faster.",
+      "cancer_types": [],
+      "tags": [
+        "physics-informed-AI",
+        "machine-learning",
+        "chemical-engineering",
+        "computational-modeling",
+        "reactor-simulation",
+        "neural-networks",
+        "drug-manufacturing",
+        "process-optimization"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "The AI learned to predict reactor behavior by combining real physics equations with pattern-recognition from data, making it faster and more accurate than either approach alone."
+    },
     {
       "id": "20261115_cytotoxic_drugs_and_bispecific_t_cell_en",
       "title": "Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses",
@@ -2129,29 +2152,6 @@
       "study_type": "single-cell",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260817_decoding_the_sequence_determinants_of_lo",
-      "title": "Decoding the sequence determinants of locus-specific DNA methylation across human tissues",
-      "url": "https://www.nature.com/articles/s41467-026-76744-5",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-17T00:00:00+00:00",
-      "fetched_date": "2026-08-17T07:55:23.255245+00:00",
-      "headline": "AI learns to predict how DNA gets chemically labeled across human tissues.",
-      "cancer_types": [],
-      "tags": [
-        "DNA methylation",
-        "epigenetics",
-        "deep learning",
-        "gene regulation",
-        "precision medicine",
-        "computational biology",
-        "tissue-specific",
-        "cancer prevention"
-      ],
-      "study_type": "computational",
-      "impact_score": 4,
-      "ml_angle": "The AI model Melody was trained to recognize DNA sequence patterns that predict where methylation tags appear, then used those learned patterns to forecast methylation in tissues and cell types it had never encountered before."
     }
   ]
 }
