@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-11-16T16:53:13.253164+00:00",
+  "last_updated": "2026-11-17T16:47:19.531339+00:00",
   "papers": [
+    {
+      "id": "20261117_should_we_move_from_artificial_intellige",
+      "title": "Should we move from artificial intelligence to artificial life?",
+      "url": "https://www.nature.com/articles/d41586-026-03743-3",
+      "journal": "Nature",
+      "pub_date": "2026-11-17T00:00:00+00:00",
+      "fetched_date": "2026-11-17T16:47:19.531072+00:00",
+      "headline": "Could living computer systems beat traditional AI at fighting cancer?",
+      "cancer_types": [],
+      "tags": [
+        "artificial-intelligence",
+        "computational-oncology",
+        "adaptive-systems",
+        "drug-resistance",
+        "future-treatment",
+        "cancer-evolution",
+        "machine-learning"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": "The paper argues that traditional machine learning (which learns from fixed data) needs to evolve into systems that actively adapt and change strategies, much like cancer itself does during treatment."
+    },
     {
       "id": "20261116_knowledge_guided_machine_learning_deciph",
       "title": "Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems",
@@ -2129,28 +2151,6 @@
       ],
       "study_type": "review",
       "impact_score": 3,
-      "ml_angle": null
-    },
-    {
-      "id": "20260818_transcriptomic_profiling_of_inner_ear_ha",
-      "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of <i>dlx5a</i>",
-      "url": "https://www.nature.com/articles/s41467-026-76892-8",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-18T00:00:00+00:00",
-      "fetched_date": "2026-08-18T07:42:34.992542+00:00",
-      "headline": "Scientists find the genetic switch that helps inner ear cells repair themselves after damage.",
-      "cancer_types": [],
-      "tags": [
-        "hearing loss",
-        "regenerative medicine",
-        "inner ear",
-        "gene regulation",
-        "zebrafish model",
-        "stem cells",
-        "sensory restoration"
-      ],
-      "study_type": "single-cell",
-      "impact_score": 4,
       "ml_angle": null
     }
   ]

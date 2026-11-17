@@ -1,0 +1,54 @@
+{
+  "id": "20261117_should_we_move_from_artificial_intellige",
+  "title": "Should we move from artificial intelligence to artificial life?",
+  "url": "https://www.nature.com/articles/d41586-026-03743-3",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Otto Petrovic"
+  ],
+  "pub_date": "2026-11-17T00:00:00+00:00",
+  "fetched_date": "2026-11-17T16:47:19.531072+00:00",
+  "abstract": "<p>Nature, Published online: 17 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03743-3\">doi:10.1038/d41586-026-03743-3</a></p>Should we move from artificial intelligence to artificial life?",
+  "headline": "Could living computer systems beat traditional AI at fighting cancer?",
+  "why_it_matters": "Today's cancer treatments often struggle because tumors are complex, changing systems \u2014 more like living organisms than simple problems. This paper asks whether we need AI systems that actually behave like living things to outsmart cancer's adaptability. If true, it could lead to smarter, more flexible treatment strategies.",
+  "key_findings": [
+    "Traditional AI (artificial intelligence) may hit a wall because it follows fixed rules, while cancer evolves continuously like a living organism",
+    "Artificial life systems could mimic cancer's adaptive nature by continuously learning and changing their own rules, potentially matching cancer's tricks",
+    "Living AI might better predict how tumors will resist drugs by actually modeling the evolutionary arms race between treatment and disease",
+    "This shift requires rethinking our approach from 'solving a puzzle' to 'engaging in an ongoing competition' with cancer"
+  ],
+  "methods_snapshot": "This is a perspective piece that analyzes current AI limitations in cancer research and argues for a conceptual shift toward 'artificial life' \u2014 computer systems that evolve and adapt like living things. Rather than testing a new tool, the authors examine how existing approaches fall short and propose why biological thinking matters.",
+  "glossary": [
+    {
+      "term": "Artificial intelligence (AI)",
+      "definition": "Computer programs that follow learned rules to solve problems, like chess engines or image-recognition software"
+    },
+    {
+      "term": "Artificial life",
+      "definition": "Computer systems that evolve, adapt, and change their own rules over time, mimicking how living things behave"
+    },
+    {
+      "term": "Adaptive resistance",
+      "definition": "Cancer's ability to change and develop immunity to treatments, similar to how bacteria resist antibiotics"
+    },
+    {
+      "term": "Evolutionary algorithm",
+      "definition": "A computational method that improves solutions by mimicking natural selection \u2014 testing many options and keeping the best ones"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": "The paper argues that traditional machine learning (which learns from fixed data) needs to evolve into systems that actively adapt and change strategies, much like cancer itself does during treatment.",
+  "limitations": "This is a conceptual argument, not new experimental evidence, so it doesn't prove artificial life actually works better than AI yet \u2014 that testing still needs to happen. The paper raises ideas worth exploring but doesn't show results from treating real patients.",
+  "tags": [
+    "artificial-intelligence",
+    "computational-oncology",
+    "adaptive-systems",
+    "drug-resistance",
+    "future-treatment",
+    "cancer-evolution",
+    "machine-learning"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
