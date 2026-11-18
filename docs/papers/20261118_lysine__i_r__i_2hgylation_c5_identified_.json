@@ -1,0 +1,74 @@
+{
+  "id": "20261118_lysine__i_r__i_2hgylation_c5_identified_",
+  "title": "Lysine-<i>R</i>2HGylation-C5 identified as a post-translational modification in <i>R</i>2HG-elevated cancers",
+  "url": "https://www.nature.com/articles/s41467-026-79668-2",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Qian Zhao",
+    "Peiwu Huang",
+    "Changhao Yuan",
+    "Peng Xia",
+    "Qiang-Shuai Gu",
+    "Tonghua Yang"
+  ],
+  "pub_date": "2026-11-18T00:00:00+00:00",
+  "fetched_date": "2026-11-18T16:18:32.539964+00:00",
+  "abstract": "<p>Nature Communications, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79668-2\">doi:10.1038/s41467-026-79668-2</a></p>R-2-hydroxyglutarate is a cancer-linked metabolite whose mechanisms are incompletely understood. Here, the authors identify and structurally characterize lysineR2HGylation as a protein modification and develop probes that reveal GSTP1 as a functional target in leukemia cells.",
+  "headline": "Scientists discover a new way cancer cells get modified and find a protein target to attack.",
+  "why_it_matters": "Some cancers produce a rogue molecule called R2HG that helps them survive, but we didn't fully understand how. This work reveals a new mechanism by which R2HG alters cancer proteins, potentially opening doors to new leukemia treatments that could block this survival trick.",
+  "key_findings": [
+    "Researchers identified a new type of protein modification called lysine-R2HGylation \u2014 imagine cancer cells are tagging their proteins with a sticky R2HG label to change how they work",
+    "This modification happens specifically in cancers with elevated R2HG (a molecule linked to blood cancers like leukemia and certain brain tumors)",
+    "They discovered that a protein called GSTP1 is a major target of this R2HG tagging in leukemia cells, suggesting it may be a weak point to exploit",
+    "The team created molecular probes \u2014 tiny detection tools \u2014 that can identify where and when this R2HG labeling occurs, like fluorescent trackers in cancer cells",
+    "This discovery reveals a previously hidden way cancer cells use R2HG to survive and multiply, beyond mechanisms scientists already knew about"
+  ],
+  "methods_snapshot": "The researchers used biochemical techniques to identify and map the R2HG modification on proteins, then created fluorescent probes to visualize and track where this modification happens in living leukemia cells. They characterized the chemical structure of the modification to understand exactly how it works.",
+  "glossary": [
+    {
+      "term": "R-2-hydroxyglutarate (R2HG)",
+      "definition": "An abnormal molecule produced by certain cancer cells that acts like a cancer fuel, helping cells survive and grow."
+    },
+    {
+      "term": "Post-translational modification",
+      "definition": "A chemical change that happens to a protein after it's been made by the cell, like adding a sticker that changes what the protein does."
+    },
+    {
+      "term": "Lysine-R2HGylation",
+      "definition": "A new type of modification where R2HG molecules attach to lysine (a building block of proteins), changing how the protein functions."
+    },
+    {
+      "term": "GSTP1",
+      "definition": "A protein in cells that normally protects against damage; when R2HG tags it, the cancer cell may gain survival advantages."
+    },
+    {
+      "term": "Molecular probes",
+      "definition": "Tiny engineered tools that stick to specific targets in cells and glow or fluoresce, allowing scientists to see and track them under a microscope."
+    },
+    {
+      "term": "Leukemia",
+      "definition": "A cancer of blood cells that prevents normal white blood cells from developing, weakening immune defense."
+    },
+    {
+      "term": "Metabolite",
+      "definition": "A small molecule produced or used by cells during their normal chemical processes (like R2HG)."
+    }
+  ],
+  "cancer_types": [
+    "Acute myeloid leukemia (AML)",
+    "Other R2HG-elevated hematologic malignancies"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was conducted primarily in laboratory leukemia cell lines rather than patient tumors, so the findings need validation in real cancer tissue. It remains unclear how this modification affects all the different proteins in cancer cells and what the best way to target it therapeutically might be.",
+  "tags": [
+    "post-translational modification",
+    "R2HG",
+    "leukemia",
+    "protein chemistry",
+    "cancer metabolism",
+    "drug target discovery"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-17T16:47:19.531339+00:00",
+  "last_updated": "2026-11-18T16:18:32.540255+00:00",
   "papers": [
+    {
+      "id": "20261118_lysine__i_r__i_2hgylation_c5_identified_",
+      "title": "Lysine-<i>R</i>2HGylation-C5 identified as a post-translational modification in <i>R</i>2HG-elevated cancers",
+      "url": "https://www.nature.com/articles/s41467-026-79668-2",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-18T00:00:00+00:00",
+      "fetched_date": "2026-11-18T16:18:32.539964+00:00",
+      "headline": "Scientists discover a new way cancer cells get modified and find a protein target to attack.",
+      "cancer_types": [
+        "Acute myeloid leukemia (AML)",
+        "Other R2HG-elevated hematologic malignancies"
+      ],
+      "tags": [
+        "post-translational modification",
+        "R2HG",
+        "leukemia",
+        "protein chemistry",
+        "cancer metabolism",
+        "drug target discovery"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261117_should_we_move_from_artificial_intellige",
       "title": "Should we move from artificial intelligence to artificial life?",
@@ -2130,28 +2154,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": "Machine learning analyzed patterns in cell images, genetic activity, and electrical signals to predict which drugs would best protect brain cells, making the screening process faster and more accurate than human review alone."
-    },
-    {
-      "id": "20260819_a_revolutionary_stem_cell_therapy_must_p",
-      "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
-      "url": "https://www.nature.com/articles/d41586-026-02524-2",
-      "journal": "Nature",
-      "pub_date": "2026-08-18T00:00:00+00:00",
-      "fetched_date": "2026-08-19T07:42:39.505457+00:00",
-      "headline": "Stem cell therapy shows promise, but scientists must earn public trust carefully.",
-      "cancer_types": [],
-      "tags": [
-        "stem-cell-therapy",
-        "iPSCs",
-        "clinical-trials",
-        "bioethics",
-        "regenerative-medicine",
-        "public-trust",
-        "translational-science"
-      ],
-      "study_type": "review",
-      "impact_score": 3,
-      "ml_angle": null
     }
   ]
 }
