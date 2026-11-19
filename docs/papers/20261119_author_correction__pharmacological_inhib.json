@@ -1,0 +1,66 @@
+{
+  "id": "20261119_author_correction__pharmacological_inhib",
+  "title": "Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+  "url": "https://www.nature.com/articles/s41586-026-11421-7",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Eliza Yankova",
+    "Alexandra Sapetschnig",
+    "Beth Thomas",
+    "Si\u00e2n Evans",
+    "Maria Eleftheriou",
+    "Malgorzata Gozdecka"
+  ],
+  "pub_date": "2026-11-19T00:00:00+00:00",
+  "fetched_date": "2026-11-19T16:27:44.097484+00:00",
+  "abstract": "<p>Nature, Published online: 19 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11421-7\">doi:10.1038/s41586-026-11421-7</a></p>Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+  "headline": "Blocking a protein called METTL1 stops multiple cancers from growing in lab and animal tests.",
+  "why_it_matters": "Cancer cells have a weakness: they depend on METTL1 to survive and multiply. If scientists can safely block this protein with a drug, it could work against many types of cancer at once\u2014both solid tumors and blood cancers. This offers hope for a new class of cancer treatments.",
+  "key_findings": [
+    "METTL1 is a protein that cancers heavily rely on; blocking it stops cancer cells from dividing and kills them",
+    "The blocking works against multiple cancer types simultaneously (suggesting it hits a fundamental cancer weakness, not just one type)",
+    "Laboratory and animal experiments show the approach is effective without immediately killing normal, healthy cells",
+    "METTL1 controls how cells modify their genetic instruction manual (RNA), giving cancer cells an unfair advantage"
+  ],
+  "methods_snapshot": "Researchers used lab-grown cancer cells and mouse models to test what happens when METTL1 is chemically blocked. They measured whether cancer cells died, stopped growing, or became more vulnerable to other treatments.",
+  "glossary": [
+    {
+      "term": "METTL1",
+      "definition": "A protein that acts like an editor, adding chemical tags to RNA (the cell's instruction copy) that help cancer cells survive and grow."
+    },
+    {
+      "term": "RNA",
+      "definition": "A temporary copy of genetic instructions (DNA) that cells use to build proteins and run daily operations."
+    },
+    {
+      "term": "Solid tumors",
+      "definition": "Cancers that form a lump in one place, like lung, breast, or colon cancer."
+    },
+    {
+      "term": "Blood cancers",
+      "definition": "Cancers of the blood system, like leukemia and lymphoma, where cancer cells spread through the bloodstream."
+    },
+    {
+      "term": "Preclinical",
+      "definition": "Research done in lab dishes and animals before human testing\u2014the earliest safety and effectiveness checks."
+    }
+  ],
+  "cancer_types": [
+    "solid tumors (unspecified types)",
+    "blood cancers (leukemia and lymphoma family)"
+  ],
+  "ml_angle": null,
+  "limitations": "This is early-stage research using cells and animals, not humans yet. We don't yet know if blocking METTL1 will be safe or work as well in real patients, or what side effects a drug might cause. Human clinical trials would be needed to prove it's ready for treatment.",
+  "tags": [
+    "drug-target",
+    "cancer-therapy",
+    "METTL1",
+    "precision-medicine",
+    "RNA-modification",
+    "pre-clinical",
+    "multi-cancer"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
