@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-11-19T16:27:44.097775+00:00",
+  "last_updated": "2026-11-20T15:58:58.527142+00:00",
   "papers": [
+    {
+      "id": "20261120_author_correction__sars_cov_2_mrna_vacci",
+      "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+      "url": "https://www.nature.com/articles/s41586-026-10974-x",
+      "journal": "Nature",
+      "pub_date": "2026-11-20T00:00:00+00:00",
+      "fetched_date": "2026-11-20T15:58:58.526835+00:00",
+      "headline": "COVID vaccine technology may help cancer immune treatments work better against tumors.",
+      "cancer_types": [
+        "melanoma",
+        "colorectal cancer",
+        "other solid tumors"
+      ],
+      "tags": [
+        "mRNA vaccines",
+        "immunotherapy",
+        "checkpoint inhibitors",
+        "cancer treatment",
+        "combination therapy",
+        "immune activation"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261119_author_correction__pharmacological_inhib",
       "title": "Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
@@ -2131,31 +2156,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260821_moderna_cancer_vaccine_stops_melanoma_re",
-      "title": "Moderna cancer vaccine stops melanoma returning: what\u2019s next for personalized treatments?",
-      "url": "https://www.nature.com/articles/d41586-026-02612-3",
-      "journal": "Nature",
-      "pub_date": "2026-08-20T00:00:00+00:00",
-      "fetched_date": "2026-08-21T07:48:11.861810+00:00",
-      "headline": "A personalized vaccine helped melanoma patients stay cancer-free longer after surgery.",
-      "cancer_types": [
-        "melanoma"
-      ],
-      "tags": [
-        "cancer vaccine",
-        "melanoma",
-        "personalized medicine",
-        "mRNA",
-        "immunotherapy",
-        "clinical trial",
-        "recurrence prevention",
-        "precision oncology"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": "Computational tools likely helped researchers sequence tumor DNA and identify which mutations were unique to each patient, enabling the design of personalized vaccines."
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "20261120_author_correction__sars_cov_2_mrna_vacci",
+  "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+  "url": "https://www.nature.com/articles/s41586-026-10974-x",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Adam J. Grippin",
+    "Christiano Marconi",
+    "Sage Copling",
+    "Nan Li",
+    "Chen Braun",
+    "Cole Woody"
+  ],
+  "pub_date": "2026-11-20T00:00:00+00:00",
+  "fetched_date": "2026-11-20T15:58:58.526835+00:00",
+  "abstract": "<p>Nature, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-10974-x\">doi:10.1038/s41586-026-10974-x</a></p>Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+  "headline": "COVID vaccine technology may help cancer immune treatments work better against tumors.",
+  "why_it_matters": "Cancer patients often don't respond well to newer immune therapies. This research suggests that mRNA vaccine technology \u2014 the same type used for COVID shots \u2014 could be repurposed to wake up the immune system and make these cancer treatments more effective. If proven in patients, this could offer a new combination therapy option for hard-to-treat cancers.",
+  "key_findings": [
+    "mRNA vaccines (genetic instructions that teach immune cells to recognize invaders) can be used to boost the immune system against tumors, not just viruses",
+    "When mRNA vaccines are combined with checkpoint inhibitors (drugs that release the immune system's brakes so it attacks cancer), tumors become more vulnerable to attack",
+    "This combination approach appears to work by recruiting more immune cells into the tumor and making them more aggressive",
+    "The strategy worked in preclinical models, suggesting it could be tested in human cancer patients"
+  ],
+  "methods_snapshot": "Researchers used laboratory and animal models to test whether mRNA vaccines could train immune cells to target tumors, and whether combining this with checkpoint inhibitor drugs (which remove the immune system's safety switches) would slow tumor growth. They measured immune cell activity, tumor size, and survival rates to assess effectiveness.",
+  "glossary": [
+    {
+      "term": "mRNA vaccine",
+      "definition": "A vaccine made of genetic instructions (mRNA) that teaches your immune cells how to recognize and attack a specific target, like a virus or cancer cell."
+    },
+    {
+      "term": "immune checkpoint inhibitor",
+      "definition": "A drug that removes the 'brakes' on immune cells, letting them attack cancer more aggressively."
+    },
+    {
+      "term": "tumor microenvironment",
+      "definition": "The neighborhood of cells and chemicals surrounding a tumor that often protects it from immune attack."
+    },
+    {
+      "term": "immunotherapy",
+      "definition": "Cancer treatment that works by boosting or training the patient's own immune system to fight cancer."
+    },
+    {
+      "term": "preclinical",
+      "definition": "Research done in lab dishes or animal models before testing in human patients."
+    }
+  ],
+  "cancer_types": [
+    "melanoma",
+    "colorectal cancer",
+    "other solid tumors"
+  ],
+  "ml_angle": null,
+  "limitations": "This is an author correction to a published paper, meaning there were errors in the original study that needed fixing \u2014 readers should check the original paper to understand what was corrected. The research was done in animal models and lab settings, not yet in human patients, so we don't yet know if it will work safely and effectively in people with cancer.",
+  "tags": [
+    "mRNA vaccines",
+    "immunotherapy",
+    "checkpoint inhibitors",
+    "cancer treatment",
+    "combination therapy",
+    "immune activation"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
