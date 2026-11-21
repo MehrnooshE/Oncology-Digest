@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-11-20T15:58:58.527142+00:00",
+  "last_updated": "2026-11-21T15:12:14.707506+00:00",
   "papers": [
+    {
+      "id": "20261121_concerns_about_use_of_placebo_control_in",
+      "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab \u03b2 for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "url": "https://www.nature.com/articles/s41591-026-04781-0",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-11-20T00:00:00+00:00",
+      "fetched_date": "2026-11-21T15:12:14.707218+00:00",
+      "headline": "Researchers question whether placebo trials are ethical for a rare neurological disease.",
+      "cancer_types": [],
+      "tags": [
+        "clinical trial ethics",
+        "placebo control",
+        "neuromyelitis optica",
+        "rare disease",
+        "immunotherapy",
+        "research design"
+      ],
+      "study_type": "review",
+      "impact_score": 3,
+      "ml_angle": null
+    },
     {
       "id": "20261120_author_correction__sars_cov_2_mrna_vacci",
       "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
@@ -2128,30 +2149,6 @@
         "tumor immunity",
         "drug resistance",
         "precision oncology"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260822_alcohol_reshapes_liver_zonal_plasticity_",
-      "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
-      "url": "https://www.nature.com/articles/s41467-026-77089-9",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-22T00:00:00+00:00",
-      "fetched_date": "2026-08-22T07:35:59.073545+00:00",
-      "headline": "Alcohol changes how liver cells organize and respond to cancer-fighting drugs.",
-      "cancer_types": [
-        "hepatocellular carcinoma"
-      ],
-      "tags": [
-        "liver cancer",
-        "alcohol",
-        "obesity",
-        "immunotherapy",
-        "metabolic disease",
-        "cellular plasticity",
-        "single-cell analysis"
       ],
       "study_type": "preclinical",
       "impact_score": 4,
