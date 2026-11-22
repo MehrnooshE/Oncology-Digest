@@ -1,0 +1,65 @@
+{
+  "id": "20261122_reply_to__concerns_about_use_of_placebo_",
+  "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab \u03b2 for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+  "url": "https://www.nature.com/articles/s41591-026-04782-z",
+  "journal": "Nature Medicine",
+  "journal_group": "Nature",
+  "authors": [
+    "Dehui Huang",
+    "Lei Wu",
+    "Feng Li",
+    "Junbin Chen",
+    "Min Wei"
+  ],
+  "pub_date": "2026-11-20T00:00:00+00:00",
+  "fetched_date": "2026-11-22T15:09:36.814529+00:00",
+  "abstract": "<p>Nature Medicine, Published online: 20 November 2026; <a href=\"https://www.nature.com/articles/s41591-026-04782-z\">doi:10.1038/s41591-026-04782-z</a></p>Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab \u03b2 for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+  "headline": "Researchers defend using placebo in trials testing a new treatment for a rare neurological disease.",
+  "why_it_matters": "This isn't about cancer\u2014it's about a rare autoimmune disease called neuromyelitis optica spectrum disorder (NMOSD) that attacks the nervous system. The debate here matters because it shows how scientists balance giving patients hope with getting reliable evidence that a treatment actually works. These same ethical questions come up in cancer research too.",
+  "key_findings": [
+    "The authors respond to critics who worried that using placebo (fake treatment) in trials was unfair to patients with NMOSD, a serious neurological condition",
+    "They argue that placebo-controlled trials are necessary to prove that Obinutuzumab \u03b2 actually works, not just that patients feel better",
+    "The researchers emphasize that ethical oversight boards approved the trial design, meaning independent experts judged it acceptable",
+    "They note that some patients in the study could switch to active treatment if they worsened, protecting participant safety"
+  ],
+  "methods_snapshot": "This is a response paper defending the design of a clinical trial (a study testing a new drug in real patients). The authors explain their reasoning for why they compared Obinutuzumab \u03b2 against placebo rather than against existing treatments.",
+  "glossary": [
+    {
+      "term": "Neuromyelitis optica spectrum disorder (NMOSD)",
+      "definition": "A rare autoimmune disease where the immune system mistakenly attacks the protective coating around nerve cells in the brain and spinal cord, causing vision loss and paralysis."
+    },
+    {
+      "term": "Aquaporin-4 antibody positive",
+      "definition": "A marker in blood tests showing that a patient's immune system is producing antibodies (attack proteins) that target aquaporin-4, a protein found in nerve cells."
+    },
+    {
+      "term": "Obinutuzumab \u03b2",
+      "definition": "An experimental monoclonal antibody drug designed to calm down overactive immune cells in patients with NMOSD."
+    },
+    {
+      "term": "Placebo control",
+      "definition": "A trial design where some patients get the real drug while others get a fake treatment (placebo) so researchers can see if the drug works better than doing nothing."
+    },
+    {
+      "term": "Clinical trial",
+      "definition": "A research study that tests a new medical treatment in human volunteers to see if it is safe and effective."
+    },
+    {
+      "term": "Monoclonal antibody",
+      "definition": "A laboratory-made protein designed to target and neutralize specific disease-causing cells or proteins in the body."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is a response paper defending a trial design, not new experimental data. The authors don't present fresh results, so readers cannot independently evaluate whether the trial itself succeeded or failed.",
+  "tags": [
+    "clinical-trial-ethics",
+    "placebo-control",
+    "autoimmune-disease",
+    "neuromyelitis-optica",
+    "immunotherapy",
+    "patient-safety"
+  ],
+  "study_type": "review",
+  "impact_score": 2
+}

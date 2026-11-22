@@ -1,6 +1,27 @@
 {
-  "last_updated": "2026-11-21T15:12:14.707506+00:00",
+  "last_updated": "2026-11-22T15:09:36.814800+00:00",
   "papers": [
+    {
+      "id": "20261122_reply_to__concerns_about_use_of_placebo_",
+      "title": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab \u03b2 for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "url": "https://www.nature.com/articles/s41591-026-04782-z",
+      "journal": "Nature Medicine",
+      "pub_date": "2026-11-20T00:00:00+00:00",
+      "fetched_date": "2026-11-22T15:09:36.814529+00:00",
+      "headline": "Researchers defend using placebo in trials testing a new treatment for a rare neurological disease.",
+      "cancer_types": [],
+      "tags": [
+        "clinical-trial-ethics",
+        "placebo-control",
+        "autoimmune-disease",
+        "neuromyelitis-optica",
+        "immunotherapy",
+        "patient-safety"
+      ],
+      "study_type": "review",
+      "impact_score": 2,
+      "ml_angle": null
+    },
     {
       "id": "20261121_concerns_about_use_of_placebo_control_in",
       "title": "Concerns about use of placebo control in clinical trials of Obinutuzumab \u03b2 for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
@@ -2128,31 +2149,6 @@
       "study_type": "review",
       "impact_score": 4,
       "ml_angle": "The aging clocks themselves are machine learning models trained to recognize patterns in DNA chemical modifications that correlate with age and aging rate."
-    },
-    {
-      "id": "20260823_xpo1_mediated_trim21_nuclear_export_repr",
-      "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
-      "url": "https://www.nature.com/articles/s41467-026-76862-0",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-22T00:00:00+00:00",
-      "fetched_date": "2026-08-23T07:37:42.344053+00:00",
-      "headline": "Blocking a protein export pathway helps immune cells fight lung cancer and respond better to immunotherapy.",
-      "cancer_types": [
-        "Small cell lung cancer (SCLC)"
-      ],
-      "tags": [
-        "immunotherapy",
-        "macrophages",
-        "lung cancer",
-        "protein trafficking",
-        "checkpoint inhibitor",
-        "tumor immunity",
-        "drug resistance",
-        "precision oncology"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }
