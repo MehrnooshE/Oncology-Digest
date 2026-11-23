@@ -1,0 +1,50 @@
+{
+  "id": "20261123_ayanna_howard_thinks__everyone_has_to_be",
+  "title": "Ayanna Howard thinks \u2018everyone has to be part of\u2019 building ethical AI tools",
+  "url": "https://www.nature.com/articles/d41586-026-03721-9",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Katherine Skipper"
+  ],
+  "pub_date": "2026-11-23T00:00:00+00:00",
+  "fetched_date": "2026-11-23T19:06:45.899465+00:00",
+  "abstract": "<p>Nature, Published online: 23 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03721-9\">doi:10.1038/d41586-026-03721-9</a></p>The researcher and educator explains why she\u2019s optimistic about the future of work and what individuals can do to thrive alongside artificial intelligence.",
+  "headline": "Expert says everyone must help design AI tools that are fair and trustworthy.",
+  "why_it_matters": "As artificial intelligence (AI) becomes more common in medicine \u2014 including cancer diagnosis and treatment \u2014 we need to make sure these tools work fairly for all patients, regardless of background. When AI systems are built without diverse input, they can accidentally discriminate against certain groups. This interview highlights why patients, doctors, and everyday people should have a voice in how medical AI gets created.",
+  "key_findings": [
+    "Building ethical AI requires input from many different people, not just computer scientists (ethical AI means systems designed to be fair, transparent, and respectful of human values)",
+    "Individuals can contribute to better AI tools even without technical skills \u2014 by asking critical questions and demanding transparency",
+    "Workers should not fear AI replacing them, but instead focus on skills that complement AI, like creativity and human judgment",
+    "Optimism about AI's future depends on proactive efforts to address bias and fairness from the start of development"
+  ],
+  "methods_snapshot": "This is not a research study with experiments. Instead, it's an interview-based article where Nature asked Ayanna Howard \u2014 a leading researcher in ethical AI and robotics \u2014 to share her perspectives on AI's role in society and work.",
+  "glossary": [
+    {
+      "term": "Ethical AI",
+      "definition": "Artificial intelligence systems designed to be fair, transparent, and aligned with human values and rights."
+    },
+    {
+      "term": "Bias in AI",
+      "definition": "When an AI system makes unfair decisions because it was trained on data that favors certain groups over others."
+    },
+    {
+      "term": "AI transparency",
+      "definition": "The ability to understand and explain why an AI system made a particular decision \u2014 the opposite of a 'black box.'"
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is an opinion and perspective piece, not a research study with data, so it reflects one expert's viewpoint rather than experimental evidence. The ideas presented are valuable for guiding future work but would need rigorous testing in real-world medical settings.",
+  "tags": [
+    "ethical AI",
+    "medical AI",
+    "fairness",
+    "bias in medicine",
+    "AI transparency",
+    "workforce",
+    "healthcare technology"
+  ],
+  "study_type": "review",
+  "impact_score": 3
+}
