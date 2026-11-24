@@ -1,0 +1,63 @@
+{
+  "id": "20261124_author_correction__synthetic_super_enhan",
+  "title": "Author Correction: Synthetic super-enhancers enable precision viral immunotherapy",
+  "url": "https://www.nature.com/articles/s41586-026-11474-8",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Ute Koeber",
+    "Mantas Matjusaitis",
+    "Neza Alfazema",
+    "Katharine Furlong",
+    "Zeyu Wang",
+    "Rachel White"
+  ],
+  "pub_date": "2026-11-24T00:00:00+00:00",
+  "fetched_date": "2026-11-24T18:45:20.365119+00:00",
+  "abstract": "<p>Nature, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11474-8\">doi:10.1038/s41586-026-11474-8</a></p>Author Correction: Synthetic super-enhancers enable precision viral immunotherapy",
+  "headline": "Scientists designed custom genetic switches to make viruses better cancer-fighting weapons.",
+  "why_it_matters": "This approach could make viral cancer therapies more precise and powerful\u2014directing immune cells to attack tumors while sparing healthy tissue. If it works in patients, it might offer a new option for cancers that don't respond well to current treatments.",
+  "key_findings": [
+    "Researchers created synthetic super-enhancers (artificial DNA control regions that act like volume knobs for genes) to boost specific immune genes in viruses used to fight cancer",
+    "These engineered genetic switches allow doctors to turn genes on or off in precise locations, making the viral therapy more targeted and potentially safer",
+    "The synthetic super-enhancers can be customized for different types of cancer, offering a personalized approach to viral immunotherapy",
+    "This technique combines synthetic biology (engineering living systems) with oncolytic viruses (viruses that naturally attack cancer cells)"
+  ],
+  "methods_snapshot": "The team designed and tested artificial DNA sequences that control gene activity more precisely than natural versions. They incorporated these synthetic super-enhancers into cancer-fighting viruses to test whether they could improve therapeutic effects in research settings.",
+  "glossary": [
+    {
+      "term": "Super-enhancer",
+      "definition": "A stretch of DNA that acts as a master control switch, turning genes up to high volume\u2014like a dimmer switch set to maximum brightness."
+    },
+    {
+      "term": "Synthetic super-enhancer",
+      "definition": "A human-made version of a gene control switch, engineered to be more precise and controllable than natural ones."
+    },
+    {
+      "term": "Oncolytic virus",
+      "definition": "A virus that has been selected or engineered to infect and kill cancer cells while leaving normal cells relatively unharmed."
+    },
+    {
+      "term": "Immunotherapy",
+      "definition": "Medical treatment that works by helping the body's own immune system fight disease more effectively."
+    },
+    {
+      "term": "Gene expression",
+      "definition": "The process by which instructions in DNA are converted into proteins that do work in cells."
+    }
+  ],
+  "cancer_types": [],
+  "ml_angle": null,
+  "limitations": "This is an author correction to a published paper, meaning it addresses errors or clarifications in the original work\u2014the actual scope and limitations of the original study are not fully detailed here. Translation from laboratory research to actual patient treatments typically takes many years and requires clinical trials.",
+  "tags": [
+    "viral-immunotherapy",
+    "synthetic-biology",
+    "gene-therapy",
+    "personalized-medicine",
+    "super-enhancers",
+    "cancer-treatment",
+    "precision-oncology"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-11-23T19:06:45.899789+00:00",
+  "last_updated": "2026-11-24T18:45:20.365393+00:00",
   "papers": [
+    {
+      "id": "20261124_author_correction__synthetic_super_enhan",
+      "title": "Author Correction: Synthetic super-enhancers enable precision viral immunotherapy",
+      "url": "https://www.nature.com/articles/s41586-026-11474-8",
+      "journal": "Nature",
+      "pub_date": "2026-11-24T00:00:00+00:00",
+      "fetched_date": "2026-11-24T18:45:20.365119+00:00",
+      "headline": "Scientists designed custom genetic switches to make viruses better cancer-fighting weapons.",
+      "cancer_types": [],
+      "tags": [
+        "viral-immunotherapy",
+        "synthetic-biology",
+        "gene-therapy",
+        "personalized-medicine",
+        "super-enhancers",
+        "cancer-treatment",
+        "precision-oncology"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261123_ayanna_howard_thinks__everyone_has_to_be",
       "title": "Ayanna Howard thinks \u2018everyone has to be part of\u2019 building ethical AI tools",
@@ -2127,27 +2149,6 @@
       ],
       "study_type": "preclinical",
       "impact_score": 4,
-      "ml_angle": null
-    },
-    {
-      "id": "20260825_redox_stratified_macromolecule_degradati",
-      "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
-      "url": "https://www.nature.com/articles/s41467-026-77249-x",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-25T00:00:00+00:00",
-      "fetched_date": "2026-08-25T07:49:04.927164+00:00",
-      "headline": "Deep-ocean microbes survive starvation by switching how they burn fuel.",
-      "cancer_types": [],
-      "tags": [
-        "deep-sea microbiology",
-        "extremophiles",
-        "metabolic adaptation",
-        "nutrient cycling",
-        "ocean sediments",
-        "microbial resilience"
-      ],
-      "study_type": "multi-omics",
-      "impact_score": 3,
       "ml_angle": null
     }
   ]
