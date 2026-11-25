@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-11-24T18:45:20.365393+00:00",
+  "last_updated": "2026-11-25T17:53:02.415971+00:00",
   "papers": [
+    {
+      "id": "20261125_how_arteries_keep_their_shape_in_the_fac",
+      "title": "How arteries keep their shape in the face of overgrowth-inducing mutations",
+      "url": "https://www.nature.com/articles/d41586-026-03491-4",
+      "journal": "Nature",
+      "pub_date": "2026-11-25T00:00:00+00:00",
+      "fetched_date": "2026-11-25T17:53:02.415708+00:00",
+      "headline": "Cancer mutations affect blood vessel types differently because of cell maturity differences.",
+      "cancer_types": [
+        "general tumor biology",
+        "not specific to one cancer type"
+      ],
+      "tags": [
+        "blood vessels",
+        "cancer mutations",
+        "cell maturity",
+        "tumor growth",
+        "angiogenesis",
+        "arteries",
+        "vascular biology",
+        "cancer resistance"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261124_author_correction__synthetic_super_enhan",
       "title": "Author Correction: Synthetic super-enhancers enable precision viral immunotherapy",
@@ -2127,29 +2153,6 @@
       "study_type": "computational",
       "impact_score": 3,
       "ml_angle": "CarNet is an artificial neural network that learns mathematical patterns in how atoms behave, allowing it to predict material properties for any new molecule without being explicitly programmed for each type."
-    },
-    {
-      "id": "20260826_methylation_mesa_define_functional_regul",
-      "title": "Methylation Mesa define functional regulatory elements for targeted gene activation",
-      "url": "https://www.nature.com/articles/s41467-026-76648-4",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-26T00:00:00+00:00",
-      "fetched_date": "2026-08-26T07:50:59.373970+00:00",
-      "headline": "Scientists find genetic 'switches' that control tumor-suppressing genes and learn how to turn them on.",
-      "cancer_types": [
-        "Not specified \u2014 study appears to use general cancer cell models"
-      ],
-      "tags": [
-        "epigenetics",
-        "DNA methylation",
-        "gene regulation",
-        "tumor suppression",
-        "therapeutic targets",
-        "chromatin"
-      ],
-      "study_type": "preclinical",
-      "impact_score": 4,
-      "ml_angle": null
     }
   ]
 }

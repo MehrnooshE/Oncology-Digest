@@ -1,0 +1,63 @@
+{
+  "id": "20261125_how_arteries_keep_their_shape_in_the_fac",
+  "title": "How arteries keep their shape in the face of overgrowth-inducing mutations",
+  "url": "https://www.nature.com/articles/d41586-026-03491-4",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [
+    "Tim Petzold",
+    "Holger Gerhardt"
+  ],
+  "pub_date": "2026-11-25T00:00:00+00:00",
+  "fetched_date": "2026-11-25T17:53:02.415708+00:00",
+  "abstract": "<p>Nature, Published online: 25 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03491-4\">doi:10.1038/d41586-026-03491-4</a></p>Why do cancer-associated mutations cause some blood vessels to develop abnormally, but not arteries? The answer lies in the identity and maturity of the affected cells.",
+  "headline": "Cancer mutations affect blood vessel types differently because of cell maturity differences.",
+  "why_it_matters": "Understanding why arteries resist cancer-causing mutations while other blood vessels don't could help scientists design better treatments to prevent abnormal blood vessel growth in tumors. Tumors need new blood vessels to grow, so blocking this process is a key cancer-fighting strategy.",
+  "key_findings": [
+    "Arteries stay structurally normal even when exposed to cancer-causing mutations (genetic changes that make cells grow abnormally), while other smaller blood vessels often become deformed and leaky.",
+    "The difference comes down to cell maturity: arterial cells have already finished developing and are more resistant to these mutations' effects, like how a fully grown tree is sturdier than a young sapling.",
+    "Immature blood vessel cells are more susceptible to cancer mutations because they're still in a 'plastic' state and responding to growth signals that the mutations amplify.",
+    "The cell's identity \u2014 what type of blood vessel cell it is \u2014 also matters: cells that form artery walls have different protective properties than cells that form capillaries (tiny vessels)."
+  ],
+  "methods_snapshot": "Researchers studied blood vessel cells from mice and human tissues, exposing them to cancer-causing mutations and observing which cells changed shape or function. They used microscopy and genetic analysis to track how mature versus immature cells responded differently to these mutations.",
+  "glossary": [
+    {
+      "term": "Cancer-associated mutations",
+      "definition": "Genetic changes that can trigger cells to grow uncontrollably, often found in cancer cells and in blood vessels feeding tumors."
+    },
+    {
+      "term": "Arteries",
+      "definition": "Large, thick-walled blood vessels that carry oxygen-rich blood away from the heart and are more structurally robust than smaller vessels."
+    },
+    {
+      "term": "Capillaries",
+      "definition": "Tiny, delicate blood vessels where oxygen and nutrients pass into body tissues; much more fragile than arteries."
+    },
+    {
+      "term": "Cell maturity",
+      "definition": "How far along a cell is in its development; mature cells are fully formed and stable, while immature cells are still changing and developing."
+    },
+    {
+      "term": "Endothelial cells",
+      "definition": "The cells that line the inside of blood vessels and act as a barrier between blood and surrounding tissues."
+    }
+  ],
+  "cancer_types": [
+    "general tumor biology",
+    "not specific to one cancer type"
+  ],
+  "ml_angle": null,
+  "limitations": "This study primarily used cell cultures and animal models, so results may not fully translate to human tumors in living patients. The research focuses on genetic mutations in blood vessel cells themselves, not on how cancer cells interact with them in complex tumor environments.",
+  "tags": [
+    "blood vessels",
+    "cancer mutations",
+    "cell maturity",
+    "tumor growth",
+    "angiogenesis",
+    "arteries",
+    "vascular biology",
+    "cancer resistance"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
