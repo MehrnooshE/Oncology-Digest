@@ -1,6 +1,31 @@
 {
-  "last_updated": "2026-11-25T17:53:02.415971+00:00",
+  "last_updated": "2026-11-26T17:38:06.293215+00:00",
   "papers": [
+    {
+      "id": "20261126_choline_kinase___promotes_glycolysis_and",
+      "title": "Choline kinase \u03b1 promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
+      "url": "https://www.nature.com/articles/s41467-026-79752-7",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-26T00:00:00+00:00",
+      "fetched_date": "2026-11-26T17:38:06.292918+00:00",
+      "headline": "A cancer-fueling protein pair discovered that could become a new treatment target.",
+      "cancer_types": [
+        "glioblastoma"
+      ],
+      "tags": [
+        "glycolysis",
+        "choline-kinase",
+        "enolase",
+        "glioblastoma",
+        "metabolism",
+        "drug-target",
+        "phosphorylation",
+        "brain-cancer"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261125_how_arteries_keep_their_shape_in_the_fac",
       "title": "How arteries keep their shape in the face of overgrowth-inducing mutations",
@@ -2132,27 +2157,6 @@
       "study_type": "review",
       "impact_score": 3,
       "ml_angle": null
-    },
-    {
-      "id": "20260827_atomistic_machine_learning_with_irreduci",
-      "title": "Atomistic machine learning with irreducible Cartesian natural tensors",
-      "url": "https://www.nature.com/articles/s41467-026-77263-z",
-      "journal": "Nature Communications",
-      "pub_date": "2026-08-27T00:00:00+00:00",
-      "fetched_date": "2026-08-27T18:10:46.120667+00:00",
-      "headline": "New AI learns to predict how atoms behave in materials with record accuracy.",
-      "cancer_types": [],
-      "tags": [
-        "machine learning",
-        "materials science",
-        "computational chemistry",
-        "AI",
-        "molecular prediction",
-        "neural networks"
-      ],
-      "study_type": "computational",
-      "impact_score": 3,
-      "ml_angle": "CarNet is an artificial neural network that learns mathematical patterns in how atoms behave, allowing it to predict material properties for any new molecule without being explicitly programmed for each type."
     }
   ]
 }

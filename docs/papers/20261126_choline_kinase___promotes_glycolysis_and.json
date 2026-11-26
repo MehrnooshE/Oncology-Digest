@@ -1,0 +1,66 @@
+{
+  "id": "20261126_choline_kinase___promotes_glycolysis_and",
+  "title": "Choline kinase \u03b1 promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
+  "url": "https://www.nature.com/articles/s41467-026-79752-7",
+  "journal": "Nature Communications",
+  "journal_group": "Nature",
+  "authors": [
+    "Qingxia Ma",
+    "Qianqian Xu",
+    "Xuan Xia",
+    "Rongxuan Zhu",
+    "Gaoxiang Zhao",
+    "Heng Zhang"
+  ],
+  "pub_date": "2026-11-26T00:00:00+00:00",
+  "fetched_date": "2026-11-26T17:38:06.292918+00:00",
+  "abstract": "<p>Nature Communications, Published online: 26 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79752-7\">doi:10.1038/s41467-026-79752-7</a></p>Tumor cells rely on increased glycolysis for growth. Here, authors show that choline kinase \u03b1 activates enolase 1 through phosphorylation, promoting glycolysis and tumor progression in glioblastoma.",
+  "headline": "A cancer-fueling protein pair discovered that could become a new treatment target.",
+  "why_it_matters": "Cancer cells have a unique weakness: they burn through glucose (sugar) much faster than normal cells to fuel rapid growth. This study identifies a specific molecular switch that controls this process in brain tumors, potentially opening a new door for drugs that could starve cancer cells while sparing healthy ones.",
+  "key_findings": [
+    "Choline kinase \u03b1 (a protein that helps cancer cells process nutrients) activates enolase 1 (another protein that breaks down glucose for energy) by tagging it with a phosphate group (a chemical marker).",
+    "This activation supercharges glycolysis (the cellular process that breaks down sugar into usable energy), allowing cancer cells to grow faster.",
+    "Blocking this interaction slowed tumor growth in glioblastoma (a highly aggressive brain cancer) in laboratory models.",
+    "The choline kinase \u03b1\u2013enolase 1 partnership appears to be a critical hub linking nutrient uptake to cancer cell division."
+  ],
+  "methods_snapshot": "Researchers used cultured cancer cells and mouse tumor models to test whether choline kinase \u03b1 directly modifies enolase 1 and whether this modification drives glycolysis. They employed biochemical techniques to confirm the phosphorylation (chemical tagging) and monitored tumor growth when this interaction was disrupted.",
+  "glossary": [
+    {
+      "term": "Glycolysis",
+      "definition": "The metabolic pathway where cells break down glucose (sugar) into smaller molecules to produce energy."
+    },
+    {
+      "term": "Choline kinase \u03b1",
+      "definition": "An enzyme (cellular worker protein) that tags other proteins with phosphate groups, often overactive in cancer."
+    },
+    {
+      "term": "Enolase 1",
+      "definition": "A key enzyme that catalyzes a critical step in glycolysis, converting one molecule into another to release energy."
+    },
+    {
+      "term": "Phosphorylation",
+      "definition": "Adding a phosphate chemical tag to a protein, which often switches on or amplifies its function."
+    },
+    {
+      "term": "Glioblastoma",
+      "definition": "The most aggressive type of brain tumor, with very poor prognosis despite current treatments."
+    }
+  ],
+  "cancer_types": [
+    "glioblastoma"
+  ],
+  "ml_angle": null,
+  "limitations": "The study was performed in cells and animals in the laboratory, not yet in patients. It remains unclear whether blocking this pathway would be safe in humans or effective enough to translate into a viable therapy.",
+  "tags": [
+    "glycolysis",
+    "choline-kinase",
+    "enolase",
+    "glioblastoma",
+    "metabolism",
+    "drug-target",
+    "phosphorylation",
+    "brain-cancer"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}
