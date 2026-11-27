@@ -1,0 +1,62 @@
+{
+  "id": "20261127_life_saving_cancer_drug_pumped_out_by_a_",
+  "title": "Life-saving cancer drug pumped out by a plant",
+  "url": "https://www.nature.com/articles/d41586-026-03801-w",
+  "journal": "Nature",
+  "journal_group": "Nature",
+  "authors": [],
+  "pub_date": "2026-11-27T00:00:00+00:00",
+  "fetched_date": "2026-11-27T17:20:48.192459+00:00",
+  "abstract": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03801-w\">doi:10.1038/d41586-026-03801-w</a></p>In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+  "headline": "Scientists grew a plant that makes a powerful cancer-fighting drug.",
+  "why_it_matters": "Paclitaxel is a chemotherapy drug that fights several cancers, but it's hard and expensive to make. If plants can produce it cheaply, more patients worldwide could afford this life-saving treatment. This could also reduce harm to endangered trees that naturally contain the drug.",
+  "key_findings": [
+    "Researchers genetically modified a tobacco-related plant to produce paclitaxel (a drug that stops cancer cells from dividing by interfering with their internal skeleton)",
+    "The plant successfully synthesized and accumulated the drug in its tissues, proving the concept works in living organisms",
+    "This 'plant factory' approach could become cheaper than current manufacturing methods, which involve complex chemical synthesis or extraction from rare tree bark",
+    "The achievement opens the door to producing other expensive plant-derived medicines using the same technique"
+  ],
+  "methods_snapshot": "Scientists inserted genes into a plant that code for the enzymes (protein machines) needed to build paclitaxel step-by-step. They then grew the modified plants and tested whether the drug actually accumulated in the leaves and stems.",
+  "glossary": [
+    {
+      "term": "paclitaxel",
+      "definition": "A chemotherapy drug originally extracted from Pacific yew tree bark that works by freezing the internal structures cancer cells need to divide."
+    },
+    {
+      "term": "chemotherapy",
+      "definition": "Cancer treatment using drugs that poison or slow the growth of cancer cells."
+    },
+    {
+      "term": "genetic modification",
+      "definition": "Adding or changing genes in an organism's DNA to give it new abilities or traits."
+    },
+    {
+      "term": "enzymes",
+      "definition": "Protein machines inside cells that speed up chemical reactions needed to build or break down molecules."
+    },
+    {
+      "term": "synthesize",
+      "definition": "To build or manufacture a chemical compound, usually from simpler ingredients."
+    }
+  ],
+  "cancer_types": [
+    "breast cancer",
+    "ovarian cancer",
+    "lung cancer",
+    "prostate cancer",
+    "Kaposi sarcoma"
+  ],
+  "ml_angle": null,
+  "limitations": "This is early proof-of-concept work in plants, not yet tested in human patients. Scaling this to produce drug-grade paclitaxel at commercial quantities will require significant engineering and regulatory approval before it reaches hospitals.",
+  "tags": [
+    "drug manufacturing",
+    "synthetic biology",
+    "cancer treatment",
+    "paclitaxel",
+    "plant biotechnology",
+    "cost reduction",
+    "precision medicine"
+  ],
+  "study_type": "preclinical",
+  "impact_score": 4
+}

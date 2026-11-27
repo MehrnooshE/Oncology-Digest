@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-26T17:38:06.293215+00:00",
+  "last_updated": "2026-11-27T17:20:48.192775+00:00",
   "papers": [
+    {
+      "id": "20261127_life_saving_cancer_drug_pumped_out_by_a_",
+      "title": "Life-saving cancer drug pumped out by a plant",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w",
+      "journal": "Nature",
+      "pub_date": "2026-11-27T00:00:00+00:00",
+      "fetched_date": "2026-11-27T17:20:48.192459+00:00",
+      "headline": "Scientists grew a plant that makes a powerful cancer-fighting drug.",
+      "cancer_types": [
+        "breast cancer",
+        "ovarian cancer",
+        "lung cancer",
+        "prostate cancer",
+        "Kaposi sarcoma"
+      ],
+      "tags": [
+        "drug manufacturing",
+        "synthetic biology",
+        "cancer treatment",
+        "paclitaxel",
+        "plant biotechnology",
+        "cost reduction",
+        "precision medicine"
+      ],
+      "study_type": "preclinical",
+      "impact_score": 4,
+      "ml_angle": null
+    },
     {
       "id": "20261126_choline_kinase___promotes_glycolysis_and",
       "title": "Choline kinase \u03b1 promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
@@ -2133,30 +2161,6 @@
       "study_type": "clinical trial",
       "impact_score": 4,
       "ml_angle": "Machine learning algorithms likely helped identify tumor mutations and predict which mutations would trigger the strongest immune response, allowing researchers to design more effective personalized vaccines."
-    },
-    {
-      "id": "20260828_briefing_chat__how_dolly_parton_left_her",
-      "title": "Briefing Chat: How Dolly Parton left her mark on science",
-      "url": "https://www.nature.com/articles/d41586-026-02732-w",
-      "journal": "Nature",
-      "pub_date": "2026-08-28T00:00:00+00:00",
-      "fetched_date": "2026-08-28T19:20:59.085308+00:00",
-      "headline": "Dolly Parton's vaccine advocacy sparks interest in mRNA cancer treatment breakthroughs.",
-      "cancer_types": [
-        "not specifically detailed in abstract"
-      ],
-      "tags": [
-        "mRNA therapy",
-        "cancer immunotherapy",
-        "clinical trials",
-        "vaccine advocacy",
-        "personalized medicine",
-        "immune system",
-        "public health"
-      ],
-      "study_type": "review",
-      "impact_score": 3,
-      "ml_angle": null
     }
   ]
 }
