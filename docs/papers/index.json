@@ -1,6 +1,29 @@
 {
-  "last_updated": "2026-11-27T17:20:48.192775+00:00",
+  "last_updated": "2026-11-28T16:03:27.182021+00:00",
   "papers": [
+    {
+      "id": "20261128_egmof__efficient_generation_of_metal_org",
+      "title": "EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture",
+      "url": "https://www.nature.com/articles/s41467-026-79640-0",
+      "journal": "Nature Communications",
+      "pub_date": "2026-11-28T00:00:00+00:00",
+      "fetched_date": "2026-11-28T16:03:27.181720+00:00",
+      "headline": "AI learns to design porous molecular cages that trap specific chemicals.",
+      "cancer_types": [],
+      "tags": [
+        "AI-design",
+        "drug-delivery",
+        "materials-science",
+        "porous-structures",
+        "personalized-medicine",
+        "computational-chemistry",
+        "generative-AI",
+        "efficiency"
+      ],
+      "study_type": "computational",
+      "impact_score": 3,
+      "ml_angle": "The AI system learns to design molecular structures by first predicting simplified chemical 'blueprints' and then building complete frameworks from those blueprints, using far fewer examples than traditional machine learning requires."
+    },
     {
       "id": "20261127_life_saving_cancer_drug_pumped_out_by_a_",
       "title": "Life-saving cancer drug pumped out by a plant",
@@ -2135,32 +2158,6 @@
       "study_type": "preclinical",
       "impact_score": 4,
       "ml_angle": null
-    },
-    {
-      "id": "20260829_the_moderna_cancer_vaccine_offers_hope__",
-      "title": "The Moderna cancer vaccine offers hope \u2014 now we must speed up personalized therapies",
-      "url": "https://www.nature.com/articles/d41586-026-02680-5",
-      "journal": "Nature",
-      "pub_date": "2026-08-28T00:00:00+00:00",
-      "fetched_date": "2026-08-29T13:05:32.085337+00:00",
-      "headline": "A personalized cancer vaccine shows promise in early human trials.",
-      "cancer_types": [
-        "melanoma",
-        "non-small cell lung cancer"
-      ],
-      "tags": [
-        "cancer vaccine",
-        "personalized medicine",
-        "immunotherapy",
-        "Moderna",
-        "tumor mutations",
-        "clinical trial",
-        "precision oncology",
-        "immune response"
-      ],
-      "study_type": "clinical trial",
-      "impact_score": 4,
-      "ml_angle": "Machine learning algorithms likely helped identify tumor mutations and predict which mutations would trigger the strongest immune response, allowing researchers to design more effective personalized vaccines."
     }
   ]
 }
